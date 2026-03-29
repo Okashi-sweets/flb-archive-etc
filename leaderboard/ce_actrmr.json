@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_actrmr",
+    "group": "ce",
+    "category1": "All Recruits",
+    "category2": "True Reset(Main Route)",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "5j5ympn8",
+        "name": "asalt9snipr9",
+        "time": 11870,
+        "date": "2025-08-04",
+        "video": "https://www.youtube.com/watch?v=itHH8ey9NHU",
+        "banned": false
+      },
+      {
+        "id": "jpyk1o4j",
+        "name": "Devara",
+        "time": 12969,
+        "date": "2025-10-01",
+        "video": "https://youtu.be/iMRZfP_e99Y",
+        "banned": false
+      }
+    ]
+  }
+]

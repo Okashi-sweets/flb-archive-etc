@@ -1,0 +1,67 @@
+[
+  {
+    "name_ideal": "ce_ch2as",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "Aborted Snowgrave",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "8q530mw8",
+        "name": "CrystalSRL",
+        "time": 2755,
+        "date": "2025-08-03",
+        "video": "https://youtu.be/7LF6NXu6hDc",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 2793,
+        "date": "2025-08-04",
+        "video": "https://youtu.be/AGrJvVGA3w0?si=U37ugyoMdiEZGOmK",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 2804,
+        "date": "2025-07-27",
+        "video": "https://youtu.be/7Ke06jSHhjc",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2811,
+        "date": "2025-11-19",
+        "video": "https://www.youtube.com/watch?v=ic1k5nGyG3E",
+        "banned": false
+      },
+      {
+        "id": "8l0l7978",
+        "name": "Frostedness",
+        "time": 3147,
+        "date": "2022-04-14",
+        "video": "https://www.youtube.com/watch?v=z70KEylyaSQ",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 4094,
+        "date": "2024-10-04",
+        "video": "https://youtu.be/jkvoaWaSPXo",
+        "banned": false
+      },
+      {
+        "id": "8ewk6628",
+        "name": "RodrigoGajo",
+        "time": 4470,
+        "date": "2023-08-31",
+        "video": "https://www.youtube.com/watch?v=BykCh3y7Fxw",
+        "banned": false
+      }
+    ]
+  }
+]

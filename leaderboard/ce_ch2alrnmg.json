@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_ch2alrnmg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Lost Recruits",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2074,
+        "date": "2026-01-26",
+        "video": "https://www.youtube.com/watch?v=KreVdQ8NV0A",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 2167,
+        "date": "2025-04-16",
+        "video": "https://youtu.be/aT2U8g1j3YQ",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3599,
+        "date": "2025-07-26",
+        "video": "https://www.twitch.tv/videos/2523261587",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name_ideal": "ce_ch2areg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Recruits Extended",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "xz9o0y08",
+        "name": "MarioMan47",
+        "time": 3145,
+        "date": "2023-08-25",
+        "video": "https://youtu.be/k_5Uw06Kj2Y",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3206,
+        "date": "2022-09-11",
+        "video": "https://youtu.be/Bumy9rGssio",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 3261,
+        "date": "2022-09-17",
+        "video": "https://www.youtube.com/watch?v=zuIrCTgSDFU",
+        "banned": false
+      },
+      {
+        "id": "jm3lvdy8",
+        "name": "keucher",
+        "time": 3292,
+        "date": "2022-09-08",
+        "video": "https://www.twitch.tv/videos/1585754652",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3382,
+        "date": "2024-07-18",
+        "video": "https://www.youtube.com/watch?v=4yZ96F8ywJA",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 3387,
+        "date": "2022-09-12",
+        "video": "https://youtu.be/Y0H9uwBQMgo?si=pQ2aA13KX2b5IMZ4",
+        "banned": false
+      }
+    ]
+  }
+]

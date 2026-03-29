@@ -1,0 +1,34 @@
+[
+  {
+    "name_ideal": "ce_ch3alr",
+    "group": "ce",
+    "category1": "Chapter 3",
+    "category2": "All Lost Recruits",
+    "runs": [
+      {
+        "id": "5j5w0qzj",
+        "name": "cookiepocalypse",
+        "time": 2533,
+        "date": "2025-09-13",
+        "video": "https://youtu.be/TdQQdED7Iis?si=FfYEuOUf6yNLOxcx",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2585,
+        "date": "2025-11-17",
+        "video": "https://www.youtube.com/watch?v=zlu3wXEmYxM",
+        "banned": false
+      },
+      {
+        "id": "jpyk1o4j",
+        "name": "Devara",
+        "time": 3083,
+        "date": "2025-09-12",
+        "video": "https://youtu.be/ZEaBvcU9_2A",
+        "banned": false
+      }
+    ]
+  }
+]

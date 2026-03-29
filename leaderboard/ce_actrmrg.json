@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_actrmrg",
+    "group": "ce",
+    "category1": "All Recruits",
+    "category2": "True Reset(Main Route)",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x33mooex",
+        "name": "koveto",
+        "time": 13038,
+        "date": "2025-08-21",
+        "video": "https://www.twitch.tv/videos/2546484238",
+        "banned": false
+      },
+      {
+        "id": "5j5ympn8",
+        "name": "asalt9snipr9",
+        "time": 13933,
+        "date": "2025-08-16",
+        "video": "https://www.youtube.com/watch?v=E4or4cTxbdQ",
+        "banned": false
+      },
+      {
+        "id": "8663mn38",
+        "name": "CryptOwl",
+        "time": 15267,
+        "date": "2025-08-14",
+        "video": "https://youtu.be/cZBokvpO06I?si=XV0nvtU-qXOZbJ_Q",
+        "banned": false
+      }
+    ]
+  }
+]

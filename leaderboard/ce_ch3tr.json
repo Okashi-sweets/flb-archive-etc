@@ -1,0 +1,66 @@
+[
+  {
+    "name_ideal": "ce_ch3tr",
+    "group": "ce",
+    "category1": "Chapter 3",
+    "category2": "True Reset",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2780,
+        "date": "2025-11-15",
+        "video": "https://www.youtube.com/watch?v=_XlvpOXLKOM",
+        "banned": false
+      },
+      {
+        "id": "5j5w0qzj",
+        "name": "cookiepocalypse",
+        "time": 2795,
+        "date": "2025-07-26",
+        "video": "https://youtu.be/0Aa_eQ68Rvg",
+        "banned": false
+      },
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 2864,
+        "date": "2025-07-30",
+        "video": "https://youtu.be/scXaXUJtx78",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 2923,
+        "date": "2025-07-28",
+        "video": "https://youtu.be/3i_KadfLbfo",
+        "banned": false
+      },
+      {
+        "id": "8q5knw08",
+        "name": "willowsmots",
+        "time": 3004,
+        "date": "2025-07-26",
+        "video": "https://youtu.be/2U5BpudE7yc?si=8oKhYMMgPfVyeiTt",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3126,
+        "date": "2025-07-28",
+        "video": "https://youtu.be/zl_REvZ24Ag",
+        "banned": false
+      },
+      {
+        "id": "jmlv6p48",
+        "name": "HystericalPeanut",
+        "time": 4109,
+        "date": "2025-10-14",
+        "video": "https://youtu.be/Be4hQYfl_uc",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_ch2neonmg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "Spamton Neo",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 1904,
+        "date": "2025-05-11",
+        "video": "https://www.youtube.com/watch?v=sJKnXOBjFF0",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 1991,
+        "date": "2025-08-15",
+        "video": "https://youtu.be/iZOJhYGTH2Y",
+        "banned": false
+      }
+    ]
+  }
+]

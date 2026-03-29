@@ -1,0 +1,59 @@
+[
+  {
+    "name_ideal": "ce_demoarnmg",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "All Recruits",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 4442,
+        "date": "2023-03-18",
+        "video": "https://www.youtube.com/watch?v=QY0JdTZU_Ps",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 4567,
+        "date": "2022-08-31",
+        "video": "https://youtu.be/4aD_5H6Sgiw",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 4581,
+        "date": "2024-07-27",
+        "video": "https://www.youtube.com/watch?v=Kq4StNh1C8c",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 4701,
+        "date": "2025-02-25",
+        "video": "https://youtu.be/P3c2CX1byhM",
+        "banned": false
+      },
+      {
+        "id": "86n5eg5x",
+        "name": "hovs",
+        "time": 4824,
+        "date": "2022-09-09",
+        "video": "https://www.twitch.tv/videos/1586473370",
+        "banned": false
+      },
+      {
+        "id": "xylyzgyj",
+        "name": "D3cIma",
+        "time": 8969,
+        "date": "2022-10-29",
+        "video": "https://youtu.be/thvs2-ChDOg",
+        "banned": false
+      }
+    ]
+  }
+]

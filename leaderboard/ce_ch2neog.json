@@ -1,0 +1,51 @@
+[
+  {
+    "name_ideal": "ce_ch2neog",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "Spamton Neo",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 2109,
+        "date": "2025-05-10",
+        "video": "https://www.youtube.com/watch?v=WK4ki-bLlG4",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2119,
+        "date": "2026-02-11",
+        "video": "https://www.youtube.com/watch?v=GZWHIuae9UY",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 2163,
+        "date": "2025-08-13",
+        "video": "https://www.youtube.com/watch?v=Yx7H3q__zaw",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 2329,
+        "date": "2025-07-02",
+        "video": "https://youtu.be/rJBnwd_ujSE",
+        "banned": false
+      },
+      {
+        "id": "jpyk1o4j",
+        "name": "Devara",
+        "time": 2499,
+        "date": "2025-10-27",
+        "video": "https://youtu.be/CUB4lunRa6g",
+        "banned": false
+      }
+    ]
+  }
+]

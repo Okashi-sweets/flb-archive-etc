@@ -1,0 +1,155 @@
+[
+  {
+    "name_ideal": "ce_demowr",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "Snowgrave",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3264,
+        "date": "2023-01-16",
+        "video": "https://youtu.be/u1b49JLIa6I",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3275,
+        "date": "2022-08-29",
+        "video": "https://youtu.be/azJYhaNH_FE",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 3287,
+        "date": "2023-01-05",
+        "video": "https://youtube.com/watch?v=xycRc51OSYo",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3303,
+        "date": "2025-03-20",
+        "video": "https://youtu.be/4bVXjxttVj8",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 3318,
+        "date": "2022-03-30",
+        "video": "https://www.youtube.com/watch?v=Q3Etm1Fjquc",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3449,
+        "date": "2024-07-24",
+        "video": "https://www.youtube.com/watch?v=S-r5hGOWOWw",
+        "banned": false
+      },
+      {
+        "id": "xzlez198",
+        "name": "Molrcore",
+        "time": 3540,
+        "date": "2022-10-19",
+        "video": "https://youtu.be/lOLPm1yGZI8",
+        "banned": false
+      },
+      {
+        "id": "8l0l7978",
+        "name": "Frostedness",
+        "time": 3583,
+        "date": "2022-01-28",
+        "video": "https://www.youtube.com/watch?v=tA9lJ9b_dAA",
+        "banned": false
+      },
+      {
+        "id": "xyrl16yj",
+        "name": "YZA",
+        "time": 3658,
+        "date": "2021-10-16",
+        "video": "https://www.youtube.com/watch?v=N8SG4we_7MM",
+        "banned": false
+      },
+      {
+        "id": "pj01z7rx",
+        "name": "Shayy",
+        "time": 3743,
+        "date": "2021-10-07",
+        "video": "https://www.youtube.com/watch?v=Ay2c2JSs0r4",
+        "banned": true
+      },
+      {
+        "id": "68wrdwzj",
+        "name": "SoaringSloth",
+        "time": 3811,
+        "date": "2021-11-05",
+        "video": "https://www.twitch.tv/videos/1197248465",
+        "banned": false
+      },
+      {
+        "id": "8r2pq3qx",
+        "name": "salto",
+        "time": 3817,
+        "date": "2022-04-23",
+        "video": "https://youtu.be/UPwo1NTnTYo",
+        "banned": false
+      },
+      {
+        "id": "68wzr3l8",
+        "name": "The_Monkey",
+        "time": 3969,
+        "date": "2021-10-29",
+        "video": "https://www.youtube.com/watch?v=L931GXJJVlo&ab_channel=Nathan",
+        "banned": false
+      },
+      {
+        "id": "8q3ykd7j",
+        "name": "Hegon",
+        "time": 4017,
+        "date": "2021-10-28",
+        "video": "https://youtu.be/8JkWWiqE5uQ",
+        "banned": false
+      },
+      {
+        "id": "8l04q478",
+        "name": "bulcuber",
+        "time": 4031,
+        "date": "2021-10-23",
+        "video": "https://youtu.be/Gtj1lY-fX70",
+        "banned": false
+      },
+      {
+        "id": "8dw296lj",
+        "name": "Caffemocha",
+        "time": 4303,
+        "date": "2021-09-26",
+        "video": "https://youtu.be/I8h1sushXSA",
+        "banned": false
+      },
+      {
+        "id": "8vorv65x",
+        "name": "marti005",
+        "time": 4795,
+        "date": "2022-03-09",
+        "video": "https://www.youtube.com/watch?v=usHDUoRHTHQ",
+        "banned": false
+      },
+      {
+        "id": "kj9qo9r8",
+        "name": "warmersnow",
+        "time": 4887,
+        "date": "2021-12-04",
+        "video": "https://youtu.be/_wIMYbkWSBg",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "name_ideal": "acar",
+    "group": "base",
+    "category1": "All Chapters",
+    "category2": "All Recruits",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 9012,
+        "date": "2025-07-27",
+        "video": "https://youtu.be/LeEtY18dv-c",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 9034,
+        "date": "2026-02-08",
+        "video": "https://www.youtube.com/watch?v=BDsN2OUlAfs",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 9436,
+        "date": "2025-07-21",
+        "video": "https://youtu.be/ZTxbjxbyNIg",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 9460,
+        "date": "2025-08-09",
+        "video": "https://youtu.be/ddMe4UA7ua4?si=Wyy6G1nLqxf3cpAE&t=1785",
+        "banned": false
+      },
+      {
+        "id": "x33ed72x",
+        "name": "Chistosito",
+        "time": 9488,
+        "date": "2025-06-18",
+        "video": "https://youtu.be/Vey-PlkOFw0",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 10938,
+        "date": "2025-06-19",
+        "video": "https://youtu.be/8pPdwLe7S8c",
+        "banned": false
+      },
+      {
+        "id": "x33mooex",
+        "name": "koveto",
+        "time": 15997,
+        "date": "2025-06-13",
+        "video": "https://youtu.be/QOrarE90Qys",
+        "banned": false
+      },
+      {
+        "id": "864ne2qj",
+        "name": "Sneaky_Snivy2",
+        "time": 16878,
+        "date": "2025-06-14",
+        "video": "https://youtu.be/9Eiaam6b-5g?si=TdD_Pc2BOQtAfJN0",
+        "banned": false
+      }
+    ]
+  }
+]

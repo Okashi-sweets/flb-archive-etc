@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_ch4trg",
+    "group": "ce",
+    "category1": "Chapter 4",
+    "category2": "True Reset",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3789,
+        "date": "2026-02-24",
+        "video": "https://youtu.be/4SDKmy3Y_SU",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3923,
+        "date": "2025-08-05",
+        "video": "https://youtu.be/aWM7nkZbCjs",
+        "banned": false
+      },
+      {
+        "id": "5j5ympn8",
+        "name": "asalt9snipr9",
+        "time": 4685,
+        "date": "2025-08-03",
+        "video": "https://youtube.com/watch?v=h_U2Sc4YYa4?t=555",
+        "banned": false
+      }
+    ]
+  }
+]

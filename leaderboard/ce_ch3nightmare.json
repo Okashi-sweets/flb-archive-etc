@@ -1,0 +1,58 @@
+[
+  {
+    "name_ideal": "ce_ch3nightmare",
+    "group": "ce",
+    "category1": "Chapter 3",
+    "category2": "Nightmare",
+    "runs": [
+      {
+        "id": "8ezowdo8",
+        "name": "ARDI04",
+        "time": 2646,
+        "date": "2026-02-01",
+        "video": "https://www.youtube.com/watch?v=AYeWzinl9kQ",
+        "banned": false
+      },
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 2676,
+        "date": "2025-09-03",
+        "video": "https://youtu.be/n_XOwUkOA-w",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 2718,
+        "date": "2025-07-25",
+        "video": "https://www.youtube.com/watch?v=EoKeQx9wW0w",
+        "banned": false
+      },
+      {
+        "id": "81qkplqj",
+        "name": "BlueMushroom64",
+        "time": 2725,
+        "date": "2025-11-01",
+        "video": "https://youtu.be/wvmOYHwFh3M?t=232",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2786,
+        "date": "2025-11-26",
+        "video": "https://www.youtube.com/watch?v=xZYmmjzqfC8",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 2917,
+        "date": "2025-07-23",
+        "video": "https://youtu.be/uOF97Cx-Oo0",
+        "banned": false
+      }
+    ]
+  }
+]

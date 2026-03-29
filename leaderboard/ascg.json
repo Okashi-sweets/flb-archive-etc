@@ -1,0 +1,82 @@
+[
+  {
+    "name_ideal": "ascg",
+    "group": "base",
+    "category1": "All Shadow Crystals",
+    "category2": "Glitchless",
+    "runs": [
+      {
+        "id": "j2q67g7j",
+        "name": "Krystall",
+        "time": 10328,
+        "date": "2026-02-12",
+        "video": "https://youtu.be/zjNRVFARbqs?t=596",
+        "banned": false
+      },
+      {
+        "id": "kjpw6n5x",
+        "name": "Okashi",
+        "time": 10546,
+        "date": "2025-08-08",
+        "video": "https://youtu.be/lWjxTrvhhhQ",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 10692,
+        "date": "2025-08-02",
+        "video": "https://youtu.be/_07GrZL4J34",
+        "banned": false
+      },
+      {
+        "id": "j9k6gr78",
+        "name": "MisterPizza",
+        "time": 11135,
+        "date": "2026-03-09",
+        "video": "https://www.twitch.tv/videos/2718295565",
+        "banned": false
+      },
+      {
+        "id": "8q3ow57j",
+        "name": "Geod22",
+        "time": 11140,
+        "date": "2025-06-21",
+        "video": "https://www.twitch.tv/videos/2491668771",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 11613,
+        "date": "2025-07-07",
+        "video": "https://youtu.be/_gBGMb84AIo",
+        "banned": false
+      },
+      {
+        "id": "8w0l0g4j",
+        "name": "Sparuek",
+        "time": 11925,
+        "date": "2025-06-18",
+        "video": "https://www.youtube.com/watch?v=_dAu9gl1KS4",
+        "banned": false
+      },
+      {
+        "id": "8lzr2qrx",
+        "name": "FaintBreath",
+        "time": 12270,
+        "date": "2025-06-13",
+        "video": "https://mega.nz/file/zNcEHRwR#Re-E-p0DtbWdXAN8hVlMlPFxqyOr6xIWWfBKAJZPIzc",
+        "banned": false
+      },
+      {
+        "id": "jpyk1o4j",
+        "name": "Devara",
+        "time": 13008,
+        "date": "2025-12-15",
+        "video": "https://youtu.be/Dm-rRyql00I",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "name_ideal": "ce_ch2alr",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Lost Recruits",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 1925,
+        "date": "2026-01-28",
+        "video": "https://www.youtube.com/watch?v=7YFMtn56N2o",
+        "banned": false
+      },
+      {
+        "id": "xz9o0y08",
+        "name": "MarioMan47",
+        "time": 1934,
+        "date": "2023-01-18",
+        "video": "https://www.youtube.com/watch?v=50ClTwLfPQ0",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 2168,
+        "date": "2023-01-18",
+        "video": "https://youtu.be/L13-x4pw6Zo",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 2352,
+        "date": "2024-10-04",
+        "video": "https://youtu.be/pCi3Jd0dEzc?si=FSO7yaUx012utqmJ",
+        "banned": false
+      }
+    ]
+  }
+]

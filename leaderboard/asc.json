@@ -1,0 +1,58 @@
+[
+  {
+    "name_ideal": "asc",
+    "group": "base",
+    "category1": "All Shadow Crystals",
+    "category2": "Glitched",
+    "runs": [
+      {
+        "id": "kjpw6n5x",
+        "name": "Okashi",
+        "time": 9425,
+        "date": "2025-10-22",
+        "video": "https://youtu.be/lwIwr0Go-CE",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 9630,
+        "date": "2025-07-05",
+        "video": "https://youtu.be/4xi5xJRv0Ck?si=GFMPdRzompGfGkbo",
+        "banned": false
+      },
+      {
+        "id": "x33ed72x",
+        "name": "Chistosito",
+        "time": 9918,
+        "date": "2025-06-22",
+        "video": "https://youtu.be/EPlUNpIJMbY",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 10224,
+        "date": "2025-06-19",
+        "video": "https://www.youtube.com/watch?v=35-_P_k6k6s&ab_channel=Antagonist",
+        "banned": false
+      },
+      {
+        "id": "864og3pj",
+        "name": "Megatonijn",
+        "time": 10439,
+        "date": "2025-07-18",
+        "video": "https://youtu.be/MhRdaXgt5eM?si=6TcOn1JscMZjefS8",
+        "banned": false
+      },
+      {
+        "id": "8lzr2qrx",
+        "name": "FaintBreath",
+        "time": 11388,
+        "date": "2025-06-16",
+        "video": "https://www.twitch.tv/videos/2487421873",
+        "banned": false
+      }
+    ]
+  }
+]

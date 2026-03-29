@@ -1,0 +1,26 @@
+[
+  {
+    "name_ideal": "ce_acabarg",
+    "group": "ce",
+    "category1": "All Bosses All Recruits",
+    "category2": "Glitchless",
+    "runs": [
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 13296,
+        "date": "2025-12-19",
+        "video": "https://youtu.be/4y7VcWlb_7g",
+        "banned": false
+      },
+      {
+        "id": "j0vr1vrx",
+        "name": "whatishappi",
+        "time": 16856,
+        "date": "2025-07-28",
+        "video": "https://youtu.be/XToMsp0SQ6Y",
+        "banned": false
+      }
+    ]
+  }
+]

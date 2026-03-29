@@ -1,0 +1,51 @@
+[
+  {
+    "name_ideal": "ce_ch2trmrg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "True Reset(Main Route)",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3210,
+        "date": "2025-11-20",
+        "video": "https://www.youtube.com/watch?v=JYZx06vBYBo",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 3223,
+        "date": "2025-08-02",
+        "video": "https://youtu.be/GwU4jFQepks",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3225,
+        "date": "2025-08-07",
+        "video": "https://youtu.be/0PXrw1fNXUI",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3595,
+        "date": "2025-07-30",
+        "video": "https://www.youtube.com/watch?v=SkQLu4z_WJs&t=212s",
+        "banned": false
+      },
+      {
+        "id": "j46e47l8",
+        "name": "GuardianSaruman",
+        "time": 4201,
+        "date": "2025-04-18",
+        "video": "https://youtu.be/LzE3OBuvy-M",
+        "banned": false
+      }
+    ]
+  }
+]

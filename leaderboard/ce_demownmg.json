@@ -1,0 +1,75 @@
+[
+  {
+    "name_ideal": "ce_demownmg",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "Snowgrave",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3457,
+        "date": "2025-04-04",
+        "video": "https://youtu.be/Dzdej7WVwP8",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3501,
+        "date": "2023-03-17",
+        "video": "https://www.youtube.com/watch?v=QKUebWIgh4w",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3508,
+        "date": "2025-04-19",
+        "video": "https://youtu.be/eZG5Vui-WlE",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3514,
+        "date": "2026-01-09",
+        "video": "https://www.youtube.com/watch?v=_z4IF-mXSRA",
+        "banned": false
+      },
+      {
+        "id": "pj01z7rx",
+        "name": "Shayy",
+        "time": 3562,
+        "date": "2021-11-11",
+        "video": "https://www.youtube.com/watch?v=Oss9M6RqY48",
+        "banned": true
+      },
+      {
+        "id": "81mon238",
+        "name": "D1amondMan",
+        "time": 3581,
+        "date": "2025-06-03",
+        "video": "https://www.youtube.com/watch?v=FvPWHENOD0s",
+        "banned": false
+      },
+      {
+        "id": "xzlez198",
+        "name": "Molrcore",
+        "time": 3695,
+        "date": "2022-12-02",
+        "video": "https://youtu.be/5v8_lSspqUM",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 3737,
+        "date": "2023-01-08",
+        "video": "https://youtu.be/wN_SuQWoGZM",
+        "banned": false
+      }
+    ]
+  }
+]

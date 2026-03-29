@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_ch2trmrnmg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "True Reset(Main Route)",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3008,
+        "date": "2025-08-13",
+        "video": "https://youtu.be/fvRaVABBUEA",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3874,
+        "date": "2025-09-01",
+        "video": "https://youtu.be/wzIDq9tvhGo",
+        "banned": false
+      }
+    ]
+  }
+]

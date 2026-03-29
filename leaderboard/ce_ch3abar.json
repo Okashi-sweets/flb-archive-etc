@@ -1,0 +1,34 @@
+[
+  {
+    "name_ideal": "ce_ch3abar",
+    "group": "ce",
+    "category1": "Chapter 3",
+    "category2": "All Bosses All Recruits",
+    "runs": [
+      {
+        "id": "5j5w0qzj",
+        "name": "cookiepocalypse",
+        "time": 3694,
+        "date": "2025-09-06",
+        "video": "https://youtu.be/I_2e_7vgWaw",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 3723,
+        "date": "2025-08-03",
+        "video": "https://youtube.com/watch?v=2bdgfqVk0JY",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 3928,
+        "date": "2025-09-02",
+        "video": "https://youtu.be/O5DOt-bHXUU",
+        "banned": false
+      }
+    ]
+  }
+]

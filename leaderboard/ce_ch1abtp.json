@@ -1,0 +1,58 @@
+[
+  {
+    "name_ideal": "ce_ch1abtp",
+    "group": "ce",
+    "category1": "Chapter 1",
+    "category2": "All Bosses True Pacifist",
+    "runs": [
+      {
+        "id": "8ezowdo8",
+        "name": "ARDI04",
+        "time": 1845,
+        "date": "2026-01-05",
+        "video": "https://www.youtube.com/watch?v=HhkRlCbP7Jg",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 1849,
+        "date": "2025-07-27",
+        "video": "https://youtube.com/watch?v=yd_BdyB7AXs",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 1870,
+        "date": "2025-07-27",
+        "video": "https://youtu.be/S8qA_TQgjyE?si=YE0areyauXnKp-hZ",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 1883,
+        "date": "2025-07-26",
+        "video": "https://www.youtube.com/watch?v=KHyeK9anURU",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 1923,
+        "date": "2025-12-19",
+        "video": "https://youtu.be/4y7VcWlb_7g",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 2217,
+        "date": "2025-07-26",
+        "video": "https://youtu.be/GYF6DLEFnFE?si=OEnzhOUNUitnmwJl",
+        "banned": false
+      }
+    ]
+  }
+]

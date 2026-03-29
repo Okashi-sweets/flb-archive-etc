@@ -1,0 +1,51 @@
+[
+  {
+    "name_ideal": "ce_ch2abarnmg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Bosses All Recruits",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3419,
+        "date": "2022-08-04",
+        "video": "https://youtu.be/4I-hmm8Q6ck",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3478,
+        "date": "2025-08-04",
+        "video": "https://youtu.be/R__qMW7NzwM?si=rboHXrp1B3sZIQHk",
+        "banned": false
+      },
+      {
+        "id": "jm3lvdy8",
+        "name": "keucher",
+        "time": 3636,
+        "date": "2023-01-07",
+        "video": "https://youtu.be/Tbpt6sxb-Ek",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3690,
+        "date": "2024-07-30",
+        "video": "https://www.youtube.com/watch?v=UrYA2DSIo_E",
+        "banned": false
+      },
+      {
+        "id": "98rmkzdj",
+        "name": "petfriendamy",
+        "time": 4075,
+        "date": "2022-04-25",
+        "video": "https://www.youtube.com/watch?v=1FcgJnQnd5Y",
+        "banned": false
+      }
+    ]
+  }
+]

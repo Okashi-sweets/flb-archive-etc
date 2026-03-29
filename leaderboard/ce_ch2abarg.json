@@ -1,0 +1,67 @@
+[
+  {
+    "name_ideal": "ce_ch2abarg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Bosses All Recruits",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 3590,
+        "date": "2025-05-25",
+        "video": "https://youtu.be/-5j7UCp5JR0",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3635,
+        "date": "2022-04-14",
+        "video": "https://youtu.be/VLEAGzQAWMU",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3679,
+        "date": "2025-08-02",
+        "video": "https://youtu.be/y5H2rm1MrX4",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3694,
+        "date": "2024-10-15",
+        "video": "https://www.youtube.com/watch?v=VnoU0NAzMnI",
+        "banned": false
+      },
+      {
+        "id": "8w0ozl4j",
+        "name": "panood",
+        "time": 3992,
+        "date": "2023-07-21",
+        "video": "https://youtu.be/Cgw5aYOLamM",
+        "banned": false
+      },
+      {
+        "id": "98rmkzdj",
+        "name": "petfriendamy",
+        "time": 4511,
+        "date": "2021-12-17",
+        "video": "https://www.youtube.com/watch?v=CKVy_4_lh3w",
+        "banned": false
+      },
+      {
+        "id": "jop22lex",
+        "name": "Moxiesox",
+        "time": 4808,
+        "date": "2022-04-17",
+        "video": "https://www.twitch.tv/videos/1459084402",
+        "banned": false
+      }
+    ]
+  }
+]

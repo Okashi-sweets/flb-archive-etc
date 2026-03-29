@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_ch2trwrg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "True Reset(Snowwgrave)",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 2265,
+        "date": "2026-02-16",
+        "video": "https://youtu.be/TmwXxJOb03g?si=HcLEpD_H4-ZVdnBp&t=6497",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2272,
+        "date": "2025-07-31",
+        "video": "https://www.youtube.com/watch?v=7CFcnZBkjns",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 2828,
+        "date": "2025-07-30",
+        "video": "https://youtu.be/10rjx0CSTSo",
+        "banned": false
+      }
+    ]
+  }
+]

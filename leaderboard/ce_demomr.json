@@ -1,0 +1,507 @@
+[
+  {
+    "name_ideal": "ce_demomr",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "Main Route",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3100,
+        "date": "2026-02-02",
+        "video": "https://youtu.be/YZN-_qhPoAE?si=hYvnbudQy-v2PyuK",
+        "banned": false
+      },
+      {
+        "id": "xz9o0y08",
+        "name": "MarioMan47",
+        "time": 3104,
+        "date": "2025-10-17",
+        "video": "https://youtu.be/GXh2oQZ8Gx0",
+        "banned": false
+      },
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 3133,
+        "date": "2024-08-27",
+        "video": "https://youtube.com/watch?v=74vMmSy-GLA",
+        "banned": false
+      },
+      {
+        "id": "8q530mw8",
+        "name": "CrystalSRL",
+        "time": 3134,
+        "date": "2025-05-22",
+        "video": "https://youtu.be/RM43wCddOXw",
+        "banned": false
+      },
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 3141,
+        "date": "2026-02-04",
+        "video": "https://youtu.be/QY9NpB51TAA",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3158,
+        "date": "2023-12-27",
+        "video": "https://youtu.be/YXCfs29mdyM?si=CZo4Szx1JDzAxh4u",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3160,
+        "date": "2025-12-16",
+        "video": "https://www.youtube.com/watch?v=-2KNXH7JkRM",
+        "banned": false
+      },
+      {
+        "id": "8q5knw08",
+        "name": "willowsmots",
+        "time": 3163,
+        "date": "2025-12-30",
+        "video": "https://www.youtube.com/watch?v=EXW4ZTeLmLs",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3167,
+        "date": "2025-08-27",
+        "video": "https://youtu.be/Y_M5PWrp4w0",
+        "banned": false
+      },
+      {
+        "id": "7j4op3d8",
+        "name": "Tadyman",
+        "time": 3171,
+        "date": "2024-10-07",
+        "video": "https://youtu.be/pj8EQb8fuSU",
+        "banned": false
+      },
+      {
+        "id": "kjpw6n5x",
+        "name": "Okashi",
+        "time": 3207,
+        "date": "2024-08-05",
+        "video": "https://youtu.be/Zhv14tyd7G4",
+        "banned": false
+      },
+      {
+        "id": "1xymkgzx",
+        "name": "nhaar",
+        "time": 3207,
+        "date": "2024-07-11",
+        "video": "https://www.youtube.com/watch?v=szCMDjKk-1I",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 3220,
+        "date": "2025-01-09",
+        "video": "https://www.youtube.com/watch?v=_rT4A8cumso",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 3224,
+        "date": "2022-06-03",
+        "video": "https://www.twitch.tv/videos/1493939843",
+        "banned": false
+      },
+      {
+        "id": "x33ed72x",
+        "name": "Chistosito",
+        "time": 3266,
+        "date": "2024-11-30",
+        "video": "https://youtu.be/DuEcgVCH9XU",
+        "banned": false
+      },
+      {
+        "id": "86n5eg5x",
+        "name": "hovs",
+        "time": 3267,
+        "date": "2023-04-30",
+        "video": "https://youtu.be/x2RHAZggU_I",
+        "banned": false
+      },
+      {
+        "id": "8geemepj",
+        "name": "DaTroll18",
+        "time": 3276,
+        "date": "2023-04-28",
+        "video": "https://www.youtube.com/watch?v=YKlUgpE_x9k",
+        "banned": false
+      },
+      {
+        "id": "8rpm5zdj",
+        "name": "Bubill",
+        "time": 3286,
+        "date": "2023-01-02",
+        "video": "https://youtu.be/k7VEBNUA97g",
+        "banned": false
+      },
+      {
+        "id": "xzlz7nn8",
+        "name": "Green_Ender",
+        "time": 3296,
+        "date": "2022-04-18",
+        "video": "https://www.twitch.tv/videos/1460304578",
+        "banned": false
+      },
+      {
+        "id": "xyrl16yj",
+        "name": "YZA",
+        "time": 3298,
+        "date": "2022-03-24",
+        "video": "https://www.twitch.tv/videos/1435992766",
+        "banned": false
+      },
+      {
+        "id": "jpm73e0j",
+        "name": "Poncini_",
+        "time": 3327,
+        "date": "2022-01-16",
+        "video": "https://www.youtube.com/watch?v=xweXRTrdgRM",
+        "banned": false
+      },
+      {
+        "id": "8g5d62pj",
+        "name": "HeartOfOak",
+        "time": 3334,
+        "date": "2022-06-03",
+        "video": "https://www.youtube.com/watch?v=PkiaE1YVnaU&ab_channel=SinisterSableye",
+        "banned": false
+      },
+      {
+        "id": "x33mooex",
+        "name": "koveto",
+        "time": 3387,
+        "date": "2022-09-08",
+        "video": "https://youtu.be/JMbhdWka02k?si=r1hoRc-MsxltK_aV",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3392,
+        "date": "2025-08-08",
+        "video": "https://youtu.be/7H-SuKWFi9A",
+        "banned": false
+      },
+      {
+        "id": "j233e27x",
+        "name": "megalovania",
+        "time": 3401,
+        "date": "2023-08-16",
+        "video": "https://www.youtube.com/watch?v=6NrjZdIlcdU",
+        "banned": false
+      },
+      {
+        "id": "8rp6vd6j",
+        "name": "dizbro",
+        "time": 3408,
+        "date": "2022-01-08",
+        "video": "https://youtu.be/eLFD9PnjrYI",
+        "banned": false
+      },
+      {
+        "id": "8d0vl2ox",
+        "name": "raphafou03",
+        "time": 3418,
+        "date": "2025-06-02",
+        "video": "https://youtu.be/Vf5R8yDSOWA",
+        "banned": false
+      },
+      {
+        "id": "8vorv65x",
+        "name": "marti005",
+        "time": 3436,
+        "date": "2022-06-04",
+        "video": "https://www.twitch.tv/videos/1493830035",
+        "banned": false
+      },
+      {
+        "id": "xkmkg2kj",
+        "name": "Trintonique",
+        "time": 3438,
+        "date": "2022-07-17",
+        "video": "https://www.youtube.com/watch?v=iWwt_DCgqd0",
+        "banned": false
+      },
+      {
+        "id": "qjov54nx",
+        "name": "nng_",
+        "time": 3446,
+        "date": "2022-03-18",
+        "video": "https://www.twitch.tv/videos/1429261046",
+        "banned": false
+      },
+      {
+        "id": "1xylw9wj",
+        "name": "Bluemlittlem",
+        "time": 3462,
+        "date": "2022-01-14",
+        "video": "https://youtu.be/PUZxF7oJq7M",
+        "banned": false
+      },
+      {
+        "id": "j40n6lm8",
+        "name": "ModeratelyFastGamer",
+        "time": 3475,
+        "date": "2023-10-27",
+        "video": "https://www.youtube.com/watch?v=WbN5Jb99dyg&t=159s",
+        "banned": false
+      },
+      {
+        "id": "xz26rqnx",
+        "name": "Gummypower300",
+        "time": 3488,
+        "date": "2024-07-03",
+        "video": "https://www.youtube.com/watch?v=evZiheQWUp8&t=1512s",
+        "banned": false
+      },
+      {
+        "id": "j5vomeq8",
+        "name": "ConfusedCoder",
+        "time": 3500,
+        "date": "2022-05-30",
+        "video": "https://www.youtube.com/watch?v=me9uihBL10Y",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3507,
+        "date": "2025-07-27",
+        "video": "https://www.twitch.tv/videos/2518438818",
+        "banned": false
+      },
+      {
+        "id": "8l04q478",
+        "name": "bulcuber",
+        "time": 3514,
+        "date": "2022-01-22",
+        "video": "https://youtu.be/rzkC4RFiw3E",
+        "banned": false
+      },
+      {
+        "id": "98rmkzdj",
+        "name": "petfriendamy",
+        "time": 3519,
+        "date": "2022-06-03",
+        "video": "https://www.twitch.tv/videos/1493843434",
+        "banned": false
+      },
+      {
+        "id": "8gez112j",
+        "name": "TheRealSil",
+        "time": 3539,
+        "date": "2023-02-13",
+        "video": "https://www.twitch.tv/videos/1737230550",
+        "banned": true
+      },
+      {
+        "id": "xylk56nj",
+        "name": "Cyntessa",
+        "time": 3567,
+        "date": "2022-11-15",
+        "video": "https://www.youtube.com/watch?v=1NWfRxo4Bg4",
+        "banned": false
+      },
+      {
+        "id": "j2qkgzoj",
+        "name": "percent3",
+        "time": 3582,
+        "date": "2024-08-09",
+        "video": "https://youtu.be/2Ci8i0AOZAQ",
+        "banned": false
+      },
+      {
+        "id": "j0vok3wx",
+        "name": "racsO_001",
+        "time": 3585,
+        "date": "2022-01-13",
+        "video": "https://youtu.be/FS-dbFqFHk4",
+        "banned": false
+      },
+      {
+        "id": "8qpromwx",
+        "name": "Harry212",
+        "time": 3615,
+        "date": "2024-08-30",
+        "video": null,
+        "banned": false
+      },
+      {
+        "id": "x36pnokx",
+        "name": "Monograms",
+        "time": 3644,
+        "date": "2025-02-14",
+        "video": "https://youtube.com/watch?v=_EiDxMl82Rc&list=PLiV_IrD0hd_cKbtLi1jMrsejuc39676b-&index=1&t=6s&pp=gAQBiAQB",
+        "banned": false
+      },
+      {
+        "id": "8v6p4qvx",
+        "name": "Jinku_SR",
+        "time": 3840,
+        "date": "2025-03-11",
+        "video": "https://www.twitch.tv/videos/2402769854",
+        "banned": false
+      },
+      {
+        "id": "xzlez198",
+        "name": "Molrcore",
+        "time": 3864,
+        "date": "2022-05-20",
+        "video": "https://youtu.be/xuMIW5lw9iw",
+        "banned": false
+      },
+      {
+        "id": "8l0l7978",
+        "name": "Frostedness",
+        "time": 3987,
+        "date": "2022-01-08",
+        "video": "https://youtu.be/tUOgDVMzMzc",
+        "banned": false
+      },
+      {
+        "id": "48gv03r8",
+        "name": "Jair40",
+        "time": 3995,
+        "date": "2022-01-18",
+        "video": "https://www.twitch.tv/videos/1268244058",
+        "banned": false
+      },
+      {
+        "id": "jo3yz00j",
+        "name": "NatuNatu24",
+        "time": 4228,
+        "date": "2023-03-31",
+        "video": "https://youtu.be/cXHQuVVRIzE",
+        "banned": false
+      },
+      {
+        "id": "8e64ng2j",
+        "name": "Gamerguld",
+        "time": 4503,
+        "date": "2022-06-03",
+        "video": "https://www.twitch.tv/videos/1495156361",
+        "banned": false
+      },
+      {
+        "id": "8r2pq3qx",
+        "name": "salto",
+        "time": 4839,
+        "date": "2022-03-13",
+        "video": "https://youtu.be/9dJpBzgjmCM",
+        "banned": false
+      },
+      {
+        "id": "kj9qo9r8",
+        "name": "warmersnow",
+        "time": 5103,
+        "date": "2021-12-11",
+        "video": "https://youtu.be/XK68oZgTEYs",
+        "banned": false
+      },
+      {
+        "id": "68wrdwzj",
+        "name": "SoaringSloth",
+        "time": 5180,
+        "date": "2021-09-21",
+        "video": "https://www.twitch.tv/videos/1156044934",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 5311,
+        "date": "2021-09-27",
+        "video": "https://youtu.be/iNv3o5b44Go",
+        "banned": false
+      },
+      {
+        "id": "18vy5lv8",
+        "name": "kamil2050",
+        "time": 5331,
+        "date": "2021-09-22",
+        "video": "https://www.youtube.com/watch?v=Pm0hamiEapA",
+        "banned": false
+      },
+      {
+        "id": "48gon6px",
+        "name": "CreatorCreepy",
+        "time": 5466,
+        "date": "2021-09-21",
+        "video": "https://youtu.be/3Wt0naT47VE",
+        "banned": false
+      },
+      {
+        "id": "e8ez4d68",
+        "name": "Yoshikiller109",
+        "time": 5577,
+        "date": "2021-10-05",
+        "video": "https://www.youtube.com/watch?v=DrSrulMDnCk",
+        "banned": false
+      },
+      {
+        "id": "qjo9e27j",
+        "name": "EvilLink",
+        "time": 5948,
+        "date": "2021-10-05",
+        "video": "https://www.twitch.tv/videos/1168533106",
+        "banned": false
+      },
+      {
+        "id": "8r7z0g3j",
+        "name": "AddaxBones",
+        "time": 6213,
+        "date": "2022-05-10",
+        "video": "https://www.twitch.tv/videos/1480818743",
+        "banned": false
+      },
+      {
+        "id": "8g5y7v2j",
+        "name": "AmPro1234",
+        "time": 6684,
+        "date": "2021-09-28",
+        "video": "https://www.youtube.com/watch?v=WOd7C8DlV-w",
+        "banned": false
+      },
+      {
+        "id": "jpmk2z0j",
+        "name": "Alexovania",
+        "time": 7033,
+        "date": "2021-09-26",
+        "video": "https://www.twitch.tv/videos/1159926148",
+        "banned": false
+      },
+      {
+        "id": "8e6gk1dj",
+        "name": "deltarunespeedruner",
+        "time": 7663,
+        "date": "2021-09-19",
+        "video": "https://www.youtube.com/watch?v=9r_1vpt-7_0",
+        "banned": false
+      },
+      {
+        "id": "xylyzgyj",
+        "name": "D3cIma",
+        "time": 8969,
+        "date": "2022-11-08",
+        "video": "https://youtu.be/thvs2-ChDOg",
+        "banned": false
+      }
+    ]
+  }
+]

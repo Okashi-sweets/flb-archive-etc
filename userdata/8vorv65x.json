@@ -1,0 +1,578 @@
+{
+  "id": "8vorv65x",
+  "name": "marti005",
+  "banned": false,
+  "pbscore": 1552.91,
+  "pbscoredatail": {
+    "basescore": 1226.12,
+    "cescore": 326.79,
+    "acscore": 0,
+    "ch1score": 381.83,
+    "ch2score": 752.07,
+    "ch3score": 92.23,
+    "ch4score": 0,
+    "cedemoscore": 153.46,
+    "ceacscore": 0,
+    "cech1score": 64.92,
+    "cech2score": 108.41,
+    "cech3score": 0,
+    "cech4score": 0
+  },
+  "times": [
+    {
+      "category": "acmr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acmrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acwr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acwrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acab",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "acabg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch1any",
+      "time": 1585.467,
+      "irate": 97.79
+    },
+    {
+      "category": "ch1ab",
+      "time": 1970,
+      "irate": 92.99
+    },
+    {
+      "category": "ch1tp",
+      "time": 1652,
+      "irate": 96.05
+    },
+    {
+      "category": "ch1109",
+      "time": 1635,
+      "irate": 95
+    },
+    {
+      "category": "ch2mr",
+      "time": 1622.9,
+      "irate": 96.26
+    },
+    {
+      "category": "ch2mrnmg",
+      "time": 2881,
+      "irate": 92.5
+    },
+    {
+      "category": "ch2mrg",
+      "time": 3042,
+      "irate": 95.51
+    },
+    {
+      "category": "ch2mr109",
+      "time": 1582,
+      "irate": 91.65
+    },
+    {
+      "category": "ch2wr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2wrnmg",
+      "time": 2139,
+      "irate": 90.46
+    },
+    {
+      "category": "ch2wrg",
+      "time": 2037.633,
+      "irate": 97.12
+    },
+    {
+      "category": "ch2wr109",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2ar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2arnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2arg",
+      "time": 3262,
+      "irate": 93.72
+    },
+    {
+      "category": "ch2ab",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2abnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch2abg",
+      "time": 3617,
+      "irate": 94.85
+    },
+    {
+      "category": "ch3any",
+      "time": 2597,
+      "irate": 92.23
+    },
+    {
+      "category": "ch3ar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch3ab",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4any",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4anyg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4ar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4arg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4ab",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ch4abg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "asc",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ascg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demomr",
+      "time": 3436,
+      "irate": 32.54
+    },
+    {
+      "category": "ce_demomrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demomrg",
+      "time": 4673,
+      "irate": 33.95
+    },
+    {
+      "category": "ce_demowr",
+      "time": 4795,
+      "irate": 10
+    },
+    {
+      "category": "ce_demownmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demowrg",
+      "time": 3764,
+      "irate": 33.5
+    },
+    {
+      "category": "ce_demoar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demoarnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demoarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demoab",
+      "time": 5833,
+      "irate": 10
+    },
+    {
+      "category": "ce_demoabnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demoabg",
+      "time": 5511,
+      "irate": 33.47
+    },
+    {
+      "category": "ce_actrmr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrmrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrwr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrwrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acegg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_aceggg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acartp",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acartpg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acabar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acabarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acat",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acatg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acost",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acostg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acai",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acaig",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actracabarpeeg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch1tr",
+      "time": 2013,
+      "irate": 31.84
+    },
+    {
+      "category": "ce_ch1jevil",
+      "time": 1449,
+      "irate": 33.08
+    },
+    {
+      "category": "ce_ch1abtp",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trmr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trmrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trmrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trwr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trwrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trwrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2neo",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2neonmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2neog",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2abar",
+      "time": 3654,
+      "irate": 33.1
+    },
+    {
+      "category": "ce_ch2abarnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2abarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2are",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2areg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2lotr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2as",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2asnmg",
+      "time": 3484,
+      "irate": 31.95
+    },
+    {
+      "category": "ce_ch2asg",
+      "time": 3476,
+      "irate": 33.36
+    },
+    {
+      "category": "ce_ch2alr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2alrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2alrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2sapr",
+      "time": 2183,
+      "irate": 10
+    },
+    {
+      "category": "ce_ch2sapr109",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3tr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3nightmare",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3sc",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3abar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3alr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4tr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4trg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4gerson",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4gersong",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abe",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abeg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4alr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4alrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mike",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mikeg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mike2",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mike2g",
+      "time": null,
+      "irate": 0
+    }
+  ]
+}

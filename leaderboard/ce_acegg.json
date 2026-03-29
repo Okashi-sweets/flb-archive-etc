@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_acegg",
+    "group": "ce",
+    "category1": "All Bosses",
+    "category2": "Egg%",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "qj2ze5lj",
+        "name": "NERS",
+        "time": 7322,
+        "date": "2025-08-03",
+        "video": "https://youtube.com/watch?v=Fv0khynrLn4",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 7804,
+        "date": "2026-02-04",
+        "video": "https://youtu.be/qwDz5F6vfeU",
+        "banned": false
+      }
+    ]
+  }
+]

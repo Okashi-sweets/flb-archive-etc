@@ -1,0 +1,91 @@
+[
+  {
+    "name_ideal": "ce_demomrnmg",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "Main Route",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 4284,
+        "date": "2025-08-17",
+        "video": "https://youtu.be/YCUE9unMAcY?si=7LvI2mGQznXyTSAi",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 4291,
+        "date": "2025-05-07",
+        "video": "https://youtu.be/h4ojuiVXG5g",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 4327,
+        "date": "2022-08-31",
+        "video": "https://youtu.be/Iwara0b-lkI",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 4484,
+        "date": "2024-07-27",
+        "video": "https://www.youtube.com/watch?v=UuNDcrtOWS8",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 4502,
+        "date": "2025-05-02",
+        "video": "https://youtu.be/-eBjJzmYQgM?si=-UiIJwAxlw57hXTw",
+        "banned": false
+      },
+      {
+        "id": "1xymkgzx",
+        "name": "nhaar",
+        "time": 4508,
+        "date": "2021-10-21",
+        "video": "https://www.youtube.com/watch?v=YdKZVRuRiNg",
+        "banned": false
+      },
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 4518,
+        "date": "2022-07-29",
+        "video": "https://youtu.be/JJQ7Oo_5qYA",
+        "banned": false
+      },
+      {
+        "id": "7j4op3d8",
+        "name": "Tadyman",
+        "time": 4778,
+        "date": "2021-11-25",
+        "video": "https://www.twitch.tv/videos/1215588422",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 4979,
+        "date": "2025-07-26",
+        "video": "https://youtu.be/HB4DzMSTYiM",
+        "banned": false
+      },
+      {
+        "id": "xylyzgyj",
+        "name": "D3cIma",
+        "time": 8969,
+        "date": "2022-10-29",
+        "video": "https://youtu.be/thvs2-ChDOg",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "name_ideal": "ce_ch2abar",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Bosses All Recruits",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3377,
+        "date": "2025-11-17",
+        "video": "https://www.youtube.com/watch?v=4rRMpzUfWnk",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3419,
+        "date": "2025-07-29",
+        "video": "https://youtu.be/jPd71zbf8Fs",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 3523,
+        "date": "2022-04-22",
+        "video": "https://www.youtube.com/watch?v=NPSxyvq6FD0",
+        "banned": false
+      },
+      {
+        "id": "8vorv65x",
+        "name": "marti005",
+        "time": 3654,
+        "date": "2022-04-20",
+        "video": "https://youtu.be/J8DHRGC06N8",
+        "banned": false
+      }
+    ]
+  }
+]

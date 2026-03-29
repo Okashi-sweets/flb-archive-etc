@@ -1,0 +1,578 @@
+{
+  "id": "8wlnqz4j",
+  "name": "WooffleDee",
+  "banned": false,
+  "pbscore": 4390.57,
+  "pbscoredatail": {
+    "basescore": 3441.6,
+    "cescore": 948.96,
+    "acscore": 868.61,
+    "ch1score": 386.26,
+    "ch2score": 1332.02,
+    "ch3score": 288.57,
+    "ch4score": 566.14,
+    "cedemoscore": 337.9,
+    "ceacscore": 0,
+    "cech1score": 101.88,
+    "cech2score": 202.78,
+    "cech3score": 100.32,
+    "cech4score": 32.9
+  },
+  "times": [
+    {
+      "category": "acmr",
+      "time": 8406,
+      "irate": 94.72
+    },
+    {
+      "category": "acmrg",
+      "time": 10165,
+      "irate": 97.01
+    },
+    {
+      "category": "acwr",
+      "time": 9093,
+      "irate": 95.06
+    },
+    {
+      "category": "acwrg",
+      "time": 9889,
+      "irate": 97.39
+    },
+    {
+      "category": "acar",
+      "time": 9460,
+      "irate": 96.44
+    },
+    {
+      "category": "acarg",
+      "time": 10803,
+      "irate": 98.21
+    },
+    {
+      "category": "acab",
+      "time": 11616,
+      "irate": 95.02
+    },
+    {
+      "category": "acabg",
+      "time": 12371,
+      "irate": 97.32
+    },
+    {
+      "category": "ch1any",
+      "time": 1588.367,
+      "irate": 97.66
+    },
+    {
+      "category": "ch1ab",
+      "time": 1846,
+      "irate": 97.56
+    },
+    {
+      "category": "ch1tp",
+      "time": 1656,
+      "irate": 95.87
+    },
+    {
+      "category": "ch1109",
+      "time": 1631,
+      "irate": 95.17
+    },
+    {
+      "category": "ch2mr",
+      "time": 1593.033,
+      "irate": 97.6
+    },
+    {
+      "category": "ch2mrnmg",
+      "time": 2828,
+      "irate": 93.76
+    },
+    {
+      "category": "ch2mrg",
+      "time": 2944,
+      "irate": 97.86
+    },
+    {
+      "category": "ch2mr109",
+      "time": 1523,
+      "irate": 94.23
+    },
+    {
+      "category": "ch2wr",
+      "time": 1830,
+      "irate": 92.21
+    },
+    {
+      "category": "ch2wrnmg",
+      "time": 2001,
+      "irate": 94.97
+    },
+    {
+      "category": "ch2wrg",
+      "time": 2033.667,
+      "irate": 97.26
+    },
+    {
+      "category": "ch2wr109",
+      "time": 1858,
+      "irate": 91.48
+    },
+    {
+      "category": "ch2ar",
+      "time": 1981,
+      "irate": 94.73
+    },
+    {
+      "category": "ch2arnmg",
+      "time": 2997,
+      "irate": 93.86
+    },
+    {
+      "category": "ch2arg",
+      "time": 3129,
+      "irate": 96.64
+    },
+    {
+      "category": "ch2ab",
+      "time": 3194,
+      "irate": 94.38
+    },
+    {
+      "category": "ch2abnmg",
+      "time": 3377,
+      "irate": 95.42
+    },
+    {
+      "category": "ch2abg",
+      "time": 3479,
+      "irate": 97.62
+    },
+    {
+      "category": "ch3any",
+      "time": 2422,
+      "irate": 97.08
+    },
+    {
+      "category": "ch3ar",
+      "time": 2687,
+      "irate": 94.58
+    },
+    {
+      "category": "ch3ab",
+      "time": 3597,
+      "irate": 96.91
+    },
+    {
+      "category": "ch4any",
+      "time": 2506,
+      "irate": 94.01
+    },
+    {
+      "category": "ch4anyg",
+      "time": 3157,
+      "irate": 95.67
+    },
+    {
+      "category": "ch4ar",
+      "time": 2991,
+      "irate": 90.47
+    },
+    {
+      "category": "ch4arg",
+      "time": 3484,
+      "irate": 94.91
+    },
+    {
+      "category": "ch4ab",
+      "time": 2808,
+      "irate": 95.16
+    },
+    {
+      "category": "ch4abg",
+      "time": 3487,
+      "irate": 95.93
+    },
+    {
+      "category": "asc",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ascg",
+      "time": 10692,
+      "irate": 97.44
+    },
+    {
+      "category": "ce_demomr",
+      "time": 3220,
+      "irate": 34.06
+    },
+    {
+      "category": "ce_demomrnmg",
+      "time": 4502,
+      "irate": 33.78
+    },
+    {
+      "category": "ce_demomrg",
+      "time": 4557,
+      "irate": 34.56
+    },
+    {
+      "category": "ce_demowr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demownmg",
+      "time": 3737,
+      "irate": 33.12
+    },
+    {
+      "category": "ce_demowrg",
+      "time": 3675,
+      "irate": 34.07
+    },
+    {
+      "category": "ce_demoar",
+      "time": 3702,
+      "irate": 33.45
+    },
+    {
+      "category": "ce_demoarnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_demoarg",
+      "time": 4777,
+      "irate": 34.33
+    },
+    {
+      "category": "ce_demoab",
+      "time": 5147,
+      "irate": 33.1
+    },
+    {
+      "category": "ce_demoabnmg",
+      "time": 5454,
+      "irate": 33.37
+    },
+    {
+      "category": "ce_demoabg",
+      "time": 5375,
+      "irate": 34.06
+    },
+    {
+      "category": "ce_actrmr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrmrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrwr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_actrwrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acegg",
+      "time": 7804,
+      "irate": 33.45
+    },
+    {
+      "category": "ce_aceggg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acartp",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acartpg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acabar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acabarg",
+      "time": 13296,
+      "irate": 35
+    },
+    {
+      "category": "ce_acat",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acatg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acost",
+      "time": 15756,
+      "irate": 35
+    },
+    {
+      "category": "ce_acostg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acai",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_acaig",
+      "time": 14539,
+      "irate": 35
+    },
+    {
+      "category": "ce_actracabarpeeg",
+      "time": 24351,
+      "irate": 34.73
+    },
+    {
+      "category": "ce_ch1tr",
+      "time": 1862,
+      "irate": 33.61
+    },
+    {
+      "category": "ce_ch1jevil",
+      "time": 1376,
+      "irate": 34.29
+    },
+    {
+      "category": "ce_ch1abtp",
+      "time": 1923,
+      "irate": 33.98
+    },
+    {
+      "category": "ce_ch2trmr",
+      "time": 1926,
+      "irate": 33.51
+    },
+    {
+      "category": "ce_ch2trmrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trmrg",
+      "time": 3223,
+      "irate": 34.89
+    },
+    {
+      "category": "ce_ch2trwr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trwrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2trwrg",
+      "time": 2265,
+      "irate": 35
+    },
+    {
+      "category": "ce_ch2neo",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2neonmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2neog",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2abar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2abarnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2abarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2are",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2areg",
+      "time": 3387,
+      "irate": 33.21
+    },
+    {
+      "category": "ce_ch2lotr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2as",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2asnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2asg",
+      "time": 3385,
+      "irate": 33.98
+    },
+    {
+      "category": "ce_ch2alr",
+      "time": 2168,
+      "irate": 32.19
+    },
+    {
+      "category": "ce_ch2alrnmg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2alrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2sapr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch2sapr109",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3tr",
+      "time": 2923,
+      "irate": 33.76
+    },
+    {
+      "category": "ce_ch3nightmare",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch3sc",
+      "time": 2877,
+      "irate": 33.06
+    },
+    {
+      "category": "ce_ch3abar",
+      "time": 3928,
+      "irate": 33.51
+    },
+    {
+      "category": "ce_ch3alr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4tr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4trg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4gerson",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4gersong",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abar",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abarg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abe",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4abeg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4alr",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4alrg",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mike",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mikeg",
+      "time": 608,
+      "irate": 32.9
+    },
+    {
+      "category": "ce_ch4mike2",
+      "time": null,
+      "irate": 0
+    },
+    {
+      "category": "ce_ch4mike2g",
+      "time": null,
+      "irate": 0
+    }
+  ]
+}

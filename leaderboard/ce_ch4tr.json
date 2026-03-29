@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_ch4tr",
+    "group": "ce",
+    "category1": "Chapter 4",
+    "category2": "True Reset",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3120,
+        "date": "2025-12-02",
+        "video": "https://youtu.be/HCeCjgShWx4",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3380,
+        "date": "2025-08-02",
+        "video": "https://youtu.be/wOUYxZ_MDe4",
+        "banned": false
+      },
+      {
+        "id": "5j5ympn8",
+        "name": "asalt9snipr9",
+        "time": 3856,
+        "date": "2025-07-30",
+        "video": "https://www.youtube.com/watch?v=XRToDZQu1Mw",
+        "banned": false
+      }
+    ]
+  }
+]

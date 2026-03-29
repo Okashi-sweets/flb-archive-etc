@@ -1,0 +1,67 @@
+[
+  {
+    "name_ideal": "acwr",
+    "group": "base",
+    "category1": "All Chapters",
+    "category2": "Weird Route",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "5j5w0qzj",
+        "name": "cookiepocalypse",
+        "time": 8495,
+        "date": "2026-01-19",
+        "video": "https://youtu.be/RBCIEjcCbCE?si=a1_0kp2Nq9bsQOYt",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 8666,
+        "date": "2025-07-21",
+        "video": "https://youtu.be/RO0HC2Idj90",
+        "banned": false
+      },
+      {
+        "id": "x33ed72x",
+        "name": "Chistosito",
+        "time": 8980,
+        "date": "2025-07-08",
+        "video": "https://youtu.be/O02O5bFgKm4",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 9093,
+        "date": "2026-01-03",
+        "video": "https://youtu.be/O0YIhy27b2I",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 9360,
+        "date": "2025-07-07",
+        "video": "https://youtu.be/3shBp4HHw1s",
+        "banned": false
+      },
+      {
+        "id": "jon9npe8",
+        "name": "jellifest",
+        "time": 9653,
+        "date": "2025-07-06",
+        "video": "https://www.youtube.com/watch?v=ZB54CMTSb4Y",
+        "banned": false
+      },
+      {
+        "id": "j9r76ynj",
+        "name": "Gon_UT",
+        "time": 11270,
+        "date": "2026-01-13",
+        "video": "https://www.youtube.com/watch?v=eia2iPkQ8x4",
+        "banned": false
+      }
+    ]
+  }
+]

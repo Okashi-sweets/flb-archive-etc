@@ -1,0 +1,59 @@
+[
+  {
+    "name_ideal": "ce_ch2asnmg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "Aborted Snowgrave",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 3059,
+        "date": "2022-08-05",
+        "video": "https://youtu.be/4pS9t8JiEUo",
+        "banned": false
+      },
+      {
+        "id": "jpm73e0j",
+        "name": "Poncini_",
+        "time": 3132,
+        "date": "2022-04-28",
+        "video": "https://youtu.be/Sagg5jIPvRc",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 3141,
+        "date": "2025-08-04",
+        "video": "https://youtu.be/9CCkOPqSRtc?si=kKKHtI4CMHgd8x3i",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3190,
+        "date": "2024-06-26",
+        "video": "https://www.youtube.com/watch?v=lA1rP8oMEak",
+        "banned": false
+      },
+      {
+        "id": "8vorv65x",
+        "name": "marti005",
+        "time": 3484,
+        "date": "2022-04-18",
+        "video": "https://www.twitch.tv/videos/1459141402",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 3589,
+        "date": "2025-07-29",
+        "video": "https://www.twitch.tv/videos/2525778344",
+        "banned": false
+      }
+    ]
+  }
+]

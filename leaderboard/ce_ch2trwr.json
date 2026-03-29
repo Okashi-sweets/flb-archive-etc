@@ -1,0 +1,35 @@
+[
+  {
+    "name_ideal": "ce_ch2trwr",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "True Reset(Snowwgrave)",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "86n5eg5x",
+        "name": "hovs",
+        "time": 2028,
+        "date": "2022-11-14",
+        "video": "https://youtu.be/OVvfK2DrNRY",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 2077,
+        "date": "2025-07-31",
+        "video": "https://www.youtube.com/watch?v=YMaQkXQB1vk",
+        "banned": false
+      },
+      {
+        "id": "5j5ympn8",
+        "name": "asalt9snipr9",
+        "time": 3042,
+        "date": "2022-10-31",
+        "video": "https://www.youtube.com/watch?v=Lhg7DPyG_IM",
+        "banned": false
+      }
+    ]
+  }
+]

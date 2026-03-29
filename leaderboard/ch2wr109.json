@@ -1,0 +1,99 @@
+[
+  {
+    "name_ideal": "ch2wr109",
+    "group": "base",
+    "category1": "Chapter 2",
+    "category2": "Snowgrave",
+    "category3": "1.09",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 1647,
+        "date": "2022-08-04",
+        "video": "https://youtu.be/i2aYKc5z1As",
+        "banned": false
+      },
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 1650,
+        "date": "2025-07-18",
+        "video": "https://youtu.be/RFIVKGZ7PCc?si=pc_ibpMWfTZN9wXC",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 1654,
+        "date": "2022-04-06",
+        "video": "https://www.youtube.com/watch?v=ywrwkms0jeI",
+        "banned": false
+      },
+      {
+        "id": "8q530mw8",
+        "name": "CrystalSRL",
+        "time": 1668,
+        "date": "2024-12-16",
+        "video": "https://youtu.be/a2lyZOdeZPE",
+        "banned": false
+      },
+      {
+        "id": "pj01z7rx",
+        "name": "Shayy",
+        "time": 1684,
+        "date": "2022-03-04",
+        "video": "https://www.youtube.com/watch?v=Szzexw8S3OU",
+        "banned": true
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 1684,
+        "date": "2025-04-11",
+        "video": "https://youtu.be/2xGkvV8s7W0",
+        "banned": false
+      },
+      {
+        "id": "8geqq0rj",
+        "name": "ILostMyChurro",
+        "time": 1758,
+        "date": "2023-03-25",
+        "video": "https://youtu.be/m4AJmKDHZxE",
+        "banned": false
+      },
+      {
+        "id": "8v6p4qvx",
+        "name": "Jinku_SR",
+        "time": 1834,
+        "date": "2025-05-11",
+        "video": "https://www.twitch.tv/videos/2455859943",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 1858,
+        "date": "2026-01-04",
+        "video": "https://youtu.be/oOR3fzsMn3A",
+        "banned": false
+      },
+      {
+        "id": "qjom5mnx",
+        "name": "TheLogimusPrime",
+        "time": 1929,
+        "date": "2025-07-07",
+        "video": "https://www.youtube.com/watch?v=31oBagahBRY",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 1973,
+        "date": "2024-07-18",
+        "video": "https://www.youtube.com/watch?v=J4DZpoWXqwQ",
+        "banned": false
+      }
+    ]
+  }
+]

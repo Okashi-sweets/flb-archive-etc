@@ -1,0 +1,75 @@
+[
+  {
+    "name_ideal": "acab",
+    "group": "base",
+    "category1": "All Chapters",
+    "category2": "All Bosses",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 10846,
+        "date": "2026-03-01",
+        "video": "https://youtu.be/g-akYX6WNQI",
+        "banned": false
+      },
+      {
+        "id": "xz9o0y08",
+        "name": "MarioMan47",
+        "time": 10876,
+        "date": "2025-10-26",
+        "video": "https://youtu.be/knRh5U8zOJM",
+        "banned": false
+      },
+      {
+        "id": "qxko3kk8",
+        "name": "Timopy",
+        "time": 11345,
+        "date": "2026-03-28",
+        "video": "https://www.youtube.com/watch?v=yh14Xpz6cIk",
+        "banned": false
+      },
+      {
+        "id": "x7qkndr8",
+        "name": "30Aces",
+        "time": 11403,
+        "date": "2025-10-22",
+        "video": "https://youtu.be/Zj6RU25fz54?t=629",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 11488,
+        "date": "2026-02-17",
+        "video": "https://www.youtube.com/watch?v=dhwzXlpVxVE",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 11616,
+        "date": "2026-02-03",
+        "video": "https://youtu.be/i7iHTHcGryU",
+        "banned": false
+      },
+      {
+        "id": "68w4mv4x",
+        "name": "LightningBolts",
+        "time": 12682,
+        "date": "2025-09-13",
+        "video": "https://www.youtube.com/watch?v=MM-wCMPZZnA",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 14174,
+        "date": "2025-07-04",
+        "video": "https://youtu.be/Yyq4kAdc6t4",
+        "banned": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_ch4abar",
+    "group": "ce",
+    "category1": "Chapter 4",
+    "category2": "All Bosses All Recruits",
+    "category3": "Glitched",
+    "runs": [
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 3138,
+        "date": "2025-08-27",
+        "video": "https://youtu.be/IUQgVbD801A",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 3281,
+        "date": "2025-07-29",
+        "video": "https://youtu.be/5kNPrSkB0bc",
+        "banned": false
+      }
+    ]
+  }
+]

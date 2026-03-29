@@ -1,0 +1,43 @@
+[
+  {
+    "name_ideal": "ce_ch2alrg",
+    "group": "ce",
+    "category1": "Chapter 2",
+    "category2": "All Lost Recruits",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 3171,
+        "date": "2024-08-24",
+        "video": "https://www.youtube.com/watch?v=OtAhXelnGyU",
+        "banned": false
+      },
+      {
+        "id": "j40n6lm8",
+        "name": "ModeratelyFastGamer",
+        "time": 3423,
+        "date": "2023-10-22",
+        "video": "https://www.youtube.com/watch?v=oHwHWFKRkqc",
+        "banned": false
+      },
+      {
+        "id": "18vdp5v8",
+        "name": "Icyphoenix",
+        "time": 3430,
+        "date": "2024-02-04",
+        "video": "https://youtu.be/riQacvyNAFg?si=c9noP73RMzsnR6IK",
+        "banned": false
+      },
+      {
+        "id": "8eow646j",
+        "name": "VeylXR",
+        "time": 4099,
+        "date": "2024-10-10",
+        "video": "https://youtu.be/GL_OTn5qiIA?si=na1Odq7HSmBmzWDn",
+        "banned": false
+      }
+    ]
+  }
+]

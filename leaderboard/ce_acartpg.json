@@ -1,0 +1,26 @@
+[
+  {
+    "name_ideal": "ce_acartpg",
+    "group": "ce",
+    "category1": "All Recruits True Pacifist",
+    "category2": "Glitchless",
+    "runs": [
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 10546,
+        "date": "2026-02-14",
+        "video": "https://www.youtube.com/watch?v=qh3rSnzobVQ",
+        "banned": false
+      },
+      {
+        "id": "48gqyr1j",
+        "name": "mooshiros",
+        "time": 10876,
+        "date": "2025-07-30",
+        "video": "https://youtu.be/H1ojasJwgOo",
+        "banned": false
+      }
+    ]
+  }
+]

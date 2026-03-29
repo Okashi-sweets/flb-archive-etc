@@ -1,0 +1,107 @@
+[
+  {
+    "name_ideal": "ce_demoabnmg",
+    "group": "ce",
+    "category1": "CH1+2 Demo",
+    "category2": "All Bosses",
+    "category3": "No Major Glitches",
+    "runs": [
+      {
+        "id": "j4rlz3d8",
+        "name": "ashmichda",
+        "time": 5102,
+        "date": "2023-08-03",
+        "video": "https://youtu.be/day5SR3ETqQ?si=hSX1iGm-Uk7LzQ1O",
+        "banned": false
+      },
+      {
+        "id": "8geq62rj",
+        "name": "Jaq",
+        "time": 5115,
+        "date": "2022-08-31",
+        "video": "https://youtu.be/b7WobbNsXgI",
+        "banned": false
+      },
+      {
+        "id": "x356mgej",
+        "name": "Trinky44",
+        "time": 5129,
+        "date": "2025-04-17",
+        "video": "https://youtu.be/CaUearuxAMA",
+        "banned": false
+      },
+      {
+        "id": "zxzn4o9x",
+        "name": "TheMagicD",
+        "time": 5253,
+        "date": "2023-03-31",
+        "video": "https://www.youtube.com/watch?v=W7_3Td2xgoM",
+        "banned": false
+      },
+      {
+        "id": "x7qdw3q8",
+        "name": "ItsMeDelta",
+        "time": 5374,
+        "date": "2024-08-01",
+        "video": "https://www.youtube.com/watch?v=GbIcbdKOxPw",
+        "banned": false
+      },
+      {
+        "id": "1xymkgzx",
+        "name": "nhaar",
+        "time": 5379,
+        "date": "2021-10-23",
+        "video": "https://www.youtube.com/watch?v=OfVSJDcck4w",
+        "banned": false
+      },
+      {
+        "id": "xyrl16yj",
+        "name": "YZA",
+        "time": 5388,
+        "date": "2021-10-21",
+        "video": "https://www.youtube.com/watch?v=Uu3v8RtNbVo",
+        "banned": false
+      },
+      {
+        "id": "7j4op3d8",
+        "name": "Tadyman",
+        "time": 5423,
+        "date": "2022-02-20",
+        "video": "https://youtu.be/qIl4EO82wR0",
+        "banned": false
+      },
+      {
+        "id": "8wlnqz4j",
+        "name": "WooffleDee",
+        "time": 5454,
+        "date": "2025-02-20",
+        "video": "https://www.youtube.com/watch?v=6JHjCopOC6o",
+        "banned": false
+      },
+      {
+        "id": "8rpm5zdj",
+        "name": "Bubill",
+        "time": 5705,
+        "date": "2022-09-18",
+        "video": "https://www.youtube.com/watch?v=0vwJ1BPJKDo",
+        "banned": false
+      },
+      {
+        "id": "8w353z3j",
+        "name": "GamerMugs",
+        "time": 6755,
+        "date": "2023-11-18",
+        "video": "https://youtu.be/CixoagurbIA?si=EZaGK9VXpU_UCKSe",
+        "banned": false
+      },
+      {
+        "id": "xylyzgyj",
+        "name": "D3cIma",
+        "time": 8969,
+        "date": "2022-10-29",
+        "video": "https://youtu.be/thvs2-ChDOg",
+        "banned": false
+      }
+    ]
+  }
+]

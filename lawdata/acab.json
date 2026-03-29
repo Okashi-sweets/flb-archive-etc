@@ -1,0 +1,453 @@
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune#all-chapters",
+    "game": "pdvznzr6",
+    "category": "n2y0j5ed",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylpkxg68": "lx5wyn21",
+      "789em33l": "14oe2z0q"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "yl24783z",
+          "weblink": "https://www.speedrun.com/deltarune/run/yl24783z",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/g-akYX6WNQI"
+              }
+            ]
+          },
+          "comment": "birthday pb!!!\n\nch1 - 30:13\n\nch2 - 48:53\n\nch3 - 58:36\n\nch4 - 43:02",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-03-02T13:12:02Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8geq62rj",
+              "uri": "https://www.speedrun.com/api/v1/users/8geq62rj"
+            }
+          ],
+          "date": "2026-03-01",
+          "submitted": "2026-03-01T21:31:42Z",
+          "times": {
+            "primary": "PT3H46S",
+            "primary_t": 10846,
+            "realtime": "PT3H13M43S",
+            "realtime_t": 11623,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H46S",
+            "ingame_t": 10846
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "yl5v0wnz",
+          "weblink": "https://www.speedrun.com/deltarune/run/yl5v0wnz",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/knRh5U8zOJM"
+              }
+            ]
+          },
+          "comment": "Sub 3 is possible...",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-10-27T06:08:21Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "xz9o0y08",
+              "uri": "https://www.speedrun.com/api/v1/users/xz9o0y08"
+            }
+          ],
+          "date": "2025-10-26",
+          "submitted": "2025-10-26T03:57:51Z",
+          "times": {
+            "primary": "PT3H1M16S",
+            "primary_t": 10876,
+            "realtime": "PT3H9M26S",
+            "realtime_t": 11366,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H1M16S",
+            "ingame_t": 10876
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "mkxgxolz",
+          "weblink": "https://www.speedrun.com/deltarune/run/mkxgxolz",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=yh14Xpz6cIk"
+              }
+            ]
+          },
+          "comment": "Saturday morning cartoons",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-03-28T21:48:55Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "qxko3kk8",
+              "uri": "https://www.speedrun.com/api/v1/users/qxko3kk8"
+            }
+          ],
+          "date": "2026-03-28",
+          "submitted": "2026-03-28T17:33:20Z",
+          "times": {
+            "primary": "PT3H9M5S",
+            "primary_t": 11345,
+            "realtime": "PT3H17M13S",
+            "realtime_t": 11833,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H9M5S",
+            "ingame_t": 11345
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
+          "id": "zx52we8m",
+          "weblink": "https://www.speedrun.com/deltarune/run/zx52we8m",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/Zj6RU25fz54?t=629"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2025-10-22T09:53:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qkndr8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qkndr8"
+            }
+          ],
+          "date": "2025-10-22",
+          "submitted": "2025-10-22T06:46:17Z",
+          "times": {
+            "primary": "PT3H10M3S",
+            "primary_t": 11403,
+            "realtime": "PT3H16M46S",
+            "realtime_t": 11806,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H10M3S",
+            "ingame_t": 11403
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 5,
+        "run": {
+          "id": "z5n5775z",
+          "weblink": "https://www.speedrun.com/deltarune/run/z5n5775z",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=dhwzXlpVxVE"
+              }
+            ]
+          },
+          "comment": "WARNING: extremely BIG and CRINGE crash-out during chapters 3-4",
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2026-02-17T10:37:25Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-02-17",
+          "submitted": "2026-02-17T05:32:29Z",
+          "times": {
+            "primary": "PT3H11M28S",
+            "primary_t": 11488,
+            "realtime": "PT3H12M53S",
+            "realtime_t": 11573,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H11M28S",
+            "ingame_t": 11488
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 6,
+        "run": {
+          "id": "yj7v8lny",
+          "weblink": "https://www.speedrun.com/deltarune/run/yj7v8lny",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/i7iHTHcGryU"
+              }
+            ]
+          },
+          "comment": "hero's journey ahh run",
+          "status": {
+            "status": "verified",
+            "examiner": "8wlnqz4j",
+            "verify-date": "2026-02-03T18:33:21Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8wlnqz4j",
+              "uri": "https://www.speedrun.com/api/v1/users/8wlnqz4j"
+            }
+          ],
+          "date": "2026-02-03",
+          "submitted": "2026-02-03T18:33:21Z",
+          "times": {
+            "primary": "PT3H13M36S",
+            "primary_t": 11616,
+            "realtime": "PT3H21M28S",
+            "realtime_t": 12088,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H13M36S",
+            "ingame_t": 11616
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 7,
+        "run": {
+          "id": "z16w84rm",
+          "weblink": "https://www.speedrun.com/deltarune/run/z16w84rm",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=MM-wCMPZZnA"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-09-14T08:16:31Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "68w4mv4x",
+              "uri": "https://www.speedrun.com/api/v1/users/68w4mv4x"
+            }
+          ],
+          "date": "2025-09-13",
+          "submitted": "2025-09-13T05:32:00Z",
+          "times": {
+            "primary": "PT3H31M22S",
+            "primary_t": 12682,
+            "realtime": "PT3H37M32S",
+            "realtime_t": 13052,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H31M22S",
+            "ingame_t": 12682
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "1w4ooxmq"
+          }
+        }
+      },
+      {
+        "place": 8,
+        "run": {
+          "id": "ylj1w1xm",
+          "weblink": "https://www.speedrun.com/deltarune/run/ylj1w1xm",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/Yyq4kAdc6t4"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-07-10T14:19:54Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "o86e3ywx",
+              "uri": "https://www.speedrun.com/api/v1/users/o86e3ywx"
+            }
+          ],
+          "date": "2025-07-04",
+          "submitted": "2025-07-05T01:15:07Z",
+          "times": {
+            "primary": "PT3H56M14S",
+            "primary_t": 14174,
+            "realtime": "PT3H59M31S",
+            "realtime_t": 14371,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H56M14S",
+            "ingame_t": 14174
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "lx5wyn21",
+            "789em33l": "14oe2z0q",
+            "ylpk0or8": "1w4ooxmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/pdvznzr6"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/n2y0j5ed"
+      }
+    ]
+  }
+}

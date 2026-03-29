@@ -1,0 +1,446 @@
+[
+  {
+    "category": "acmr",
+    "time": 7815
+  },
+  {
+    "category": "acmrg",
+    "time": 9760
+  },
+  {
+    "category": "acwr",
+    "time": 8495
+  },
+  {
+    "category": "acwrg",
+    "time": 9546
+  },
+  {
+    "category": "acar",
+    "time": 9012
+  },
+  {
+    "category": "acarg",
+    "time": 10546
+  },
+  {
+    "category": "acab",
+    "time": 10846
+  },
+  {
+    "category": "acabg",
+    "time": 11930
+  },
+  {
+    "category": "ch1any",
+    "time": 1538.867
+  },
+  {
+    "category": "ch1ab",
+    "time": 1786
+  },
+  {
+    "category": "ch1tp",
+    "time": 1565
+  },
+  {
+    "category": "ch1109",
+    "time": 1526
+  },
+  {
+    "category": "ch2mr",
+    "time": 1542.133
+  },
+  {
+    "category": "ch2mrnmg",
+    "time": 2593
+  },
+  {
+    "category": "ch2mrg",
+    "time": 2860
+  },
+  {
+    "category": "ch2mr109",
+    "time": 1406
+  },
+  {
+    "category": "ch2wr",
+    "time": 1640
+  },
+  {
+    "category": "ch2wrnmg",
+    "time": 1867
+  },
+  {
+    "category": "ch2wrg",
+    "time": 1959.533
+  },
+  {
+    "category": "ch2wr109",
+    "time": 1647
+  },
+  {
+    "category": "ch2ar",
+    "time": 1842
+  },
+  {
+    "category": "ch2arnmg",
+    "time": 2752
+  },
+  {
+    "category": "ch2arg",
+    "time": 2989
+  },
+  {
+    "category": "ch2ab",
+    "time": 2955
+  },
+  {
+    "category": "ch2abnmg",
+    "time": 3171
+  },
+  {
+    "category": "ch2abg",
+    "time": 3369
+  },
+  {
+    "category": "ch3any",
+    "time": 2328
+  },
+  {
+    "category": "ch3ar",
+    "time": 2493
+  },
+  {
+    "category": "ch3ab",
+    "time": 3449
+  },
+  {
+    "category": "ch4any",
+    "time": 2306
+  },
+  {
+    "category": "ch4anyg",
+    "time": 2975
+  },
+  {
+    "category": "ch4ar",
+    "time": 2611
+  },
+  {
+    "category": "ch4arg",
+    "time": 3248
+  },
+  {
+    "category": "ch4ab",
+    "time": 2627
+  },
+  {
+    "category": "ch4abg",
+    "time": 3298
+  },
+  {
+    "category": "asc",
+    "time": 9425
+  },
+  {
+    "category": "ascg",
+    "time": 10328
+  },
+  {
+    "category": "ce_demomr",
+    "time": 3100
+  },
+  {
+    "category": "ce_demomrnmg",
+    "time": 4284
+  },
+  {
+    "category": "ce_demomrg",
+    "time": 4478
+  },
+  {
+    "category": "ce_demowr",
+    "time": 3264
+  },
+  {
+    "category": "ce_demownmg",
+    "time": 3457
+  },
+  {
+    "category": "ce_demowrg",
+    "time": 3539
+  },
+  {
+    "category": "ce_demoar",
+    "time": 3473
+  },
+  {
+    "category": "ce_demoarnmg",
+    "time": 4442
+  },
+  {
+    "category": "ce_demoarg",
+    "time": 4650
+  },
+  {
+    "category": "ce_demoab",
+    "time": 4757
+  },
+  {
+    "category": "ce_demoabnmg",
+    "time": 5102
+  },
+  {
+    "category": "ce_demoabg",
+    "time": 5175
+  },
+  {
+    "category": "ce_actrmr",
+    "time": 11870
+  },
+  {
+    "category": "ce_actrmrg",
+    "time": 13038
+  },
+  {
+    "category": "ce_actrwr",
+    "time": 11649
+  },
+  {
+    "category": "ce_actrwrg",
+    "time": 11649
+  },
+  {
+    "category": "ce_acegg",
+    "time": 7322
+  },
+  {
+    "category": "ce_aceggg",
+    "time": 10290
+  },
+  {
+    "category": "ce_acartp",
+    "time": 9034
+  },
+  {
+    "category": "ce_acartpg",
+    "time": 10546
+  },
+  {
+    "category": "ce_acabar",
+    "time": null
+  },
+  {
+    "category": "ce_acabarg",
+    "time": 13296
+  },
+  {
+    "category": "ce_acat",
+    "time": 15922
+  },
+  {
+    "category": "ce_acatg",
+    "time": null
+  },
+  {
+    "category": "ce_acost",
+    "time": 15756
+  },
+  {
+    "category": "ce_acostg",
+    "time": 16810
+  },
+  {
+    "category": "ce_acai",
+    "time": null
+  },
+  {
+    "category": "ce_acaig",
+    "time": 14539
+  },
+  {
+    "category": "ce_actracabarpeeg",
+    "time": 24093
+  },
+  {
+    "category": "ce_ch1tr",
+    "time": 1759
+  },
+  {
+    "category": "ce_ch1jevil",
+    "time": 1338
+  },
+  {
+    "category": "ce_ch1abtp",
+    "time": 1845
+  },
+  {
+    "category": "ce_ch2trmr",
+    "time": 1812
+  },
+  {
+    "category": "ce_ch2trmrnmg",
+    "time": 3008
+  },
+  {
+    "category": "ce_ch2trmrg",
+    "time": 3210
+  },
+  {
+    "category": "ce_ch2trwr",
+    "time": 2028
+  },
+  {
+    "category": "ce_ch2trwrnmg",
+    "time": 2275
+  },
+  {
+    "category": "ce_ch2trwrg",
+    "time": 2265
+  },
+  {
+    "category": "ce_ch2neo",
+    "time": 2109
+  },
+  {
+    "category": "ce_ch2neonmg",
+    "time": 1904
+  },
+  {
+    "category": "ce_ch2neog",
+    "time": 2109
+  },
+  {
+    "category": "ce_ch2abar",
+    "time": 3377
+  },
+  {
+    "category": "ce_ch2abarnmg",
+    "time": 3419
+  },
+  {
+    "category": "ce_ch2abarg",
+    "time": 3590
+  },
+  {
+    "category": "ce_ch2are",
+    "time": 3132
+  },
+  {
+    "category": "ce_ch2areg",
+    "time": 3145
+  },
+  {
+    "category": "ce_ch2lotr",
+    "time": 10206
+  },
+  {
+    "category": "ce_ch2as",
+    "time": 2755
+  },
+  {
+    "category": "ce_ch2asnmg",
+    "time": 3059
+  },
+  {
+    "category": "ce_ch2asg",
+    "time": 3249
+  },
+  {
+    "category": "ce_ch2alr",
+    "time": 1925
+  },
+  {
+    "category": "ce_ch2alrnmg",
+    "time": 2074
+  },
+  {
+    "category": "ce_ch2alrg",
+    "time": 3171
+  },
+  {
+    "category": "ce_ch2sapr",
+    "time": 1854
+  },
+  {
+    "category": "ce_ch2sapr109",
+    "time": 1955
+  },
+  {
+    "category": "ce_ch3tr",
+    "time": 2780
+  },
+  {
+    "category": "ce_ch3nightmare",
+    "time": 2646
+  },
+  {
+    "category": "ce_ch3sc",
+    "time": 2654
+  },
+  {
+    "category": "ce_ch3abar",
+    "time": 3694
+  },
+  {
+    "category": "ce_ch3alr",
+    "time": 2533
+  },
+  {
+    "category": "ce_ch4tr",
+    "time": 3120
+  },
+  {
+    "category": "ce_ch4trg",
+    "time": 3789
+  },
+  {
+    "category": "ce_ch4gerson",
+    "time": 1063
+  },
+  {
+    "category": "ce_ch4gersong",
+    "time": 1089
+  },
+  {
+    "category": "ce_ch4abar",
+    "time": 3138
+  },
+  {
+    "category": "ce_ch4abarg",
+    "time": 3648
+  },
+  {
+    "category": "ce_ch4abe",
+    "time": 3085
+  },
+  {
+    "category": "ce_ch4abeg",
+    "time": 3879
+  },
+  {
+    "category": "ce_ch4alr",
+    "time": 2582
+  },
+  {
+    "category": "ce_ch4alrg",
+    "time": 3245
+  },
+  {
+    "category": "ce_ch4mike",
+    "time": 557
+  },
+  {
+    "category": "ce_ch4mikeg",
+    "time": 557
+  },
+  {
+    "category": "ce_ch4mike2",
+    "time": 643
+  },
+  {
+    "category": "ce_ch4mike2g",
+    "time": 643
+  }
+]

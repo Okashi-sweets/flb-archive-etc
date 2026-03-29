@@ -1,0 +1,27 @@
+[
+  {
+    "name_ideal": "ce_ch4mike2g",
+    "group": "ce",
+    "category1": "Chapter 4",
+    "category2": "Mike%(Switch2)",
+    "category3": "Glitchless",
+    "runs": [
+      {
+        "id": "x3q542ej",
+        "name": "Nate09",
+        "time": 643,
+        "date": "2025-11-16",
+        "video": "https://youtu.be/sUALjLc_NhI?si=cJxDBApL3rZvn3TR",
+        "banned": false
+      },
+      {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 658,
+        "date": "2025-07-26",
+        "video": "https://youtu.be/0nOkBmiw44M",
+        "banned": false
+      }
+    ]
+  }
+]
