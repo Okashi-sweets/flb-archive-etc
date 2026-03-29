@@ -23,9 +23,12 @@ jobs:
           deno-version: v1.x
 
       - name: Run daily script
+        env:
+          # GitHubに保存した秘密の値を、実行時の環境変数にセットする
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          # 必要な権限をすべて許可して実行
-          deno run --allow-net --allow-read --allow-write daily.ts
+          # --env フラグは不要（GitHubが直接環境変数に注入するため）
+          deno run --allow-net --allow-read --allow-write --allow-env daily.ts
 
       - name: Commit and Push changes
         run: |
