@@ -37,7 +37,7 @@ jobs:
           git add .
           # 差分がある場合のみコミット
           if ! git diff --cached --exit-code --quiet; then
-            git commit -m "Update: $(date +'%Y-%m-%d') data results"
+            git commit -m "Update: $(date +'%Y-%m-%d')"
             git push
           else
             echo "No changes to commit"
