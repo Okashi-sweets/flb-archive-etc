@@ -3,7 +3,7 @@ layout: default
 title: I'm in April 1st
 ---
 
-# Deltarune Score Ranking
+# Deltarune ~~Joke~~ Score Ranking
 
 | place | name | score |
 | :--- | :--- | :--- |
