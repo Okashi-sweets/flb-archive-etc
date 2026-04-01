@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I'm not in April 1st
+title: I'm in April 1st
 ---
 
 # Deltarune Score Ranking
