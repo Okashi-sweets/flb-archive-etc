@@ -3,7 +3,11 @@
   "name": "ashmichda",
   "banned": false,
   "pbscore": 3685.79,
+<<<<<<< HEAD
   "pbscoredetail": {
+=======
+  "pbscoredatail": {
+>>>>>>> 773a67e6ba6e594205a325df6776db775f9fba77
     "basescore": 2946.48,
     "cescore": 739.31,
     "acscore": 393.25,

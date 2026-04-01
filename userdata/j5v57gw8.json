@@ -3,7 +3,11 @@
   "name": "Vintagix",
   "banned": false,
   "pbscore": 1762.87,
+<<<<<<< HEAD
   "pbscoredetail": {
+=======
+  "pbscoredatail": {
+>>>>>>> 773a67e6ba6e594205a325df6776db775f9fba77
     "basescore": 1660.5,
     "cescore": 102.37,
     "acscore": 96.51,
