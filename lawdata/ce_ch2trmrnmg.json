@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"14oe8ojq","jlz6erq8":"q8k7j4kq"},"runs":[{"place":1,"run":{"id":"znggvp8m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/znggvp8m","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/fvRaVABBUEA"}]},"comment":null,"status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-13T07:49:29Z"},"players":[{"rel":"user","id":"48gqyr1j","uri":"https://www.speedrun.com/api/v1/users/48gqyr1j"}],"date":"2025-08-13","submitted":"2025-08-13T03:05:29Z","times":{"primary":"PT50M8S","primary_t":3008,"realtime":"PT50M8S","realtime_t":3008,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"q8k7j4kq","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"y2846n9y","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y2846n9y","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/wzIDq9tvhGo"}]},"comment":"**THIS IS THE MOST ASS RUN OF ALL TIME**\n\n*I was also watching the roaring enthusiast during this run so I was heavily distracted by elite gameplay*","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-09-01T21:23:00Z"},"players":[{"rel":"user","id":"8eow646j","uri":"https://www.speedrun.com/api/v1/users/8eow646j"}],"date":"2025-09-01","submitted":"2025-09-01T21:16:28Z","times":{"primary":"PT1H4M34S","primary_t":3874,"realtime":"PT1H4M34S","realtime_t":3874,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"7m6ylw9p","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"q8k7j4kq","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "14oe8ojq",
+      "jlz6erq8": "q8k7j4kq"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "znggvp8m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/znggvp8m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/fvRaVABBUEA"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-13T07:49:29Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "48gqyr1j",
+              "uri": "https://www.speedrun.com/api/v1/users/48gqyr1j"
+            }
+          ],
+          "date": "2025-08-13",
+          "submitted": "2025-08-13T03:05:29Z",
+          "times": {
+            "primary": "PT50M8S",
+            "primary_t": 3008,
+            "realtime": "PT50M8S",
+            "realtime_t": 3008,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "q8k7j4kq",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "y2846n9y",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y2846n9y",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/wzIDq9tvhGo"
+              }
+            ]
+          },
+          "comment": "**THIS IS THE MOST ASS RUN OF ALL TIME**\n\n*I was also watching the roaring enthusiast during this run so I was heavily distracted by elite gameplay*",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-09-01T21:23:00Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8eow646j",
+              "uri": "https://www.speedrun.com/api/v1/users/8eow646j"
+            }
+          ],
+          "date": "2025-09-01",
+          "submitted": "2025-09-01T21:16:28Z",
+          "times": {
+            "primary": "PT1H4M34S",
+            "primary_t": 3874,
+            "realtime": "PT1H4M34S",
+            "realtime_t": 3874,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "7m6ylw9p",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "q8k7j4kq",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

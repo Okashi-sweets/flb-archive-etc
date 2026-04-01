@@ -2,8 +2,7 @@ import { src1, src2 } from "./ts_component/getsrc.ts";
 import { loadjson, savejson } from "./ts_component/json.ts";
 
 export async function checksrc() {
-    const lawlist = await Deno.readTextFile("url.json")
-    const list = JSON.parse(lawlist);
+    const list = await loadjson("./info/url.json")
     let updatedlist: string[] = [];
 
     for (const item of list) {

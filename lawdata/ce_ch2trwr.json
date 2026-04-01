@@ -1,1 +1,188 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"lr3wv32l","jlz6erq8":"1dk796jl"},"runs":[{"place":1,"run":{"id":"zx81keem","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zx81keem","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/OVvfK2DrNRY"}]},"comment":"yo","status":{"status":"verified","examiner":"8geq62rj","verify-date":"2022-11-15T02:52:47Z"},"players":[{"rel":"user","id":"86n5eg5x","uri":"https://www.speedrun.com/api/v1/users/86n5eg5x"}],"date":"2022-11-14","submitted":"2022-11-15T01:18:03Z","times":{"primary":"PT33M48S","primary_t":2028,"realtime":"PT33M48S","realtime_t":2028,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"lr3wv32l","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"yljx15nm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/yljx15nm","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=YMaQkXQB1vk"}]},"comment":"beat my previous run (which used 1.09 unlike this one) without even trying to lol :p","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-01T09:00:53Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2025-07-31","submitted":"2025-07-31T16:48:43Z","times":{"primary":"PT34M37S","primary_t":2077,"realtime":"PT34M37S","realtime_t":2077,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"lr3wv32l","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}},{"place":3,"run":{"id":"yv0ej1xz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/yv0ej1xz","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=Lhg7DPyG_IM"}]},"comment":"So many places choked, like there's at least 1 major screwup in EVERY corner of the game! Failed to equip thorn ring, failed to skip mauswheel, etc.\r\n\r\nI removed audio at 27:39-27:56 and 49:39-50:13 due to excessive screaming.\r\n","status":{"status":"verified","examiner":"j5v57gw8","verify-date":"2022-11-02T16:59:38Z"},"players":[{"rel":"user","id":"5j5ympn8","uri":"https://www.speedrun.com/api/v1/users/5j5ympn8"}],"date":"2022-10-31","submitted":"2022-11-01T11:19:14Z","times":{"primary":"PT50M42S","primary_t":3042,"realtime":"PT50M42S","realtime_t":3042,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"lr3wv32l","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "lr3wv32l",
+      "jlz6erq8": "1dk796jl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "zx81keem",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zx81keem",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/OVvfK2DrNRY"
+              }
+            ]
+          },
+          "comment": "yo",
+          "status": {
+            "status": "verified",
+            "examiner": "8geq62rj",
+            "verify-date": "2022-11-15T02:52:47Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "86n5eg5x",
+              "uri": "https://www.speedrun.com/api/v1/users/86n5eg5x"
+            }
+          ],
+          "date": "2022-11-14",
+          "submitted": "2022-11-15T01:18:03Z",
+          "times": {
+            "primary": "PT33M48S",
+            "primary_t": 2028,
+            "realtime": "PT33M48S",
+            "realtime_t": 2028,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "lr3wv32l",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "yljx15nm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/yljx15nm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=YMaQkXQB1vk"
+              }
+            ]
+          },
+          "comment": "beat my previous run (which used 1.09 unlike this one) without even trying to lol :p",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-01T09:00:53Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2025-07-31",
+          "submitted": "2025-07-31T16:48:43Z",
+          "times": {
+            "primary": "PT34M37S",
+            "primary_t": 2077,
+            "realtime": "PT34M37S",
+            "realtime_t": 2077,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "lr3wv32l",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "yv0ej1xz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/yv0ej1xz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=Lhg7DPyG_IM"
+              }
+            ]
+          },
+          "comment": "So many places choked, like there's at least 1 major screwup in EVERY corner of the game! Failed to equip thorn ring, failed to skip mauswheel, etc.\r\n\r\nI removed audio at 27:39-27:56 and 49:39-50:13 due to excessive screaming.\r\n",
+          "status": {
+            "status": "verified",
+            "examiner": "j5v57gw8",
+            "verify-date": "2022-11-02T16:59:38Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j5ympn8",
+              "uri": "https://www.speedrun.com/api/v1/users/5j5ympn8"
+            }
+          ],
+          "date": "2022-10-31",
+          "submitted": "2022-11-01T11:19:14Z",
+          "times": {
+            "primary": "PT50M42S",
+            "primary_t": 3042,
+            "realtime": "PT50M42S",
+            "realtime_t": 3042,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "lr3wv32l",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

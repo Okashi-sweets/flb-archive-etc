@@ -3,7 +3,7 @@
   "name": "Caffemocha",
   "banned": false,
   "pbscore": 35,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 25,
     "cescore": 10,
     "acscore": 0,

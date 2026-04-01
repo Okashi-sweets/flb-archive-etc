@@ -3,7 +3,7 @@
   "name": "UrbanFlora",
   "banned": false,
   "pbscore": 93.6,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 93.6,
     "cescore": 0,
     "acscore": 0,

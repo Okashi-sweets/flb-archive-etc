@@ -3,7 +3,7 @@
   "name": "aBike",
   "banned": false,
   "pbscore": 190.78,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 190.78,
     "cescore": 0,
     "acscore": 0,

@@ -3,7 +3,7 @@
   "name": "Evandar",
   "banned": false,
   "pbscore": 225.55,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 192.29,
     "cescore": 33.26,
     "acscore": 0,

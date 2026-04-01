@@ -3,7 +3,7 @@
   "name": "Dalibre",
   "banned": false,
   "pbscore": 125,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 125,
     "cescore": 0,
     "acscore": 50,

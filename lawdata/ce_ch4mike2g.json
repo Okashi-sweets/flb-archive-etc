@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-4","game":"y6552z86","category":"9kvvjm0k","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"yn262jel":"lx5w2zj1","6njp2z6n":"qvvwgxwq"},"runs":[{"place":1,"run":{"id":"zp589xry","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zp589xry","game":"y6552z86","level":null,"category":"9kvvjm0k","videos":{"links":[{"uri":"https://youtu.be/sUALjLc_NhI?si=cJxDBApL3rZvn3TR"}]},"comment":"My first Deltarune WR and it's on what is essentially the worst category","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-11-17T15:35:55Z"},"players":[{"rel":"user","id":"x3q542ej","uri":"https://www.speedrun.com/api/v1/users/x3q542ej"}],"date":"2025-11-16","submitted":"2025-11-16T16:45:46Z","times":{"primary":"PT10M43S","primary_t":643,"realtime":"PT10M43S","realtime_t":643,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"3167lw9q","emulated":false,"region":"o316x197"},"splits":null,"values":{"yn262jel":"lx5w2zj1","6njp2z6n":"qvvwgxwq","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"y4n66ndm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y4n66ndm","game":"y6552z86","level":null,"category":"9kvvjm0k","videos":{"links":[{"uri":"https://youtu.be/0nOkBmiw44M"}]},"comment":"Not sure if end split is correct","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-07-26T20:21:37Z"},"players":[{"rel":"user","id":"o86e3ywx","uri":"https://www.speedrun.com/api/v1/users/o86e3ywx"}],"date":"2025-07-26","submitted":"2025-07-26T20:06:48Z","times":{"primary":"PT10M58S","primary_t":658,"realtime":"PT10M58S","realtime_t":658,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"3167lw9q","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"yn262jel":"lx5w2zj1","6njp2z6n":"qvvwgxwq","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/9kvvjm0k"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-4",
+    "game": "y6552z86",
+    "category": "9kvvjm0k",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "yn262jel": "lx5w2zj1",
+      "6njp2z6n": "qvvwgxwq"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "zp589xry",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zp589xry",
+          "game": "y6552z86",
+          "level": null,
+          "category": "9kvvjm0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/sUALjLc_NhI?si=cJxDBApL3rZvn3TR"
+              }
+            ]
+          },
+          "comment": "My first Deltarune WR and it's on what is essentially the worst category",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-11-17T15:35:55Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x3q542ej",
+              "uri": "https://www.speedrun.com/api/v1/users/x3q542ej"
+            }
+          ],
+          "date": "2025-11-16",
+          "submitted": "2025-11-16T16:45:46Z",
+          "times": {
+            "primary": "PT10M43S",
+            "primary_t": 643,
+            "realtime": "PT10M43S",
+            "realtime_t": 643,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "3167lw9q",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "yn262jel": "lx5w2zj1",
+            "6njp2z6n": "qvvwgxwq",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "y4n66ndm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y4n66ndm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "9kvvjm0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/0nOkBmiw44M"
+              }
+            ]
+          },
+          "comment": "Not sure if end split is correct",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-07-26T20:21:37Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "o86e3ywx",
+              "uri": "https://www.speedrun.com/api/v1/users/o86e3ywx"
+            }
+          ],
+          "date": "2025-07-26",
+          "submitted": "2025-07-26T20:06:48Z",
+          "times": {
+            "primary": "PT10M58S",
+            "primary_t": 658,
+            "realtime": "PT10M58S",
+            "realtime_t": 658,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "3167lw9q",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "yn262jel": "lx5w2zj1",
+            "6njp2z6n": "qvvwgxwq",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvvjm0k"
+      }
+    ]
+  }
+}

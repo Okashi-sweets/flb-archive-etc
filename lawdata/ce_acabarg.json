@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"qoxwkx2q","gnxqgjp8":"lx5wr5r1"},"runs":[{"place":1,"run":{"id":"y682xdqz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y682xdqz","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/4y7VcWlb_7g"}]},"comment":"triple jaq and starwalker bless","status":{"status":"verified","examiner":"8wlnqz4j","verify-date":"2025-12-20T21:26:55Z"},"players":[{"rel":"user","id":"8wlnqz4j","uri":"https://www.speedrun.com/api/v1/users/8wlnqz4j"}],"date":"2025-12-19","submitted":"2025-12-20T21:26:55Z","times":{"primary":"PT3H41M36S","primary_t":13296,"realtime":"PT3H47M37S","realtime_t":13657,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H41M36S","ingame_t":13296},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"ylq426zn":"qoxwkx2q","gnxqgjp8":"lx5wr5r1","j84p9228":"lmo6v981"}}},{"place":2,"run":{"id":"zqp8l6xm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zqp8l6xm","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/XToMsp0SQ6Y"}]},"comment":"I don't know what was happening with my Rude Busters during the knight fight, Ig I was just hitting enter too late","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-07-28T09:32:28Z"},"players":[{"rel":"user","id":"j0vr1vrx","uri":"https://www.speedrun.com/api/v1/users/j0vr1vrx"}],"date":"2025-07-28","submitted":"2025-07-28T05:53:09Z","times":{"primary":"PT4H40M56S","primary_t":16856,"realtime":"PT4H44M57S","realtime_t":17097,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT4H40M56S","ingame_t":16856},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"ylq426zn":"qoxwkx2q","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "qoxwkx2q",
+      "gnxqgjp8": "lx5wr5r1"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "y682xdqz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y682xdqz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/4y7VcWlb_7g"
+              }
+            ]
+          },
+          "comment": "triple jaq and starwalker bless",
+          "status": {
+            "status": "verified",
+            "examiner": "8wlnqz4j",
+            "verify-date": "2025-12-20T21:26:55Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8wlnqz4j",
+              "uri": "https://www.speedrun.com/api/v1/users/8wlnqz4j"
+            }
+          ],
+          "date": "2025-12-19",
+          "submitted": "2025-12-20T21:26:55Z",
+          "times": {
+            "primary": "PT3H41M36S",
+            "primary_t": 13296,
+            "realtime": "PT3H47M37S",
+            "realtime_t": 13657,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H41M36S",
+            "ingame_t": 13296
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "qoxwkx2q",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "zqp8l6xm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zqp8l6xm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/XToMsp0SQ6Y"
+              }
+            ]
+          },
+          "comment": "I don't know what was happening with my Rude Busters during the knight fight, Ig I was just hitting enter too late",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-07-28T09:32:28Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j0vr1vrx",
+              "uri": "https://www.speedrun.com/api/v1/users/j0vr1vrx"
+            }
+          ],
+          "date": "2025-07-28",
+          "submitted": "2025-07-28T05:53:09Z",
+          "times": {
+            "primary": "PT4H40M56S",
+            "primary_t": 16856,
+            "realtime": "PT4H44M57S",
+            "realtime_t": 17097,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT4H40M56S",
+            "ingame_t": 16856
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "qoxwkx2q",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

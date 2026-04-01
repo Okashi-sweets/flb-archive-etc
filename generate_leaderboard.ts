@@ -1,8 +1,9 @@
+import { loadjson, savejson } from "./ts_component/json.ts";
 
 export async function gene_lb() {
 
-const order = JSON.parse(Deno.readTextFileSync("url.json"));
-const namelist = JSON.parse(Deno.readTextFileSync("userlist.json"));
+const order = await loadjson("./info/url.json");
+const namelist = await loadjson("./info/userlist.json");
 const usercheck = new Map(namelist.map((user) => [user.id, user.name]));
 const bannedcheck = new Map(namelist.map((user) => [user.id, user.banned]));
 const toptimes = [];
@@ -26,7 +27,7 @@ for (let i = 0; i < order.length; i++) {
     });
 
     const orderboard = "./lawdata/" + ordername + ".json";
-    const orderdata = JSON.parse(await Deno.readTextFile(orderboard));
+    const orderdata = await loadjson(orderboard);
     const orderruns = orderdata.data.runs;
     if (!orderruns || orderruns.length === 0) {
         toptimes.push({
@@ -61,10 +62,10 @@ for (let i = 0; i < order.length; i++) {
         });
 
     }
-    await Deno.writeTextFile("./leaderboard/" + ordername + ".json", JSON.stringify(newdata, null, 2));
+    await savejson("./leaderboard", ordername, newdata);
     console.log(ordername + " is done.");
 }
-await Deno.writeTextFile("./leaderboard/toptimes.json", JSON.stringify(toptimes, null, 2));
+await savejson("./info", "toptimes", toptimes);
 console.log("All leaderboards are generated.");
 
 }

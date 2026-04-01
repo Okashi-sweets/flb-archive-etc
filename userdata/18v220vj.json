@@ -3,7 +3,7 @@
   "name": "shatterdpixel",
   "banned": false,
   "pbscore": 45,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 25,
     "cescore": 20,
     "acscore": 0,

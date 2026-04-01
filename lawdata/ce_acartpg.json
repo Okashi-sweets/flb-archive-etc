@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"1w4wz45q","gnxqgjp8":"lx5wr5r1"},"runs":[{"place":1,"run":{"id":"mr53ordy","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/mr53ordy","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=qh3rSnzobVQ"}]},"comment":"fun category however can i please stop crashing out for once thank you lmao","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2026-02-14T07:26:58Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2026-02-14","submitted":"2026-02-14T04:46:34Z","times":{"primary":"PT2H55M46S","primary_t":10546,"realtime":"PT2H57M5S","realtime_t":10625,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT2H55M46S","ingame_t":10546},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"ylq426zn":"1w4wz45q","gnxqgjp8":"lx5wr5r1","j84p9228":"lmo6v981"}}},{"place":2,"run":{"id":"zqpq48rm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zqpq48rm","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/H1ojasJwgOo"}]},"comment":null,"status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-01T08:44:00Z"},"players":[{"rel":"user","id":"48gqyr1j","uri":"https://www.speedrun.com/api/v1/users/48gqyr1j"}],"date":"2025-07-30","submitted":"2025-07-30T02:52:07Z","times":{"primary":"PT3H1M16S","primary_t":10876,"realtime":"PT3H10M18S","realtime_t":11418,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H1M16S","ingame_t":10876},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"ylq426zn":"1w4wz45q","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "1w4wz45q",
+      "gnxqgjp8": "lx5wr5r1"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "mr53ordy",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/mr53ordy",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=qh3rSnzobVQ"
+              }
+            ]
+          },
+          "comment": "fun category however can i please stop crashing out for once thank you lmao",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-02-14T07:26:58Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-02-14",
+          "submitted": "2026-02-14T04:46:34Z",
+          "times": {
+            "primary": "PT2H55M46S",
+            "primary_t": 10546,
+            "realtime": "PT2H57M5S",
+            "realtime_t": 10625,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT2H55M46S",
+            "ingame_t": 10546
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "1w4wz45q",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "zqpq48rm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zqpq48rm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/H1ojasJwgOo"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-01T08:44:00Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "48gqyr1j",
+              "uri": "https://www.speedrun.com/api/v1/users/48gqyr1j"
+            }
+          ],
+          "date": "2025-07-30",
+          "submitted": "2025-07-30T02:52:07Z",
+          "times": {
+            "primary": "PT3H1M16S",
+            "primary_t": 10876,
+            "realtime": "PT3H10M18S",
+            "realtime_t": 11418,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H1M16S",
+            "ingame_t": 10876
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "1w4wz45q",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

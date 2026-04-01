@@ -1,1 +1,82 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"qvvwgvwq","gnxqgjp8":"lx5wr5r1"},"runs":[{"place":1,"run":{"id":"y8nxw45y","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y8nxw45y","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/94rhUQxi-mI"}]},"comment":"Thought about trying this category since it seemed neat and nobody had done Glitchless yet! I haven't really dabbled in UT/DR speedrunning much before and only know some things based off seeing them in existing speeedruns, so I'm sure this can be improved on, but I wanted to try and get a run onto this category, so here we are!","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-12-14T08:08:18Z"},"players":[{"rel":"user","id":"zx7q9er8","uri":"https://www.speedrun.com/api/v1/users/zx7q9er8"}],"date":"2025-12-08","submitted":"2025-12-08T05:40:41Z","times":{"primary":"PT4H40M10S","primary_t":16810,"realtime":"PT4H44M53S","realtime_t":17093,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT4H40M10S","ingame_t":16810},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"qvvwgvwq","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "qvvwgvwq",
+      "gnxqgjp8": "lx5wr5r1"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "y8nxw45y",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y8nxw45y",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/94rhUQxi-mI"
+              }
+            ]
+          },
+          "comment": "Thought about trying this category since it seemed neat and nobody had done Glitchless yet! I haven't really dabbled in UT/DR speedrunning much before and only know some things based off seeing them in existing speeedruns, so I'm sure this can be improved on, but I wanted to try and get a run onto this category, so here we are!",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-12-14T08:08:18Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "zx7q9er8",
+              "uri": "https://www.speedrun.com/api/v1/users/zx7q9er8"
+            }
+          ],
+          "date": "2025-12-08",
+          "submitted": "2025-12-08T05:40:41Z",
+          "times": {
+            "primary": "PT4H40M10S",
+            "primary_t": 16810,
+            "realtime": "PT4H44M53S",
+            "realtime_t": 17093,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT4H40M10S",
+            "ingame_t": 16810
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "qvvwgvwq",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

@@ -1,1 +1,82 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"lmojp841","jlz6erq8":"1dk796jl"},"runs":[{"place":1,"run":{"id":"y689jo6z","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y689jo6z","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=Iby0AomHtL0"}]},"comment":"at marioman you should run this category back (without v1.09 obviously) trust","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-11-19T15:58:04Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2025-11-19","submitted":"2025-11-19T01:08:41Z","times":{"primary":"PT52M12S","primary_t":3132,"realtime":"PT52M12S","realtime_t":3132,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"lmojp841","jlz6erq8":"1dk796jl","j84p9228":"lmo6v981"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "lmojp841",
+      "jlz6erq8": "1dk796jl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "y689jo6z",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y689jo6z",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=Iby0AomHtL0"
+              }
+            ]
+          },
+          "comment": "at marioman you should run this category back (without v1.09 obviously) trust",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-11-19T15:58:04Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2025-11-19",
+          "submitted": "2025-11-19T01:08:41Z",
+          "times": {
+            "primary": "PT52M12S",
+            "primary_t": 3132,
+            "realtime": "PT52M12S",
+            "realtime_t": 3132,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "lmojp841",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

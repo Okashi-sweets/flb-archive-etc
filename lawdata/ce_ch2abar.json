@@ -1,1 +1,241 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"12vervkq","jlz6erq8":"1dk796jl"},"runs":[{"place":1,"run":{"id":"yw5kng2y","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/yw5kng2y","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=4rRMpzUfWnk"}]},"comment":"the one kid named mouse 3 skip into all bosses wrong-warp chain","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-11-18T15:57:06Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2025-11-17","submitted":"2025-11-17T21:35:44Z","times":{"primary":"PT56M17S","primary_t":3377,"realtime":"PT56M17S","realtime_t":3377,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"12vervkq","jlz6erq8":"1dk796jl","j84p9228":"lmo6v981"}}},{"place":2,"run":{"id":"me2gk02m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/me2gk02m","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/jPd71zbf8Fs"}]},"comment":null,"status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-07-29T13:58:00Z"},"players":[{"rel":"user","id":"x356mgej","uri":"https://www.speedrun.com/api/v1/users/x356mgej"}],"date":"2025-07-29","submitted":"2025-07-29T02:15:47Z","times":{"primary":"PT56M59S","primary_t":3419,"realtime":"PT56M59S","realtime_t":3419,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"dloe27dn":"12vervkq","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}},{"place":3,"run":{"id":"zq7rx7rm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zq7rx7rm","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=NPSxyvq6FD0"}]},"comment":"ash talks to a void for an hour\r\n\r\nMod Note: Bro unmute your fucking obs mic :skull:\r\nRetimed to a 58:43.933","status":{"status":"verified","examiner":"j4rlz3d8","verify-date":"2022-04-25T21:46:10Z"},"players":[{"rel":"user","id":"zxzn4o9x","uri":"https://www.speedrun.com/api/v1/users/zxzn4o9x"}],"date":"2022-04-22","submitted":"2022-04-25T21:02:38Z","times":{"primary":"PT58M43S","primary_t":3523,"realtime":"PT58M43S","realtime_t":3523,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"o316x197"},"splits":null,"values":{"dloe27dn":"12vervkq","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}},{"place":4,"run":{"id":"z527o3gz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/z527o3gz","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/J8DHRGC06N8"}]},"comment":"I need to get better at glitches","status":{"status":"verified","examiner":"j4rlz3d8","verify-date":"2022-04-20T22:08:01Z"},"players":[{"rel":"user","id":"8vorv65x","uri":"https://www.speedrun.com/api/v1/users/8vorv65x"}],"date":"2022-04-20","submitted":"2022-04-20T18:28:48Z","times":{"primary":"PT1H54S","primary_t":3654,"realtime":"PT1H54S","realtime_t":3654,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"12vervkq","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "12vervkq",
+      "jlz6erq8": "1dk796jl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "yw5kng2y",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/yw5kng2y",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=4rRMpzUfWnk"
+              }
+            ]
+          },
+          "comment": "the one kid named mouse 3 skip into all bosses wrong-warp chain",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-11-18T15:57:06Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2025-11-17",
+          "submitted": "2025-11-17T21:35:44Z",
+          "times": {
+            "primary": "PT56M17S",
+            "primary_t": 3377,
+            "realtime": "PT56M17S",
+            "realtime_t": 3377,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "12vervkq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "me2gk02m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/me2gk02m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/jPd71zbf8Fs"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-07-29T13:58:00Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x356mgej",
+              "uri": "https://www.speedrun.com/api/v1/users/x356mgej"
+            }
+          ],
+          "date": "2025-07-29",
+          "submitted": "2025-07-29T02:15:47Z",
+          "times": {
+            "primary": "PT56M59S",
+            "primary_t": 3419,
+            "realtime": "PT56M59S",
+            "realtime_t": 3419,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "12vervkq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "zq7rx7rm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zq7rx7rm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=NPSxyvq6FD0"
+              }
+            ]
+          },
+          "comment": "ash talks to a void for an hour\r\n\r\nMod Note: Bro unmute your fucking obs mic :skull:\r\nRetimed to a 58:43.933",
+          "status": {
+            "status": "verified",
+            "examiner": "j4rlz3d8",
+            "verify-date": "2022-04-25T21:46:10Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "zxzn4o9x",
+              "uri": "https://www.speedrun.com/api/v1/users/zxzn4o9x"
+            }
+          ],
+          "date": "2022-04-22",
+          "submitted": "2022-04-25T21:02:38Z",
+          "times": {
+            "primary": "PT58M43S",
+            "primary_t": 3523,
+            "realtime": "PT58M43S",
+            "realtime_t": 3523,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "12vervkq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
+          "id": "z527o3gz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/z527o3gz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/J8DHRGC06N8"
+              }
+            ]
+          },
+          "comment": "I need to get better at glitches",
+          "status": {
+            "status": "verified",
+            "examiner": "j4rlz3d8",
+            "verify-date": "2022-04-20T22:08:01Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8vorv65x",
+              "uri": "https://www.speedrun.com/api/v1/users/8vorv65x"
+            }
+          ],
+          "date": "2022-04-20",
+          "submitted": "2022-04-20T18:28:48Z",
+          "times": {
+            "primary": "PT1H54S",
+            "primary_t": 3654,
+            "realtime": "PT1H54S",
+            "realtime_t": 3654,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "12vervkq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

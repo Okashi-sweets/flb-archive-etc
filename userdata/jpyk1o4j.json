@@ -3,7 +3,7 @@
   "name": "Devara",
   "banned": false,
   "pbscore": 619.3,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 501.43,
     "cescore": 117.87,
     "acscore": 50,
@@ -12,7 +12,7 @@
     "ch3score": 90.41,
     "ch4score": 25,
     "cedemoscore": 10,
-    "ceacscore": 0,
+    "ceacscore": 67.87,
     "cech1score": 10,
     "cech2score": 20,
     "cech3score": 10,

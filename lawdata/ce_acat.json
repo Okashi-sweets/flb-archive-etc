@@ -1,1 +1,82 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"139ed931","gnxqgjp8":"q5veyvnl"},"runs":[{"place":1,"run":{"id":"zqp56grm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zqp56grm","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/c8d2pyvVQ_k"}]},"comment":null,"status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-16T08:46:49Z"},"players":[{"rel":"user","id":"kjpw6n5x","uri":"https://www.speedrun.com/api/v1/users/kjpw6n5x"}],"date":"2025-08-15","submitted":"2025-08-15T22:51:48Z","times":{"primary":"PT4H25M22S","primary_t":15922,"realtime":"PT4H26M39S","realtime_t":15999,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT4H25M22S","ingame_t":15922},"system":{"platform":"8gej2n93","emulated":false,"region":"o316x197"},"splits":null,"values":{"ylq426zn":"139ed931","gnxqgjp8":"q5veyvnl","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "139ed931",
+      "gnxqgjp8": "q5veyvnl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "zqp56grm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zqp56grm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/c8d2pyvVQ_k"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-16T08:46:49Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "kjpw6n5x",
+              "uri": "https://www.speedrun.com/api/v1/users/kjpw6n5x"
+            }
+          ],
+          "date": "2025-08-15",
+          "submitted": "2025-08-15T22:51:48Z",
+          "times": {
+            "primary": "PT4H25M22S",
+            "primary_t": 15922,
+            "realtime": "PT4H26M39S",
+            "realtime_t": 15999,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT4H25M22S",
+            "ingame_t": 15922
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "139ed931",
+            "gnxqgjp8": "q5veyvnl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

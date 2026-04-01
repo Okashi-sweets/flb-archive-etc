@@ -3,7 +3,7 @@
   "name": "Nate09",
   "banned": false,
   "pbscore": 992.22,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 748.97,
     "cescore": 243.25,
     "acscore": 93.4,
@@ -12,7 +12,7 @@
     "ch3score": 188.57,
     "ch4score": 0,
     "cedemoscore": 0,
-    "ceacscore": 0,
+    "ceacscore": 70,
     "cech1score": 33.25,
     "cech2score": 0,
     "cech3score": 0,

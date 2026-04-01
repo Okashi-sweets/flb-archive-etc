@@ -3,7 +3,7 @@
   "name": "salto",
   "banned": false,
   "pbscore": 261.3,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 231.3,
     "cescore": 30,
     "acscore": 0,

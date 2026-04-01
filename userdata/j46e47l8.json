@@ -3,7 +3,7 @@
   "name": "GuardianSaruman",
   "banned": false,
   "pbscore": 70,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 50,
     "cescore": 20,
     "acscore": 0,

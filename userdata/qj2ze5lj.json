@@ -3,7 +3,7 @@
   "name": "NERS",
   "banned": false,
   "pbscore": 3522.16,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 2758.94,
     "cescore": 763.21,
     "acscore": 394.82,
@@ -12,7 +12,7 @@
     "ch3score": 295.17,
     "ch4score": 587.54,
     "cedemoscore": 243.8,
-    "ceacscore": 0,
+    "ceacscore": 35,
     "cech1score": 69.94,
     "cech2score": 172.96,
     "cech3score": 69.12,

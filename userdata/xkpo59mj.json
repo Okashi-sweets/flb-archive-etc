@@ -3,7 +3,7 @@
   "name": "Blackout_RTA",
   "banned": false,
   "pbscore": 192.13,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 192.13,
     "cescore": 0,
     "acscore": 0,

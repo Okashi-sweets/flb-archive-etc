@@ -2,17 +2,17 @@
   "id": "j4rlz3d8",
   "name": "ashmichda",
   "banned": false,
-  "pbscore": 3682.07,
-  "pbscoredatail": {
-    "basescore": 2942.76,
+  "pbscore": 3685.79,
+  "pbscoredetail": {
+    "basescore": 2946.48,
     "cescore": 739.31,
     "acscore": 393.25,
     "ch1score": 398.19,
     "ch2score": 1375.48,
     "ch3score": 290.55,
-    "ch4score": 485.28,
+    "ch4score": 489,
     "cedemoscore": 417.02,
-    "ceacscore": 0,
+    "ceacscore": 35,
     "cech1score": 104.22,
     "cech2score": 173.07,
     "cech3score": 10,
@@ -186,8 +186,8 @@
     },
     {
       "category": "ch4ab",
-      "time": 2878,
-      "irate": 93.45
+      "time": 2730,
+      "irate": 97.17
     },
     {
       "category": "ch4abg",

@@ -375,7 +375,7 @@
       },
       {
         "id": "jpzk1l0x",
-        "name": "ivey",
+        "name": "poisonedivey",
         "time": 1593.867,
         "date": "2026-02-04",
         "video": "https://www.twitch.tv/videos/2688552500https://www.twitch.tv/videos/2688552500",
@@ -447,7 +447,7 @@
       },
       {
         "id": "86rlw5p8",
-        "name": "HavenKrisp",
+        "name": "KonnieSoKrisp",
         "time": 1601.9,
         "date": "2026-01-25",
         "video": "https://youtu.be/Ecaj1GpLIrE",
@@ -627,6 +627,14 @@
         "time": 1616.367,
         "date": "2025-06-21",
         "video": "https://youtu.be/ixEjou9bRgA?si=cm89EqdPLWVmmXQO",
+        "banned": false
+      },
+      {
+        "id": "xz7gkpnj",
+        "name": "SamuelJH",
+        "time": 1617.1,
+        "date": "2026-03-30",
+        "video": "https://www.youtube.com/watch?v=MazO2XDO-jA",
         "banned": false
       },
       {
@@ -1883,10 +1891,11 @@
       },
       {
         "id": "j4769plj",
-        "name": "Unknown",
+        "name": "Vini_Yes123",
         "time": 1735.167,
         "date": "2026-03-23",
-        "video": "https://youtu.be/IUgKkVTSA3g"
+        "video": "https://youtu.be/IUgKkVTSA3g",
+        "banned": false
       },
       {
         "id": "pj0g6e4x",
@@ -7964,10 +7973,11 @@
       },
       {
         "id": "j5g9klq8",
-        "name": "Unknown",
+        "name": "FL0W1415",
         "time": 2695,
         "date": "2026-03-22",
-        "video": "https://youtu.be/P5_srwFlNLQ?si=9Yg8htxC7r8jshx6"
+        "video": "https://youtu.be/P5_srwFlNLQ?si=9Yg8htxC7r8jshx6",
+        "banned": false
       },
       {
         "id": "x7z1edy8",

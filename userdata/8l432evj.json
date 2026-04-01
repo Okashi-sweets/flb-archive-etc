@@ -3,7 +3,7 @@
   "name": "AlphaEMC",
   "banned": false,
   "pbscore": 125.76,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 93.05,
     "cescore": 32.71,
     "acscore": 0,

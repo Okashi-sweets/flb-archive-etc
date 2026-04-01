@@ -3,7 +3,7 @@
   "name": "GonzaloARG",
   "banned": false,
   "pbscore": 120,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 100,
     "cescore": 20,
     "acscore": 0,

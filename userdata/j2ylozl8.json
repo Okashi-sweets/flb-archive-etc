@@ -3,7 +3,7 @@
   "name": "SockSpeedrun",
   "banned": false,
   "pbscore": 90.45,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 90.45,
     "cescore": 0,
     "acscore": 0,

@@ -3,7 +3,7 @@
   "name": "WooffleDee",
   "banned": false,
   "pbscore": 4390.57,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 3441.6,
     "cescore": 948.96,
     "acscore": 868.61,
@@ -12,7 +12,7 @@
     "ch3score": 288.57,
     "ch4score": 566.14,
     "cedemoscore": 337.9,
-    "ceacscore": 0,
+    "ceacscore": 173.17,
     "cech1score": 101.88,
     "cech2score": 202.78,
     "cech3score": 100.32,

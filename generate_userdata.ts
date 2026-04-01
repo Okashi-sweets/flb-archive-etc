@@ -1,14 +1,16 @@
+import { loadjson, savejson } from "./ts_component/json.ts";
+
 export async function gene_user() {
 
-const userlist = JSON.parse(await Deno.readTextFile("userlist.json"));
+const userlist = await loadjson("./info/userlist.json");
 const leaderboardsDir = "./leaderboard/";
-const counter = JSON.parse(await Deno.readTextFile("./leaderboard/toptimes.json"));
+const counter = await loadjson("./info/toptimes.json");
 
 const allLeaderboards = new Map();
 for (const item of counter) {
     const cat = item.category;
     try {
-        const content = JSON.parse(await Deno.readTextFile(`${leaderboardsDir}${cat}.json`));
+        const content = await loadjson(`${leaderboardsDir}${cat}.json`);
         allLeaderboards.set(cat, content);
     } catch (e) {
         console.error(`読み込み失敗: ${cat}`);
@@ -83,11 +85,17 @@ for (let i = 0; i < userlist.length; i++) {
 
 
         const loadfile = allLeaderboards.get(cat);
-        if (!loadfile || toptime === null) {
-            eachtime.push({ category: cat, time: null, irate: 0 });
-            continue;
-        }
 
+if (!loadfile || !Array.isArray(loadfile) || loadfile.length === 0) {
+    eachtime.push({ category: cat, time: null, irate: 0 });
+    continue;
+}
+
+const first = loadfile[0];
+if (!first || !first.runs) {
+    eachtime.push({ category: cat, time: null, irate: 0 });
+    continue;
+}
         const baseflag = loadfile[0].group === "base";
         const type = loadfile[0].category1;
 
@@ -123,12 +131,12 @@ for (let i = 0; i < userlist.length; i++) {
         }
     }
 
-    await Deno.writeTextFile("./userdata/" + userid + ".json", JSON.stringify({
+    await savejson("./userdata", userid, {
     id: userid,
     name: username,
     banned: banned,
     pbscore: Math.floor(totalscore * 100) / 100,
-    pbscoredatail: {
+    pbscoredetail: {
     basescore: Math.floor(basescore * 100) / 100,
     cescore: Math.floor(cescore * 100) / 100,
     acscore: Math.floor(acscore * 100) / 100,
@@ -144,7 +152,8 @@ for (let i = 0; i < userlist.length; i++) {
     cech4score: Math.floor(cech4score * 100) / 100,
     },
     times: eachtime
-}, null, 2));
+},);
+
 }
 console.log("\n工事完了です...");
 }

@@ -1,13 +1,13 @@
 {
-  "id": "8geeqdpj",
-  "name": "Null",
+  "id": "j5g9klq8",
+  "name": "FL0W1415",
   "banned": false,
-  "pbscore": 0,
-  "pbscoredatail": {
-    "basescore": 0,
+  "pbscore": 25,
+  "pbscoredetail": {
+    "basescore": 25,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 0,
+    "ch1score": 25,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -61,8 +61,8 @@
     },
     {
       "category": "ch1any",
-      "time": null,
-      "irate": 0
+      "time": 2695,
+      "irate": 25
     },
     {
       "category": "ch1ab",

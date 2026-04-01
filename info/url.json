@@ -618,7 +618,7 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Recruits",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Main Route)",
         "displaycategory3": "Glitched"
     },
@@ -631,7 +631,7 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Recruits",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Main Route)",
         "displaycategory3": "Glitchless"
     },
@@ -644,7 +644,7 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Recruits",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Weird Route)",
         "displaycategory3": "Glitched"
     },
@@ -657,7 +657,7 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Recruits",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Weird Route)",
         "displaycategory3": "Glitchless"
     },
@@ -670,7 +670,7 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Bosses",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "Egg%",
         "displaycategory3": "Glitched"
     },
@@ -683,7 +683,7 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Bosses",
+        "displaycategory1": "All Chapters",
         "displaycategory2": "Egg%",
         "displaycategory3": "Glitchless"
     },
@@ -696,8 +696,9 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Recruits True Pacifist",
-        "displaycategory2": "Glitched"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Recruits True Pacifist",
+        "displaycategory3": "Glitched"
     },
     {
         "name": "ce_acartpg",
@@ -708,8 +709,9 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Recruits True Pacifist",
-        "displaycategory2": "Glitchless"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Recruits True Pacifist",
+        "displaycategory3": "Glitchless"
     },
     {
         "name": "ce_acabar",
@@ -720,8 +722,9 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Bosses All Recruits",
-        "displaycategory2": "Glitched"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Bosses All Recruits",
+        "displaycategory3": "Glitched"
     },
     {
         "name": "ce_acabarg",
@@ -732,8 +735,9 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Bosses All Recruits",
-        "displaycategory2": "Glitchless"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Bosses All Recruits",
+        "displaycategory3": "Glitchless"
     },
     {
         "name": "ce_acat",
@@ -744,8 +748,9 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Titles",
-        "displaycategory2": "Glitched"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Titles",
+        "displaycategory3": "Glitched"
     },
     {
         "name": "ce_acatg",
@@ -756,8 +761,9 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Titles",
-        "displaycategory2": "Glitchless"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Titles",
+        "displaycategory3": "Glitchless"
     },
     {
         "name": "ce_acost",
@@ -768,8 +774,9 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "OST%",
-        "displaycategory2": "Glitched"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "OST%",
+        "displaycategory3": "Glitched"
     },
     {
         "name": "ce_acostg",
@@ -780,8 +787,9 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "OST%",
-        "displaycategory2": "Glitchless"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "OST%",
+        "displaycategory3": "Glitchless"
     },
     {
         "name": "ce_acai",
@@ -792,8 +800,9 @@
         "type2": "gnxqgjp8",
         "var2": "q5veyvnl",
         "group": "ce",
-        "displaycategory1": "All Items",
-        "displaycategory2": "Glitched"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Items",
+        "displaycategory3": "Glitched"
     },
     {
         "name": "ce_acaig",
@@ -804,8 +813,9 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "All Items",
-        "displaycategory2": "Glitchless"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "All Items",
+        "displaycategory3": "Glitchless"
     },
     {
         "name": "ce_actracabarpeeg",
@@ -816,7 +826,8 @@
         "type2": "gnxqgjp8",
         "var2": "lx5wr5r1",
         "group": "ce",
-        "displaycategory1": "TRACABARPEEG"
+        "displaycategory1": "All Chapters",
+        "displaycategory2": "TRACABARPEEG"
     },
     {
         "name": "ce_ch1tr",

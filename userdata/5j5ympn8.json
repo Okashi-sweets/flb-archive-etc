@@ -3,7 +3,7 @@
   "name": "asalt9snipr9",
   "banned": false,
   "pbscore": 158.38,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 50,
     "cescore": 108.39,
     "acscore": 0,
@@ -12,7 +12,7 @@
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
-    "ceacscore": 0,
+    "ceacscore": 68.39,
     "cech1score": 0,
     "cech2score": 20,
     "cech3score": 0,

@@ -3,7 +3,7 @@
   "name": "The_Monkey",
   "banned": false,
   "pbscore": 235.95,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 192.06,
     "cescore": 43.89,
     "acscore": 0,

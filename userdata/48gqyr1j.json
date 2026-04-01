@@ -3,7 +3,7 @@
   "name": "mooshiros",
   "banned": false,
   "pbscore": 3344.27,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 2684.47,
     "cescore": 659.8,
     "acscore": 576.89,
@@ -12,7 +12,7 @@
     "ch3score": 190.21,
     "ch4score": 569.95,
     "cedemoscore": 101.38,
-    "ceacscore": 0,
+    "ceacscore": 44.23,
     "cech1score": 34.06,
     "cech2score": 276.21,
     "cech3score": 0,

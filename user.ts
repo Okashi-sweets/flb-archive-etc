@@ -1,8 +1,9 @@
+import { loadjson, savejson} from "./ts_component/json.ts";
 const delay = (ms: number) => new Promise(res => setTimeout(res, ms));
 
 export async function user(){
-const urls: string[] = JSON.parse(await Deno.readTextFile("./diff_userid.json"));
-const oldData = JSON.parse(await Deno.readTextFile("./userlist.json"));
+const urls = await loadjson("./info/diff_userid.json");
+const oldData = await loadjson("./info/userlist.json");
 
 function chunk<T>(arr: T[], size: number): T[][] {
   const result: T[][] = [];
@@ -74,12 +75,12 @@ await fetchChunk(chunks[currentIndex], currentIndex);
   if (currentIndex >= chunks.length) {
     console.log("All chunks processed. Writing JSON...");
 
-    const margedResults = [...oldData, ...resultsArray]
+  }
+}
+const margedResults = [...oldData, ...resultsArray]
 
     await Deno.writeTextFile(
       "userlist.json",
       JSON.stringify(margedResults, null, 2),
     );
-  }
-}
 };

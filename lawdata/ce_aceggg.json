@@ -1,1 +1,82 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"lmojvo41","gnxqgjp8":"lx5wr5r1"},"runs":[{"place":1,"run":{"id":"y2r18e9m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y2r18e9m","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/BZ74zL6S658"}]},"comment":"thank god i don't have to fight the titan in this category","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-10-16T14:39:01Z"},"players":[{"rel":"user","id":"jpyk1o4j","uri":"https://www.speedrun.com/api/v1/users/jpyk1o4j"}],"date":"2025-10-16","submitted":"2025-10-16T12:17:47Z","times":{"primary":"PT2H51M30S","primary_t":10290,"realtime":"PT2H56M33S","realtime_t":10593,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT2H51M30S","ingame_t":10290},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"lmojvo41","gnxqgjp8":"lx5wr5r1","j84p9228":"lmo6v981"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "lmojvo41",
+      "gnxqgjp8": "lx5wr5r1"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "y2r18e9m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y2r18e9m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/BZ74zL6S658"
+              }
+            ]
+          },
+          "comment": "thank god i don't have to fight the titan in this category",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-10-16T14:39:01Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "jpyk1o4j",
+              "uri": "https://www.speedrun.com/api/v1/users/jpyk1o4j"
+            }
+          ],
+          "date": "2025-10-16",
+          "submitted": "2025-10-16T12:17:47Z",
+          "times": {
+            "primary": "PT2H51M30S",
+            "primary_t": 10290,
+            "realtime": "PT2H56M33S",
+            "realtime_t": 10593,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT2H51M30S",
+            "ingame_t": 10290
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "lmojvo41",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

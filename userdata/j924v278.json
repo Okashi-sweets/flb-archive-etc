@@ -3,7 +3,7 @@
   "name": "CasteG",
   "banned": false,
   "pbscore": 75,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 75,
     "cescore": 0,
     "acscore": 0,

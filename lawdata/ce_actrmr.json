@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"q65kn57l","gnxqgjp8":"q5veyvnl"},"runs":[{"place":1,"run":{"id":"z16v5lwm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/z16v5lwm","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=itHH8ey9NHU"}]},"comment":"Really bad run - only somewhat redeeming part was door overflow mostly without fail","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-04T21:20:58Z"},"players":[{"rel":"user","id":"5j5ympn8","uri":"https://www.speedrun.com/api/v1/users/5j5ympn8"}],"date":"2025-08-04","submitted":"2025-08-04T19:54:41Z","times":{"primary":"PT3H17M50S","primary_t":11870,"realtime":"PT3H21M28S","realtime_t":12088,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H17M50S","ingame_t":11870},"system":{"platform":"mx6ppw63","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"q65kn57l","gnxqgjp8":"q5veyvnl","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"z56ok3gy","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/z56ok3gy","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/iMRZfP_e99Y"}]},"comment":"started to idgaf in chapter 2 and beyond","status":{"status":"verified","examiner":"1xymkgzx","verify-date":"2025-10-02T10:40:35Z"},"players":[{"rel":"user","id":"jpyk1o4j","uri":"https://www.speedrun.com/api/v1/users/jpyk1o4j"}],"date":"2025-10-01","submitted":"2025-10-01T11:51:06Z","times":{"primary":"PT3H36M9S","primary_t":12969,"realtime":"PT3H47M52S","realtime_t":13672,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H36M9S","ingame_t":12969},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"q65kn57l","gnxqgjp8":"q5veyvnl","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "q65kn57l",
+      "gnxqgjp8": "q5veyvnl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "z16v5lwm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/z16v5lwm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=itHH8ey9NHU"
+              }
+            ]
+          },
+          "comment": "Really bad run - only somewhat redeeming part was door overflow mostly without fail",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-04T21:20:58Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j5ympn8",
+              "uri": "https://www.speedrun.com/api/v1/users/5j5ympn8"
+            }
+          ],
+          "date": "2025-08-04",
+          "submitted": "2025-08-04T19:54:41Z",
+          "times": {
+            "primary": "PT3H17M50S",
+            "primary_t": 11870,
+            "realtime": "PT3H21M28S",
+            "realtime_t": 12088,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H17M50S",
+            "ingame_t": 11870
+          },
+          "system": {
+            "platform": "mx6ppw63",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "q65kn57l",
+            "gnxqgjp8": "q5veyvnl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "z56ok3gy",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/z56ok3gy",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/iMRZfP_e99Y"
+              }
+            ]
+          },
+          "comment": "started to idgaf in chapter 2 and beyond",
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2025-10-02T10:40:35Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "jpyk1o4j",
+              "uri": "https://www.speedrun.com/api/v1/users/jpyk1o4j"
+            }
+          ],
+          "date": "2025-10-01",
+          "submitted": "2025-10-01T11:51:06Z",
+          "times": {
+            "primary": "PT3H36M9S",
+            "primary_t": 12969,
+            "realtime": "PT3H47M52S",
+            "realtime_t": 13672,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H36M9S",
+            "ingame_t": 12969
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "q65kn57l",
+            "gnxqgjp8": "q5veyvnl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

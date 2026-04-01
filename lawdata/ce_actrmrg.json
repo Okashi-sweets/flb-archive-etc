@@ -1,1 +1,191 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#all-chapters","game":"y6552z86","category":"8247m632","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"ylq426zn":"q65kn57l","gnxqgjp8":"lx5wr5r1"},"runs":[{"place":1,"run":{"id":"zqpn3grm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zqpn3grm","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://www.twitch.tv/videos/2546484238"},{"uri":"https://youtu.be/xcRLYDl15n8"}]},"comment":"This run probably isn't verifiable because DARN OBS didn't capture the true reset menu screen before the run started BUT I figured I might as well try. I also made a twitch highlight with the previous attempt if that's helpful? https://www.twitch.tv/videos/2546484238","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-24T07:25:06Z"},"players":[{"rel":"user","id":"x33mooex","uri":"https://www.speedrun.com/api/v1/users/x33mooex"}],"date":"2025-08-21","submitted":"2025-08-22T02:33:24Z","times":{"primary":"PT3H37M18S","primary_t":13038,"realtime":"PT3H45M42S","realtime_t":13542,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H37M18S","ingame_t":13038},"system":{"platform":"8gej2n93","emulated":false,"region":null},"splits":null,"values":{"ylq426zn":"q65kn57l","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"z5w600nz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/z5w600nz","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=E4or4cTxbdQ"}]},"comment":"made some questionable decisions during titan fight","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-18T12:36:41Z"},"players":[{"rel":"user","id":"5j5ympn8","uri":"https://www.speedrun.com/api/v1/users/5j5ympn8"}],"date":"2025-08-16","submitted":"2025-08-17T05:04:58Z","times":{"primary":"PT3H52M13S","primary_t":13933,"realtime":"PT3H56M25S","realtime_t":14185,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT3H52M13S","ingame_t":13933},"system":{"platform":"mx6ppw63","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"q65kn57l","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}},{"place":3,"run":{"id":"zng54v9m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zng54v9m","game":"y6552z86","level":null,"category":"8247m632","videos":{"links":[{"uri":"https://youtu.be/cZBokvpO06I?si=XV0nvtU-qXOZbJ_Q"}]},"comment":"It's basically a casual playthrough, but faster","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-16T08:52:32Z"},"players":[{"rel":"user","id":"8663mn38","uri":"https://www.speedrun.com/api/v1/users/8663mn38"}],"date":"2025-08-14","submitted":"2025-08-16T06:22:01Z","times":{"primary":"PT4H14M27S","primary_t":15267,"realtime":"PT4H23M40S","realtime_t":15820,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":"PT4H14M27S","ingame_t":15267},"system":{"platform":"3167lw9q","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"ylq426zn":"q65kn57l","gnxqgjp8":"lx5wr5r1","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/8247m632"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#all-chapters",
+    "game": "y6552z86",
+    "category": "8247m632",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "ylq426zn": "q65kn57l",
+      "gnxqgjp8": "lx5wr5r1"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "zqpn3grm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zqpn3grm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.twitch.tv/videos/2546484238"
+              },
+              {
+                "uri": "https://youtu.be/xcRLYDl15n8"
+              }
+            ]
+          },
+          "comment": "This run probably isn't verifiable because DARN OBS didn't capture the true reset menu screen before the run started BUT I figured I might as well try. I also made a twitch highlight with the previous attempt if that's helpful? https://www.twitch.tv/videos/2546484238",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-24T07:25:06Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x33mooex",
+              "uri": "https://www.speedrun.com/api/v1/users/x33mooex"
+            }
+          ],
+          "date": "2025-08-21",
+          "submitted": "2025-08-22T02:33:24Z",
+          "times": {
+            "primary": "PT3H37M18S",
+            "primary_t": 13038,
+            "realtime": "PT3H45M42S",
+            "realtime_t": 13542,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H37M18S",
+            "ingame_t": 13038
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": null
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "q65kn57l",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "z5w600nz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/z5w600nz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=E4or4cTxbdQ"
+              }
+            ]
+          },
+          "comment": "made some questionable decisions during titan fight",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-18T12:36:41Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "5j5ympn8",
+              "uri": "https://www.speedrun.com/api/v1/users/5j5ympn8"
+            }
+          ],
+          "date": "2025-08-16",
+          "submitted": "2025-08-17T05:04:58Z",
+          "times": {
+            "primary": "PT3H52M13S",
+            "primary_t": 13933,
+            "realtime": "PT3H56M25S",
+            "realtime_t": 14185,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H52M13S",
+            "ingame_t": 13933
+          },
+          "system": {
+            "platform": "mx6ppw63",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "q65kn57l",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "zng54v9m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zng54v9m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "8247m632",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/cZBokvpO06I?si=XV0nvtU-qXOZbJ_Q"
+              }
+            ]
+          },
+          "comment": "It's basically a casual playthrough, but faster",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-16T08:52:32Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8663mn38",
+              "uri": "https://www.speedrun.com/api/v1/users/8663mn38"
+            }
+          ],
+          "date": "2025-08-14",
+          "submitted": "2025-08-16T06:22:01Z",
+          "times": {
+            "primary": "PT4H14M27S",
+            "primary_t": 15267,
+            "realtime": "PT4H23M40S",
+            "realtime_t": 15820,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT4H14M27S",
+            "ingame_t": 15267
+          },
+          "system": {
+            "platform": "3167lw9q",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylq426zn": "q65kn57l",
+            "gnxqgjp8": "lx5wr5r1",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/8247m632"
+      }
+    ]
+  }
+}

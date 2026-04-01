@@ -3,7 +3,7 @@
   "name": "whoos",
   "banned": false,
   "pbscore": 33.82,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 0,
     "cescore": 33.82,
     "acscore": 0,

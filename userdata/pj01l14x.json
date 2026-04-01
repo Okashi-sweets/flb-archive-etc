@@ -3,7 +3,7 @@
   "name": "vegemii",
   "banned": false,
   "pbscore": 123.16,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 123.16,
     "cescore": 0,
     "acscore": 0,

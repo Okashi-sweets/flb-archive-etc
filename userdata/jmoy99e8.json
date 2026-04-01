@@ -3,7 +3,7 @@
   "name": "MayDay",
   "banned": false,
   "pbscore": 90.3,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 90.3,
     "cescore": 0,
     "acscore": 0,

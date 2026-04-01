@@ -1,1 +1,294 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771"},"runs":[{"place":1,"run":{"id":"y9w3qdrz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y9w3qdrz","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=JYZx06vBYBo"}]},"comment":"really rough session i had today, so i'm pretty happy with how well i played the endgame of this run","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-11-20T13:21:07Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2025-11-20","submitted":"2025-11-20T03:12:43Z","times":{"primary":"PT53M30S","primary_t":3210,"realtime":"PT53M30S","realtime_t":3210,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771","j84p9228":"lmo6v981"}}},{"place":2,"run":{"id":"y6jegv1m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/y6jegv1m","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/GwU4jFQepks"}]},"comment":"i didnt feel like playing in japanese because I didnt want to do the YEES2O!! puzzle","status":{"status":"verified","examiner":"8wlnqz4j","verify-date":"2025-08-02T02:13:15Z"},"players":[{"rel":"user","id":"8wlnqz4j","uri":"https://www.speedrun.com/api/v1/users/8wlnqz4j"}],"date":"2025-08-02","submitted":"2025-08-02T02:13:15Z","times":{"primary":"PT53M43S","primary_t":3223,"realtime":"PT53M43S","realtime_t":3223,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771","j84p9228":"1w4ozkmq"}}},{"place":3,"run":{"id":"zpokk0vm","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/zpokk0vm","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/0PXrw1fNXUI"}]},"comment":null,"status":{"status":"verified","examiner":"1xymkgzx","verify-date":"2025-08-08T12:51:33Z"},"players":[{"rel":"user","id":"48gqyr1j","uri":"https://www.speedrun.com/api/v1/users/48gqyr1j"}],"date":"2025-08-07","submitted":"2025-08-07T22:24:49Z","times":{"primary":"PT53M45S","primary_t":3225,"realtime":"PT53M45S","realtime_t":3225,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"o316x197"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771","j84p9228":"1w4ozkmq"}}},{"place":4,"run":{"id":"z00q6gjz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/z00q6gjz","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=SkQLu4z_WJs&t=212s"}]},"comment":null,"status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-08-31T07:23:29Z"},"players":[{"rel":"user","id":"8eow646j","uri":"https://www.speedrun.com/api/v1/users/8eow646j"}],"date":"2025-07-30","submitted":"2025-07-30T13:19:22Z","times":{"primary":"PT59M55S","primary_t":3595,"realtime":"PT59M55S","realtime_t":3595,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"7m6ylw9p","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771","j84p9228":"1w4ozkmq"}}},{"place":5,"run":{"id":"mkojng5z","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/mkojng5z","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/LzE3OBuvy-M"}]},"comment":"Did it 'cause I forgot to have a complete save file for normal CH2MR :)\n\nGlitchless too","status":{"status":"verified","examiner":"8geq62rj","verify-date":"2025-04-27T15:56:17Z"},"players":[{"rel":"user","id":"j46e47l8","uri":"https://www.speedrun.com/api/v1/users/j46e47l8"}],"date":"2025-04-18","submitted":"2025-04-18T11:42:22Z","times":{"primary":"PT1H10M1S","primary_t":4201,"realtime":"PT1H10M1S","realtime_t":4201,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"mx6ppw63","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"14oe8ojq","jlz6erq8":"qyzed771","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "14oe8ojq",
+      "jlz6erq8": "qyzed771"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "y9w3qdrz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y9w3qdrz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=JYZx06vBYBo"
+              }
+            ]
+          },
+          "comment": "really rough session i had today, so i'm pretty happy with how well i played the endgame of this run",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-11-20T13:21:07Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2025-11-20",
+          "submitted": "2025-11-20T03:12:43Z",
+          "times": {
+            "primary": "PT53M30S",
+            "primary_t": 3210,
+            "realtime": "PT53M30S",
+            "realtime_t": 3210,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "qyzed771",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "y6jegv1m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/y6jegv1m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/GwU4jFQepks"
+              }
+            ]
+          },
+          "comment": "i didnt feel like playing in japanese because I didnt want to do the YEES2O!! puzzle",
+          "status": {
+            "status": "verified",
+            "examiner": "8wlnqz4j",
+            "verify-date": "2025-08-02T02:13:15Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8wlnqz4j",
+              "uri": "https://www.speedrun.com/api/v1/users/8wlnqz4j"
+            }
+          ],
+          "date": "2025-08-02",
+          "submitted": "2025-08-02T02:13:15Z",
+          "times": {
+            "primary": "PT53M43S",
+            "primary_t": 3223,
+            "realtime": "PT53M43S",
+            "realtime_t": 3223,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "qyzed771",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 3,
+        "run": {
+          "id": "zpokk0vm",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/zpokk0vm",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/0PXrw1fNXUI"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2025-08-08T12:51:33Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "48gqyr1j",
+              "uri": "https://www.speedrun.com/api/v1/users/48gqyr1j"
+            }
+          ],
+          "date": "2025-08-07",
+          "submitted": "2025-08-07T22:24:49Z",
+          "times": {
+            "primary": "PT53M45S",
+            "primary_t": 3225,
+            "realtime": "PT53M45S",
+            "realtime_t": 3225,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "qyzed771",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
+          "id": "z00q6gjz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/z00q6gjz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=SkQLu4z_WJs&t=212s"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-08-31T07:23:29Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8eow646j",
+              "uri": "https://www.speedrun.com/api/v1/users/8eow646j"
+            }
+          ],
+          "date": "2025-07-30",
+          "submitted": "2025-07-30T13:19:22Z",
+          "times": {
+            "primary": "PT59M55S",
+            "primary_t": 3595,
+            "realtime": "PT59M55S",
+            "realtime_t": 3595,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "7m6ylw9p",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "qyzed771",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 5,
+        "run": {
+          "id": "mkojng5z",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/mkojng5z",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/LzE3OBuvy-M"
+              }
+            ]
+          },
+          "comment": "Did it 'cause I forgot to have a complete save file for normal CH2MR :)\n\nGlitchless too",
+          "status": {
+            "status": "verified",
+            "examiner": "8geq62rj",
+            "verify-date": "2025-04-27T15:56:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j46e47l8",
+              "uri": "https://www.speedrun.com/api/v1/users/j46e47l8"
+            }
+          ],
+          "date": "2025-04-18",
+          "submitted": "2025-04-18T11:42:22Z",
+          "times": {
+            "primary": "PT1H10M1S",
+            "primary_t": 4201,
+            "realtime": "PT1H10M1S",
+            "realtime_t": 4201,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "mx6ppw63",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "14oe8ojq",
+            "jlz6erq8": "qyzed771",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

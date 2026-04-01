@@ -3,7 +3,7 @@
   "name": "RoadSign",
   "banned": false,
   "pbscore": 90.44,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 90.44,
     "cescore": 0,
     "acscore": 0,

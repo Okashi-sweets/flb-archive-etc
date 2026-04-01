@@ -3,7 +3,7 @@
   "name": "Okashi",
   "banned": false,
   "pbscore": 1036.12,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 899.54,
     "cescore": 136.59,
     "acscore": 294.88,
@@ -12,7 +12,7 @@
     "ch3score": 191.19,
     "ch4score": 0,
     "cedemoscore": 67.05,
-    "ceacscore": 0,
+    "ceacscore": 35,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 34.54,

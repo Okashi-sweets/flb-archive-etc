@@ -3,7 +3,7 @@
   "name": "EscarBOOM",
   "banned": false,
   "pbscore": 20,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 0,
     "cescore": 20,
     "acscore": 0,

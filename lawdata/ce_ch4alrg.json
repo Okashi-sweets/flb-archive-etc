@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-4","game":"y6552z86","category":"9kvvjm0k","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"yn262jel":"qvvowv7q","6njp2z6n":"qvvwgxwq"},"runs":[{"place":1,"run":{"id":"ywoe663m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/ywoe663m","game":"y6552z86","level":null,"category":"9kvvjm0k","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=XsD0ZkGPodU"}]},"comment":"missed out on the 53 Sadge (gdq hotfix submission)","status":{"status":"verified","examiner":"1xymkgzx","verify-date":"2026-02-19T10:29:15Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2026-02-19","submitted":"2026-02-19T02:38:20Z","times":{"primary":"PT54M5S","primary_t":3245,"realtime":"PT54M5S","realtime_t":3245,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"yn262jel":"qvvowv7q","6njp2z6n":"qvvwgxwq","j84p9228":"lmo6v981"}}},{"place":2,"run":{"id":"ydowk4xz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/ydowk4xz","game":"y6552z86","level":null,"category":"9kvvjm0k","videos":{"links":[{"uri":"https://youtu.be/oz5JwyujujY"}]},"comment":"NOT a nice run thank you. I will never run this category ever again","status":{"status":"verified","examiner":"qj2ze5lj","verify-date":"2025-11-29T23:32:05Z"},"players":[{"rel":"user","id":"86pyor3j","uri":"https://www.speedrun.com/api/v1/users/86pyor3j"}],"date":"2025-11-27","submitted":"2025-11-27T11:49:53Z","times":{"primary":"PT58M38S","primary_t":3518,"realtime":"PT58M38S","realtime_t":3518,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"o316x197"},"splits":null,"values":{"yn262jel":"qvvowv7q","6njp2z6n":"qvvwgxwq","j84p9228":"lmo6v981"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/9kvvjm0k"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-4",
+    "game": "y6552z86",
+    "category": "9kvvjm0k",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "yn262jel": "qvvowv7q",
+      "6njp2z6n": "qvvwgxwq"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "ywoe663m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/ywoe663m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "9kvvjm0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=XsD0ZkGPodU"
+              }
+            ]
+          },
+          "comment": "missed out on the 53 Sadge (gdq hotfix submission)",
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2026-02-19T10:29:15Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-02-19",
+          "submitted": "2026-02-19T02:38:20Z",
+          "times": {
+            "primary": "PT54M5S",
+            "primary_t": 3245,
+            "realtime": "PT54M5S",
+            "realtime_t": 3245,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "yn262jel": "qvvowv7q",
+            "6njp2z6n": "qvvwgxwq",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "ydowk4xz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/ydowk4xz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "9kvvjm0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/oz5JwyujujY"
+              }
+            ]
+          },
+          "comment": "NOT a nice run thank you. I will never run this category ever again",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2025-11-29T23:32:05Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "86pyor3j",
+              "uri": "https://www.speedrun.com/api/v1/users/86pyor3j"
+            }
+          ],
+          "date": "2025-11-27",
+          "submitted": "2025-11-27T11:49:53Z",
+          "times": {
+            "primary": "PT58M38S",
+            "primary_t": 3518,
+            "realtime": "PT58M38S",
+            "realtime_t": 3518,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "yn262jel": "qvvowv7q",
+            "6njp2z6n": "qvvwgxwq",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/9kvvjm0k"
+      }
+    ]
+  }
+}

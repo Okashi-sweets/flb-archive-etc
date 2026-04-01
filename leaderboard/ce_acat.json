@@ -2,8 +2,9 @@
   {
     "name_ideal": "ce_acat",
     "group": "ce",
-    "category1": "All Titles",
-    "category2": "Glitched",
+    "category1": "All Chapters",
+    "category2": "All Titles",
+    "category3": "Glitched",
     "runs": [
       {
         "id": "kjpw6n5x",

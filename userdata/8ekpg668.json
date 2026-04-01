@@ -3,7 +3,7 @@
   "name": "Scroatis9",
   "banned": false,
   "pbscore": 25,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 25,
     "cescore": 0,
     "acscore": 0,
@@ -81,7 +81,7 @@
     },
     {
       "category": "ch2mr",
-      "time": 2103,
+      "time": 1870,
       "irate": 25
     },
     {

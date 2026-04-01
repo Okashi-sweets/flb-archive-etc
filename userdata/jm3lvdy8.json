@@ -3,7 +3,7 @@
   "name": "keucher",
   "banned": false,
   "pbscore": 1087.56,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 986.4,
     "cescore": 101.16,
     "acscore": 0,

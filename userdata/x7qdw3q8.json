@@ -3,7 +3,7 @@
   "name": "ItsMeDelta",
   "banned": false,
   "pbscore": 4738.29,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 3146.14,
     "cescore": 1592.15,
     "acscore": 590.89,
@@ -12,7 +12,7 @@
     "ch3score": 294.05,
     "ch4score": 583.75,
     "cedemoscore": 411.48,
-    "ceacscore": 0,
+    "ceacscore": 70,
     "cech1score": 104.07,
     "cech2score": 698.16,
     "cech3score": 136.35,

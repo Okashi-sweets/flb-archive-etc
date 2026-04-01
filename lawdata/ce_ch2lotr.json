@@ -1,1 +1,135 @@
-{"data":{"weblink":"https://www.speedrun.com/deltarune_category_extensions#chapter-2","game":"y6552z86","category":"zd39l6nd","level":null,"platform":null,"region":null,"emulators":null,"video-only":false,"timing":"ingame","values":{"dloe27dn":"qkek2eyq","jlz6erq8":"1dk796jl"},"runs":[{"place":1,"run":{"id":"mkonwxxz","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/mkonwxxz","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://youtu.be/tkdSSRG_Fmk"}]},"comment":"Not even a 4X why bother","status":{"status":"verified","examiner":"7j4op3d8","verify-date":"2025-04-07T03:21:14Z"},"players":[{"rel":"user","id":"x33ed72x","uri":"https://www.speedrun.com/api/v1/users/x33ed72x"}],"date":"2025-04-05","submitted":"2025-04-05T19:56:27Z","times":{"primary":"PT2H50M6S","primary_t":10206,"realtime":"PT2H50M6S","realtime_t":10206,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"qkek2eyq","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}},{"place":2,"run":{"id":"ylpq283m","weblink":"https://www.speedrun.com/deltarune_category_extensions/run/ylpq283m","game":"y6552z86","level":null,"category":"zd39l6nd","videos":{"links":[{"uri":"https://www.youtube.com/watch?v=pPfOCETDmSw"}]},"comment":"THORNY IS FINALLY REAL CHAT YEAHHHHH\n\n(also lord of thorn rings goes hard as hell as a cat ext name i'm ngl)\n\n[ALSO also, i was gonna submit my first two thorny runs, but i just can't find them for some reason, i'll probably do so later or not, i don't really know lmao]","status":{"status":"verified","examiner":"1xymkgzx","verify-date":"2025-01-15T19:07:34Z"},"players":[{"rel":"user","id":"x7qdw3q8","uri":"https://www.speedrun.com/api/v1/users/x7qdw3q8"}],"date":"2025-01-15","submitted":"2025-01-15T02:06:36Z","times":{"primary":"PT2H54M32S","primary_t":10472,"realtime":"PT2H54M32S","realtime_t":10472,"realtime_noloads":null,"realtime_noloads_t":0,"ingame":null,"ingame_t":0},"system":{"platform":"8gej2n93","emulated":false,"region":"pr184lqn"},"splits":null,"values":{"dloe27dn":"qkek2eyq","jlz6erq8":"1dk796jl","j84p9228":"1w4ozkmq"}}}],"links":[{"rel":"game","uri":"https://www.speedrun.com/api/v1/games/y6552z86"},{"rel":"category","uri":"https://www.speedrun.com/api/v1/categories/zd39l6nd"}]}}
+{
+  "data": {
+    "weblink": "https://www.speedrun.com/deltarune_category_extensions#chapter-2",
+    "game": "y6552z86",
+    "category": "zd39l6nd",
+    "level": null,
+    "platform": null,
+    "region": null,
+    "emulators": null,
+    "video-only": false,
+    "timing": "ingame",
+    "values": {
+      "dloe27dn": "qkek2eyq",
+      "jlz6erq8": "1dk796jl"
+    },
+    "runs": [
+      {
+        "place": 1,
+        "run": {
+          "id": "mkonwxxz",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/mkonwxxz",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/tkdSSRG_Fmk"
+              }
+            ]
+          },
+          "comment": "Not even a 4X why bother",
+          "status": {
+            "status": "verified",
+            "examiner": "7j4op3d8",
+            "verify-date": "2025-04-07T03:21:14Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x33ed72x",
+              "uri": "https://www.speedrun.com/api/v1/users/x33ed72x"
+            }
+          ],
+          "date": "2025-04-05",
+          "submitted": "2025-04-05T19:56:27Z",
+          "times": {
+            "primary": "PT2H50M6S",
+            "primary_t": 10206,
+            "realtime": "PT2H50M6S",
+            "realtime_t": 10206,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "qkek2eyq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
+          "id": "ylpq283m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/run/ylpq283m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "zd39l6nd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=pPfOCETDmSw"
+              }
+            ]
+          },
+          "comment": "THORNY IS FINALLY REAL CHAT YEAHHHHH\n\n(also lord of thorn rings goes hard as hell as a cat ext name i'm ngl)\n\n[ALSO also, i was gonna submit my first two thorny runs, but i just can't find them for some reason, i'll probably do so later or not, i don't really know lmao]",
+          "status": {
+            "status": "verified",
+            "examiner": "1xymkgzx",
+            "verify-date": "2025-01-15T19:07:34Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2025-01-15",
+          "submitted": "2025-01-15T02:06:36Z",
+          "times": {
+            "primary": "PT2H54M32S",
+            "primary_t": 10472,
+            "realtime": "PT2H54M32S",
+            "realtime_t": 10472,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "dloe27dn": "qkek2eyq",
+            "jlz6erq8": "1dk796jl",
+            "j84p9228": "1w4ozkmq"
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "game",
+        "uri": "https://www.speedrun.com/api/v1/games/y6552z86"
+      },
+      {
+        "rel": "category",
+        "uri": "https://www.speedrun.com/api/v1/categories/zd39l6nd"
+      }
+    ]
+  }
+}

@@ -19,14 +19,14 @@ export async function listed() {
   const newList = Array.from(uniqueIds);
 
   
-  const old = await loadjson("./userid.json");
+  const old = await loadjson("./info/userid.json");
 
   const oldList: string[] = Array.isArray(old) ? old : (old?.value ?? []);
 
   const diff = newList.filter(id => !oldList.includes(id));
 
-  savejson("./","diff_userid", diff);
-  savejson("./","userid", newList);
+  savejson("./info","diff_userid", diff);
+  savejson("./info","userid", newList);
 
   console.log("Total Count:", newList.length);
   console.log("New IDs:", diff.length);

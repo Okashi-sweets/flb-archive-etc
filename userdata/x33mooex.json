@@ -3,7 +3,7 @@
   "name": "koveto",
   "banned": false,
   "pbscore": 972.02,
-  "pbscoredatail": {
+  "pbscoredetail": {
     "basescore": 838.07,
     "cescore": 133.94,
     "acscore": 100,
@@ -12,7 +12,7 @@
     "ch3score": 50,
     "ch4score": 100,
     "cedemoscore": 65.97,
-    "ceacscore": 0,
+    "ceacscore": 35,
     "cech1score": 32.97,
     "cech2score": 0,
     "cech3score": 0,
