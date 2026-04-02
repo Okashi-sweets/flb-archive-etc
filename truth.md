@@ -14,7 +14,7 @@ ce category
 1 + 1 * bonus
 
 bonus(If the time difference from the WR is within 15%):
-(1.15 - (time / WR)) * 2
+(1.15 - (time / WR)) ^ 2
 ```
 
 | place | name | score |
