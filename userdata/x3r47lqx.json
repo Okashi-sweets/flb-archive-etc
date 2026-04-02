@@ -2,14 +2,14 @@
   "id": "x3r47lqx",
   "name": "Blazy20",
   "banned": false,
-  "pbscore": 12.34,
+  "pbscore": 16.8,
   "pbscoredetail": {
-    "basescore": 12.34,
+    "basescore": 16.8,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 8.08,
     "ch2score": 4.26,
-    "ch3score": 0,
+    "ch3score": 4.46,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -151,8 +151,8 @@
     },
     {
       "category": "ch3any",
-      "time": null,
-      "irate": 0
+      "time": 2539,
+      "irate": 4.46
     },
     {
       "category": "ch3ar",

@@ -470,6 +470,11 @@
     "score": 17.22
   },
   {
+    "id": "x3r47lqx",
+    "name": "Blazy20",
+    "score": 16.8
+  },
+  {
     "id": "kjprmp58",
     "name": "Cloverbugged",
     "score": 16.54
@@ -628,11 +633,6 @@
     "id": "jo3yz00j",
     "name": "NatuNatu24",
     "score": 12.59
-  },
-  {
-    "id": "x3r47lqx",
-    "name": "Blazy20",
-    "score": 12.34
   },
   {
     "id": "j4r4dgw8",
@@ -4340,11 +4340,6 @@
     "score": 2
   },
   {
-    "id": "jn35l61x",
-    "name": "drubzyy",
-    "score": 2
-  },
-  {
     "id": "zxzvg7ej",
     "name": "Autz",
     "score": 2
@@ -5402,11 +5397,6 @@
   {
     "id": "8e6qy3dj",
     "name": "ravensbite",
-    "score": 2
-  },
-  {
-    "id": "x331o42x",
-    "name": "Lixeeny",
     "score": 2
   },
   {
@@ -8372,6 +8362,16 @@
   {
     "id": "x76e740j",
     "name": "tagalotroller_",
+    "score": 0
+  },
+  {
+    "id": "jn35l61x",
+    "name": "drubzyy",
+    "score": 0
+  },
+  {
+    "id": "x331o42x",
+    "name": "Lixeeny",
     "score": 0
   }
 ]

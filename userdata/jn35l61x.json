@@ -2,12 +2,12 @@
   "id": "jn35l61x",
   "name": "drubzyy",
   "banned": false,
-  "pbscore": 2,
+  "pbscore": 0,
   "pbscoredetail": {
-    "basescore": 2,
+    "basescore": 0,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 2,
+    "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -61,8 +61,8 @@
     },
     {
       "category": "ch1any",
-      "time": 1975,
-      "irate": 2
+      "time": null,
+      "irate": 0
     },
     {
       "category": "ch1ab",
