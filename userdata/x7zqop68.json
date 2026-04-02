@@ -2,16 +2,16 @@
   "id": "x7zqop68",
   "name": "UnikittySpeedruns",
   "banned": false,
-  "pbscore": 217,
+  "pbscore": 10.42,
   "pbscoredetail": {
-    "basescore": 184.92,
-    "cescore": 32.08,
+    "basescore": 8.42,
+    "cescore": 2,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 184.92,
+    "ch2score": 8.42,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 32.08,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3143,
-      "irate": 93.24
+      "irate": 4.34
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2204,
-      "irate": 91.68
+      "irate": 4.08
     },
     {
       "category": "ch2wr109",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5068,
-      "irate": 32.08
+      "irate": 2
     },
     {
       "category": "ce_demowr",

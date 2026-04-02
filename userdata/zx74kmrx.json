@@ -2,12 +2,12 @@
   "id": "zx74kmrx",
   "name": "Katchper",
   "banned": false,
-  "pbscore": 93.63,
+  "pbscore": 4.43,
   "pbscoredetail": {
-    "basescore": 93.63,
+    "basescore": 4.43,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.63,
+    "ch1score": 4.43,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1681.6,
-      "irate": 93.63
+      "irate": 4.43
     },
     {
       "category": "ch1ab",

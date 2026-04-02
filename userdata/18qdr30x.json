@@ -2,12 +2,12 @@
   "id": "18qdr30x",
   "name": "Bulbasaur",
   "banned": false,
-  "pbscore": 92.88,
+  "pbscore": 4.26,
   "pbscoredetail": {
-    "basescore": 92.88,
+    "basescore": 4.26,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.88,
+    "ch1score": 4.26,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1700.167,
-      "irate": 92.88
+      "irate": 4.26
     },
     {
       "category": "ch1ab",

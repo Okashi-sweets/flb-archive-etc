@@ -2,18 +2,18 @@
   "id": "dx3y1zk8",
   "name": "Pokemario2401",
   "banned": false,
-  "pbscore": 193.33,
+  "pbscore": 12.08,
   "pbscoredetail": {
-    "basescore": 140.82,
-    "cescore": 52.51,
+    "basescore": 8.01,
+    "cescore": 4.07,
     "acscore": 0,
-    "ch1score": 140.82,
+    "ch1score": 8.01,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
-    "cech1score": 32.51,
+    "cech1score": 2.06,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1753.167,
-      "irate": 90.83
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
       "time": 2054,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
       "time": 1924,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -252,7 +252,7 @@
     {
       "category": "ce_demoab",
       "time": 5968,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoabnmg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5983,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1485,
-      "irate": 32.51
+      "irate": 2.07
     },
     {
       "category": "ce_ch1abtp",

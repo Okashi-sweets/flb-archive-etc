@@ -2,13 +2,13 @@
   "id": "j4q4o3mx",
   "name": "Qwerty418",
   "banned": false,
-  "pbscore": 92.6,
+  "pbscore": 4.21,
   "pbscoredetail": {
-    "basescore": 92.6,
+    "basescore": 4.21,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.6,
+    "ch2score": 4.21,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2174,
-      "irate": 92.6
+      "irate": 4.21
     },
     {
       "category": "ch2wr109",

@@ -2,13 +2,13 @@
   "id": "j0ww6wm8",
   "name": "turiorp",
   "banned": false,
-  "pbscore": 75,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 75,
+    "basescore": 6,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 50,
+    "ch1score": 2,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 2840,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -102,12 +102,12 @@
     {
       "category": "ch2wr",
       "time": 2647,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
       "time": 2647,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrg",

@@ -2,12 +2,12 @@
   "id": "8630dkq8",
   "name": "justsomedude",
   "banned": true,
-  "pbscore": 94.04,
+  "pbscore": 4.54,
   "pbscoredetail": {
-    "basescore": 94.04,
+    "basescore": 4.54,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.04,
+    "ch1score": 4.54,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1700,
-      "irate": 94.04
+      "irate": 4.54
     },
     {
       "category": "ch1109",

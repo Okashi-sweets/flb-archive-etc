@@ -2,13 +2,13 @@
   "id": "dx3nykjl",
   "name": "asheevee_",
   "banned": false,
-  "pbscore": 117.13,
+  "pbscore": 6.14,
   "pbscoredetail": {
-    "basescore": 117.13,
+    "basescore": 6.14,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.13,
-    "ch2score": 25,
+    "ch1score": 4.13,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1719.067,
-      "irate": 92.13
+      "irate": 4.14
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 3595,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",

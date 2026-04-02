@@ -2,21 +2,21 @@
   "id": "8dg437l8",
   "name": "Zilicon_",
   "banned": false,
-  "pbscore": 274.57,
+  "pbscore": 14.89,
   "pbscoredetail": {
-    "basescore": 207.13,
-    "cescore": 67.44,
+    "basescore": 10.07,
+    "cescore": 4.82,
     "acscore": 0,
-    "ch1score": 90.54,
-    "ch2score": 25,
-    "ch3score": 91.59,
+    "ch1score": 4,
+    "ch2score": 2,
+    "ch3score": 4.07,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
-    "cech4score": 67.44
+    "cech4score": 4.82
   },
   "times": [
     {
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1760.767,
-      "irate": 90.54
+      "irate": 4
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3402,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2622,
-      "irate": 91.59
+      "irate": 4.07
     },
     {
       "category": "ch3ar",
@@ -557,12 +557,12 @@
     {
       "category": "ce_ch4mike",
       "time": 587,
-      "irate": 33.72
+      "irate": 2.41
     },
     {
       "category": "ce_ch4mikeg",
       "time": 587,
-      "irate": 33.72
+      "irate": 2.41
     },
     {
       "category": "ce_ch4mike2",

@@ -2,16 +2,16 @@
   "id": "x7qn6py8",
   "name": "Jack_Dog06",
   "banned": false,
-  "pbscore": 95,
+  "pbscore": 8,
   "pbscoredetail": {
-    "basescore": 75,
-    "cescore": 20,
+    "basescore": 6,
+    "cescore": 2,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 50,
+    "ch1score": 2,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2075,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 4693,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 4136,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5968,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 4677,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoar",

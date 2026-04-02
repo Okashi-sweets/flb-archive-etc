@@ -2,12 +2,12 @@
   "id": "y8dmq0m8",
   "name": "aspyn",
   "banned": false,
-  "pbscore": 193.42,
+  "pbscore": 11.05,
   "pbscoredetail": {
-    "basescore": 193.42,
+    "basescore": 11.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 193.42,
+    "ch1score": 11.05,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1567.6,
-      "irate": 98.62
+      "irate": 6.29
     },
     {
       "category": "ch1ab",
       "time": 1919,
-      "irate": 94.8
+      "irate": 4.76
     },
     {
       "category": "ch1tp",

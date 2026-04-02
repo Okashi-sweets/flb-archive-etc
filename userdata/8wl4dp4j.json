@@ -2,13 +2,13 @@
   "id": "8wl4dp4j",
   "name": "Wesgar",
   "banned": false,
-  "pbscore": 91.43,
+  "pbscore": 4.05,
   "pbscoredetail": {
-    "basescore": 91.43,
+    "basescore": 4.05,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 91.43,
+    "ch2score": 4.05,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1741,
-      "irate": 91.43
+      "irate": 4.05
     },
     {
       "category": "ch2mrnmg",

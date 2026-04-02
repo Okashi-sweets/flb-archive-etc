@@ -2,12 +2,12 @@
   "id": "1xym6gmx",
   "name": "sobble_p",
   "banned": false,
-  "pbscore": 96.27,
+  "pbscore": 5.27,
   "pbscoredetail": {
-    "basescore": 96.27,
+    "basescore": 5.27,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.27,
+    "ch1score": 5.27,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1619.3,
-      "irate": 96.27
+      "irate": 5.27
     },
     {
       "category": "ch1ab",

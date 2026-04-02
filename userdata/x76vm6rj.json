@@ -2,16 +2,16 @@
   "id": "x76vm6rj",
   "name": "bigshotrob",
   "banned": false,
-  "pbscore": 317.75,
+  "pbscore": 16.63,
   "pbscoredetail": {
-    "basescore": 283.89,
-    "cescore": 33.86,
-    "acscore": 188.05,
-    "ch1score": 95.84,
+    "basescore": 14.17,
+    "cescore": 2.46,
+    "acscore": 9.07,
+    "ch1score": 5.09,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 33.86,
+    "cedemoscore": 2.46,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 10618,
-      "irate": 93.93
+      "irate": 4.51
     },
     {
       "category": "acwr",
@@ -57,12 +57,12 @@
     {
       "category": "acabg",
       "time": 12944,
-      "irate": 94.12
+      "irate": 4.56
     },
     {
       "category": "ch1any",
       "time": 1629.067,
-      "irate": 95.84
+      "irate": 5.1
     },
     {
       "category": "ch1ab",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5420,
-      "irate": 33.86
+      "irate": 2.46
     },
     {
       "category": "ce_actrmr",

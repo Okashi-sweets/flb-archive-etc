@@ -2,13 +2,13 @@
   "id": "joond23j",
   "name": "6186milktea",
   "banned": false,
-  "pbscore": 93.8,
+  "pbscore": 4.47,
   "pbscoredetail": {
-    "basescore": 93.8,
+    "basescore": 4.47,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 93.8,
+    "ch2score": 4.47,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2136,
-      "irate": 93.8
+      "irate": 4.47
     },
     {
       "category": "ch2wr109",

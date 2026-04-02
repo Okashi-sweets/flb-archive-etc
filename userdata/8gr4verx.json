@@ -2,13 +2,13 @@
   "id": "8gr4verx",
   "name": "Chungenour",
   "banned": false,
-  "pbscore": 90.99,
+  "pbscore": 4.01,
   "pbscoredetail": {
-    "basescore": 90.99,
+    "basescore": 4.01,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 90.99,
+    "ch2score": 4.01,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2227,
-      "irate": 90.99
+      "irate": 4.01
     },
     {
       "category": "ch2wr109",

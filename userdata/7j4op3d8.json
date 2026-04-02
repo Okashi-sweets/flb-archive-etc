@@ -2,18 +2,18 @@
   "id": "7j4op3d8",
   "name": "Tadyman",
   "banned": false,
-  "pbscore": 1534.13,
+  "pbscore": 89.61,
   "pbscoredetail": {
-    "basescore": 1298.34,
-    "cescore": 235.79,
+    "basescore": 72.61,
+    "cescore": 17,
     "acscore": 0,
-    "ch1score": 386.69,
-    "ch2score": 813.23,
-    "ch3score": 98.42,
+    "ch1score": 21.92,
+    "ch2score": 44.48,
+    "ch3score": 6.2,
     "ch4score": 0,
-    "cedemoscore": 167.26,
+    "cedemoscore": 11.73,
     "ceacscore": 0,
-    "cech1score": 68.53,
+    "cech1score": 5.27,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,57 +62,57 @@
     {
       "category": "ch1any",
       "time": 1571.3,
-      "irate": 98.45
+      "irate": 6.21
     },
     {
       "category": "ch1ab",
       "time": 1848,
-      "irate": 97.48
+      "irate": 5.77
     },
     {
       "category": "ch1tp",
       "time": 1694,
-      "irate": 94.28
+      "irate": 4.59
     },
     {
       "category": "ch1109",
       "time": 1601,
-      "irate": 96.48
+      "irate": 5.35
     },
     {
       "category": "ch2mr",
       "time": 1586.033,
-      "irate": 97.92
+      "irate": 5.96
     },
     {
       "category": "ch2mrnmg",
       "time": 2828,
-      "irate": 93.76
+      "irate": 4.46
     },
     {
       "category": "ch2mrg",
       "time": 2988,
-      "irate": 96.78
+      "irate": 5.47
     },
     {
       "category": "ch2mr109",
       "time": 1462,
-      "irate": 97.12
+      "irate": 5.61
     },
     {
       "category": "ch2wr",
       "time": 2061,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
       "time": 2061,
-      "irate": 92.94
+      "irate": 4.27
     },
     {
       "category": "ch2wrg",
       "time": 2061,
-      "irate": 96.3
+      "irate": 5.27
     },
     {
       "category": "ch2wr109",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 3346,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2arnmg",
@@ -132,12 +132,12 @@
     {
       "category": "ch2arg",
       "time": 3346,
-      "irate": 91.99
+      "irate": 4.12
     },
     {
       "category": "ch2ab",
       "time": 3103,
-      "irate": 96.42
+      "irate": 5.33
     },
     {
       "category": "ch2abnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2378,
-      "irate": 98.42
+      "irate": 6.2
     },
     {
       "category": "ch3ar",
@@ -207,12 +207,12 @@
     {
       "category": "ce_demomr",
       "time": 3171,
-      "irate": 34.44
+      "irate": 2.71
     },
     {
       "category": "ce_demomrnmg",
       "time": 4778,
-      "irate": 32.4
+      "irate": 2.04
     },
     {
       "category": "ce_demomrg",
@@ -252,17 +252,17 @@
     {
       "category": "ce_demoab",
       "time": 5165,
-      "irate": 33.01
+      "irate": 2.17
     },
     {
       "category": "ce_demoabnmg",
       "time": 5423,
-      "irate": 33.51
+      "irate": 2.33
     },
     {
       "category": "ce_demoabg",
       "time": 5410,
-      "irate": 33.9
+      "irate": 2.48
     },
     {
       "category": "ce_actrmr",
@@ -352,12 +352,12 @@
     {
       "category": "ce_ch1tr",
       "time": 1816,
-      "irate": 34.21
+      "irate": 2.61
     },
     {
       "category": "ce_ch1jevil",
       "time": 1375,
-      "irate": 34.32
+      "irate": 2.66
     },
     {
       "category": "ce_ch1abtp",

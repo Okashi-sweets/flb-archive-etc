@@ -2,14 +2,14 @@
   "id": "8q623g0j",
   "name": "Master_Stick",
   "banned": false,
-  "pbscore": 414.72,
+  "pbscore": 20.22,
   "pbscoredetail": {
-    "basescore": 414.72,
+    "basescore": 20.22,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
-    "ch2score": 272.49,
-    "ch3score": 92.23,
+    "ch1score": 4,
+    "ch2score": 12.07,
+    "ch3score": 4.15,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1785.4,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 2169,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1764,
-      "irate": 90.56
+      "irate": 4
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3284,
-      "irate": 90.31
+      "irate": 4
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2206,
-      "irate": 91.62
+      "irate": 4.07
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2597,
-      "irate": 92.23
+      "irate": 4.15
     },
     {
       "category": "ch3ar",

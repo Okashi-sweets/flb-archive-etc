@@ -2,13 +2,13 @@
   "id": "98r53m6x",
   "name": "Mathis",
   "banned": false,
-  "pbscore": 188.86,
+  "pbscore": 9.31,
   "pbscoredetail": {
-    "basescore": 188.86,
+    "basescore": 9.31,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.81,
-    "ch2score": 95.05,
+    "ch1score": 4.48,
+    "ch2score": 4.83,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1677.2,
-      "irate": 93.81
+      "irate": 4.48
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1651.067,
-      "irate": 95.05
+      "irate": 4.83
     },
     {
       "category": "ch2mrnmg",

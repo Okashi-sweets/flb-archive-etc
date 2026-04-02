@@ -2,19 +2,19 @@
   "id": "8ewk6628",
   "name": "RodrigoGajo",
   "banned": false,
-  "pbscore": 60,
+  "pbscore": 5,
   "pbscoredetail": {
-    "basescore": 50,
-    "cescore": 10,
+    "basescore": 4,
+    "cescore": 1,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 50,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 10,
+    "cech2score": 1,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 2242,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1863,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr",
@@ -442,7 +442,7 @@
     {
       "category": "ce_ch2as",
       "time": 4470,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch2asnmg",

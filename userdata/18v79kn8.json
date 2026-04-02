@@ -2,13 +2,13 @@
   "id": "18v79kn8",
   "name": "KatTouhou",
   "banned": false,
-  "pbscore": 213.13,
+  "pbscore": 11.14,
   "pbscoredetail": {
-    "basescore": 213.13,
+    "basescore": 11.14,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.07,
-    "ch2score": 120.06,
+    "ch1score": 4.3,
+    "ch2score": 6.84,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1695.333,
-      "irate": 93.07
+      "irate": 4.31
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1650.767,
-      "irate": 95.06
+      "irate": 4.84
     },
     {
       "category": "ch2mrnmg",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1974,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",

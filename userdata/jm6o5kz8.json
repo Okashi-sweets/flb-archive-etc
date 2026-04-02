@@ -2,14 +2,14 @@
   "id": "jm6o5kz8",
   "name": "pilzz",
   "banned": false,
-  "pbscore": 379.93,
+  "pbscore": 19.35,
   "pbscoredetail": {
-    "basescore": 379.93,
+    "basescore": 19.35,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 191.64,
-    "ch2score": 93.84,
-    "ch3score": 94.45,
+    "ch1score": 10.21,
+    "ch2score": 4.48,
+    "ch3score": 4.65,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1613.3,
-      "irate": 96.53
+      "irate": 5.37
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1674,
-      "irate": 95.11
+      "irate": 4.85
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1680,
-      "irate": 93.84
+      "irate": 4.48
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2514,
-      "irate": 94.45
+      "irate": 4.65
     },
     {
       "category": "ch3ar",

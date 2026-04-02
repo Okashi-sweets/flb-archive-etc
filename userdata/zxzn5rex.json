@@ -2,12 +2,12 @@
   "id": "zxzn5rex",
   "name": "josiee",
   "banned": false,
-  "pbscore": 96.26,
+  "pbscore": 5.26,
   "pbscoredetail": {
-    "basescore": 96.26,
+    "basescore": 5.26,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.26,
+    "ch1score": 5.26,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1619.6,
-      "irate": 96.26
+      "irate": 5.26
     },
     {
       "category": "ch1ab",

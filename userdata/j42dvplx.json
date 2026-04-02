@@ -2,13 +2,13 @@
   "id": "j42dvplx",
   "name": "Raven48",
   "banned": false,
-  "pbscore": 305.64,
+  "pbscore": 15.34,
   "pbscoredetail": {
-    "basescore": 305.64,
+    "basescore": 15.34,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 280.64,
+    "ch1score": 2,
+    "ch2score": 13.34,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2029,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1659.367,
-      "irate": 94.7
+      "irate": 4.72
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3113,
-      "irate": 93.9
+      "irate": 4.5
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2192,
-      "irate": 92.04
+      "irate": 4.13
     },
     {
       "category": "ch2wr109",

@@ -2,16 +2,16 @@
   "id": "qjn5g0wj",
   "name": "MyrajusEleen",
   "banned": false,
-  "pbscore": 35,
+  "pbscore": 3,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 10,
+    "basescore": 2,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 3157,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 9904,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",

@@ -2,14 +2,14 @@
   "id": "j20ky76x",
   "name": "prettykittyashy",
   "banned": false,
-  "pbscore": 94.78,
+  "pbscore": 4.75,
   "pbscoredetail": {
-    "basescore": 94.78,
+    "basescore": 4.75,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 94.78,
+    "ch3score": 4.75,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2502,
-      "irate": 94.78
+      "irate": 4.75
     },
     {
       "category": "ch3ar",

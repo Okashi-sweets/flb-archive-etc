@@ -2,13 +2,13 @@
   "id": "x7gyyd6x",
   "name": "YaPenguin",
   "banned": false,
-  "pbscore": 391.2,
+  "pbscore": 23.83,
   "pbscoredetail": {
-    "basescore": 391.2,
+    "basescore": 23.83,
     "cescore": 0,
-    "acscore": 95.46,
-    "ch1score": 196.97,
-    "ch2score": 98.78,
+    "acscore": 4.97,
+    "ch1score": 12.49,
+    "ch2score": 6.37,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -57,17 +57,17 @@
     {
       "category": "acabg",
       "time": 12698,
-      "irate": 95.46
+      "irate": 4.97
     },
     {
       "category": "ch1any",
       "time": 1551.833,
-      "irate": 99.37
+      "irate": 6.67
     },
     {
       "category": "ch1ab",
       "time": 1845,
-      "irate": 97.6
+      "irate": 5.82
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1567.6,
-      "irate": 98.78
+      "irate": 6.37
     },
     {
       "category": "ch2mrnmg",

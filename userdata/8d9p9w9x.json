@@ -2,14 +2,14 @@
   "id": "8d9p9w9x",
   "name": "aBike",
   "banned": false,
-  "pbscore": 190.78,
+  "pbscore": 9.89,
   "pbscoredetail": {
-    "basescore": 190.78,
+    "basescore": 9.89,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 190.78,
+    "ch3score": 9.89,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2488,
-      "irate": 95.17
+      "irate": 4.88
     },
     {
       "category": "ch3ar",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3663,
-      "irate": 95.61
+      "irate": 5.02
     },
     {
       "category": "ch4any",

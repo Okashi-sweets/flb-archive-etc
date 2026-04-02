@@ -2,14 +2,14 @@
   "id": "8q5zeod8",
   "name": "starboon",
   "banned": false,
-  "pbscore": 95.77,
+  "pbscore": 5.08,
   "pbscoredetail": {
-    "basescore": 95.77,
+    "basescore": 5.08,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 95.77,
+    "ch3score": 5.08,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2467,
-      "irate": 95.77
+      "irate": 5.08
     },
     {
       "category": "ch3ar",

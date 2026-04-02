@@ -2,13 +2,13 @@
   "id": "xz7zrmnj",
   "name": "Pix3ls",
   "banned": false,
-  "pbscore": 298.38,
+  "pbscore": 14.1,
   "pbscoredetail": {
-    "basescore": 298.38,
+    "basescore": 14.1,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.17,
-    "ch2score": 207.2,
+    "ch1score": 4.01,
+    "ch2score": 10.08,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1744.033,
-      "irate": 91.17
+      "irate": 4.02
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1766,
-      "irate": 90.49
+      "irate": 4
     },
     {
       "category": "ch2mrnmg",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 2164,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2arnmg",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3787,
-      "irate": 91.72
+      "irate": 4.08
     },
     {
       "category": "ch3any",

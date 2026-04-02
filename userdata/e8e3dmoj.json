@@ -2,12 +2,12 @@
   "id": "e8e3dmoj",
   "name": "slons",
   "banned": false,
-  "pbscore": 96.48,
+  "pbscore": 5.35,
   "pbscoredetail": {
-    "basescore": 96.48,
+    "basescore": 5.35,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.48,
+    "ch1score": 5.35,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1614.533,
-      "irate": 96.48
+      "irate": 5.35
     },
     {
       "category": "ch1ab",

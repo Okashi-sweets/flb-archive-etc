@@ -2,13 +2,13 @@
   "id": "j0nmdqw8",
   "name": "Bruhsalt",
   "banned": false,
-  "pbscore": 186.67,
+  "pbscore": 8.73,
   "pbscoredetail": {
-    "basescore": 186.67,
+    "basescore": 8.73,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 186.67,
+    "ch2score": 8.73,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3157,
-      "irate": 92.94
+      "irate": 4.27
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2138,
-      "irate": 93.73
+      "irate": 4.46
     },
     {
       "category": "ch2wr109",

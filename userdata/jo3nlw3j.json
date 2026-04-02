@@ -2,16 +2,16 @@
   "id": "jo3nlw3j",
   "name": "ChristianVega64",
   "banned": false,
-  "pbscore": 85,
+  "pbscore": 7,
   "pbscoredetail": {
-    "basescore": 75,
-    "cescore": 10,
+    "basescore": 6,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 50,
+    "ch1score": 2,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2126,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3792,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2951,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5833,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",

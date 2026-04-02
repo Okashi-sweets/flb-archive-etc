@@ -2,18 +2,18 @@
   "id": "j233e27x",
   "name": "megalovania",
   "banned": false,
-  "pbscore": 541.37,
+  "pbscore": 28.91,
   "pbscoredetail": {
-    "basescore": 475.41,
-    "cescore": 65.97,
+    "basescore": 24.56,
+    "cescore": 4.34,
     "acscore": 0,
-    "ch1score": 188.93,
-    "ch2score": 286.48,
+    "ch1score": 9.52,
+    "ch2score": 15.03,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 32.78,
+    "cedemoscore": 2.12,
     "ceacscore": 0,
-    "cech1score": 33.19,
+    "cech1score": 2.23,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1614.367,
-      "irate": 96.49
+      "irate": 5.35
     },
     {
       "category": "ch1ab",
       "time": 1986,
-      "irate": 92.44
+      "irate": 4.18
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1620.367,
-      "irate": 96.37
+      "irate": 5.31
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2067,
-      "irate": 96.1
+      "irate": 5.2
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3248,
-      "irate": 94.01
+      "irate": 4.52
     },
     {
       "category": "ch2ab",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3401,
-      "irate": 32.78
+      "irate": 2.12
     },
     {
       "category": "ce_demomrnmg",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1442,
-      "irate": 33.19
+      "irate": 2.23
     },
     {
       "category": "ce_ch1abtp",

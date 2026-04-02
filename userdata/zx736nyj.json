@@ -2,13 +2,13 @@
   "id": "zx736nyj",
   "name": "Sayed",
   "banned": false,
-  "pbscore": 259.34,
+  "pbscore": 14.31,
   "pbscoredetail": {
-    "basescore": 259.34,
+    "basescore": 14.31,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.62,
-    "ch2score": 167.72,
+    "ch1score": 4.07,
+    "ch2score": 10.24,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1732.267,
-      "irate": 91.62
+      "irate": 4.07
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1846,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,17 +92,17 @@
     {
       "category": "ch2mrg",
       "time": 3403,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
       "time": 1557,
-      "irate": 92.72
+      "irate": 4.24
     },
     {
       "category": "ch2wr",
       "time": 2100,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",

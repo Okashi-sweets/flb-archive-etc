@@ -2,16 +2,16 @@
   "id": "zxz0yr48",
   "name": "Ninpalk",
   "banned": false,
-  "pbscore": 85,
+  "pbscore": 7,
   "pbscoredetail": {
-    "basescore": 75,
-    "cescore": 10,
+    "basescore": 6,
+    "cescore": 1,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 75,
+    "ch2score": 6,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 2042,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2918,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2918,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 4608,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoar",

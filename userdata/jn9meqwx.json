@@ -2,13 +2,13 @@
   "id": "jn9meqwx",
   "name": "Alvacerus",
   "banned": false,
-  "pbscore": 140.6,
+  "pbscore": 8,
   "pbscoredetail": {
-    "basescore": 140.6,
+    "basescore": 8,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 115.6,
+    "ch1score": 2,
+    "ch2score": 6,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1840,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2240,
-      "irate": 90.6
+      "irate": 4
     },
     {
       "category": "ch2wr109",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3992,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",

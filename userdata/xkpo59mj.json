@@ -2,13 +2,13 @@
   "id": "xkpo59mj",
   "name": "Blackout_RTA",
   "banned": false,
-  "pbscore": 192.13,
+  "pbscore": 10.47,
   "pbscoredetail": {
-    "basescore": 192.13,
+    "basescore": 10.47,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.61,
-    "ch2score": 97.52,
+    "ch1score": 4.7,
+    "ch2score": 5.77,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1658,
-      "irate": 94.61
+      "irate": 4.7
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1594.867,
-      "irate": 97.52
+      "irate": 5.77
     },
     {
       "category": "ch2mrnmg",

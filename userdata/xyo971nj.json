@@ -2,14 +2,14 @@
   "id": "xyo971nj",
   "name": "CONCON99",
   "banned": false,
-  "pbscore": 119.45,
+  "pbscore": 6.65,
   "pbscoredetail": {
-    "basescore": 119.45,
+    "basescore": 6.65,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
-    "ch3score": 94.45,
+    "ch2score": 2,
+    "ch3score": 4.65,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2462,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2514,
-      "irate": 94.45
+      "irate": 4.65
     },
     {
       "category": "ch3ar",

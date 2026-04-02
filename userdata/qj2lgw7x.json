@@ -2,14 +2,14 @@
   "id": "qj2lgw7x",
   "name": "Zennan",
   "banned": false,
-  "pbscore": 290.16,
+  "pbscore": 16.34,
   "pbscoredetail": {
-    "basescore": 290.16,
+    "basescore": 16.34,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.31,
-    "ch2score": 96.59,
-    "ch3score": 96.26,
+    "ch1score": 5.69,
+    "ch2score": 5.39,
+    "ch3score": 5.26,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1596.067,
-      "irate": 97.31
+      "irate": 5.69
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1615.433,
-      "irate": 96.59
+      "irate": 5.39
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2450,
-      "irate": 96.26
+      "irate": 5.26
     },
     {
       "category": "ch3ar",

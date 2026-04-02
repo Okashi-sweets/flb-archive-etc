@@ -2,13 +2,13 @@
   "id": "68wq40z8",
   "name": "Thog_n",
   "banned": false,
-  "pbscore": 303.63,
+  "pbscore": 15.07,
   "pbscoredetail": {
-    "basescore": 303.63,
+    "basescore": 15.07,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 184.38,
-    "ch2score": 119.25,
+    "ch1score": 8.48,
+    "ch2score": 6.59,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1677.1,
-      "irate": 93.81
+      "irate": 4.48
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1790,
-      "irate": 90.57
+      "irate": 4
     },
     {
       "category": "ch1109",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2122,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2122,
-      "irate": 94.25
+      "irate": 4.59
     },
     {
       "category": "ch2wr109",

@@ -2,16 +2,16 @@
   "id": "48gon6px",
   "name": "CreatorCreepy",
   "banned": false,
-  "pbscore": 127.87,
+  "pbscore": 7.26,
   "pbscoredetail": {
-    "basescore": 117.87,
-    "cescore": 10,
+    "basescore": 6.26,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 92.87,
-    "ch2score": 25,
+    "ch1score": 4.26,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1700.333,
-      "irate": 92.87
+      "irate": 4.26
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 3611,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 5466,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

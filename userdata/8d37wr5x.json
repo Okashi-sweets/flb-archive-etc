@@ -2,13 +2,13 @@
   "id": "8d37wr5x",
   "name": "Louf",
   "banned": false,
-  "pbscore": 187.52,
+  "pbscore": 8.93,
   "pbscoredetail": {
-    "basescore": 187.52,
+    "basescore": 8.93,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 187.52,
+    "ch2score": 8.93,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1777,
-      "irate": 94.21
+      "irate": 4.58
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2151,
-      "irate": 93.32
+      "irate": 4.35
     },
     {
       "category": "ch2wr109",

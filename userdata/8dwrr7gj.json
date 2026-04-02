@@ -2,15 +2,15 @@
   "id": "8dwrr7gj",
   "name": "JacySheep",
   "banned": false,
-  "pbscore": 183.3,
+  "pbscore": 8.27,
   "pbscoredetail": {
-    "basescore": 183.3,
+    "basescore": 8.27,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.94,
+    "ch2score": 4.26,
     "ch3score": 0,
-    "ch4score": 90.36,
+    "ch4score": 4,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2163,
-      "irate": 92.94
+      "irate": 4.27
     },
     {
       "category": "ch2wr109",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3784,
-      "irate": 90.36
+      "irate": 4
     },
     {
       "category": "asc",

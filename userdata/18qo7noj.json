@@ -2,18 +2,18 @@
   "id": "18qo7noj",
   "name": "Blueser",
   "banned": false,
-  "pbscore": 227.48,
+  "pbscore": 13.45,
   "pbscoredetail": {
-    "basescore": 193.42,
-    "cescore": 34.06,
+    "basescore": 10.91,
+    "cescore": 2.54,
     "acscore": 0,
-    "ch1score": 193.42,
+    "ch1score": 10.91,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 34.06,
+    "cech1score": 2.54,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1593.633,
-      "irate": 97.42
+      "irate": 5.74
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1653,
-      "irate": 96
+      "irate": 5.17
     },
     {
       "category": "ch1109",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 1827,
-      "irate": 34.06
+      "irate": 2.54
     },
     {
       "category": "ce_ch1jevil",

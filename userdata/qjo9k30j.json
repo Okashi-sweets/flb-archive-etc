@@ -2,13 +2,13 @@
   "id": "qjo9k30j",
   "name": "Depa",
   "banned": false,
-  "pbscore": 118.68,
+  "pbscore": 6.43,
   "pbscoredetail": {
-    "basescore": 118.68,
+    "basescore": 6.43,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 93.68,
+    "ch1score": 2,
+    "ch2score": 4.43,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1796.867,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1684,
-      "irate": 93.68
+      "irate": 4.43
     },
     {
       "category": "ch2mrnmg",

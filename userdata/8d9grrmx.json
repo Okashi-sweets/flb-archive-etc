@@ -2,14 +2,14 @@
   "id": "8d9grrmx",
   "name": "67676767",
   "banned": false,
-  "pbscore": 141.09,
+  "pbscore": 8.02,
   "pbscoredetail": {
-    "basescore": 141.09,
+    "basescore": 8.02,
     "cescore": 0,
-    "acscore": 25,
+    "acscore": 2,
     "ch1score": 0,
-    "ch2score": 91.09,
-    "ch3score": 25,
+    "ch2score": 4.01,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -47,7 +47,7 @@
     {
       "category": "acarg",
       "time": 12360,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1750,
-      "irate": 91.09
+      "irate": 4.02
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2789,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

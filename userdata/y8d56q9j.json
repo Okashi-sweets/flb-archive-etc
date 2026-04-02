@@ -2,12 +2,12 @@
   "id": "y8d56q9j",
   "name": "Krackerlack",
   "banned": false,
-  "pbscore": 97.14,
+  "pbscore": 5.62,
   "pbscoredetail": {
-    "basescore": 97.14,
+    "basescore": 5.62,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.14,
+    "ch1score": 5.62,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1599.733,
-      "irate": 97.14
+      "irate": 5.62
     },
     {
       "category": "ch1ab",

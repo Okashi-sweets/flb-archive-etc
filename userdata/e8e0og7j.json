@@ -2,13 +2,13 @@
   "id": "e8e0og7j",
   "name": "HaxQL",
   "banned": false,
-  "pbscore": 277.98,
+  "pbscore": 12.78,
   "pbscoredetail": {
-    "basescore": 277.98,
+    "basescore": 12.78,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 277.98,
+    "ch2score": 12.78,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1680,
-      "irate": 93.84
+      "irate": 4.48
     },
     {
       "category": "ch2mrnmg",
@@ -92,12 +92,12 @@
     {
       "category": "ch2mrg",
       "time": 3238,
-      "irate": 91.24
+      "irate": 4.04
     },
     {
       "category": "ch2mr109",
       "time": 1553,
-      "irate": 92.9
+      "irate": 4.26
     },
     {
       "category": "ch2wr",

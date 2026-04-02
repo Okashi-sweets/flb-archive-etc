@@ -2,16 +2,16 @@
   "id": "jp4wngyj",
   "name": "GrowTM",
   "banned": false,
-  "pbscore": 20,
+  "pbscore": 2,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 20,
+    "cescore": 2,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5780,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 6608,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",

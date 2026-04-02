@@ -2,14 +2,14 @@
   "id": "jozzm4e8",
   "name": "sinister_mark",
   "banned": false,
-  "pbscore": 165.31,
+  "pbscore": 10,
   "pbscoredetail": {
-    "basescore": 165.31,
+    "basescore": 10,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
-    "ch2score": 25,
-    "ch3score": 90.31,
+    "ch1score": 4,
+    "ch2score": 2,
+    "ch3score": 4,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1890,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 2636,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -147,12 +147,12 @@
     {
       "category": "ch2abg",
       "time": 4361,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",
       "time": 2673,
-      "irate": 90.31
+      "irate": 4
     },
     {
       "category": "ch3ar",

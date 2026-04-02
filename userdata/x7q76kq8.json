@@ -2,13 +2,13 @@
   "id": "x7q76kq8",
   "name": "5ummrtime",
   "banned": false,
-  "pbscore": 288.37,
+  "pbscore": 15.8,
   "pbscoredetail": {
-    "basescore": 288.37,
+    "basescore": 15.8,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.11,
-    "ch2score": 191.26,
+    "ch1score": 5.61,
+    "ch2score": 10.19,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1600.5,
-      "irate": 97.11
+      "irate": 5.61
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3105,
-      "irate": 94.08
+      "irate": 4.55
     },
     {
       "category": "ch2mr109",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1704,
-      "irate": 97.18
+      "irate": 5.64
     },
     {
       "category": "ch2wrnmg",

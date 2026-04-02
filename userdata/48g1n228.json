@@ -2,13 +2,13 @@
   "id": "48g1n228",
   "name": "jamberoz",
   "banned": false,
-  "pbscore": 578.5,
+  "pbscore": 32.17,
   "pbscoredetail": {
-    "basescore": 578.5,
+    "basescore": 32.17,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.48,
-    "ch2score": 481.02,
+    "ch1score": 5.77,
+    "ch2score": 26.4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1592.233,
-      "irate": 97.48
+      "irate": 5.77
     },
     {
       "category": "ch1ab",
@@ -82,22 +82,22 @@
     {
       "category": "ch2mr",
       "time": 1599.933,
-      "irate": 97.29
+      "irate": 5.68
     },
     {
       "category": "ch2mrnmg",
       "time": 2784,
-      "irate": 94.85
+      "irate": 4.76
     },
     {
       "category": "ch2mrg",
       "time": 2969,
-      "irate": 97.24
+      "irate": 5.66
     },
     {
       "category": "ch2mr109",
       "time": 1519,
-      "irate": 94.42
+      "irate": 4.64
     },
     {
       "category": "ch2wr",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2034.733,
-      "irate": 97.22
+      "irate": 5.66
     },
     {
       "category": "ch2wr109",

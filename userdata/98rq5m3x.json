@@ -2,12 +2,12 @@
   "id": "98rq5m3x",
   "name": "Cupps",
   "banned": false,
-  "pbscore": 91.78,
+  "pbscore": 4.09,
   "pbscoredetail": {
-    "basescore": 91.78,
+    "basescore": 4.09,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.78,
+    "ch1score": 4.09,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1728.2,
-      "irate": 91.78
+      "irate": 4.09
     },
     {
       "category": "ch1ab",

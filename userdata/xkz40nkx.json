@@ -2,14 +2,14 @@
   "id": "xkz40nkx",
   "name": "Lxghtnxng",
   "banned": false,
-  "pbscore": 186,
+  "pbscore": 8.59,
   "pbscoredetail": {
-    "basescore": 186,
+    "basescore": 8.59,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.61,
+    "ch1score": 4.22,
     "ch2score": 0,
-    "ch3score": 93.39,
+    "ch3score": 4.37,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1981,
-      "irate": 92.61
+      "irate": 4.22
     },
     {
       "category": "ch1tp",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2553,
-      "irate": 93.39
+      "irate": 4.37
     },
     {
       "category": "ch3ar",

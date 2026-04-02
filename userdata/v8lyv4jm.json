@@ -2,15 +2,15 @@
   "id": "v8lyv4jm",
   "name": "MarvJungs",
   "banned": false,
-  "pbscore": 471.54,
+  "pbscore": 23.08,
   "pbscoredetail": {
-    "basescore": 471.54,
+    "basescore": 23.08,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.94,
-    "ch2score": 188.47,
-    "ch3score": 94.86,
-    "ch4score": 94.27,
+    "ch1score": 4.51,
+    "ch2score": 9.21,
+    "ch3score": 4.76,
+    "ch4score": 4.59,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1674.033,
-      "irate": 93.94
+      "irate": 4.51
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3133,
-      "irate": 93.46
+      "irate": 4.39
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2099,
-      "irate": 95.01
+      "irate": 4.82
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2499,
-      "irate": 94.86
+      "irate": 4.77
     },
     {
       "category": "ch3ar",
@@ -172,7 +172,7 @@
     {
       "category": "ch4anyg",
       "time": 3221,
-      "irate": 94.27
+      "irate": 4.59
     },
     {
       "category": "ch4ar",

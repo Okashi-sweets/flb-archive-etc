@@ -2,11 +2,11 @@
   "id": "8lzr2qrx",
   "name": "FaintBreath",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
-    "acscore": 50,
+    "acscore": 4,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -197,12 +197,12 @@
     {
       "category": "asc",
       "time": 11388,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ascg",
       "time": 12270,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ce_demomr",

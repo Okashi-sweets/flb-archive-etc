@@ -2,13 +2,13 @@
   "id": "j26d4dnx",
   "name": "ShieldMeteor",
   "banned": false,
-  "pbscore": 91.29,
+  "pbscore": 4.04,
   "pbscoredetail": {
-    "basescore": 91.29,
+    "basescore": 4.04,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 91.29,
+    "ch2score": 4.04,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2217,
-      "irate": 91.29
+      "irate": 4.04
     },
     {
       "category": "ch2wr109",

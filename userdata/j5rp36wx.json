@@ -2,11 +2,11 @@
   "id": "j5rp36wx",
   "name": "Mach131",
   "banned": false,
-  "pbscore": 93.16,
+  "pbscore": 4.32,
   "pbscoredetail": {
-    "basescore": 93.16,
+    "basescore": 4.32,
     "cescore": 0,
-    "acscore": 93.16,
+    "acscore": 4.32,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 13127,
-      "irate": 93.16
+      "irate": 4.32
     },
     {
       "category": "ch1any",

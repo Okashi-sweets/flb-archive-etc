@@ -2,18 +2,18 @@
   "id": "x7qkzoq8",
   "name": "OddPandemonium",
   "banned": false,
-  "pbscore": 35,
+  "pbscore": 3,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 10,
+    "basescore": 2,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 10,
+    "cech1score": 1,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2025,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 2364,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch1abtp",

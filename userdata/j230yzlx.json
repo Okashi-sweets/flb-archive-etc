@@ -2,16 +2,16 @@
   "id": "j230yzlx",
   "name": "Cyrenux",
   "banned": false,
-  "pbscore": 32.29,
+  "pbscore": 2.02,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 32.29,
+    "cescore": 2.02,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 32.29,
+    "cedemoscore": 2.02,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5802,
-      "irate": 32.29
+      "irate": 2.03
     },
     {
       "category": "ce_actrmr",

@@ -2,16 +2,16 @@
   "id": "e8ez4d68",
   "name": "Yoshikiller109",
   "banned": false,
-  "pbscore": 150.99,
+  "pbscore": 9.01,
   "pbscoredetail": {
-    "basescore": 140.99,
-    "cescore": 10,
+    "basescore": 8.01,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 115.99,
-    "ch2score": 25,
+    "ch1score": 6.01,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1748.733,
-      "irate": 90.99
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 2497,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1874,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 5577,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

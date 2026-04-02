@@ -2,19 +2,19 @@
   "id": "jmpq3lej",
   "name": "loleeee91",
   "banned": false,
-  "pbscore": 85,
+  "pbscore": 7,
   "pbscoredetail": {
-    "basescore": 75,
-    "cescore": 10,
+    "basescore": 6,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 50,
-    "ch2score": 25,
+    "ch1score": 4,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 10,
+    "cech2score": 1,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 2419,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 3438,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2778,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -452,7 +452,7 @@
     {
       "category": "ce_ch2asg",
       "time": 5812,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch2alr",

@@ -2,14 +2,14 @@
   "id": "8g551g2j",
   "name": "chloebangbang",
   "banned": false,
-  "pbscore": 858.9,
+  "pbscore": 45.53,
   "pbscoredetail": {
-    "basescore": 858.9,
+    "basescore": 45.53,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 190.22,
-    "ch2score": 381.72,
-    "ch3score": 286.96,
+    "ch1score": 9.77,
+    "ch2score": 20.05,
+    "ch3score": 15.71,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1618.6,
-      "irate": 96.3
+      "irate": 5.27
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1703,
-      "irate": 93.92
+      "irate": 4.5
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1671.667,
-      "irate": 94.18
+      "irate": 4.58
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3083,
-      "irate": 94.57
+      "irate": 4.68
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2018.267,
-      "irate": 97.81
+      "irate": 5.92
     },
     {
       "category": "ch2wr109",
@@ -147,22 +147,22 @@
     {
       "category": "ch2abg",
       "time": 3601,
-      "irate": 95.16
+      "irate": 4.87
     },
     {
       "category": "ch3any",
       "time": 2385,
-      "irate": 98.2
+      "irate": 6.1
     },
     {
       "category": "ch3ar",
       "time": 2600,
-      "irate": 96.91
+      "irate": 5.52
     },
     {
       "category": "ch3ab",
       "time": 3869,
-      "irate": 91.85
+      "irate": 4.09
     },
     {
       "category": "ch4any",

@@ -2,13 +2,13 @@
   "id": "8l33zo48",
   "name": "ChronicYStream",
   "banned": false,
-  "pbscore": 94.1,
+  "pbscore": 4.55,
   "pbscoredetail": {
-    "basescore": 94.1,
+    "basescore": 4.55,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 94.1,
+    "ch2score": 4.55,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3104,
-      "irate": 94.1
+      "irate": 4.55
     },
     {
       "category": "ch2mr109",

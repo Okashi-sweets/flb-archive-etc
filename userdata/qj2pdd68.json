@@ -2,13 +2,13 @@
   "id": "qj2pdd68",
   "name": "Timeattack",
   "banned": false,
-  "pbscore": 96.13,
+  "pbscore": 5.22,
   "pbscoredetail": {
-    "basescore": 96.13,
+    "basescore": 5.22,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 96.13,
+    "ch2score": 5.22,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2066,
-      "irate": 96.13
+      "irate": 5.22
     },
     {
       "category": "ch2wr109",

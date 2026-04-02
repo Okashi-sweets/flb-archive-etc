@@ -2,13 +2,13 @@
   "id": "jozkk7e8",
   "name": "mc078",
   "banned": false,
-  "pbscore": 188.59,
+  "pbscore": 9.25,
   "pbscoredetail": {
-    "basescore": 188.59,
+    "basescore": 9.25,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 95.11,
-    "ch2score": 93.48,
+    "ch1score": 4.84,
+    "ch2score": 4.4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1646.067,
-      "irate": 95.11
+      "irate": 4.85
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3132,
-      "irate": 93.48
+      "irate": 4.4
     },
     {
       "category": "ch2mr109",

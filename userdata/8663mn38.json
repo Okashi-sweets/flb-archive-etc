@@ -2,17 +2,17 @@
   "id": "8663mn38",
   "name": "CryptOwl",
   "banned": false,
-  "pbscore": 10,
+  "pbscore": 1,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 10,
+    "cescore": 1,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
-    "ceacscore": 10,
+    "ceacscore": 1,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
@@ -272,7 +272,7 @@
     {
       "category": "ce_actrmrg",
       "time": 15267,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrwr",

@@ -2,13 +2,13 @@
   "id": "v810z1rx",
   "name": "Sluggy",
   "banned": false,
-  "pbscore": 210.16,
+  "pbscore": 10.44,
   "pbscoredetail": {
-    "basescore": 210.16,
+    "basescore": 10.44,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.32,
-    "ch2score": 116.84,
+    "ch1score": 4.34,
+    "ch2score": 6.09,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1689.1,
-      "irate": 93.32
+      "irate": 4.35
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1795,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1840,
-      "irate": 91.84
+      "irate": 4.09
     },
     {
       "category": "ch2wrnmg",

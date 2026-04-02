@@ -2,14 +2,14 @@
   "id": "8v0owy5x",
   "name": "LukeSpeedRuns01",
   "banned": false,
-  "pbscore": 118.09,
+  "pbscore": 6.31,
   "pbscoredetail": {
-    "basescore": 118.09,
+    "basescore": 6.31,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
-    "ch3score": 93.09,
+    "ch2score": 2,
+    "ch3score": 4.3,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3497,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2564,
-      "irate": 93.09
+      "irate": 4.31
     },
     {
       "category": "ch3ar",

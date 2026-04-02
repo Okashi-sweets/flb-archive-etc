@@ -2,12 +2,12 @@
   "id": "7j4mv2lj",
   "name": "Enzo_ht",
   "banned": false,
-  "pbscore": 96.93,
+  "pbscore": 5.52,
   "pbscoredetail": {
-    "basescore": 96.93,
+    "basescore": 5.52,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.93,
+    "ch1score": 5.52,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1604.467,
-      "irate": 96.93
+      "irate": 5.52
     },
     {
       "category": "ch1ab",

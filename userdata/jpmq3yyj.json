@@ -2,13 +2,13 @@
   "id": "jpmq3yyj",
   "name": "Sharkn8do",
   "banned": false,
-  "pbscore": 119.25,
+  "pbscore": 6.59,
   "pbscoredetail": {
-    "basescore": 119.25,
+    "basescore": 6.59,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 119.25,
+    "ch2score": 6.59,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2186,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2122,
-      "irate": 94.25
+      "irate": 4.59
     },
     {
       "category": "ch2wr109",

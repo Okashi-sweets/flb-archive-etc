@@ -2,16 +2,16 @@
   "id": "x3qe9k2j",
   "name": "theREALholymoly",
   "banned": false,
-  "pbscore": 320.33,
+  "pbscore": 17.64,
   "pbscoredetail": {
-    "basescore": 288.16,
-    "cescore": 32.17,
+    "basescore": 15.63,
+    "cescore": 2.02,
     "acscore": 0,
-    "ch1score": 95.9,
-    "ch2score": 97.3,
-    "ch3score": 94.97,
+    "ch1score": 5.13,
+    "ch2score": 5.69,
+    "ch3score": 4.8,
     "ch4score": 0,
-    "cedemoscore": 32.17,
+    "cedemoscore": 2.02,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1627.7,
-      "irate": 95.9
+      "irate": 5.13
     },
     {
       "category": "ch1ab",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2032.633,
-      "irate": 97.3
+      "irate": 5.69
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2495,
-      "irate": 94.97
+      "irate": 4.81
     },
     {
       "category": "ch3ar",
@@ -237,7 +237,7 @@
     {
       "category": "ce_demoar",
       "time": 3915,
-      "irate": 32.17
+      "irate": 2.02
     },
     {
       "category": "ce_demoarnmg",

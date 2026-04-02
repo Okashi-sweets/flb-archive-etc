@@ -2,13 +2,13 @@
   "id": "j4p6o35j",
   "name": "ItsSrGab",
   "banned": false,
-  "pbscore": 95.38,
+  "pbscore": 4.95,
   "pbscoredetail": {
-    "basescore": 95.38,
+    "basescore": 4.95,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 95.38,
+    "ch2score": 4.95,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2088,
-      "irate": 95.38
+      "irate": 4.95
     },
     {
       "category": "ch2wr109",

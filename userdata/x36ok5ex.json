@@ -2,13 +2,13 @@
   "id": "x36ok5ex",
   "name": "Rlft09",
   "banned": false,
-  "pbscore": 141.4,
+  "pbscore": 8.05,
   "pbscoredetail": {
-    "basescore": 141.4,
+    "basescore": 8.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 116.4,
+    "ch1score": 2,
+    "ch2score": 6.05,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1878,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 2708,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3230,
-      "irate": 91.4
+      "irate": 4.05
     },
     {
       "category": "ch2mr109",

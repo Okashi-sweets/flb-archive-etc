@@ -2,21 +2,21 @@
   "id": "86pyor3j",
   "name": "Kreal",
   "banned": false,
-  "pbscore": 320.11,
+  "pbscore": 17.48,
   "pbscoredetail": {
-    "basescore": 287.07,
-    "cescore": 33.04,
+    "basescore": 15.29,
+    "cescore": 2.19,
     "acscore": 0,
-    "ch1score": 96.51,
+    "ch1score": 5.36,
     "ch2score": 0,
     "ch3score": 0,
-    "ch4score": 190.56,
+    "ch4score": 9.93,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
-    "cech4score": 33.04
+    "cech4score": 2.19
   },
   "times": [
     {
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1613.8,
-      "irate": 96.51
+      "irate": 5.36
     },
     {
       "category": "ch1ab",
@@ -167,12 +167,12 @@
     {
       "category": "ch4any",
       "time": 2513,
-      "irate": 93.82
+      "irate": 4.48
     },
     {
       "category": "ch4anyg",
       "time": 3110,
-      "irate": 96.74
+      "irate": 5.45
     },
     {
       "category": "ch4ar",
@@ -552,7 +552,7 @@
     {
       "category": "ce_ch4alrg",
       "time": 3518,
-      "irate": 33.04
+      "irate": 2.19
     },
     {
       "category": "ce_ch4mike",

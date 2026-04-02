@@ -2,13 +2,13 @@
   "id": "8qoezd7j",
   "name": "Nevu_z",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 25,
+    "ch1score": 2,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 2333,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 4394,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",

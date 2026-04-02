@@ -2,11 +2,11 @@
   "id": "xyy22vyx",
   "name": "LosHermanosTheBrothers",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
-    "acscore": 25,
+    "acscore": 2,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -37,7 +37,7 @@
     {
       "category": "acwrg",
       "time": 14589,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acar",

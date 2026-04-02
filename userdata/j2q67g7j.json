@@ -2,15 +2,15 @@
   "id": "j2q67g7j",
   "name": "Krystall",
   "banned": false,
-  "pbscore": 885.62,
+  "pbscore": 55.84,
   "pbscoredetail": {
-    "basescore": 885.62,
+    "basescore": 55.84,
     "cescore": 0,
-    "acscore": 197.13,
-    "ch1score": 197.52,
-    "ch2score": 392.77,
+    "acscore": 12.62,
+    "ch1score": 12.74,
+    "ch2score": 24.38,
     "ch3score": 0,
-    "ch4score": 98.2,
+    "ch4score": 6.09,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -57,17 +57,17 @@
     {
       "category": "acabg",
       "time": 12403,
-      "irate": 97.13
+      "irate": 5.62
     },
     {
       "category": "ch1any",
       "time": 1554.367,
-      "irate": 99.25
+      "irate": 6.61
     },
     {
       "category": "ch1ab",
       "time": 1828,
-      "irate": 98.27
+      "irate": 6.13
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1572.1,
-      "irate": 98.57
+      "irate": 6.27
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 2921,
-      "irate": 98.43
+      "irate": 6.2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 1996.167,
-      "irate": 98.62
+      "irate": 6.29
     },
     {
       "category": "ch2wr109",
@@ -142,7 +142,7 @@
     {
       "category": "ch2abnmg",
       "time": 3296,
-      "irate": 97.15
+      "irate": 5.63
     },
     {
       "category": "ch2abg",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3379,
-      "irate": 98.2
+      "irate": 6.09
     },
     {
       "category": "asc",
@@ -202,7 +202,7 @@
     {
       "category": "ascg",
       "time": 10328,
-      "irate": 100
+      "irate": 7
     },
     {
       "category": "ce_demomr",

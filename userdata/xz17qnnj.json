@@ -2,16 +2,16 @@
   "id": "xz17qnnj",
   "name": "EvilMC10",
   "banned": false,
-  "pbscore": 332.92,
+  "pbscore": 17.07,
   "pbscoredetail": {
-    "basescore": 322.92,
-    "cescore": 10,
+    "basescore": 16.07,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 116.04,
-    "ch2score": 206.88,
+    "ch1score": 6.01,
+    "ch2score": 10.05,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1747.5,
-      "irate": 91.04
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
       "time": 2075,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3278,
-      "irate": 90.43
+      "irate": 4
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2315,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3802,
-      "irate": 91.45
+      "irate": 4.06
     },
     {
       "category": "ch3any",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 6151,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",

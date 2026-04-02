@@ -2,13 +2,13 @@
   "id": "xz9rlor8",
   "name": "Havzp",
   "banned": false,
-  "pbscore": 169.35,
+  "pbscore": 10.62,
   "pbscoredetail": {
-    "basescore": 169.35,
+    "basescore": 10.62,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
-    "ch2score": 119.35,
+    "ch1score": 4,
+    "ch2score": 6.62,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 2042,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 2481,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1777,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2119,
-      "irate": 94.35
+      "irate": 4.62
     },
     {
       "category": "ch2wr109",

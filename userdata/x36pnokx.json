@@ -2,16 +2,16 @@
   "id": "x36pnokx",
   "name": "Monograms",
   "banned": false,
-  "pbscore": 103.79,
+  "pbscore": 5.47,
   "pbscoredetail": {
-    "basescore": 93.79,
-    "cescore": 10,
+    "basescore": 4.47,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 93.79,
+    "ch1score": 4.47,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1677.767,
-      "irate": 93.79
+      "irate": 4.47
     },
     {
       "category": "ch1ab",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3644,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

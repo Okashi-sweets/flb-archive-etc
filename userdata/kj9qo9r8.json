@@ -2,16 +2,16 @@
   "id": "kj9qo9r8",
   "name": "warmersnow",
   "banned": false,
-  "pbscore": 261.72,
+  "pbscore": 15.02,
   "pbscoredetail": {
-    "basescore": 231.72,
-    "cescore": 30,
+    "basescore": 12.02,
+    "cescore": 3,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 206.72,
+    "ch2score": 10.02,
     "ch3score": 0,
-    "ch4score": 25,
-    "cedemoscore": 30,
+    "ch4score": 2,
+    "cedemoscore": 3,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1786,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2234,
-      "irate": 90.78
+      "irate": 4.01
     },
     {
       "category": "ch2wr109",
@@ -137,7 +137,7 @@
     {
       "category": "ch2ab",
       "time": 3361,
-      "irate": 90.94
+      "irate": 4.01
     },
     {
       "category": "ch2abnmg",
@@ -187,7 +187,7 @@
     {
       "category": "ch4ab",
       "time": 3048,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4abg",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 5103,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",
@@ -222,7 +222,7 @@
     {
       "category": "ce_demowr",
       "time": 4887,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demownmg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 6585,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",

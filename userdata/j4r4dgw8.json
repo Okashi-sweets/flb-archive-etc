@@ -2,18 +2,18 @@
   "id": "j4r4dgw8",
   "name": "Asits61",
   "banned": false,
-  "pbscore": 263.7,
+  "pbscore": 14.03,
   "pbscoredetail": {
-    "basescore": 231.9,
-    "cescore": 31.79,
+    "basescore": 12.03,
+    "cescore": 2,
     "acscore": 0,
-    "ch1score": 115.83,
-    "ch2score": 116.08,
+    "ch1score": 6.01,
+    "ch2score": 6.02,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 31.79,
+    "cech1score": 2,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1753.033,
-      "irate": 90.83
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1806,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1952,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2224,
-      "irate": 91.08
+      "irate": 4.02
     },
     {
       "category": "ch2wr109",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 2018,
-      "irate": 31.79
+      "irate": 2
     },
     {
       "category": "ce_ch1jevil",

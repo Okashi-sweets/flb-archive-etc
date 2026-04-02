@@ -2,12 +2,12 @@
   "id": "xyl7pzwj",
   "name": "Louwarrior",
   "banned": false,
-  "pbscore": 91.31,
+  "pbscore": 4.04,
   "pbscoredetail": {
-    "basescore": 91.31,
+    "basescore": 4.04,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.31,
+    "ch1score": 4.04,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1740.533,
-      "irate": 91.31
+      "irate": 4.04
     },
     {
       "category": "ch1ab",

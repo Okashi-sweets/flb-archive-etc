@@ -2,12 +2,12 @@
   "id": "81qe4l5j",
   "name": "Zero4ka",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2783,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",

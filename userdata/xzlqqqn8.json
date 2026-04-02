@@ -2,14 +2,14 @@
   "id": "xzlqqqn8",
   "name": "Minus_Zero",
   "banned": false,
-  "pbscore": 193.62,
+  "pbscore": 10.97,
   "pbscoredetail": {
-    "basescore": 193.62,
+    "basescore": 10.97,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.57,
+    "ch1score": 5.39,
     "ch2score": 0,
-    "ch3score": 97.05,
+    "ch3score": 5.58,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1612.533,
-      "irate": 96.57
+      "irate": 5.39
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2423,
-      "irate": 97.05
+      "irate": 5.58
     },
     {
       "category": "ch3ar",

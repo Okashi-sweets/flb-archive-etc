@@ -2,12 +2,12 @@
   "id": "kjprn9k8",
   "name": "Sestain",
   "banned": false,
-  "pbscore": 91.12,
+  "pbscore": 4.01,
   "pbscoredetail": {
-    "basescore": 91.12,
+    "basescore": 4.01,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.12,
+    "ch1score": 4.01,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1745.533,
-      "irate": 91.12
+      "irate": 4.02
     },
     {
       "category": "ch1ab",

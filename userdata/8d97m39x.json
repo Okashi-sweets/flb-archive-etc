@@ -2,15 +2,15 @@
   "id": "8d97m39x",
   "name": "baobab121",
   "banned": false,
-  "pbscore": 397.77,
+  "pbscore": 19.77,
   "pbscoredetail": {
-    "basescore": 397.77,
+    "basescore": 19.77,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.4,
-    "ch2score": 118.01,
-    "ch3score": 91.91,
-    "ch4score": 91.45,
+    "ch1score": 5.32,
+    "ch2score": 6.29,
+    "ch3score": 4.09,
+    "ch4score": 4.05,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1876,
-      "irate": 96.4
+      "irate": 5.32
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1810,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3715,
-      "irate": 93.01
+      "irate": 4.29
     },
     {
       "category": "ch3any",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3866,
-      "irate": 91.91
+      "irate": 4.1
     },
     {
       "category": "ch4any",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3722,
-      "irate": 91.45
+      "irate": 4.06
     },
     {
       "category": "asc",

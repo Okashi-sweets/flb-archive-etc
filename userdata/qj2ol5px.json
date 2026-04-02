@@ -2,13 +2,13 @@
   "id": "qj2ol5px",
   "name": "mrlink2k",
   "banned": false,
-  "pbscore": 219.03,
+  "pbscore": 13.24,
   "pbscoredetail": {
-    "basescore": 219.03,
+    "basescore": 13.24,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 194.03,
-    "ch2score": 25,
+    "ch1score": 11.24,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1570.067,
-      "irate": 98.5
+      "irate": 6.24
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1664,
-      "irate": 95.53
+      "irate": 5
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 3085,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",

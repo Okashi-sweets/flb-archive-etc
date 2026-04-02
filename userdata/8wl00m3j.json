@@ -2,12 +2,12 @@
   "id": "8wl00m3j",
   "name": "Faaz__",
   "banned": false,
-  "pbscore": 93.05,
+  "pbscore": 4.3,
   "pbscoredetail": {
-    "basescore": 93.05,
+    "basescore": 4.3,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.05,
+    "ch1score": 4.3,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1695.967,
-      "irate": 93.05
+      "irate": 4.3
     },
     {
       "category": "ch1ab",

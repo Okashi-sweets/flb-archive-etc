@@ -2,12 +2,12 @@
   "id": "xyro4kzj",
   "name": "Luciousness",
   "banned": false,
-  "pbscore": 94.43,
+  "pbscore": 4.63,
   "pbscoredetail": {
-    "basescore": 94.43,
+    "basescore": 4.63,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.43,
+    "ch1score": 4.63,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1662.267,
-      "irate": 94.43
+      "irate": 4.64
     },
     {
       "category": "ch1ab",

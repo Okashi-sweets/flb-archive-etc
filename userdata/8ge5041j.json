@@ -2,13 +2,13 @@
   "id": "8ge5041j",
   "name": "GroovePawn",
   "banned": false,
-  "pbscore": 239.82,
+  "pbscore": 13.59,
   "pbscoredetail": {
-    "basescore": 239.82,
+    "basescore": 13.59,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.37,
-    "ch2score": 145.44,
+    "ch1score": 4.63,
+    "ch2score": 8.96,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1663.633,
-      "irate": 94.37
+      "irate": 4.63
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 2996,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2038,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2086,
-      "irate": 95.45
+      "irate": 4.97
     },
     {
       "category": "ch2wr109",

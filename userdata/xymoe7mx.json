@@ -2,13 +2,13 @@
   "id": "xymoe7mx",
   "name": "Piboiindahouse",
   "banned": false,
-  "pbscore": 190.79,
+  "pbscore": 12.01,
   "pbscoredetail": {
-    "basescore": 190.79,
+    "basescore": 12.01,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 140.79,
-    "ch2score": 50,
+    "ch1score": 8.01,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1754.033,
-      "irate": 90.79
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
       "time": 2487,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
       "time": 1840,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1894,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3390,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",

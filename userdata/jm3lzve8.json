@@ -2,19 +2,19 @@
   "id": "jm3lzve8",
   "name": "IvyFeathers",
   "banned": false,
-  "pbscore": 312.64,
+  "pbscore": 15.22,
   "pbscoredetail": {
-    "basescore": 279.7,
-    "cescore": 32.95,
+    "basescore": 13.06,
+    "cescore": 2.16,
     "acscore": 0,
-    "ch1score": 93.04,
-    "ch2score": 186.66,
+    "ch1score": 4.3,
+    "ch2score": 8.77,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 32.95,
+    "cech2score": 2.16,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1696.033,
-      "irate": 93.04
+      "irate": 4.3
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3095,
-      "irate": 94.3
+      "irate": 4.6
     },
     {
       "category": "ch2mr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3328,
-      "irate": 92.36
+      "irate": 4.17
     },
     {
       "category": "ch2ab",
@@ -452,7 +452,7 @@
     {
       "category": "ce_ch2asg",
       "time": 3538,
-      "irate": 32.95
+      "irate": 2.16
     },
     {
       "category": "ce_ch2alr",

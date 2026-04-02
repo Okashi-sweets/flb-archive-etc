@@ -2,14 +2,14 @@
   "id": "8d4990o8",
   "name": "Th3LazyMaze",
   "banned": false,
-  "pbscore": 186.68,
+  "pbscore": 8.73,
   "pbscoredetail": {
-    "basescore": 186.68,
+    "basescore": 8.73,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.43,
+    "ch1score": 4.38,
     "ch2score": 0,
-    "ch3score": 93.25,
+    "ch3score": 4.34,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1686.4,
-      "irate": 93.43
+      "irate": 4.39
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2558,
-      "irate": 93.25
+      "irate": 4.34
     },
     {
       "category": "ch3ar",

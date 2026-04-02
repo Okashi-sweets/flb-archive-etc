@@ -2,15 +2,15 @@
   "id": "8l05v148",
   "name": "Cmaster25",
   "banned": false,
-  "pbscore": 166.91,
+  "pbscore": 10.1,
   "pbscoredetail": {
-    "basescore": 166.91,
+    "basescore": 10.1,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.91,
-    "ch2score": 50,
+    "ch1score": 4.09,
+    "ch2score": 4,
     "ch3score": 0,
-    "ch4score": 25,
+    "ch4score": 2,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1724.767,
-      "irate": 91.91
+      "irate": 4.1
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1783,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3765,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -167,7 +167,7 @@
     {
       "category": "ch4any",
       "time": 2807,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4anyg",

@@ -2,13 +2,13 @@
   "id": "j95n9mw8",
   "name": "griffo73",
   "banned": false,
-  "pbscore": 184.47,
+  "pbscore": 8.36,
   "pbscoredetail": {
-    "basescore": 184.47,
+    "basescore": 8.36,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.29,
-    "ch2score": 91.18,
+    "ch1score": 4.34,
+    "ch2score": 4.01,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1690.067,
-      "irate": 93.29
+      "irate": 4.34
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3241,
-      "irate": 91.18
+      "irate": 4.02
     },
     {
       "category": "ch2mr109",

@@ -2,12 +2,12 @@
   "id": "qxko3kk8",
   "name": "Timopy",
   "banned": false,
-  "pbscore": 191.94,
+  "pbscore": 10.34,
   "pbscoredetail": {
-    "basescore": 191.94,
+    "basescore": 10.34,
     "cescore": 0,
-    "acscore": 96.7,
-    "ch1score": 95.24,
+    "acscore": 5.44,
+    "ch1score": 4.9,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -52,7 +52,7 @@
     {
       "category": "acab",
       "time": 11345,
-      "irate": 96.7
+      "irate": 5.44
     },
     {
       "category": "acabg",
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1907,
-      "irate": 95.24
+      "irate": 4.9
     },
     {
       "category": "ch1tp",

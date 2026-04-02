@@ -2,13 +2,13 @@
   "id": "qjo2wvl8",
   "name": "Varldin",
   "banned": false,
-  "pbscore": 400.28,
+  "pbscore": 20.23,
   "pbscoredetail": {
-    "basescore": 400.28,
+    "basescore": 20.23,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 116.11,
-    "ch2score": 284.16,
+    "ch1score": 6.02,
+    "ch2score": 14.21,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1745.7,
-      "irate": 91.11
+      "irate": 4.02
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1800,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3048,
-      "irate": 95.37
+      "irate": 4.93
     },
     {
       "category": "ch2mr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3245,
-      "irate": 94.08
+      "irate": 4.55
     },
     {
       "category": "ch2ab",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3624,
-      "irate": 94.72
+      "irate": 4.73
     },
     {
       "category": "ch3any",

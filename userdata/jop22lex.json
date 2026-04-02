@@ -2,19 +2,19 @@
   "id": "jop22lex",
   "name": "Moxiesox",
   "banned": false,
-  "pbscore": 55,
+  "pbscore": 5,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 30,
+    "basescore": 2,
+    "cescore": 3,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 10,
+    "cech2score": 1,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3684,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",
@@ -247,7 +247,7 @@
     {
       "category": "ce_demoarg",
       "time": 6384,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoab",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 8772,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",
@@ -422,7 +422,7 @@
     {
       "category": "ce_ch2abarg",
       "time": 4808,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch2are",

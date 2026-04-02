@@ -2,13 +2,13 @@
   "id": "xk610298",
   "name": "pepperboop",
   "banned": false,
-  "pbscore": 118.35,
+  "pbscore": 6.37,
   "pbscoredetail": {
-    "basescore": 118.35,
+    "basescore": 6.37,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 118.35,
+    "ch2score": 6.37,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1692,
-      "irate": 93.35
+      "irate": 4.37
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3385,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",

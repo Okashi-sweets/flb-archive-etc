@@ -2,13 +2,13 @@
   "id": "jop9pmex",
   "name": "JustAlex975",
   "banned": false,
-  "pbscore": 92.78,
+  "pbscore": 4.25,
   "pbscoredetail": {
-    "basescore": 92.78,
+    "basescore": 4.25,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.78,
+    "ch2score": 4.25,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2168,
-      "irate": 92.78
+      "irate": 4.25
     },
     {
       "category": "ch2wr109",

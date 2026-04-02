@@ -2,16 +2,16 @@
   "id": "j9r76ynj",
   "name": "Gon_UT",
   "banned": false,
-  "pbscore": 349.16,
+  "pbscore": 22.4,
   "pbscoredetail": {
-    "basescore": 339.16,
-    "cescore": 10,
-    "acscore": 25,
-    "ch1score": 25,
-    "ch2score": 100,
-    "ch3score": 95.02,
-    "ch4score": 94.15,
-    "cedemoscore": 10,
+    "basescore": 21.4,
+    "cescore": 1,
+    "acscore": 2,
+    "ch1score": 2,
+    "ch2score": 8,
+    "ch3score": 4.83,
+    "ch4score": 4.57,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -32,7 +32,7 @@
     {
       "category": "acwr",
       "time": 11270,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acwrg",
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 2388,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3526,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2298,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3506,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 4355,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",
@@ -162,12 +162,12 @@
     {
       "category": "ch3ab",
       "time": 3694,
-      "irate": 95.02
+      "irate": 4.83
     },
     {
       "category": "ch4any",
       "time": 2501,
-      "irate": 94.15
+      "irate": 4.57
     },
     {
       "category": "ch4anyg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 7046,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",

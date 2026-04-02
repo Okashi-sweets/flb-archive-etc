@@ -2,12 +2,12 @@
   "id": "863oe0w8",
   "name": "tohmrtohm",
   "banned": false,
-  "pbscore": 90.67,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.67,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.67,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1757.467,
-      "irate": 90.67
+      "irate": 4
     },
     {
       "category": "ch1ab",

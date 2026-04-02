@@ -2,13 +2,13 @@
   "id": "0jm35qy8",
   "name": "Benja",
   "banned": false,
-  "pbscore": 115.65,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 115.65,
+    "basescore": 6,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.65,
-    "ch2score": 25,
+    "ch1score": 4,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1757.9,
-      "irate": 90.65
+      "irate": 4
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 3221,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",

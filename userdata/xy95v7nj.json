@@ -2,11 +2,11 @@
   "id": "xy95v7nj",
   "name": "Ace_Of_Spades530",
   "banned": false,
-  "pbscore": 35,
+  "pbscore": 3,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 10,
-    "acscore": 25,
+    "basescore": 2,
+    "cescore": 1,
+    "acscore": 2,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -16,7 +16,7 @@
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
-    "cech4score": 10
+    "cech4score": 1
   },
   "times": [
     {
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 17686,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1any",
@@ -562,7 +562,7 @@
     {
       "category": "ce_ch4mikeg",
       "time": 646,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch4mike2",

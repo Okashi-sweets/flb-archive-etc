@@ -2,15 +2,15 @@
   "id": "j4r9vmw8",
   "name": "BatuGG5",
   "banned": false,
-  "pbscore": 94.16,
+  "pbscore": 4.57,
   "pbscoredetail": {
-    "basescore": 94.16,
+    "basescore": 4.57,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
-    "ch4score": 94.16,
+    "ch4score": 4.57,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -172,7 +172,7 @@
     {
       "category": "ch4anyg",
       "time": 3226,
-      "irate": 94.16
+      "irate": 4.57
     },
     {
       "category": "ch4ar",

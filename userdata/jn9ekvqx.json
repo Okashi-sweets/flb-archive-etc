@@ -2,13 +2,13 @@
   "id": "jn9ekvqx",
   "name": "SapphicAllie",
   "banned": false,
-  "pbscore": 95.48,
+  "pbscore": 4.98,
   "pbscoredetail": {
-    "basescore": 95.48,
+    "basescore": 4.98,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 95.48,
+    "ch2score": 4.98,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2085,
-      "irate": 95.48
+      "irate": 4.98
     },
     {
       "category": "ch2wr109",

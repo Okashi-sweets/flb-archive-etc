@@ -2,13 +2,13 @@
   "id": "xzlrz2n8",
   "name": "Cretter",
   "banned": false,
-  "pbscore": 117.71,
+  "pbscore": 6.24,
   "pbscoredetail": {
-    "basescore": 117.71,
+    "basescore": 6.24,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 117.71,
+    "ch2score": 6.24,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1708,
-      "irate": 92.71
+      "irate": 4.24
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1631,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr",

@@ -2,12 +2,12 @@
   "id": "8q0o9n7j",
   "name": "Frisk33",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2152,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1918,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",

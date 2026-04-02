@@ -2,12 +2,12 @@
   "id": "xylrn5mj",
   "name": "ZippoNator",
   "banned": false,
-  "pbscore": 92.48,
+  "pbscore": 4.18,
   "pbscoredetail": {
-    "basescore": 92.48,
+    "basescore": 4.18,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.48,
+    "ch1score": 4.18,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1710.167,
-      "irate": 92.48
+      "irate": 4.18
     },
     {
       "category": "ch1ab",

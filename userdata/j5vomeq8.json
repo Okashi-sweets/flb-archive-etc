@@ -2,16 +2,16 @@
   "id": "j5vomeq8",
   "name": "ConfusedCoder",
   "banned": false,
-  "pbscore": 465.68,
+  "pbscore": 24.75,
   "pbscoredetail": {
-    "basescore": 423.54,
-    "cescore": 42.14,
+    "basescore": 21.75,
+    "cescore": 3,
     "acscore": 0,
-    "ch1score": 95.43,
-    "ch2score": 303.12,
-    "ch3score": 25,
+    "ch1score": 4.96,
+    "ch2score": 14.79,
+    "ch3score": 2,
     "ch4score": 0,
-    "cedemoscore": 42.14,
+    "cedemoscore": 3,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1638.667,
-      "irate": 95.43
+      "irate": 4.96
     },
     {
       "category": "ch1ab",
@@ -82,12 +82,12 @@
     {
       "category": "ch2mr",
       "time": 1740,
-      "irate": 91.47
+      "irate": 4.06
     },
     {
       "category": "ch2mrnmg",
       "time": 2865,
-      "irate": 92.87
+      "irate": 4.26
     },
     {
       "category": "ch2mrg",
@@ -97,12 +97,12 @@
     {
       "category": "ch2mr109",
       "time": 1533,
-      "irate": 93.78
+      "irate": 4.47
     },
     {
       "category": "ch2wr",
       "time": 2257,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2755,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3500,
-      "irate": 32.14
+      "irate": 2
     },
     {
       "category": "ce_demomrnmg",
@@ -252,7 +252,7 @@
     {
       "category": "ce_demoab",
       "time": 7102,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoabnmg",

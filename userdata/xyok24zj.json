@@ -2,13 +2,13 @@
   "id": "xyok24zj",
   "name": "Chaddy",
   "banned": false,
-  "pbscore": 209.62,
+  "pbscore": 10.62,
   "pbscoredetail": {
-    "basescore": 209.62,
+    "basescore": 10.62,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 115.27,
-    "ch2score": 94.35,
+    "ch1score": 6,
+    "ch2score": 4.62,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1768.1,
-      "irate": 90.27
+      "irate": 4
     },
     {
       "category": "ch1ab",
       "time": 2086,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2119,
-      "irate": 94.35
+      "irate": 4.62
     },
     {
       "category": "ch2wr109",

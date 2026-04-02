@@ -2,14 +2,14 @@
   "id": "j9yp707x",
   "name": "ErDong",
   "banned": false,
-  "pbscore": 188.83,
+  "pbscore": 9.43,
   "pbscoredetail": {
-    "basescore": 188.83,
+    "basescore": 9.43,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.03,
+    "ch1score": 5.18,
     "ch2score": 0,
-    "ch3score": 92.8,
+    "ch3score": 4.25,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1624.667,
-      "irate": 96.03
+      "irate": 5.18
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2575,
-      "irate": 92.8
+      "irate": 4.25
     },
     {
       "category": "ch3ar",

@@ -2,16 +2,16 @@
   "id": "8w12y6zx",
   "name": "Korporal_K_Reep",
   "banned": false,
-  "pbscore": 32.76,
+  "pbscore": 2.12,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 32.76,
+    "cescore": 2.12,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 32.76,
+    "cedemoscore": 2.12,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5682,
-      "irate": 32.76
+      "irate": 2.12
     },
     {
       "category": "ce_actrmr",

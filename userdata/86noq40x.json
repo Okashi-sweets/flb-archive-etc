@@ -2,14 +2,14 @@
   "id": "86noq40x",
   "name": "Gio_Wuz_Here",
   "banned": false,
-  "pbscore": 117.8,
+  "pbscore": 6.25,
   "pbscoredetail": {
-    "basescore": 117.8,
+    "basescore": 6.25,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
-    "ch3score": 92.8,
+    "ch2score": 2,
+    "ch3score": 4.25,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3547,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2575,
-      "irate": 92.8
+      "irate": 4.25
     },
     {
       "category": "ch3ar",

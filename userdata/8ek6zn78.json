@@ -2,21 +2,21 @@
   "id": "8ek6zn78",
   "name": "Eliana364",
   "banned": false,
-  "pbscore": 533.81,
+  "pbscore": 26.57,
   "pbscoredetail": {
-    "basescore": 467.15,
-    "cescore": 66.66,
+    "basescore": 21.99,
+    "cescore": 4.58,
     "acscore": 0,
-    "ch1score": 188.45,
-    "ch2score": 185.77,
-    "ch3score": 92.93,
+    "ch1score": 9.18,
+    "ch2score": 8.53,
+    "ch3score": 4.26,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
-    "cech4score": 66.66
+    "cech4score": 4.58
   },
   "times": [
     {
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1655.167,
-      "irate": 94.73
+      "irate": 4.73
     },
     {
       "category": "ch1ab",
       "time": 1949,
-      "irate": 93.72
+      "irate": 4.45
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1701,
-      "irate": 92.99
+      "irate": 4.29
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2168,
-      "irate": 92.78
+      "irate": 4.25
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2570,
-      "irate": 92.93
+      "irate": 4.27
     },
     {
       "category": "ch3ar",
@@ -557,12 +557,12 @@
     {
       "category": "ce_ch4mike",
       "time": 583,
-      "irate": 33.87
+      "irate": 2.46
     },
     {
       "category": "ce_ch4mikeg",
       "time": 611,
-      "irate": 32.79
+      "irate": 2.12
     },
     {
       "category": "ce_ch4mike2",

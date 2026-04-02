@@ -2,13 +2,13 @@
   "id": "48g4rr78",
   "name": "SantaClaws004",
   "banned": false,
-  "pbscore": 168.07,
+  "pbscore": 10.3,
   "pbscoredetail": {
-    "basescore": 168.07,
+    "basescore": 10.3,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 118.07,
-    "ch2score": 50,
+    "ch1score": 6.31,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1695.4,
-      "irate": 93.07
+      "irate": 4.31
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1804,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3394,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 4676,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",

@@ -103,15 +103,18 @@ if (!first || !first.runs) {
         if (exist) {
             const existtime = exist.time
             if (existtime <= toptime * 1.15){
+                const delta = (existtime / toptime) - 1;
+                const factor = Math.max(0, (0.15 - delta) / 0.15);
+                const weight = factor ** 2;
                     if (baseflag) {
-                        const exscore = Math.floor((75 * (toptime / existtime)) * 100) / 100;
-                        score = Math.floor((25 + exscore) * 100) / 100;
+                        const exscore = Math.floor((2 + (3 * weight)) * 100) / 100;
+                        score = Math.floor((2 + exscore) * 100) / 100;
                     }else{
-                        const exscore = Math.floor((25 * (toptime / existtime)) * 100) / 100;
-                        score = Math.floor((10 + exscore) * 100) / 100;
+                        const exscore = Math.floor((1 + (1 * weight)) * 100) / 100;
+                        score = Math.floor((1 + exscore) * 100) / 100;
                     }
                 }else{
-                    score = baseflag ? 25 : 10;
+                    score = baseflag ? 2 : 1;
                 }
 
             addsscore(baseflag, type, score);

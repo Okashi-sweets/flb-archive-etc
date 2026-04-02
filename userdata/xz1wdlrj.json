@@ -2,12 +2,12 @@
   "id": "xz1wdlrj",
   "name": "Deadzi",
   "banned": false,
-  "pbscore": 91.44,
+  "pbscore": 4.05,
   "pbscoredetail": {
-    "basescore": 91.44,
+    "basescore": 4.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.44,
+    "ch1score": 4.05,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1736.967,
-      "irate": 91.44
+      "irate": 4.06
     },
     {
       "category": "ch1ab",

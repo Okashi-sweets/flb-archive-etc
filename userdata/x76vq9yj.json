@@ -2,12 +2,12 @@
   "id": "x76vq9yj",
   "name": "Quark_15383",
   "banned": false,
-  "pbscore": 92.64,
+  "pbscore": 4.22,
   "pbscoredetail": {
-    "basescore": 92.64,
+    "basescore": 4.22,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.64,
+    "ch1score": 4.22,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1706.1,
-      "irate": 92.64
+      "irate": 4.22
     },
     {
       "category": "ch1ab",

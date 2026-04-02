@@ -2,16 +2,16 @@
   "id": "xz26rqnx",
   "name": "Gummypower300",
   "banned": false,
-  "pbscore": 648.55,
+  "pbscore": 32.13,
   "pbscoredetail": {
-    "basescore": 583.66,
-    "cescore": 64.9,
+    "basescore": 28.01,
+    "cescore": 4.12,
     "acscore": 0,
-    "ch1score": 280.94,
-    "ch2score": 209.33,
-    "ch3score": 93.39,
+    "ch1score": 13.34,
+    "ch2score": 10.3,
+    "ch3score": 4.37,
     "ch4score": 0,
-    "cedemoscore": 64.9,
+    "cedemoscore": 4.12,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1658.267,
-      "irate": 94.59
+      "irate": 4.68
     },
     {
       "category": "ch1ab",
       "time": 1970,
-      "irate": 92.99
+      "irate": 4.29
     },
     {
       "category": "ch1tp",
       "time": 1717,
-      "irate": 93.36
+      "irate": 4.37
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1785,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3172,
-      "irate": 92.62
+      "irate": 4.22
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2203,
-      "irate": 91.71
+      "irate": 4.08
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2553,
-      "irate": 93.39
+      "irate": 4.37
     },
     {
       "category": "ch3ar",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3488,
-      "irate": 32.21
+      "irate": 2.02
     },
     {
       "category": "ce_demomrnmg",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 4933,
-      "irate": 32.69
+      "irate": 2.1
     },
     {
       "category": "ce_demowr",

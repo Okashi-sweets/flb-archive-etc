@@ -2,13 +2,13 @@
   "id": "68w4mv4x",
   "name": "LightningBolts",
   "banned": false,
-  "pbscore": 167.72,
+  "pbscore": 10.24,
   "pbscoredetail": {
-    "basescore": 167.72,
+    "basescore": 10.24,
     "cescore": 0,
-    "acscore": 25,
-    "ch1score": 117.72,
-    "ch2score": 25,
+    "acscore": 2,
+    "ch1score": 6.24,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -52,7 +52,7 @@
     {
       "category": "acab",
       "time": 12682,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acabg",
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1704.133,
-      "irate": 92.72
+      "irate": 4.24
     },
     {
       "category": "ch1ab",
       "time": 2156,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1963,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",

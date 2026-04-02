@@ -2,12 +2,12 @@
   "id": "kj9nv1n8",
   "name": "goblinbutler",
   "banned": false,
-  "pbscore": 92.56,
+  "pbscore": 4.21,
   "pbscoredetail": {
-    "basescore": 92.56,
+    "basescore": 4.21,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.56,
+    "ch1score": 4.21,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1708.267,
-      "irate": 92.56
+      "irate": 4.21
     },
     {
       "category": "ch1ab",

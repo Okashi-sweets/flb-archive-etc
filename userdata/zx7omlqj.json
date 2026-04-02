@@ -2,18 +2,18 @@
   "id": "zx7omlqj",
   "name": "talia",
   "banned": false,
-  "pbscore": 534.59,
+  "pbscore": 29.13,
   "pbscoredetail": {
-    "basescore": 501.49,
-    "cescore": 33.1,
+    "basescore": 26.93,
+    "cescore": 2.2,
     "acscore": 0,
-    "ch1score": 95.63,
-    "ch2score": 212.96,
+    "ch1score": 5.01,
+    "ch2score": 11.21,
     "ch3score": 0,
-    "ch4score": 192.9,
+    "ch4score": 10.7,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.1,
+    "cech1score": 2.2,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1633.967,
-      "irate": 95.63
+      "irate": 5.02
     },
     {
       "category": "ch1ab",
@@ -82,17 +82,17 @@
     {
       "category": "ch2mr",
       "time": 2991,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
       "time": 2889,
-      "irate": 92.31
+      "irate": 4.17
     },
     {
       "category": "ch2mrg",
       "time": 3036,
-      "irate": 95.65
+      "irate": 5.04
     },
     {
       "category": "ch2mr109",
@@ -167,7 +167,7 @@
     {
       "category": "ch4any",
       "time": 2445,
-      "irate": 95.73
+      "irate": 5.07
     },
     {
       "category": "ch4anyg",
@@ -187,7 +187,7 @@
     {
       "category": "ch4ab",
       "time": 2730,
-      "irate": 97.17
+      "irate": 5.63
     },
     {
       "category": "ch4abg",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1448,
-      "irate": 33.1
+      "irate": 2.2
     },
     {
       "category": "ce_ch1abtp",

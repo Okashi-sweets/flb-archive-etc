@@ -2,15 +2,15 @@
   "id": "8depgvgj",
   "name": "VoldeWand",
   "banned": false,
-  "pbscore": 565.64,
+  "pbscore": 27.9,
   "pbscoredetail": {
-    "basescore": 565.64,
+    "basescore": 27.9,
     "cescore": 0,
-    "acscore": 93.59,
-    "ch1score": 189.7,
-    "ch2score": 187.88,
+    "acscore": 4.42,
+    "ch1score": 9.74,
+    "ch2score": 9.1,
     "ch3score": 0,
-    "ch4score": 94.46,
+    "ch4score": 4.65,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 10671,
-      "irate": 93.59
+      "irate": 4.42
     },
     {
       "category": "acwr",
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1609.1,
-      "irate": 96.72
+      "irate": 5.45
     },
     {
       "category": "ch1ab",
       "time": 1970,
-      "irate": 92.99
+      "irate": 4.29
     },
     {
       "category": "ch1tp",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3165,
-      "irate": 92.77
+      "irate": 4.25
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2096,
-      "irate": 95.11
+      "irate": 4.85
     },
     {
       "category": "ch2wr109",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3561,
-      "irate": 94.46
+      "irate": 4.65
     },
     {
       "category": "asc",

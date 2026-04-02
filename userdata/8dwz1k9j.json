@@ -2,13 +2,13 @@
   "id": "8dwz1k9j",
   "name": "zcesarrr",
   "banned": false,
-  "pbscore": 91.26,
+  "pbscore": 4.04,
   "pbscoredetail": {
-    "basescore": 91.26,
+    "basescore": 4.04,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 91.26,
+    "ch2score": 4.04,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3237,
-      "irate": 91.26
+      "irate": 4.04
     },
     {
       "category": "ch2mr109",

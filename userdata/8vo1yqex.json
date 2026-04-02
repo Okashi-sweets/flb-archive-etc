@@ -2,13 +2,13 @@
   "id": "8vo1yqex",
   "name": "spirallingshape",
   "banned": false,
-  "pbscore": 183.57,
+  "pbscore": 8.23,
   "pbscoredetail": {
-    "basescore": 183.57,
+    "basescore": 8.23,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 183.57,
+    "ch2score": 8.23,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1710,
-      "irate": 92.63
+      "irate": 4.22
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1599,
-      "irate": 90.94
+      "irate": 4.01
     },
     {
       "category": "ch2wr",

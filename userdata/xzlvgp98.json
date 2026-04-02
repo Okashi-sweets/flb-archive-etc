@@ -2,13 +2,13 @@
   "id": "xzlvgp98",
   "name": "Zj212",
   "banned": false,
-  "pbscore": 144.61,
+  "pbscore": 8.69,
   "pbscoredetail": {
-    "basescore": 144.61,
+    "basescore": 8.69,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 119.61,
+    "ch1score": 2,
+    "ch2score": 6.7,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1772.867,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2120,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2111,
-      "irate": 94.61
+      "irate": 4.7
     },
     {
       "category": "ch2wr109",

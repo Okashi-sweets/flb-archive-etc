@@ -2,13 +2,13 @@
   "id": "j9yowywx",
   "name": "Nixias",
   "banned": false,
-  "pbscore": 290.2,
+  "pbscore": 17.22,
   "pbscoredetail": {
-    "basescore": 290.2,
+    "basescore": 17.22,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 99.22,
-    "ch2score": 190.99,
+    "ch1score": 6.59,
+    "ch2score": 10.63,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1555.033,
-      "irate": 99.22
+      "irate": 6.59
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1560.667,
-      "irate": 99.1
+      "irate": 6.53
     },
     {
       "category": "ch2mrnmg",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3777,
-      "irate": 91.89
+      "irate": 4.1
     },
     {
       "category": "ch3any",

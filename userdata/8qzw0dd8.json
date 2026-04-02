@@ -2,11 +2,11 @@
   "id": "8qzw0dd8",
   "name": "ApparentlyEpic",
   "banned": false,
-  "pbscore": 95.92,
+  "pbscore": 5.14,
   "pbscoredetail": {
-    "basescore": 95.92,
+    "basescore": 5.14,
     "cescore": 0,
-    "acscore": 95.92,
+    "acscore": 5.14,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 12615,
-      "irate": 95.92
+      "irate": 5.14
     },
     {
       "category": "ch1any",

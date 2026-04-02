@@ -2,13 +2,13 @@
   "id": "j92z0378",
   "name": "Corrisohn",
   "banned": false,
-  "pbscore": 236.88,
+  "pbscore": 13.05,
   "pbscoredetail": {
-    "basescore": 236.88,
+    "basescore": 13.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 211.88,
+    "ch1score": 2,
+    "ch2score": 11.05,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1853,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,12 +82,12 @@
     {
       "category": "ch2mr",
       "time": 2931,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
       "time": 2931,
-      "irate": 91.35
+      "irate": 4.05
     },
     {
       "category": "ch2mrg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1495,
-      "irate": 95.53
+      "irate": 5
     },
     {
       "category": "ch2wr",

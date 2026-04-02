@@ -2,13 +2,13 @@
   "id": "8rmeogqj",
   "name": "Radar70",
   "banned": false,
-  "pbscore": 97.51,
+  "pbscore": 5.77,
   "pbscoredetail": {
-    "basescore": 97.51,
+    "basescore": 5.77,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 97.51,
+    "ch2score": 5.77,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2026.6,
-      "irate": 97.51
+      "irate": 5.77
     },
     {
       "category": "ch2wr109",

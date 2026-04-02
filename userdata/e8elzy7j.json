@@ -2,14 +2,14 @@
   "id": "e8elzy7j",
   "name": "LordFluffy",
   "banned": false,
-  "pbscore": 91.14,
+  "pbscore": 4.01,
   "pbscoredetail": {
-    "basescore": 91.14,
+    "basescore": 4.01,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 91.14,
+    "ch3score": 4.01,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3911,
-      "irate": 91.14
+      "irate": 4.02
     },
     {
       "category": "ch4any",

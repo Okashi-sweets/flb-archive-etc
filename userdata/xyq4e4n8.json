@@ -2,12 +2,12 @@
   "id": "xyq4e4n8",
   "name": "ghostkeeper",
   "banned": false,
-  "pbscore": 92.37,
+  "pbscore": 4.18,
   "pbscoredetail": {
-    "basescore": 92.37,
+    "basescore": 4.18,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.37,
+    "ch1score": 4.18,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1713.133,
-      "irate": 92.37
+      "irate": 4.18
     },
     {
       "category": "ch1ab",

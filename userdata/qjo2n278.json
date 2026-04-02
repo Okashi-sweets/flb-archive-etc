@@ -2,14 +2,14 @@
   "id": "qjo2n278",
   "name": "Guff",
   "banned": false,
-  "pbscore": 90.69,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.69,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 90.69,
+    "ch3score": 4,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -157,7 +157,7 @@
     {
       "category": "ch3ar",
       "time": 2846,
-      "irate": 90.69
+      "irate": 4
     },
     {
       "category": "ch3ab",

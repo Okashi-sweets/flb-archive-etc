@@ -2,13 +2,13 @@
   "id": "kjprmp58",
   "name": "Cloverbugged",
   "banned": false,
-  "pbscore": 310.08,
+  "pbscore": 16.54,
   "pbscoredetail": {
-    "basescore": 310.08,
+    "basescore": 16.54,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 95.35,
-    "ch2score": 214.74,
+    "ch1score": 4.93,
+    "ch2score": 11.62,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1640.4,
-      "irate": 95.35
+      "irate": 4.93
     },
     {
       "category": "ch1ab",
@@ -82,17 +82,17 @@
     {
       "category": "ch2mr",
       "time": 2827,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
       "time": 2827,
-      "irate": 93.79
+      "irate": 4.47
     },
     {
       "category": "ch2mrg",
       "time": 3023,
-      "irate": 95.95
+      "irate": 5.15
     },
     {
       "category": "ch2mr109",

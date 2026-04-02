@@ -2,12 +2,12 @@
   "id": "v812l35j",
   "name": "AdeleV",
   "banned": false,
-  "pbscore": 92.26,
+  "pbscore": 4.16,
   "pbscoredetail": {
-    "basescore": 92.26,
+    "basescore": 4.16,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.26,
+    "ch1score": 4.16,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1715.733,
-      "irate": 92.26
+      "irate": 4.16
     },
     {
       "category": "ch1ab",

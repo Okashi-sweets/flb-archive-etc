@@ -2,13 +2,13 @@
   "id": "j4qo41mx",
   "name": "reiko_th",
   "banned": false,
-  "pbscore": 94.68,
+  "pbscore": 4.72,
   "pbscoredetail": {
-    "basescore": 94.68,
+    "basescore": 4.72,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 94.68,
+    "ch2score": 4.72,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1765,
-      "irate": 94.68
+      "irate": 4.72
     },
     {
       "category": "ch2wrnmg",

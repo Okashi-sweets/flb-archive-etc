@@ -2,12 +2,12 @@
   "id": "y8dgqgg8",
   "name": "Radhew",
   "banned": false,
-  "pbscore": 91.23,
+  "pbscore": 4.04,
   "pbscoredetail": {
-    "basescore": 91.23,
+    "basescore": 4.04,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.23,
+    "ch1score": 4.04,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1742.4,
-      "irate": 91.23
+      "irate": 4.04
     },
     {
       "category": "ch1ab",

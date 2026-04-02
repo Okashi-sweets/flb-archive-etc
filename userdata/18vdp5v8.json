@@ -2,19 +2,19 @@
   "id": "18vdp5v8",
   "name": "Icyphoenix",
   "banned": false,
-  "pbscore": 320.37,
+  "pbscore": 17.46,
   "pbscoredetail": {
-    "basescore": 287.26,
-    "cescore": 33.11,
+    "basescore": 15.26,
+    "cescore": 2.2,
     "acscore": 0,
-    "ch1score": 95.05,
-    "ch2score": 192.2,
+    "ch1score": 4.84,
+    "ch2score": 10.42,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 33.11,
+    "cech2score": 2.2,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1647.5,
-      "irate": 95.05
+      "irate": 4.84
     },
     {
       "category": "ch1ab",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1488,
-      "irate": 95.86
+      "irate": 5.12
     },
     {
       "category": "ch2wr",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 1936,
-      "irate": 96.35
+      "irate": 5.3
     },
     {
       "category": "ch2arnmg",
@@ -467,7 +467,7 @@
     {
       "category": "ce_ch2alrg",
       "time": 3430,
-      "irate": 33.11
+      "irate": 2.2
     },
     {
       "category": "ce_ch2sapr",

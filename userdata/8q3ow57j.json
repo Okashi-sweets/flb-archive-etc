@@ -2,13 +2,13 @@
   "id": "8q3ow57j",
   "name": "Geod22",
   "banned": false,
-  "pbscore": 598.9,
+  "pbscore": 32.35,
   "pbscoredetail": {
-    "basescore": 598.9,
+    "basescore": 32.35,
     "cescore": 0,
-    "acscore": 94.53,
-    "ch1score": 289.37,
-    "ch2score": 215,
+    "acscore": 4.67,
+    "ch1score": 16.07,
+    "ch2score": 11.61,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1585.667,
-      "irate": 97.78
+      "irate": 5.9
     },
     {
       "category": "ch1ab",
       "time": 1893,
-      "irate": 95.76
+      "irate": 5.08
     },
     {
       "category": "ch1tp",
       "time": 1657,
-      "irate": 95.83
+      "irate": 5.09
     },
     {
       "category": "ch1109",
@@ -82,17 +82,17 @@
     {
       "category": "ch2mr",
       "time": 1649.667,
-      "irate": 95.11
+      "irate": 4.84
     },
     {
       "category": "ch2mrnmg",
       "time": 2995,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrg",
       "time": 3069,
-      "irate": 94.89
+      "irate": 4.77
     },
     {
       "category": "ch2mr109",
@@ -202,7 +202,7 @@
     {
       "category": "ascg",
       "time": 11140,
-      "irate": 94.53
+      "irate": 4.67
     },
     {
       "category": "ce_demomr",

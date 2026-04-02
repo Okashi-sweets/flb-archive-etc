@@ -2,16 +2,16 @@
   "id": "j40ol258",
   "name": "Twoknchewboi2",
   "banned": false,
-  "pbscore": 32.43,
+  "pbscore": 2.04,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 32.43,
+    "cescore": 2.04,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 32.43,
+    "cedemoscore": 2.04,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 4990,
-      "irate": 32.43
+      "irate": 2.04
     },
     {
       "category": "ce_demowr",

@@ -2,12 +2,12 @@
   "id": "e8e609oj",
   "name": "KyoshiCadre",
   "banned": false,
-  "pbscore": 98.61,
+  "pbscore": 6.29,
   "pbscoredetail": {
-    "basescore": 98.61,
+    "basescore": 6.29,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 98.61,
+    "ch1score": 6.29,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1567.9,
-      "irate": 98.61
+      "irate": 6.29
     },
     {
       "category": "ch1ab",

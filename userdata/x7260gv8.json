@@ -2,13 +2,13 @@
   "id": "x7260gv8",
   "name": "Niley",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 50,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3293,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 4199,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",

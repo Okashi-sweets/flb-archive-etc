@@ -2,16 +2,16 @@
   "id": "jo3yz00j",
   "name": "NatuNatu24",
   "banned": false,
-  "pbscore": 245.14,
+  "pbscore": 13.59,
   "pbscoredetail": {
-    "basescore": 235.14,
-    "cescore": 10,
+    "basescore": 12.59,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 115.94,
-    "ch3score": 94.2,
+    "ch1score": 2,
+    "ch2score": 6.01,
+    "ch3score": 4.58,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1957,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,12 +82,12 @@
     {
       "category": "ch2mr",
       "time": 1754,
-      "irate": 90.94
+      "irate": 4.01
     },
     {
       "category": "ch2mrnmg",
       "time": 3222,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2523,
-      "irate": 94.2
+      "irate": 4.58
     },
     {
       "category": "ch3ar",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 4228,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

@@ -2,13 +2,13 @@
   "id": "8d47lnm8",
   "name": "Mitnyfrehsh",
   "banned": false,
-  "pbscore": 183.47,
+  "pbscore": 8.19,
   "pbscoredetail": {
-    "basescore": 183.47,
+    "basescore": 8.19,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.23,
-    "ch2score": 91.24,
+    "ch1score": 4.15,
+    "ch2score": 4.04,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1716.533,
-      "irate": 92.23
+      "irate": 4.15
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1746,
-      "irate": 91.24
+      "irate": 4.04
     },
     {
       "category": "ch2mrnmg",

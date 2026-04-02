@@ -2,13 +2,13 @@
   "id": "86vn7p0j",
   "name": "APG777POG",
   "banned": false,
-  "pbscore": 117.44,
+  "pbscore": 6.18,
   "pbscoredetail": {
-    "basescore": 117.44,
+    "basescore": 6.18,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.44,
-    "ch2score": 25,
+    "ch1score": 4.18,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1711.2,
-      "irate": 92.44
+      "irate": 4.18
     },
     {
       "category": "ch1ab",
@@ -107,7 +107,7 @@
     {
       "category": "ch2wrnmg",
       "time": 2156,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrg",

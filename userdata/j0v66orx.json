@@ -2,12 +2,12 @@
   "id": "j0v66orx",
   "name": "AvidSpark0",
   "banned": false,
-  "pbscore": 92.72,
+  "pbscore": 4.24,
   "pbscoredetail": {
-    "basescore": 92.72,
+    "basescore": 4.24,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.72,
+    "ch1score": 4.24,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1704.233,
-      "irate": 92.72
+      "irate": 4.24
     },
     {
       "category": "ch1ab",

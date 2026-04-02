@@ -2,11 +2,11 @@
   "id": "j9yknznx",
   "name": "CapDantm",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
-    "acscore": 25,
+    "acscore": 2,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 22267,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1any",

@@ -2,12 +2,12 @@
   "id": "j01edkmx",
   "name": "gabbie07",
   "banned": false,
-  "pbscore": 90.97,
+  "pbscore": 4.01,
   "pbscoredetail": {
-    "basescore": 90.97,
+    "basescore": 4.01,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.97,
+    "ch1score": 4.01,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1749.4,
-      "irate": 90.97
+      "irate": 4.01
     },
     {
       "category": "ch1ab",

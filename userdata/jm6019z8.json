@@ -2,13 +2,13 @@
   "id": "jm6019z8",
   "name": "KrispyCream",
   "banned": false,
-  "pbscore": 122.02,
+  "pbscore": 7.57,
   "pbscoredetail": {
-    "basescore": 122.02,
+    "basescore": 7.57,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.02,
-    "ch2score": 25,
+    "ch1score": 5.57,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1602.4,
-      "irate": 97.02
+      "irate": 5.57
     },
     {
       "category": "ch1ab",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 22229,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",

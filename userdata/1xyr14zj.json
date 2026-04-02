@@ -2,12 +2,12 @@
   "id": "1xyr14zj",
   "name": "FKorl",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1852,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 2162,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",

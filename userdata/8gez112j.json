@@ -2,16 +2,16 @@
   "id": "8gez112j",
   "name": "TheRealSil",
   "banned": true,
-  "pbscore": 41.89,
+  "pbscore": 3,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 41.89,
+    "cescore": 3,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 41.89,
+    "cedemoscore": 3,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3539,
-      "irate": 31.89
+      "irate": 2
     },
     {
       "category": "ce_demomrnmg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 6055,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_actrmr",

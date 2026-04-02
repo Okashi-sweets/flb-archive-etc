@@ -2,12 +2,12 @@
   "id": "8qzqr5o8",
   "name": "Smuxus",
   "banned": false,
-  "pbscore": 93.62,
+  "pbscore": 4.43,
   "pbscoredetail": {
-    "basescore": 93.62,
+    "basescore": 4.43,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.62,
+    "ch1score": 4.43,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1681.767,
-      "irate": 93.62
+      "irate": 4.43
     },
     {
       "category": "ch1ab",

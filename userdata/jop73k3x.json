@@ -2,11 +2,11 @@
   "id": "jop73k3x",
   "name": "Realest",
   "banned": false,
-  "pbscore": 93.48,
+  "pbscore": 4.4,
   "pbscoredetail": {
-    "basescore": 93.48,
+    "basescore": 4.4,
     "cescore": 0,
-    "acscore": 93.48,
+    "acscore": 4.4,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 8559,
-      "irate": 93.48
+      "irate": 4.4
     },
     {
       "category": "acmrg",

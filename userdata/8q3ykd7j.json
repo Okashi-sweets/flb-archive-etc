@@ -2,16 +2,16 @@
   "id": "8q3ykd7j",
   "name": "Hegon",
   "banned": false,
-  "pbscore": 70,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 50,
-    "cescore": 20,
+    "basescore": 4,
+    "cescore": 2,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 50,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2293,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3942,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",
@@ -222,7 +222,7 @@
     {
       "category": "ce_demowr",
       "time": 4017,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demownmg",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 4111,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoar",

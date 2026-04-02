@@ -2,11 +2,11 @@
   "id": "x7gyeqrx",
   "name": "clarablightt",
   "banned": false,
-  "pbscore": 91.73,
+  "pbscore": 4.09,
   "pbscoredetail": {
-    "basescore": 91.73,
+    "basescore": 4.09,
     "cescore": 0,
-    "acscore": 91.73,
+    "acscore": 4.09,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 10969,
-      "irate": 91.73
+      "irate": 4.09
     },
     {
       "category": "acwr",

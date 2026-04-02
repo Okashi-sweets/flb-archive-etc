@@ -2,15 +2,15 @@
   "id": "8lovdyv8",
   "name": "TheeGlitcher",
   "banned": false,
-  "pbscore": 485.48,
+  "pbscore": 22.78,
   "pbscoredetail": {
-    "basescore": 485.48,
+    "basescore": 22.78,
     "cescore": 0,
-    "acscore": 185.11,
-    "ch1score": 92.48,
-    "ch2score": 91.33,
-    "ch3score": 91.56,
-    "ch4score": 25,
+    "acscore": 8.48,
+    "ch1score": 4.18,
+    "ch2score": 4.05,
+    "ch3score": 4.07,
+    "ch4score": 2,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -37,7 +37,7 @@
     {
       "category": "acwrg",
       "time": 10438,
-      "irate": 93.59
+      "irate": 4.42
     },
     {
       "category": "acar",
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 13449,
-      "irate": 91.52
+      "irate": 4.06
     },
     {
       "category": "ch1any",
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1985,
-      "irate": 92.48
+      "irate": 4.18
     },
     {
       "category": "ch1tp",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3809,
-      "irate": 91.33
+      "irate": 4.05
     },
     {
       "category": "ch3any",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3886,
-      "irate": 91.56
+      "irate": 4.07
     },
     {
       "category": "ch4any",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 4084,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "asc",

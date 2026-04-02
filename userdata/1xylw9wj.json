@@ -2,16 +2,16 @@
   "id": "1xylw9wj",
   "name": "Bluemlittlem",
   "banned": false,
-  "pbscore": 710.45,
+  "pbscore": 33.47,
   "pbscoredetail": {
-    "basescore": 645.54,
-    "cescore": 64.91,
+    "basescore": 29.36,
+    "cescore": 4.1,
     "acscore": 0,
-    "ch1score": 91.73,
-    "ch2score": 553.8,
+    "ch1score": 4.09,
+    "ch2score": 25.27,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 64.91,
+    "cedemoscore": 4.1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1729.4,
-      "irate": 91.73
+      "irate": 4.09
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1692,
-      "irate": 93.35
+      "irate": 4.37
     },
     {
       "category": "ch2mrnmg",
@@ -92,12 +92,12 @@
     {
       "category": "ch2mrg",
       "time": 3111,
-      "irate": 93.94
+      "irate": 4.51
     },
     {
       "category": "ch2mr109",
       "time": 1556,
-      "irate": 92.76
+      "irate": 4.25
     },
     {
       "category": "ch2wr",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 2111,
-      "irate": 90.44
+      "irate": 4
     },
     {
       "category": "ch2arnmg",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3371,
-      "irate": 91.5
+      "irate": 4.06
     },
     {
       "category": "ch2ab",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3781,
-      "irate": 91.82
+      "irate": 4.09
     },
     {
       "category": "ch3any",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3462,
-      "irate": 32.37
+      "irate": 2.04
     },
     {
       "category": "ce_demomrnmg",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 4964,
-      "irate": 32.54
+      "irate": 2.07
     },
     {
       "category": "ce_demowr",

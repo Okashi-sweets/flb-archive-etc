@@ -2,14 +2,14 @@
   "id": "xyo2wozj",
   "name": "EniMax",
   "banned": false,
-  "pbscore": 196.02,
+  "pbscore": 12.03,
   "pbscoredetail": {
-    "basescore": 196.02,
+    "basescore": 12.03,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 98.61,
+    "ch1score": 6.29,
     "ch2score": 0,
-    "ch3score": 97.41,
+    "ch3score": 5.74,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1567.733,
-      "irate": 98.61
+      "irate": 6.29
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2411,
-      "irate": 97.41
+      "irate": 5.74
     },
     {
       "category": "ch3ar",

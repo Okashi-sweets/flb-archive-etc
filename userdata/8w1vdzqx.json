@@ -2,13 +2,13 @@
   "id": "8w1vdzqx",
   "name": "Apprise_NIne",
   "banned": false,
-  "pbscore": 212.84,
+  "pbscore": 11.02,
   "pbscoredetail": {
-    "basescore": 212.84,
+    "basescore": 11.02,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 212.84,
+    "ch2score": 11.02,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1666.633,
-      "irate": 94.39
+      "irate": 4.63
     },
     {
       "category": "ch2mrnmg",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2181,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2147,
-      "irate": 93.45
+      "irate": 4.39
     },
     {
       "category": "ch2wr109",

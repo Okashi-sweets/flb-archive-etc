@@ -2,14 +2,14 @@
   "id": "jozz4p78",
   "name": "dussk_",
   "banned": false,
-  "pbscore": 380.22,
+  "pbscore": 19.4,
   "pbscoredetail": {
-    "basescore": 380.22,
+    "basescore": 19.4,
     "cescore": 0,
-    "acscore": 95.07,
-    "ch1score": 96.02,
-    "ch2score": 95.2,
-    "ch3score": 93.94,
+    "acscore": 4.84,
+    "ch1score": 5.17,
+    "ch2score": 4.88,
+    "ch3score": 4.51,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 12768,
-      "irate": 95.07
+      "irate": 4.84
     },
     {
       "category": "ch1any",
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1886,
-      "irate": 96.02
+      "irate": 5.17
     },
     {
       "category": "ch1tp",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3599,
-      "irate": 95.2
+      "irate": 4.89
     },
     {
       "category": "ch3any",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3752,
-      "irate": 93.94
+      "irate": 4.51
     },
     {
       "category": "ch4any",

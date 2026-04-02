@@ -2,12 +2,12 @@
   "id": "x76lmevj",
   "name": "SquigglesSpeedruns",
   "banned": false,
-  "pbscore": 92.49,
+  "pbscore": 4.2,
   "pbscoredetail": {
-    "basescore": 92.49,
+    "basescore": 4.2,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.49,
+    "ch1score": 4.2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1739,
-      "irate": 92.49
+      "irate": 4.2
     },
     {
       "category": "ch1109",

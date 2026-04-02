@@ -2,18 +2,18 @@
   "id": "98rp4mqj",
   "name": "SpaceMiner",
   "banned": false,
-  "pbscore": 247.87,
+  "pbscore": 13.89,
   "pbscoredetail": {
-    "basescore": 215.79,
-    "cescore": 32.08,
+    "basescore": 11.89,
+    "cescore": 2,
     "acscore": 0,
-    "ch1score": 94.93,
-    "ch2score": 25,
-    "ch3score": 95.86,
+    "ch1score": 4.8,
+    "ch2score": 2,
+    "ch3score": 5.09,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 32.08,
+    "cech1score": 2,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1650.267,
-      "irate": 94.93
+      "irate": 4.8
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 4376,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2464,
-      "irate": 95.86
+      "irate": 5.1
     },
     {
       "category": "ch3ar",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 1991,
-      "irate": 32.08
+      "irate": 2
     },
     {
       "category": "ce_ch1jevil",

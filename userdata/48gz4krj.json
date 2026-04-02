@@ -2,13 +2,13 @@
   "id": "48gz4krj",
   "name": "Matasta",
   "banned": false,
-  "pbscore": 184.89,
+  "pbscore": 8.36,
   "pbscoredetail": {
-    "basescore": 184.89,
+    "basescore": 8.36,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.96,
-    "ch2score": 91.93,
+    "ch1score": 4.26,
+    "ch2score": 4.09,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1698.033,
-      "irate": 92.96
+      "irate": 4.27
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1728,
-      "irate": 91.93
+      "irate": 4.1
     },
     {
       "category": "ch2mrnmg",

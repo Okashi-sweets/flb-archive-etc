@@ -2,15 +2,15 @@
   "id": "8w0l0g4j",
   "name": "Sparuek",
   "banned": false,
-  "pbscore": 400.08,
+  "pbscore": 20.29,
   "pbscoredetail": {
-    "basescore": 400.08,
+    "basescore": 20.29,
     "cescore": 0,
-    "acscore": 25,
-    "ch1score": 93.87,
-    "ch2score": 93.43,
-    "ch3score": 96.52,
-    "ch4score": 91.26,
+    "acscore": 2,
+    "ch1score": 4.49,
+    "ch2score": 4.38,
+    "ch3score": 5.37,
+    "ch4score": 4.04,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1675.767,
-      "irate": 93.87
+      "irate": 4.49
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1690,
-      "irate": 93.43
+      "irate": 4.39
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2441,
-      "irate": 96.52
+      "irate": 5.37
     },
     {
       "category": "ch3ar",
@@ -167,7 +167,7 @@
     {
       "category": "ch4any",
       "time": 2610,
-      "irate": 91.26
+      "irate": 4.04
     },
     {
       "category": "ch4anyg",
@@ -202,7 +202,7 @@
     {
       "category": "ascg",
       "time": 11925,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ce_demomr",

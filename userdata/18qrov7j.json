@@ -2,18 +2,18 @@
   "id": "18qrov7j",
   "name": "nullscythe",
   "banned": false,
-  "pbscore": 602.51,
+  "pbscore": 31.33,
   "pbscoredetail": {
-    "basescore": 569.67,
-    "cescore": 32.83,
-    "acscore": 95.41,
-    "ch1score": 188.53,
-    "ch2score": 190.83,
+    "basescore": 29.2,
+    "cescore": 2.13,
+    "acscore": 4.96,
+    "ch1score": 9.32,
+    "ch2score": 10.12,
     "ch3score": 0,
-    "ch4score": 94.9,
+    "ch4score": 4.79,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 32.83,
+    "cech1score": 2.13,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -37,7 +37,7 @@
     {
       "category": "acwrg",
       "time": 10167,
-      "irate": 95.41
+      "irate": 4.96
     },
     {
       "category": "acar",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1631.6,
-      "irate": 95.73
+      "irate": 5.07
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1731,
-      "irate": 92.8
+      "irate": 4.25
     },
     {
       "category": "ch1109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2027.967,
-      "irate": 97.46
+      "irate": 5.76
     },
     {
       "category": "ch2wr109",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3695,
-      "irate": 93.38
+      "irate": 4.37
     },
     {
       "category": "ch3any",
@@ -172,7 +172,7 @@
     {
       "category": "ch4anyg",
       "time": 3192,
-      "irate": 94.9
+      "irate": 4.79
     },
     {
       "category": "ch4ar",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 1926,
-      "irate": 32.83
+      "irate": 2.13
     },
     {
       "category": "ce_ch1jevil",

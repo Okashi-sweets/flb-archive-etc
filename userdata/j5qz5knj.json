@@ -2,11 +2,11 @@
   "id": "j5qz5knj",
   "name": "Terpo",
   "banned": false,
-  "pbscore": 92.49,
+  "pbscore": 4.2,
   "pbscoredetail": {
-    "basescore": 92.49,
+    "basescore": 4.2,
     "cescore": 0,
-    "acscore": 92.49,
+    "acscore": 4.2,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 13256,
-      "irate": 92.49
+      "irate": 4.2
     },
     {
       "category": "ch1any",

@@ -2,11 +2,11 @@
   "id": "j9k6gr78",
   "name": "MisterPizza",
   "banned": false,
-  "pbscore": 94.56,
+  "pbscore": 4.68,
   "pbscoredetail": {
-    "basescore": 94.56,
+    "basescore": 4.68,
     "cescore": 0,
-    "acscore": 94.56,
+    "acscore": 4.68,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -202,7 +202,7 @@
     {
       "category": "ascg",
       "time": 11135,
-      "irate": 94.56
+      "irate": 4.68
     },
     {
       "category": "ce_demomr",

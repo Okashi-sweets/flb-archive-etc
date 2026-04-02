@@ -2,14 +2,14 @@
   "id": "x3qy616j",
   "name": "Horsey4",
   "banned": false,
-  "pbscore": 96.87,
+  "pbscore": 5.51,
   "pbscoredetail": {
-    "basescore": 96.87,
+    "basescore": 5.51,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 96.87,
+    "ch3score": 5.51,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3599,
-      "irate": 96.87
+      "irate": 5.51
     },
     {
       "category": "ch4any",

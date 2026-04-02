@@ -2,14 +2,14 @@
   "id": "jngdmg48",
   "name": "gusterrr",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 25,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2683,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

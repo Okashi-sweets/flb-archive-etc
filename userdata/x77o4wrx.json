@@ -2,12 +2,12 @@
   "id": "x77o4wrx",
   "name": "saka7252",
   "banned": false,
-  "pbscore": 93.97,
+  "pbscore": 4.51,
   "pbscoredetail": {
-    "basescore": 93.97,
+    "basescore": 4.51,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.97,
+    "ch1score": 4.51,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1673.267,
-      "irate": 93.97
+      "irate": 4.51
     },
     {
       "category": "ch1ab",

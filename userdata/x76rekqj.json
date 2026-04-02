@@ -2,12 +2,12 @@
   "id": "x76rekqj",
   "name": "TheGreatPunskin",
   "banned": false,
-  "pbscore": 93.55,
+  "pbscore": 4.41,
   "pbscoredetail": {
-    "basescore": 93.55,
+    "basescore": 4.41,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.55,
+    "ch1score": 4.41,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1954,
-      "irate": 93.55
+      "irate": 4.41
     },
     {
       "category": "ch1tp",

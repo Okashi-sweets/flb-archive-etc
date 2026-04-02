@@ -2,14 +2,14 @@
   "id": "8rl07qw8",
   "name": "ThetaJuice",
   "banned": false,
-  "pbscore": 93.98,
+  "pbscore": 4.51,
   "pbscoredetail": {
-    "basescore": 93.98,
+    "basescore": 4.51,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 93.98,
+    "ch3score": 4.51,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2531,
-      "irate": 93.98
+      "irate": 4.51
     },
     {
       "category": "ch3ar",

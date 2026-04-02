@@ -2,13 +2,13 @@
   "id": "8q3g1nqj",
   "name": "averySRC",
   "banned": false,
-  "pbscore": 350.11,
+  "pbscore": 18.44,
   "pbscoredetail": {
-    "basescore": 350.11,
+    "basescore": 18.44,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 325.11,
+    "ch1score": 2,
+    "ch2score": 16.44,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 2104,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1743,
-      "irate": 91.35
+      "irate": 4.05
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3284,
-      "irate": 90.31
+      "irate": 4
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2147,
-      "irate": 93.45
+      "irate": 4.39
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3469,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3984,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3any",

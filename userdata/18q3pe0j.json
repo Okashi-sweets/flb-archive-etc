@@ -2,14 +2,14 @@
   "id": "18q3pe0j",
   "name": "SawaYoshi",
   "banned": false,
-  "pbscore": 312.56,
+  "pbscore": 17.46,
   "pbscoredetail": {
-    "basescore": 312.56,
+    "basescore": 17.46,
     "cescore": 0,
-    "acscore": 93.98,
+    "acscore": 4.51,
     "ch1score": 0,
-    "ch2score": 122.05,
-    "ch3score": 96.53,
+    "ch2score": 7.58,
+    "ch3score": 5.37,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 12971,
-      "irate": 93.98
+      "irate": 4.51
     },
     {
       "category": "ch1any",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2277,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2039.567,
-      "irate": 97.05
+      "irate": 5.58
     },
     {
       "category": "ch2wr109",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 3616,
-      "irate": 96.53
+      "irate": 5.37
     },
     {
       "category": "ch4any",

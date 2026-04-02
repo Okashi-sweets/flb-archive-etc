@@ -2,13 +2,13 @@
   "id": "8ekg7068",
   "name": "Scoiled",
   "banned": false,
-  "pbscore": 115.56,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 115.56,
+    "basescore": 6,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.56,
-    "ch2score": 25,
+    "ch1score": 4,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1760.3,
-      "irate": 90.56
+      "irate": 4
     },
     {
       "category": "ch1ab",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2584,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",

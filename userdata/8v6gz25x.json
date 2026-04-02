@@ -2,13 +2,13 @@
   "id": "8v6gz25x",
   "name": "SemiHypercube",
   "banned": false,
-  "pbscore": 100,
+  "pbscore": 8,
   "pbscoredetail": {
-    "basescore": 100,
+    "basescore": 8,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 75,
+    "ch1score": 2,
+    "ch2score": 6,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1906,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1919,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3350,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2403,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",

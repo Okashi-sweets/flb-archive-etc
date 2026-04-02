@@ -2,13 +2,13 @@
   "id": "jo26wl08",
   "name": "Random_Person26",
   "banned": false,
-  "pbscore": 92.75,
+  "pbscore": 4.24,
   "pbscoredetail": {
-    "basescore": 92.75,
+    "basescore": 4.24,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.75,
+    "ch2score": 4.24,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2169,
-      "irate": 92.75
+      "irate": 4.24
     },
     {
       "category": "ch2wr109",

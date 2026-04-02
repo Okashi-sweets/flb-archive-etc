@@ -2,12 +2,12 @@
   "id": "18vnmgej",
   "name": "adamcoolcat",
   "banned": false,
-  "pbscore": 90.53,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.53,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.53,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1761.067,
-      "irate": 90.53
+      "irate": 4
     },
     {
       "category": "ch1ab",

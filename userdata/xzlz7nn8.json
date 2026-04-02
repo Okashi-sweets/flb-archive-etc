@@ -2,20 +2,20 @@
   "id": "xzlz7nn8",
   "name": "Green_Ender",
   "banned": false,
-  "pbscore": 780.24,
+  "pbscore": 49.88,
   "pbscoredetail": {
-    "basescore": 712.69,
-    "cescore": 67.55,
+    "basescore": 45.02,
+    "cescore": 4.87,
     "acscore": 0,
-    "ch1score": 199.14,
-    "ch2score": 316.61,
-    "ch3score": 196.94,
+    "ch1score": 13.54,
+    "ch2score": 19.04,
+    "ch3score": 12.44,
     "ch4score": 0,
-    "cedemoscore": 33.51,
+    "cedemoscore": 2.33,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
-    "cech3score": 34.04,
+    "cech3score": 2.54,
     "cech4score": 0
   },
   "times": [
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1546.067,
-      "irate": 99.65
+      "irate": 6.81
     },
     {
       "category": "ch1ab",
       "time": 1798,
-      "irate": 99.49
+      "irate": 6.73
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1599.233,
-      "irate": 97.32
+      "irate": 5.7
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 2913,
-      "irate": 98.63
+      "irate": 6.3
     },
     {
       "category": "ch2mr109",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 1955,
-      "irate": 95.66
+      "irate": 5.04
     },
     {
       "category": "ch2arnmg",
@@ -137,7 +137,7 @@
     {
       "category": "ch2ab",
       "time": 3928,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2abnmg",
@@ -152,12 +152,12 @@
     {
       "category": "ch3any",
       "time": 2380,
-      "irate": 98.36
+      "irate": 6.17
     },
     {
       "category": "ch3ar",
       "time": 2541,
-      "irate": 98.58
+      "irate": 6.27
     },
     {
       "category": "ch3ab",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3296,
-      "irate": 33.51
+      "irate": 2.33
     },
     {
       "category": "ce_demomrnmg",
@@ -492,7 +492,7 @@
     {
       "category": "ce_ch3sc",
       "time": 2759,
-      "irate": 34.04
+      "irate": 2.54
     },
     {
       "category": "ce_ch3abar",

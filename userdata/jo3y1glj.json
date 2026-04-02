@@ -2,10 +2,10 @@
   "id": "jo3y1glj",
   "name": "Snicky",
   "banned": false,
-  "pbscore": 10,
+  "pbscore": 1,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 10,
+    "cescore": 1,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
@@ -13,7 +13,7 @@
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 10,
+    "cech1score": 1,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 2721,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch1jevil",

@@ -2,12 +2,12 @@
   "id": "kjpp795j",
   "name": "CampingOnline",
   "banned": false,
-  "pbscore": 92.22,
+  "pbscore": 4.15,
   "pbscoredetail": {
-    "basescore": 92.22,
+    "basescore": 4.15,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.22,
+    "ch1score": 4.15,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1716.9,
-      "irate": 92.22
+      "irate": 4.15
     },
     {
       "category": "ch1ab",

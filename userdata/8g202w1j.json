@@ -2,13 +2,13 @@
   "id": "8g202w1j",
   "name": "Laberry",
   "banned": false,
-  "pbscore": 98.22,
+  "pbscore": 6.1,
   "pbscoredetail": {
-    "basescore": 98.22,
+    "basescore": 6.1,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 98.22,
+    "ch2score": 6.1,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1579.567,
-      "irate": 98.22
+      "irate": 6.1
     },
     {
       "category": "ch2mrnmg",

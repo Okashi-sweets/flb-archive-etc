@@ -2,13 +2,13 @@
   "id": "8g23pe1j",
   "name": "Lartster",
   "banned": false,
-  "pbscore": 93.15,
+  "pbscore": 4.32,
   "pbscoredetail": {
-    "basescore": 93.15,
+    "basescore": 4.32,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 93.15,
+    "ch2score": 4.32,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1697,
-      "irate": 93.15
+      "irate": 4.32
     },
     {
       "category": "ch2mrnmg",

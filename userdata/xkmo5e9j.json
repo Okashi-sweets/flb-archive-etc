@@ -2,14 +2,14 @@
   "id": "xkmo5e9j",
   "name": "XanderIsALoser",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
-    "ch3score": 25,
+    "ch2score": 2,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3305,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 3227,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

@@ -2,15 +2,15 @@
   "id": "8ez5rv28",
   "name": "YourLocalLamball",
   "banned": false,
-  "pbscore": 90.47,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.47,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
-    "ch4score": 90.47,
+    "ch4score": 4,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3778,
-      "irate": 90.47
+      "irate": 4
     },
     {
       "category": "asc",

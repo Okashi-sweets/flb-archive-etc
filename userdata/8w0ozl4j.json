@@ -2,10 +2,10 @@
   "id": "8w0ozl4j",
   "name": "panood",
   "banned": false,
-  "pbscore": 32.47,
+  "pbscore": 2.06,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 32.47,
+    "cescore": 2.06,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
@@ -14,7 +14,7 @@
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
-    "cech2score": 32.47,
+    "cech2score": 2.06,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -422,7 +422,7 @@
     {
       "category": "ce_ch2abarg",
       "time": 3992,
-      "irate": 32.48
+      "irate": 2.06
     },
     {
       "category": "ce_ch2are",

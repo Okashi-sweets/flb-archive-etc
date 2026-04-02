@@ -2,15 +2,15 @@
   "id": "jpzk1l0x",
   "name": "poisonedivey",
   "banned": false,
-  "pbscore": 502.87,
+  "pbscore": 27.25,
   "pbscoredetail": {
-    "basescore": 502.87,
+    "basescore": 27.25,
     "cescore": 0,
-    "acscore": 94.12,
-    "ch1score": 97.41,
-    "ch2score": 96.6,
-    "ch3score": 120.09,
-    "ch4score": 94.65,
+    "acscore": 4.55,
+    "ch1score": 5.74,
+    "ch2score": 5.4,
+    "ch3score": 6.84,
+    "ch4score": 4.71,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 8479,
-      "irate": 94.12
+      "irate": 4.56
     },
     {
       "category": "acmrg",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1593.867,
-      "irate": 97.41
+      "irate": 5.74
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1615.267,
-      "irate": 96.6
+      "irate": 5.4
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2491,
-      "irate": 95.09
+      "irate": 4.84
     },
     {
       "category": "ch3ar",
@@ -162,12 +162,12 @@
     {
       "category": "ch3ab",
       "time": 4081,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4any",
       "time": 2483,
-      "irate": 94.65
+      "irate": 4.71
     },
     {
       "category": "ch4anyg",

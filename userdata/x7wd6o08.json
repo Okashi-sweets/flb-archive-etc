@@ -2,16 +2,16 @@
   "id": "x7wd6o08",
   "name": "Blikke",
   "banned": false,
-  "pbscore": 339.28,
+  "pbscore": 18.23,
   "pbscoredetail": {
-    "basescore": 329.28,
-    "cescore": 10,
+    "basescore": 17.23,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 94.31,
-    "ch2score": 234.97,
+    "ch1score": 4.59,
+    "ch2score": 12.63,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1665.067,
-      "irate": 94.31
+      "irate": 4.6
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1763,
-      "irate": 90.6
+      "irate": 4
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3092,
-      "irate": 94.37
+      "irate": 4.63
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2388,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 4317,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5601,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",

@@ -2,14 +2,14 @@
   "id": "o86vkgpj",
   "name": "Faustas",
   "banned": false,
-  "pbscore": 121.06,
+  "pbscore": 7.19,
   "pbscoredetail": {
-    "basescore": 121.06,
+    "basescore": 7.19,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
-    "ch3score": 96.06,
+    "ch3score": 5.19,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1809,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2457,
-      "irate": 96.06
+      "irate": 5.19
     },
     {
       "category": "ch3ar",

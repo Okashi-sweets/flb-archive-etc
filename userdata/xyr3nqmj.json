@@ -2,13 +2,13 @@
   "id": "xyr3nqmj",
   "name": "only_nub",
   "banned": false,
-  "pbscore": 92.32,
+  "pbscore": 4.17,
   "pbscoredetail": {
-    "basescore": 92.32,
+    "basescore": 4.17,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.32,
+    "ch2score": 4.17,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1718,
-      "irate": 92.32
+      "irate": 4.17
     },
     {
       "category": "ch2mrnmg",

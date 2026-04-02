@@ -2,12 +2,12 @@
   "id": "98rzzvqx",
   "name": "Pandora_nwn",
   "banned": false,
-  "pbscore": 50,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 50,
+    "basescore": 4,
     "cescore": 0,
-    "acscore": 25,
-    "ch1score": 25,
+    "acscore": 2,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 20260,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1any",
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 2203,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",

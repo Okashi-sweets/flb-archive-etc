@@ -2,21 +2,21 @@
   "id": "5j5w0qzj",
   "name": "cookiepocalypse",
   "banned": false,
-  "pbscore": 1095.23,
+  "pbscore": 73.9,
   "pbscoredetail": {
-    "basescore": 887.02,
-    "cescore": 208.21,
-    "acscore": 100,
-    "ch1score": 196.85,
-    "ch2score": 99.17,
-    "ch3score": 298.69,
-    "ch4score": 192.31,
+    "basescore": 56.8,
+    "cescore": 17.1,
+    "acscore": 7,
+    "ch1score": 12.42,
+    "ch2score": 6.57,
+    "ch3score": 20.3,
+    "ch4score": 10.51,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 34.03,
+    "cech1score": 2.52,
     "cech2score": 0,
-    "cech3score": 104.86,
-    "cech4score": 69.33
+    "cech3score": 8.92,
+    "cech4score": 5.65
   },
   "times": [
     {
@@ -32,7 +32,7 @@
     {
       "category": "acwr",
       "time": 8495,
-      "irate": 100
+      "irate": 7
     },
     {
       "category": "acwrg",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1556.8,
-      "irate": 99.13
+      "irate": 6.55
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1614,
-      "irate": 97.72
+      "irate": 5.87
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1559.267,
-      "irate": 99.17
+      "irate": 6.57
     },
     {
       "category": "ch2mrnmg",
@@ -152,17 +152,17 @@
     {
       "category": "ch3any",
       "time": 2335,
-      "irate": 99.77
+      "irate": 6.88
     },
     {
       "category": "ch3ar",
       "time": 2511,
-      "irate": 99.46
+      "irate": 6.71
     },
     {
       "category": "ch3ab",
       "time": 3474,
-      "irate": 99.46
+      "irate": 6.71
     },
     {
       "category": "ch4any",
@@ -172,7 +172,7 @@
     {
       "category": "ch4anyg",
       "time": 3087,
-      "irate": 97.27
+      "irate": 5.68
     },
     {
       "category": "ch4ar",
@@ -187,7 +187,7 @@
     {
       "category": "ch4ab",
       "time": 2813,
-      "irate": 95.04
+      "irate": 4.83
     },
     {
       "category": "ch4abg",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1392,
-      "irate": 34.03
+      "irate": 2.53
     },
     {
       "category": "ce_ch1abtp",
@@ -482,7 +482,7 @@
     {
       "category": "ce_ch3tr",
       "time": 2795,
-      "irate": 34.86
+      "irate": 2.92
     },
     {
       "category": "ce_ch3nightmare",
@@ -497,12 +497,12 @@
     {
       "category": "ce_ch3abar",
       "time": 3694,
-      "irate": 35
+      "irate": 3
     },
     {
       "category": "ce_ch3alr",
       "time": 2533,
-      "irate": 35
+      "irate": 3
     },
     {
       "category": "ce_ch4tr",
@@ -557,12 +557,12 @@
     {
       "category": "ce_ch4mike",
       "time": 561,
-      "irate": 34.82
+      "irate": 2.9
     },
     {
       "category": "ce_ch4mikeg",
       "time": 568,
-      "irate": 34.51
+      "irate": 2.75
     },
     {
       "category": "ce_ch4mike2",

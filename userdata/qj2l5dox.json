@@ -2,10 +2,10 @@
   "id": "qj2l5dox",
   "name": "EscarBOOM",
   "banned": false,
-  "pbscore": 20,
+  "pbscore": 2,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 20,
+    "cescore": 2,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
@@ -13,7 +13,7 @@
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 20,
+    "cech1score": 2,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -352,12 +352,12 @@
     {
       "category": "ce_ch1tr",
       "time": 3360,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch1jevil",
       "time": 2849,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch1abtp",

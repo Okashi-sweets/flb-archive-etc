@@ -2,13 +2,13 @@
   "id": "8g2m6g7j",
   "name": "LadyOfTheBong",
   "banned": false,
-  "pbscore": 186.92,
+  "pbscore": 8.78,
   "pbscoredetail": {
-    "basescore": 186.92,
+    "basescore": 8.78,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.09,
-    "ch2score": 93.83,
+    "ch1score": 4.3,
+    "ch2score": 4.48,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1694.9,
-      "irate": 93.09
+      "irate": 4.31
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3116,
-      "irate": 93.83
+      "irate": 4.48
     },
     {
       "category": "ch2mr109",

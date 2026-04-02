@@ -35,7 +35,7 @@ for (const key of SCORE_KEYS) {
 const sorted = validUsers
     .map(u => ({
         id: u.id,
-        name: u.name,
+        name: u.banned === true ? "banned user" : u.name,
         score: key === "pbscore"
             ? u.pbscore
             : u.pbscoredetail[key] ?? 0,

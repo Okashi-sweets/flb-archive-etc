@@ -2,13 +2,13 @@
   "id": "0jmqyzex",
   "name": "MegaStorm11",
   "banned": false,
-  "pbscore": 140.63,
+  "pbscore": 8,
   "pbscoredetail": {
-    "basescore": 140.63,
+    "basescore": 8,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 115.63,
-    "ch2score": 25,
+    "ch1score": 6,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1758.433,
-      "irate": 90.63
+      "irate": 4
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1991,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3555,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",

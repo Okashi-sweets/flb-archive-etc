@@ -2,12 +2,12 @@
   "id": "qxkkvr9x",
   "name": "thiccaramelia",
   "banned": false,
-  "pbscore": 90.35,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.35,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.35,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1796,
-      "irate": 90.35
+      "irate": 4
     },
     {
       "category": "ch1109",

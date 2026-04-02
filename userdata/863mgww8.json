@@ -2,13 +2,13 @@
   "id": "863mgww8",
   "name": "RoysOurBoy",
   "banned": false,
-  "pbscore": 94.77,
+  "pbscore": 4.75,
   "pbscoredetail": {
-    "basescore": 94.77,
+    "basescore": 4.75,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 94.77,
+    "ch2score": 4.75,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3074,
-      "irate": 94.77
+      "irate": 4.75
     },
     {
       "category": "ch2mr109",

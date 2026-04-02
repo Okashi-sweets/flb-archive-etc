@@ -2,14 +2,14 @@
   "id": "y8d70mm8",
   "name": "Norsetrack",
   "banned": false,
-  "pbscore": 675.6,
+  "pbscore": 38.22,
   "pbscoredetail": {
-    "basescore": 675.6,
+    "basescore": 38.22,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 194.2,
-    "ch2score": 383.56,
-    "ch3score": 97.84,
+    "ch1score": 11.22,
+    "ch2score": 21.07,
+    "ch3score": 5.93,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1587.7,
-      "irate": 97.69
+      "irate": 5.86
     },
     {
       "category": "ch1ab",
       "time": 1873,
-      "irate": 96.51
+      "irate": 5.36
     },
     {
       "category": "ch1tp",
@@ -82,17 +82,17 @@
     {
       "category": "ch2mr",
       "time": 1603,
-      "irate": 97.15
+      "irate": 5.62
     },
     {
       "category": "ch2mrnmg",
       "time": 2909,
-      "irate": 91.85
+      "irate": 4.09
     },
     {
       "category": "ch2mrg",
       "time": 2969,
-      "irate": 97.24
+      "irate": 5.66
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2032.067,
-      "irate": 97.32
+      "irate": 5.7
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2397,
-      "irate": 97.84
+      "irate": 5.93
     },
     {
       "category": "ch3ar",

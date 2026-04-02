@@ -2,13 +2,13 @@
   "id": "j269yplx",
   "name": "AwesomeGuy2323",
   "banned": false,
-  "pbscore": 679.41,
+  "pbscore": 33.36,
   "pbscoredetail": {
-    "basescore": 679.41,
+    "basescore": 33.36,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 282.57,
-    "ch2score": 396.84,
+    "ch1score": 13.91,
+    "ch2score": 19.46,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1619.9,
-      "irate": 96.24
+      "irate": 5.26
     },
     {
       "category": "ch1ab",
       "time": 1966,
-      "irate": 93.13
+      "irate": 4.32
     },
     {
       "category": "ch1tp",
       "time": 1721,
-      "irate": 93.2
+      "irate": 4.33
     },
     {
       "category": "ch1109",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1710,
-      "irate": 92.63
+      "irate": 4.22
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3133,
-      "irate": 93.46
+      "irate": 4.39
     },
     {
       "category": "ch2mr109",
@@ -102,17 +102,17 @@
     {
       "category": "ch2wr",
       "time": 1987,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",
       "time": 2133,
-      "irate": 90.64
+      "irate": 4
     },
     {
       "category": "ch2wrg",
       "time": 2096,
-      "irate": 95.11
+      "irate": 4.85
     },
     {
       "category": "ch2wr109",

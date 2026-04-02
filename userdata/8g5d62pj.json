@@ -2,16 +2,16 @@
   "id": "8g5d62pj",
   "name": "HeartOfOak",
   "banned": false,
-  "pbscore": 1549.11,
+  "pbscore": 84.29,
   "pbscoredetail": {
-    "basescore": 1481.78,
-    "cescore": 67.33,
-    "acscore": 95.28,
-    "ch1score": 288.79,
-    "ch2score": 504.86,
-    "ch3score": 193.23,
-    "ch4score": 399.63,
-    "cedemoscore": 67.33,
+    "basescore": 79.49,
+    "cescore": 4.8,
+    "acscore": 4.91,
+    "ch1score": 15.82,
+    "ch2score": 28.05,
+    "ch3score": 10.8,
+    "ch4score": 19.9,
+    "cedemoscore": 4.8,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 10414,
-      "irate": 95.28
+      "irate": 4.91
     },
     {
       "category": "acwr",
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1598.4,
-      "irate": 97.2
+      "irate": 5.65
     },
     {
       "category": "ch1ab",
       "time": 1893,
-      "irate": 95.76
+      "irate": 5.08
     },
     {
       "category": "ch1tp",
       "time": 1657,
-      "irate": 95.83
+      "irate": 5.09
     },
     {
       "category": "ch1109",
@@ -82,17 +82,17 @@
     {
       "category": "ch2mr",
       "time": 1590.533,
-      "irate": 97.71
+      "irate": 5.87
     },
     {
       "category": "ch2mrnmg",
       "time": 2833,
-      "irate": 93.64
+      "irate": 4.43
     },
     {
       "category": "ch2mrg",
       "time": 2954,
-      "irate": 97.61
+      "irate": 5.82
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2098,
-      "irate": 95.05
+      "irate": 4.83
     },
     {
       "category": "ch2wr109",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 2320,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2arnmg",
@@ -147,17 +147,17 @@
     {
       "category": "ch2abg",
       "time": 3566,
-      "irate": 95.85
+      "irate": 5.1
     },
     {
       "category": "ch3any",
       "time": 2433,
-      "irate": 96.76
+      "irate": 5.46
     },
     {
       "category": "ch3ar",
       "time": 2616,
-      "irate": 96.47
+      "irate": 5.35
     },
     {
       "category": "ch3ab",
@@ -167,17 +167,17 @@
     {
       "category": "ch4any",
       "time": 2494,
-      "irate": 94.34
+      "irate": 4.62
     },
     {
       "category": "ch4anyg",
       "time": 3252,
-      "irate": 93.61
+      "irate": 4.43
     },
     {
       "category": "ch4ar",
       "time": 3078,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4arg",
@@ -187,12 +187,12 @@
     {
       "category": "ch4ab",
       "time": 2826,
-      "irate": 94.71
+      "irate": 4.73
     },
     {
       "category": "ch4abg",
       "time": 3693,
-      "irate": 91.97
+      "irate": 4.12
     },
     {
       "category": "asc",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3334,
-      "irate": 33.23
+      "irate": 2.24
     },
     {
       "category": "ce_demomrnmg",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 4644,
-      "irate": 34.1
+      "irate": 2.56
     },
     {
       "category": "ce_demowr",

@@ -2,18 +2,18 @@
   "id": "8q5rv0o8",
   "name": "Blackgamer1997",
   "banned": false,
-  "pbscore": 130.96,
+  "pbscore": 8.12,
   "pbscoredetail": {
-    "basescore": 97.73,
-    "cescore": 33.22,
+    "basescore": 5.88,
+    "cescore": 2.24,
     "acscore": 0,
-    "ch1score": 97.73,
+    "ch1score": 5.88,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.22,
+    "cech1score": 2.24,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1586.8,
-      "irate": 97.73
+      "irate": 5.88
     },
     {
       "category": "ch1ab",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1439,
-      "irate": 33.23
+      "irate": 2.24
     },
     {
       "category": "ce_ch1abtp",

@@ -2,18 +2,18 @@
   "id": "qxko9m68",
   "name": "Salero_Eon",
   "banned": false,
-  "pbscore": 127.78,
+  "pbscore": 7.07,
   "pbscoredetail": {
-    "basescore": 95.75,
-    "cescore": 32.03,
+    "basescore": 5.07,
+    "cescore": 2,
     "acscore": 0,
-    "ch1score": 95.75,
+    "ch1score": 5.07,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 32.03,
+    "cech1score": 2,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1631.233,
-      "irate": 95.75
+      "irate": 5.07
     },
     {
       "category": "ch1ab",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1518,
-      "irate": 32.03
+      "irate": 2
     },
     {
       "category": "ce_ch1abtp",

@@ -2,16 +2,16 @@
   "id": "xzlez198",
   "name": "Molrcore",
   "banned": false,
-  "pbscore": 800.62,
+  "pbscore": 42.66,
   "pbscoredetail": {
-    "basescore": 681.82,
-    "cescore": 118.8,
+    "basescore": 34.14,
+    "cescore": 8.52,
     "acscore": 0,
-    "ch1score": 377.04,
-    "ch2score": 304.77,
+    "ch1score": 18.76,
+    "ch2score": 15.38,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 118.8,
+    "cedemoscore": 8.52,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,22 +62,22 @@
     {
       "category": "ch1any",
       "time": 1636.433,
-      "irate": 95.52
+      "irate": 4.99
     },
     {
       "category": "ch1ab",
       "time": 2017,
-      "irate": 91.41
+      "irate": 4.05
     },
     {
       "category": "ch1tp",
       "time": 1650,
-      "irate": 96.13
+      "irate": 5.22
     },
     {
       "category": "ch1109",
       "time": 1659,
-      "irate": 93.98
+      "irate": 4.51
     },
     {
       "category": "ch2mr",
@@ -87,12 +87,12 @@
     {
       "category": "ch2mrnmg",
       "time": 3121,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrg",
       "time": 3258,
-      "irate": 90.83
+      "irate": 4.01
     },
     {
       "category": "ch2mr109",
@@ -107,12 +107,12 @@
     {
       "category": "ch2wrnmg",
       "time": 2049,
-      "irate": 93.33
+      "irate": 4.35
     },
     {
       "category": "ch2wrg",
       "time": 2081,
-      "irate": 95.62
+      "irate": 5.02
     },
     {
       "category": "ch2wr109",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3864,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",
@@ -222,12 +222,12 @@
     {
       "category": "ce_demowr",
       "time": 3540,
-      "irate": 33.04
+      "irate": 2.19
     },
     {
       "category": "ce_demownmg",
       "time": 3695,
-      "irate": 33.37
+      "irate": 2.29
     },
     {
       "category": "ce_demowrg",
@@ -252,7 +252,7 @@
     {
       "category": "ce_demoab",
       "time": 6143,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoabnmg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5777,
-      "irate": 32.39
+      "irate": 2.04
     },
     {
       "category": "ce_actrmr",

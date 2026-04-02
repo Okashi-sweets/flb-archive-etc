@@ -2,13 +2,13 @@
   "id": "86pny73j",
   "name": "LilLionz",
   "banned": false,
-  "pbscore": 576,
+  "pbscore": 31.11,
   "pbscoredetail": {
-    "basescore": 576,
+    "basescore": 31.11,
     "cescore": 0,
-    "acscore": 95.62,
-    "ch1score": 289.54,
-    "ch2score": 190.84,
+    "acscore": 5.01,
+    "ch1score": 16.11,
+    "ch2score": 9.98,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -57,22 +57,22 @@
     {
       "category": "acabg",
       "time": 12669,
-      "irate": 95.62
+      "irate": 5.02
     },
     {
       "category": "ch1any",
       "time": 1600.3,
-      "irate": 97.12
+      "irate": 5.61
     },
     {
       "category": "ch1ab",
       "time": 1888,
-      "irate": 95.94
+      "irate": 5.15
     },
     {
       "category": "ch1tp",
       "time": 1642,
-      "irate": 96.48
+      "irate": 5.35
     },
     {
       "category": "ch1109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2053,
-      "irate": 96.58
+      "irate": 5.39
     },
     {
       "category": "ch2wr109",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3648,
-      "irate": 94.26
+      "irate": 4.59
     },
     {
       "category": "ch3any",

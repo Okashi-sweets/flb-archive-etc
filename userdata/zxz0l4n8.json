@@ -2,10 +2,10 @@
   "id": "zxz0l4n8",
   "name": "asiram0653",
   "banned": false,
-  "pbscore": 33.57,
+  "pbscore": 2.35,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 33.57,
+    "cescore": 2.35,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
@@ -13,7 +13,7 @@
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.57,
+    "cech1score": 2.35,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1419,
-      "irate": 33.57
+      "irate": 2.35
     },
     {
       "category": "ce_ch1abtp",

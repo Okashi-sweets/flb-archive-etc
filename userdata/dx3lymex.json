@@ -2,12 +2,12 @@
   "id": "dx3lymex",
   "name": "UrbanFlora",
   "banned": false,
-  "pbscore": 93.6,
+  "pbscore": 4.43,
   "pbscoredetail": {
-    "basescore": 93.6,
+    "basescore": 4.43,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.6,
+    "ch1score": 4.43,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1682.3,
-      "irate": 93.6
+      "irate": 4.43
     },
     {
       "category": "ch1ab",

@@ -2,16 +2,16 @@
   "id": "8lr96z78",
   "name": "Friendship1031",
   "banned": false,
-  "pbscore": 101.23,
+  "pbscore": 5.04,
   "pbscoredetail": {
-    "basescore": 91.23,
-    "cescore": 10,
+    "basescore": 4.04,
+    "cescore": 1,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 91.23,
+    "ch2score": 4.04,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2219,
-      "irate": 91.23
+      "irate": 4.04
     },
     {
       "category": "ch2wr109",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5163,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",

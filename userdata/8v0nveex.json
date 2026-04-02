@@ -2,12 +2,12 @@
   "id": "8v0nveex",
   "name": "gunch38",
   "banned": false,
-  "pbscore": 94.87,
+  "pbscore": 4.76,
   "pbscoredetail": {
-    "basescore": 94.87,
+    "basescore": 4.76,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.87,
+    "ch1score": 4.76,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1651.667,
-      "irate": 94.87
+      "irate": 4.77
     },
     {
       "category": "ch1ab",

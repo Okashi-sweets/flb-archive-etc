@@ -2,14 +2,14 @@
   "id": "8e511po8",
   "name": "GoldEclipsed",
   "banned": false,
-  "pbscore": 91.59,
+  "pbscore": 4.07,
   "pbscoredetail": {
-    "basescore": 91.59,
+    "basescore": 4.07,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 91.59,
+    "ch3score": 4.07,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2622,
-      "irate": 91.59
+      "irate": 4.07
     },
     {
       "category": "ch3ar",

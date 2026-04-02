@@ -2,13 +2,13 @@
   "id": "xzlv5mr8",
   "name": "TheLicc251",
   "banned": false,
-  "pbscore": 90.25,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.25,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 90.25,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3287,
-      "irate": 90.25
+      "irate": 4
     },
     {
       "category": "ch2mr109",

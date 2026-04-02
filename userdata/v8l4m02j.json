@@ -2,12 +2,12 @@
   "id": "v8l4m02j",
   "name": "flarebear",
   "banned": false,
-  "pbscore": 94.02,
+  "pbscore": 4.51,
   "pbscoredetail": {
-    "basescore": 94.02,
+    "basescore": 4.51,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.02,
+    "ch1score": 4.51,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1672,
-      "irate": 94.02
+      "irate": 4.52
     },
     {
       "category": "ch1ab",

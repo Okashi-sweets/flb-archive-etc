@@ -2,12 +2,12 @@
   "id": "v810mm5x",
   "name": "J0shua",
   "banned": false,
-  "pbscore": 91.39,
+  "pbscore": 4.05,
   "pbscoredetail": {
-    "basescore": 91.39,
+    "basescore": 4.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.39,
+    "ch1score": 4.05,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1738.233,
-      "irate": 91.39
+      "irate": 4.05
     },
     {
       "category": "ch1ab",

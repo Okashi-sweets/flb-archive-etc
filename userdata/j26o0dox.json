@@ -2,12 +2,12 @@
   "id": "j26o0dox",
   "name": "Peetre",
   "banned": false,
-  "pbscore": 92.14,
+  "pbscore": 4.13,
   "pbscoredetail": {
-    "basescore": 92.14,
+    "basescore": 4.13,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.14,
+    "ch1score": 4.13,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -67,7 +67,7 @@
     {
       "category": "ch1ab",
       "time": 1995,
-      "irate": 92.14
+      "irate": 4.14
     },
     {
       "category": "ch1tp",

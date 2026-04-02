@@ -2,16 +2,16 @@
   "id": "xzl6e3r8",
   "name": "JCoxeye",
   "banned": false,
-  "pbscore": 31.93,
+  "pbscore": 2,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 31.93,
+    "cescore": 2,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 31.93,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5897,
-      "irate": 31.93
+      "irate": 2
     },
     {
       "category": "ce_actrmr",

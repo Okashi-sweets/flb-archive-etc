@@ -2,12 +2,12 @@
   "id": "8ged9g2j",
   "name": "pro_radii",
   "banned": false,
-  "pbscore": 190.32,
+  "pbscore": 9.8,
   "pbscoredetail": {
-    "basescore": 190.32,
+    "basescore": 9.8,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 190.32,
+    "ch1score": 9.8,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1619.033,
-      "irate": 96.28
+      "irate": 5.27
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1700,
-      "irate": 94.04
+      "irate": 4.54
     },
     {
       "category": "ch1109",

@@ -2,14 +2,14 @@
   "id": "v81261rj",
   "name": "bpaul",
   "banned": false,
-  "pbscore": 75,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 75,
+    "basescore": 6,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 25,
-    "ch3score": 25,
+    "ch1score": 2,
+    "ch2score": 2,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1825,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1920,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2804,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

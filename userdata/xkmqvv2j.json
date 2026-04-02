@@ -2,13 +2,13 @@
   "id": "xkmqvv2j",
   "name": "Magicmakerman",
   "banned": false,
-  "pbscore": 116.11,
+  "pbscore": 6.02,
   "pbscoredetail": {
-    "basescore": 116.11,
+    "basescore": 6.02,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 116.11,
+    "ch2score": 6.02,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3385,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2223,
-      "irate": 91.11
+      "irate": 4.02
     },
     {
       "category": "ch2wr109",

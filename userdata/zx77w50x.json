@@ -2,14 +2,14 @@
   "id": "zx77w50x",
   "name": "CrazyCalv",
   "banned": false,
-  "pbscore": 494.32,
+  "pbscore": 25.08,
   "pbscoredetail": {
-    "basescore": 494.32,
+    "basescore": 25.08,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.88,
-    "ch2score": 215.92,
-    "ch3score": 187.52,
+    "ch1score": 4.01,
+    "ch2score": 12.03,
+    "ch3score": 9.05,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1751.7,
-      "irate": 90.88
+      "irate": 4.01
     },
     {
       "category": "ch1ab",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2049,
-      "irate": 96.72
+      "irate": 5.45
     },
     {
       "category": "ch2wr109",
@@ -137,7 +137,7 @@
     {
       "category": "ch2ab",
       "time": 4036,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2abnmg",
@@ -147,17 +147,17 @@
     {
       "category": "ch2abg",
       "time": 3651,
-      "irate": 94.2
+      "irate": 4.58
     },
     {
       "category": "ch3any",
       "time": 2488,
-      "irate": 95.17
+      "irate": 4.88
     },
     {
       "category": "ch3ar",
       "time": 2776,
-      "irate": 92.35
+      "irate": 4.17
     },
     {
       "category": "ch3ab",

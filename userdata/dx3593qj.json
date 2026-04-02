@@ -2,13 +2,13 @@
   "id": "dx3593qj",
   "name": "starsmiley",
   "banned": false,
-  "pbscore": 209.99,
+  "pbscore": 10.59,
   "pbscoredetail": {
-    "basescore": 209.99,
+    "basescore": 10.59,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.18,
-    "ch2score": 115.81,
+    "ch1score": 4.58,
+    "ch2score": 6.01,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1668.167,
-      "irate": 94.18
+      "irate": 4.58
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 4613,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2233,
-      "irate": 90.81
+      "irate": 4.01
     },
     {
       "category": "ch2wr109",

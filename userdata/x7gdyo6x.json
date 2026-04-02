@@ -2,14 +2,14 @@
   "id": "x7gdyo6x",
   "name": "golden45",
   "banned": false,
-  "pbscore": 93.04,
+  "pbscore": 4.3,
   "pbscoredetail": {
-    "basescore": 93.04,
+    "basescore": 4.3,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 93.04,
+    "ch3score": 4.3,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2566,
-      "irate": 93.04
+      "irate": 4.3
     },
     {
       "category": "ch3ar",

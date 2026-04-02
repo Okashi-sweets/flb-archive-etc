@@ -2,16 +2,16 @@
   "id": "j2q3mwnj",
   "name": "ILikeBaguette25",
   "banned": false,
-  "pbscore": 110,
+  "pbscore": 9,
   "pbscoredetail": {
-    "basescore": 100,
-    "cescore": 10,
-    "acscore": 25,
-    "ch1score": 50,
+    "basescore": 8,
+    "cescore": 1,
+    "acscore": 2,
+    "ch1score": 4,
     "ch2score": 0,
-    "ch3score": 25,
+    "ch3score": 2,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 13148,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acwr",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1999,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 2031,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 3578,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5783,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",

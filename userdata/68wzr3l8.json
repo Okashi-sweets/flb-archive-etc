@@ -2,16 +2,16 @@
   "id": "68wzr3l8",
   "name": "The_Monkey",
   "banned": false,
-  "pbscore": 235.95,
+  "pbscore": 13.82,
   "pbscoredetail": {
-    "basescore": 192.06,
-    "cescore": 43.89,
+    "basescore": 10.36,
+    "cescore": 3.46,
     "acscore": 0,
-    "ch1score": 95.58,
-    "ch2score": 96.48,
+    "ch1score": 5.01,
+    "ch2score": 5.35,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 43.89,
+    "cedemoscore": 3.46,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1635.2,
-      "irate": 95.58
+      "irate": 5.01
     },
     {
       "category": "ch1ab",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2056,
-      "irate": 96.48
+      "irate": 5.35
     },
     {
       "category": "ch2wr109",
@@ -222,7 +222,7 @@
     {
       "category": "ce_demowr",
       "time": 3969,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demownmg",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 3703,
-      "irate": 33.89
+      "irate": 2.46
     },
     {
       "category": "ce_demoar",

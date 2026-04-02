@@ -2,14 +2,14 @@
   "id": "xyq54nn8",
   "name": "plentyofsheeps",
   "banned": false,
-  "pbscore": 261.43,
+  "pbscore": 14.86,
   "pbscoredetail": {
-    "basescore": 261.43,
+    "basescore": 14.86,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.97,
-    "ch2score": 75,
-    "ch3score": 91.46,
+    "ch1score": 4.8,
+    "ch2score": 6,
+    "ch3score": 4.05,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1649.3,
-      "irate": 94.97
+      "irate": 4.81
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1797,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3365,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 2128,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2arnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2627,
-      "irate": 91.46
+      "irate": 4.06
     },
     {
       "category": "ch3ar",

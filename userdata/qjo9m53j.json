@@ -2,12 +2,12 @@
   "id": "qjo9m53j",
   "name": "Slyber",
   "banned": false,
-  "pbscore": 92.5,
+  "pbscore": 4.2,
   "pbscoredetail": {
-    "basescore": 92.5,
+    "basescore": 4.2,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.5,
+    "ch1score": 4.2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1709.633,
-      "irate": 92.5
+      "irate": 4.2
     },
     {
       "category": "ch1ab",

@@ -2,13 +2,13 @@
   "id": "x3696yex",
   "name": "hazelnut_haze",
   "banned": false,
-  "pbscore": 285.77,
+  "pbscore": 14.76,
   "pbscoredetail": {
-    "basescore": 285.77,
+    "basescore": 14.76,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 95.66,
-    "ch2score": 190.12,
+    "ch1score": 5.04,
+    "ch2score": 9.71,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1633.367,
-      "irate": 95.66
+      "irate": 5.04
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1672.9,
-      "irate": 94.13
+      "irate": 4.56
     },
     {
       "category": "ch2mrnmg",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2070,
-      "irate": 95.99
+      "irate": 5.16
     },
     {
       "category": "ch2wr109",

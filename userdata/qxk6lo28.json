@@ -2,13 +2,13 @@
   "id": "qxk6lo28",
   "name": "ThatBox",
   "banned": false,
-  "pbscore": 278.2,
+  "pbscore": 12.76,
   "pbscoredetail": {
-    "basescore": 278.2,
+    "basescore": 12.76,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.94,
-    "ch2score": 186.27,
+    "ch1score": 4.09,
+    "ch2score": 8.66,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1724.133,
-      "irate": 91.94
+      "irate": 4.1
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1715,
-      "irate": 92.44
+      "irate": 4.18
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3116,
-      "irate": 93.83
+      "irate": 4.48
     },
     {
       "category": "ch2mr109",

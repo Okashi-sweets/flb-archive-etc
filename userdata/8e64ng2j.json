@@ -2,16 +2,16 @@
   "id": "8e64ng2j",
   "name": "Gamerguld",
   "banned": false,
-  "pbscore": 175.37,
+  "pbscore": 11,
   "pbscoredetail": {
-    "basescore": 165.37,
-    "cescore": 10,
+    "basescore": 10,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 140.37,
+    "ch1score": 2,
+    "ch2score": 8,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2673,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 2126,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3317,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2248,
-      "irate": 90.37
+      "irate": 4
     },
     {
       "category": "ch2wr109",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 4503,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

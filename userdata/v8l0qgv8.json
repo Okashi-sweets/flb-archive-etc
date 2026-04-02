@@ -2,12 +2,12 @@
   "id": "v8l0qgv8",
   "name": "TommyeAsY",
   "banned": false,
-  "pbscore": 93.74,
+  "pbscore": 4.46,
   "pbscoredetail": {
-    "basescore": 93.74,
+    "basescore": 4.46,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.74,
+    "ch1score": 4.46,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1679,
-      "irate": 93.74
+      "irate": 4.46
     },
     {
       "category": "ch1ab",

@@ -2,12 +2,12 @@
   "id": "pj0g6e4x",
   "name": "Świdr",
   "banned": false,
-  "pbscore": 91.49,
+  "pbscore": 4.05,
   "pbscoredetail": {
-    "basescore": 91.49,
+    "basescore": 4.05,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.49,
+    "ch1score": 4.05,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1735.7,
-      "irate": 91.49
+      "irate": 4.06
     },
     {
       "category": "ch1ab",

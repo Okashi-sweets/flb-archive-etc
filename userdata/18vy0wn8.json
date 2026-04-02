@@ -2,12 +2,12 @@
   "id": "18vy0wn8",
   "name": "Radu",
   "banned": false,
-  "pbscore": 96.53,
+  "pbscore": 5.37,
   "pbscoredetail": {
-    "basescore": 96.53,
+    "basescore": 5.37,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.53,
+    "ch1score": 5.37,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1613.4,
-      "irate": 96.53
+      "irate": 5.37
     },
     {
       "category": "ch1ab",

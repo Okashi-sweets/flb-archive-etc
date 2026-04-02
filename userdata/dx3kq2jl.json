@@ -2,12 +2,12 @@
   "id": "dx3kq2jl",
   "name": "Sickynar",
   "banned": false,
-  "pbscore": 93.78,
+  "pbscore": 4.47,
   "pbscoredetail": {
-    "basescore": 93.78,
+    "basescore": 4.47,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.78,
+    "ch1score": 4.47,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1677.833,
-      "irate": 93.78
+      "irate": 4.47
     },
     {
       "category": "ch1ab",

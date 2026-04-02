@@ -2,12 +2,12 @@
   "id": "pj09kkwj",
   "name": "ThatQwertyPi",
   "banned": false,
-  "pbscore": 95.28,
+  "pbscore": 4.91,
   "pbscoredetail": {
-    "basescore": 95.28,
+    "basescore": 4.91,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 95.28,
+    "ch1score": 4.91,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1642.2,
-      "irate": 95.28
+      "irate": 4.91
     },
     {
       "category": "ch1ab",

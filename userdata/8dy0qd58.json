@@ -2,12 +2,12 @@
   "id": "8dy0qd58",
   "name": "TylerMays",
   "banned": false,
-  "pbscore": 90.32,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.32,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.32,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1766.833,
-      "irate": 90.32
+      "irate": 4
     },
     {
       "category": "ch1ab",

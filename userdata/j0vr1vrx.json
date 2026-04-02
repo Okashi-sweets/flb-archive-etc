@@ -2,17 +2,17 @@
   "id": "j0vr1vrx",
   "name": "whatishappi",
   "banned": false,
-  "pbscore": 60,
+  "pbscore": 5,
   "pbscoredetail": {
-    "basescore": 50,
-    "cescore": 10,
-    "acscore": 50,
+    "basescore": 4,
+    "cescore": 1,
+    "acscore": 4,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
-    "ceacscore": 10,
+    "ceacscore": 1,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
@@ -37,7 +37,7 @@
     {
       "category": "acwrg",
       "time": 12419,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acar",
@@ -47,7 +47,7 @@
     {
       "category": "acarg",
       "time": 13788,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acab",
@@ -312,7 +312,7 @@
     {
       "category": "ce_acabarg",
       "time": 16856,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_acat",

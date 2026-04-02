@@ -2,13 +2,13 @@
   "id": "81442158",
   "name": "Flairisfair",
   "banned": false,
-  "pbscore": 281.32,
+  "pbscore": 16,
   "pbscoredetail": {
-    "basescore": 281.32,
+    "basescore": 16,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 50,
-    "ch2score": 231.32,
+    "ch1score": 4,
+    "ch2score": 12.01,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1784.733,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -77,27 +77,27 @@
     {
       "category": "ch1109",
       "time": 1868,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr",
       "time": 1759,
-      "irate": 90.75
+      "irate": 4.01
     },
     {
       "category": "ch2mrnmg",
       "time": 3156,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrg",
       "time": 3445,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
       "time": 1608,
-      "irate": 90.57
+      "irate": 4
     },
     {
       "category": "ch2wr",

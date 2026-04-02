@@ -2,12 +2,12 @@
   "id": "jpmn392j",
   "name": "Rainnex",
   "banned": false,
-  "pbscore": 90.83,
+  "pbscore": 4.01,
   "pbscoredetail": {
-    "basescore": 90.83,
+    "basescore": 4.01,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.83,
+    "ch1score": 4.01,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1753.167,
-      "irate": 90.83
+      "irate": 4.01
     },
     {
       "category": "ch1ab",

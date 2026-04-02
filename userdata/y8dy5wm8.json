@@ -2,18 +2,18 @@
   "id": "y8dy5wm8",
   "name": "Evandar",
   "banned": false,
-  "pbscore": 225.55,
+  "pbscore": 12.77,
   "pbscoredetail": {
-    "basescore": 192.29,
-    "cescore": 33.26,
+    "basescore": 10.52,
+    "cescore": 2.25,
     "acscore": 0,
-    "ch1score": 192.29,
+    "ch1score": 10.52,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.26,
+    "cech1score": 2.25,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1594.2,
-      "irate": 97.39
+      "irate": 5.73
     },
     {
       "category": "ch1ab",
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1679,
-      "irate": 94.9
+      "irate": 4.79
     },
     {
       "category": "ch1109",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 1889,
-      "irate": 33.26
+      "irate": 2.25
     },
     {
       "category": "ce_ch1jevil",

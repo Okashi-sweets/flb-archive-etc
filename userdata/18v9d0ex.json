@@ -2,14 +2,14 @@
   "id": "18v9d0ex",
   "name": "FlidayChinatown",
   "banned": false,
-  "pbscore": 142.07,
+  "pbscore": 8.12,
   "pbscoredetail": {
-    "basescore": 142.07,
+    "basescore": 8.12,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 25,
-    "ch3score": 92.07,
+    "ch1score": 2,
+    "ch2score": 2,
+    "ch3score": 4.13,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1807,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3336,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2603,
-      "irate": 92.07
+      "irate": 4.13
     },
     {
       "category": "ch3ar",

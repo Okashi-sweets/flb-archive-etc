@@ -2,13 +2,13 @@
   "id": "x3r47lqx",
   "name": "Blazy20",
   "banned": false,
-  "pbscore": 275.27,
+  "pbscore": 12.34,
   "pbscoredetail": {
-    "basescore": 275.27,
+    "basescore": 12.34,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 182.44,
-    "ch2score": 92.83,
+    "ch1score": 8.08,
+    "ch2score": 4.26,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1732.433,
-      "irate": 91.62
+      "irate": 4.07
     },
     {
       "category": "ch1ab",
       "time": 2035,
-      "irate": 90.82
+      "irate": 4.01
     },
     {
       "category": "ch1tp",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3162,
-      "irate": 92.83
+      "irate": 4.26
     },
     {
       "category": "ch2mr109",

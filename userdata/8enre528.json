@@ -2,15 +2,15 @@
   "id": "8enre528",
   "name": "Maxim_A_71",
   "banned": false,
-  "pbscore": 150,
+  "pbscore": 12,
   "pbscoredetail": {
-    "basescore": 150,
+    "basescore": 12,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 75,
-    "ch3score": 25,
-    "ch4score": 25,
+    "ch1score": 2,
+    "ch2score": 6,
+    "ch3score": 2,
+    "ch4score": 2,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1804,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3524,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2331,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3980,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2739,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",
@@ -172,7 +172,7 @@
     {
       "category": "ch4anyg",
       "time": 3488,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4ar",

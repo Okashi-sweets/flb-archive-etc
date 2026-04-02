@@ -2,18 +2,18 @@
   "id": "98r0y0d8",
   "name": "JupiterJaeden",
   "banned": false,
-  "pbscore": 102.97,
+  "pbscore": 5.29,
   "pbscoredetail": {
-    "basescore": 92.97,
-    "cescore": 10,
+    "basescore": 4.29,
+    "cescore": 1,
     "acscore": 0,
-    "ch1score": 92.97,
+    "ch1score": 4.29,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 10,
+    "cech1score": 1,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1697.8,
-      "irate": 92.97
+      "irate": 4.29
     },
     {
       "category": "ch1ab",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 2048,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch1jevil",

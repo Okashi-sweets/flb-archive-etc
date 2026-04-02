@@ -2,13 +2,13 @@
   "id": "8qrnwgqj",
   "name": "masonmanftw",
   "banned": false,
-  "pbscore": 489.25,
+  "pbscore": 23.5,
   "pbscoredetail": {
-    "basescore": 489.25,
+    "basescore": 23.5,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 489.25,
+    "ch2score": 23.5,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1729,
-      "irate": 91.89
+      "irate": 4.1
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1513,
-      "irate": 94.69
+      "irate": 4.72
     },
     {
       "category": "ch2wr",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2149,
-      "irate": 93.38
+      "irate": 4.37
     },
     {
       "category": "ch2wr109",
@@ -122,7 +122,7 @@
     {
       "category": "ch2ar",
       "time": 2075,
-      "irate": 91.57
+      "irate": 4.07
     },
     {
       "category": "ch2arnmg",
@@ -137,7 +137,7 @@
     {
       "category": "ch2ab",
       "time": 3449,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2abnmg",
@@ -147,7 +147,7 @@
     {
       "category": "ch2abg",
       "time": 3731,
-      "irate": 92.72
+      "irate": 4.24
     },
     {
       "category": "ch3any",

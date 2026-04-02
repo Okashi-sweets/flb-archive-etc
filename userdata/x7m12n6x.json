@@ -2,13 +2,13 @@
   "id": "x7m12n6x",
   "name": "DaBoulda",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 25,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 2098,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",

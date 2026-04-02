@@ -2,13 +2,13 @@
   "id": "8wk75eq8",
   "name": "Collinlol99",
   "banned": false,
-  "pbscore": 207.94,
+  "pbscore": 10.11,
   "pbscoredetail": {
-    "basescore": 207.94,
+    "basescore": 10.11,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 207.94,
+    "ch2score": 10.11,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1747,
-      "irate": 91.2
+      "irate": 4.02
     },
     {
       "category": "ch2mrnmg",
@@ -97,12 +97,12 @@
     {
       "category": "ch2mr109",
       "time": 1580,
-      "irate": 91.74
+      "irate": 4.09
     },
     {
       "category": "ch2wr",
       "time": 2697,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2wrnmg",

@@ -2,16 +2,16 @@
   "id": "qjo9e27j",
   "name": "EvilLink",
   "banned": false,
-  "pbscore": 85,
+  "pbscore": 7,
   "pbscoredetail": {
-    "basescore": 75,
-    "cescore": 10,
-    "acscore": 25,
-    "ch1score": 25,
-    "ch2score": 25,
+    "basescore": 6,
+    "cescore": 1,
+    "acscore": 2,
+    "ch1score": 2,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 10,
+    "cedemoscore": 1,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 12035,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acmrg",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1773.967,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 4581,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 5948,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demomrnmg",

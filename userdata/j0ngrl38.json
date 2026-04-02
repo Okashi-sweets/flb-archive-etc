@@ -2,10 +2,10 @@
   "id": "j0ngrl38",
   "name": "Associatedfeetballer",
   "banned": false,
-  "pbscore": 33.21,
+  "pbscore": 2.23,
   "pbscoredetail": {
     "basescore": 0,
-    "cescore": 33.21,
+    "cescore": 2.23,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
@@ -13,7 +13,7 @@
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.21,
+    "cech1score": 2.23,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1441,
-      "irate": 33.21
+      "irate": 2.23
     },
     {
       "category": "ce_ch1abtp",

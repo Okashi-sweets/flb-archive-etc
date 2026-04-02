@@ -2,21 +2,21 @@
   "id": "xz71o0ej",
   "name": "devek1",
   "banned": false,
-  "pbscore": 315.43,
+  "pbscore": 16.25,
   "pbscoredetail": {
-    "basescore": 282.39,
-    "cescore": 33.04,
+    "basescore": 14.06,
+    "cescore": 2.19,
     "acscore": 0,
-    "ch1score": 94.08,
-    "ch2score": 96.7,
-    "ch3score": 91.61,
+    "ch1score": 4.55,
+    "ch2score": 5.44,
+    "ch3score": 4.07,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
     "cech3score": 0,
-    "cech4score": 33.04
+    "cech4score": 2.19
   },
   "times": [
     {
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1670.633,
-      "irate": 94.08
+      "irate": 4.55
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1612.9,
-      "irate": 96.7
+      "irate": 5.44
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2621,
-      "irate": 91.61
+      "irate": 4.07
     },
     {
       "category": "ch3ar",
@@ -557,7 +557,7 @@
     {
       "category": "ce_ch4mike",
       "time": 604,
-      "irate": 33.04
+      "irate": 2.19
     },
     {
       "category": "ce_ch4mikeg",

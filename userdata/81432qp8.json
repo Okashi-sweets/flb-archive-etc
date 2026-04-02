@@ -2,12 +2,12 @@
   "id": "81432qp8",
   "name": "iceball8314",
   "banned": false,
-  "pbscore": 92.7,
+  "pbscore": 4.23,
   "pbscoredetail": {
-    "basescore": 92.7,
+    "basescore": 4.23,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.7,
+    "ch1score": 4.23,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1704.733,
-      "irate": 92.7
+      "irate": 4.23
     },
     {
       "category": "ch1ab",

@@ -2,12 +2,12 @@
   "id": "x72y6qq8",
   "name": "bad_at_everything",
   "banned": false,
-  "pbscore": 25,
+  "pbscore": 2,
   "pbscoredetail": {
-    "basescore": 25,
+    "basescore": 2,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2493,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",

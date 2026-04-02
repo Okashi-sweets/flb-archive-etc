@@ -2,12 +2,12 @@
   "id": "pj02p148",
   "name": "WaveWarrior",
   "banned": false,
-  "pbscore": 96.74,
+  "pbscore": 5.46,
   "pbscoredetail": {
-    "basescore": 96.74,
+    "basescore": 5.46,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.74,
+    "ch1score": 5.46,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1608.633,
-      "irate": 96.74
+      "irate": 5.46
     },
     {
       "category": "ch1ab",

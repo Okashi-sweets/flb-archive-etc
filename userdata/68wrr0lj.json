@@ -2,12 +2,12 @@
   "id": "68wrr0lj",
   "name": "FennecWitch",
   "banned": false,
-  "pbscore": 90.68,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.68,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.68,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -72,7 +72,7 @@
     {
       "category": "ch1tp",
       "time": 1787,
-      "irate": 90.68
+      "irate": 4
     },
     {
       "category": "ch1109",

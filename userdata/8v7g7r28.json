@@ -2,12 +2,12 @@
   "id": "8v7g7r28",
   "name": "kinaterme",
   "banned": false,
-  "pbscore": 93.13,
+  "pbscore": 4.32,
   "pbscoredetail": {
-    "basescore": 93.13,
+    "basescore": 4.32,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.13,
+    "ch1score": 4.32,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1693.967,
-      "irate": 93.13
+      "irate": 4.32
     },
     {
       "category": "ch1ab",

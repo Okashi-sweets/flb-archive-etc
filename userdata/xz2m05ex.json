@@ -2,13 +2,13 @@
   "id": "xz2m05ex",
   "name": "psikolojiyokeden",
   "banned": false,
-  "pbscore": 75,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 75,
+    "basescore": 6,
     "cescore": 0,
-    "acscore": 25,
-    "ch1score": 25,
-    "ch2score": 25,
+    "acscore": 2,
+    "ch1score": 2,
+    "ch2score": 2,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 14682,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acmrg",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1817,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1879,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",

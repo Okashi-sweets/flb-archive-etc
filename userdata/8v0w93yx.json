@@ -2,12 +2,12 @@
   "id": "8v0w93yx",
   "name": "RoadSign",
   "banned": false,
-  "pbscore": 90.44,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.44,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.44,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1763.567,
-      "irate": 90.44
+      "irate": 4
     },
     {
       "category": "ch1ab",

@@ -2,12 +2,12 @@
   "id": "8v5w1lyj",
   "name": "Sillyveon",
   "banned": false,
-  "pbscore": 90.37,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.37,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.37,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1765.367,
-      "irate": 90.37
+      "irate": 4
     },
     {
       "category": "ch1ab",

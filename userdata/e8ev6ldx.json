@@ -2,12 +2,12 @@
   "id": "e8ev6ldx",
   "name": "CorruptedDeth",
   "banned": false,
-  "pbscore": 90.49,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 90.49,
+    "basescore": 4,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 90.49,
+    "ch1score": 4,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1762.233,
-      "irate": 90.49
+      "irate": 4
     },
     {
       "category": "ch1ab",

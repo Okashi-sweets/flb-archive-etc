@@ -2,14 +2,14 @@
   "id": "jp6qwn08",
   "name": "C_O_O_K_I_E",
   "banned": false,
-  "pbscore": 92.64,
+  "pbscore": 4.22,
   "pbscoredetail": {
-    "basescore": 92.64,
+    "basescore": 4.22,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
-    "ch3score": 92.64,
+    "ch3score": 4.22,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2581,
-      "irate": 92.64
+      "irate": 4.22
     },
     {
       "category": "ch3ar",

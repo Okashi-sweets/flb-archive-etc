@@ -2,13 +2,13 @@
   "id": "x7wkzmr8",
   "name": "Silbove",
   "banned": false,
-  "pbscore": 281.61,
+  "pbscore": 13.52,
   "pbscoredetail": {
-    "basescore": 281.61,
+    "basescore": 13.52,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.86,
-    "ch2score": 186.75,
+    "ch1score": 4.76,
+    "ch2score": 8.76,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1652.033,
-      "irate": 94.86
+      "irate": 4.76
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1706,
-      "irate": 92.79
+      "irate": 4.25
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1529,
-      "irate": 93.96
+      "irate": 4.51
     },
     {
       "category": "ch2wr",

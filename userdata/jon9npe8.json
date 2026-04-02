@@ -2,14 +2,14 @@
   "id": "jon9npe8",
   "name": "jellifest",
   "banned": false,
-  "pbscore": 588.43,
+  "pbscore": 30.36,
   "pbscoredetail": {
-    "basescore": 588.43,
+    "basescore": 30.36,
     "cescore": 0,
-    "acscore": 182.51,
-    "ch1score": 97.02,
-    "ch2score": 283.89,
-    "ch3score": 25,
+    "acscore": 8.07,
+    "ch1score": 5.57,
+    "ch2score": 14.73,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 8812,
-      "irate": 91.51
+      "irate": 4.06
     },
     {
       "category": "acmrg",
@@ -32,7 +32,7 @@
     {
       "category": "acwr",
       "time": 9653,
-      "irate": 91
+      "irate": 4.01
     },
     {
       "category": "acwrg",
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1602.4,
-      "irate": 97.02
+      "irate": 5.57
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1619.367,
-      "irate": 96.42
+      "irate": 5.33
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1600,
-      "irate": 90.9
+      "irate": 4.01
     },
     {
       "category": "ch2wr",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2053,
-      "irate": 96.58
+      "irate": 5.39
     },
     {
       "category": "ch2wr109",
@@ -162,7 +162,7 @@
     {
       "category": "ch3ab",
       "time": 4917,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4any",

@@ -2,15 +2,15 @@
   "id": "xkzzyq2x",
   "name": "Bald_Man",
   "banned": false,
-  "pbscore": 92.67,
+  "pbscore": 4.23,
   "pbscoredetail": {
-    "basescore": 92.67,
+    "basescore": 4.23,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
-    "ch4score": 92.67,
+    "ch4score": 4.23,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3655,
-      "irate": 92.67
+      "irate": 4.23
     },
     {
       "category": "asc",

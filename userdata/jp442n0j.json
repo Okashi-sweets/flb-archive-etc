@@ -2,13 +2,13 @@
   "id": "jp442n0j",
   "name": "Crdboard",
   "banned": false,
-  "pbscore": 92.08,
+  "pbscore": 4.13,
   "pbscoredetail": {
-    "basescore": 92.08,
+    "basescore": 4.13,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 92.08,
+    "ch2score": 4.13,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1724,
-      "irate": 92.08
+      "irate": 4.13
     },
     {
       "category": "ch2mrnmg",

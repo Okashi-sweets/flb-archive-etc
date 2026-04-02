@@ -2,16 +2,16 @@
   "id": "18v220vj",
   "name": "shatterdpixel",
   "banned": false,
-  "pbscore": 45,
+  "pbscore": 4,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 20,
+    "basescore": 2,
+    "cescore": 2,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 20,
+    "cedemoscore": 2,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1773.767,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 6855,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",
@@ -247,7 +247,7 @@
     {
       "category": "ce_demoarg",
       "time": 6855,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoab",

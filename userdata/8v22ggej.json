@@ -2,14 +2,14 @@
   "id": "8v22ggej",
   "name": "hydrogencitrus",
   "banned": false,
-  "pbscore": 284.96,
+  "pbscore": 14.53,
   "pbscoredetail": {
-    "basescore": 284.96,
+    "basescore": 14.53,
     "cescore": 0,
-    "acscore": 95.98,
-    "ch1score": 95.38,
+    "acscore": 5.16,
+    "ch1score": 4.95,
     "ch2score": 0,
-    "ch3score": 93.6,
+    "ch3score": 4.42,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -57,12 +57,12 @@
     {
       "category": "acabg",
       "time": 12605,
-      "irate": 95.98
+      "irate": 5.16
     },
     {
       "category": "ch1any",
       "time": 1639.667,
-      "irate": 95.38
+      "irate": 4.95
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2545,
-      "irate": 93.6
+      "irate": 4.42
     },
     {
       "category": "ch3ar",

@@ -2,14 +2,14 @@
   "id": "jml14ez8",
   "name": "bakedroyal",
   "banned": false,
-  "pbscore": 938.2,
+  "pbscore": 45.72,
   "pbscoredetail": {
-    "basescore": 938.2,
+    "basescore": 45.72,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 282.92,
-    "ch2score": 466.64,
-    "ch3score": 188.64,
+    "ch1score": 14.06,
+    "ch2score": 22.36,
+    "ch3score": 9.3,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1618.667,
-      "irate": 96.3
+      "irate": 5.27
     },
     {
       "category": "ch1ab",
       "time": 1994,
-      "irate": 92.17
+      "irate": 4.14
     },
     {
       "category": "ch1tp",
       "time": 1690,
-      "irate": 94.45
+      "irate": 4.65
     },
     {
       "category": "ch1109",
@@ -82,22 +82,22 @@
     {
       "category": "ch2mr",
       "time": 1695,
-      "irate": 93.23
+      "irate": 4.34
     },
     {
       "category": "ch2mrnmg",
       "time": 2937,
-      "irate": 91.21
+      "irate": 4.04
     },
     {
       "category": "ch2mrg",
       "time": 3137,
-      "irate": 93.37
+      "irate": 4.37
     },
     {
       "category": "ch2mr109",
       "time": 1467,
-      "irate": 96.88
+      "irate": 5.51
     },
     {
       "category": "ch2wr",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2195,
-      "irate": 91.95
+      "irate": 4.1
     },
     {
       "category": "ch2wr109",
@@ -152,12 +152,12 @@
     {
       "category": "ch3any",
       "time": 2477,
-      "irate": 95.48
+      "irate": 4.98
     },
     {
       "category": "ch3ar",
       "time": 2743,
-      "irate": 93.16
+      "irate": 4.32
     },
     {
       "category": "ch3ab",

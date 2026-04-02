@@ -2,19 +2,19 @@
   "id": "8vorv65x",
   "name": "marti005",
   "banned": false,
-  "pbscore": 1552.91,
+  "pbscore": 84.6,
   "pbscoredetail": {
-    "basescore": 1226.12,
-    "cescore": 326.79,
+    "basescore": 61.7,
+    "cescore": 22.89,
     "acscore": 0,
-    "ch1score": 381.83,
-    "ch2score": 752.07,
-    "ch3score": 92.23,
+    "ch1score": 20.2,
+    "ch2score": 37.36,
+    "ch3score": 4.15,
     "ch4score": 0,
-    "cedemoscore": 153.46,
+    "cedemoscore": 11.22,
     "ceacscore": 0,
-    "cech1score": 64.92,
-    "cech2score": 108.41,
+    "cech1score": 4.18,
+    "cech2score": 7.48,
     "cech3score": 0,
     "cech4score": 0
   },
@@ -62,42 +62,42 @@
     {
       "category": "ch1any",
       "time": 1585.467,
-      "irate": 97.79
+      "irate": 5.91
     },
     {
       "category": "ch1ab",
       "time": 1970,
-      "irate": 92.99
+      "irate": 4.29
     },
     {
       "category": "ch1tp",
       "time": 1652,
-      "irate": 96.05
+      "irate": 5.18
     },
     {
       "category": "ch1109",
       "time": 1635,
-      "irate": 95
+      "irate": 4.82
     },
     {
       "category": "ch2mr",
       "time": 1622.9,
-      "irate": 96.26
+      "irate": 5.27
     },
     {
       "category": "ch2mrnmg",
       "time": 2881,
-      "irate": 92.5
+      "irate": 4.2
     },
     {
       "category": "ch2mrg",
       "time": 3042,
-      "irate": 95.51
+      "irate": 4.99
     },
     {
       "category": "ch2mr109",
       "time": 1582,
-      "irate": 91.65
+      "irate": 4.08
     },
     {
       "category": "ch2wr",
@@ -107,12 +107,12 @@
     {
       "category": "ch2wrnmg",
       "time": 2139,
-      "irate": 90.46
+      "irate": 4
     },
     {
       "category": "ch2wrg",
       "time": 2037.633,
-      "irate": 97.12
+      "irate": 5.61
     },
     {
       "category": "ch2wr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3262,
-      "irate": 93.72
+      "irate": 4.45
     },
     {
       "category": "ch2ab",
@@ -147,12 +147,12 @@
     {
       "category": "ch2abg",
       "time": 3617,
-      "irate": 94.85
+      "irate": 4.76
     },
     {
       "category": "ch3any",
       "time": 2597,
-      "irate": 92.23
+      "irate": 4.15
     },
     {
       "category": "ch3ar",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3436,
-      "irate": 32.54
+      "irate": 2.07
     },
     {
       "category": "ce_demomrnmg",
@@ -217,12 +217,12 @@
     {
       "category": "ce_demomrg",
       "time": 4673,
-      "irate": 33.95
+      "irate": 2.5
     },
     {
       "category": "ce_demowr",
       "time": 4795,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demownmg",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 3764,
-      "irate": 33.5
+      "irate": 2.33
     },
     {
       "category": "ce_demoar",
@@ -252,7 +252,7 @@
     {
       "category": "ce_demoab",
       "time": 5833,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demoabnmg",
@@ -262,7 +262,7 @@
     {
       "category": "ce_demoabg",
       "time": 5511,
-      "irate": 33.47
+      "irate": 2.32
     },
     {
       "category": "ce_actrmr",
@@ -352,12 +352,12 @@
     {
       "category": "ce_ch1tr",
       "time": 2013,
-      "irate": 31.84
+      "irate": 2
     },
     {
       "category": "ce_ch1jevil",
       "time": 1449,
-      "irate": 33.08
+      "irate": 2.19
     },
     {
       "category": "ce_ch1abtp",
@@ -412,7 +412,7 @@
     {
       "category": "ce_ch2abar",
       "time": 3654,
-      "irate": 33.1
+      "irate": 2.2
     },
     {
       "category": "ce_ch2abarnmg",
@@ -447,12 +447,12 @@
     {
       "category": "ce_ch2asnmg",
       "time": 3484,
-      "irate": 31.95
+      "irate": 2
     },
     {
       "category": "ce_ch2asg",
       "time": 3476,
-      "irate": 33.36
+      "irate": 2.28
     },
     {
       "category": "ce_ch2alr",
@@ -472,7 +472,7 @@
     {
       "category": "ce_ch2sapr",
       "time": 2183,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_ch2sapr109",

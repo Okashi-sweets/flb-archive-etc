@@ -2,13 +2,13 @@
   "id": "98ryr23j",
   "name": "KiaraDoggie",
   "banned": false,
-  "pbscore": 117.75,
+  "pbscore": 6.24,
   "pbscoredetail": {
-    "basescore": 117.75,
+    "basescore": 6.24,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 92.75,
+    "ch1score": 2,
+    "ch2score": 4.24,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 2070,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1707,
-      "irate": 92.75
+      "irate": 4.24
     },
     {
       "category": "ch2mrnmg",

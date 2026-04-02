@@ -2,12 +2,12 @@
   "id": "zx7o91yj",
   "name": "DustYGLace",
   "banned": false,
-  "pbscore": 93.37,
+  "pbscore": 4.37,
   "pbscoredetail": {
-    "basescore": 93.37,
+    "basescore": 4.37,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.37,
+    "ch1score": 4.37,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1687.9,
-      "irate": 93.37
+      "irate": 4.37
     },
     {
       "category": "ch1ab",

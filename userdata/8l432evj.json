@@ -2,18 +2,18 @@
   "id": "8l432evj",
   "name": "AlphaEMC",
   "banned": false,
-  "pbscore": 125.76,
+  "pbscore": 6.4,
   "pbscoredetail": {
-    "basescore": 93.05,
-    "cescore": 32.71,
+    "basescore": 4.3,
+    "cescore": 2.1,
     "acscore": 0,
-    "ch1score": 93.05,
+    "ch1score": 4.3,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 32.71,
+    "cech1score": 2.1,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1695.833,
-      "irate": 93.05
+      "irate": 4.3
     },
     {
       "category": "ch1ab",
@@ -352,7 +352,7 @@
     {
       "category": "ce_ch1tr",
       "time": 1936,
-      "irate": 32.71
+      "irate": 2.1
     },
     {
       "category": "ce_ch1jevil",

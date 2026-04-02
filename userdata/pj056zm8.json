@@ -2,12 +2,12 @@
   "id": "pj056zm8",
   "name": "Mickle",
   "banned": false,
-  "pbscore": 95.55,
+  "pbscore": 5,
   "pbscoredetail": {
-    "basescore": 95.55,
+    "basescore": 5,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 95.55,
+    "ch1score": 5,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1635.833,
-      "irate": 95.55
+      "irate": 5
     },
     {
       "category": "ch1ab",

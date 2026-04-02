@@ -2,12 +2,12 @@
   "id": "jppme50j",
   "name": "PumpkinVGC",
   "banned": false,
-  "pbscore": 92.07,
+  "pbscore": 4.13,
   "pbscoredetail": {
-    "basescore": 92.07,
+    "basescore": 4.13,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.07,
+    "ch1score": 4.13,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1720.733,
-      "irate": 92.07
+      "irate": 4.13
     },
     {
       "category": "ch1ab",

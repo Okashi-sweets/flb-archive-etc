@@ -2,13 +2,13 @@
   "id": "863wmw58",
   "name": "Bole",
   "banned": false,
-  "pbscore": 94.95,
+  "pbscore": 4.8,
   "pbscoredetail": {
-    "basescore": 94.95,
+    "basescore": 4.8,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 94.95,
+    "ch2score": 4.8,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2101,
-      "irate": 94.95
+      "irate": 4.8
     },
     {
       "category": "ch2wr109",

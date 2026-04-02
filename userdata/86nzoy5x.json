@@ -2,13 +2,13 @@
   "id": "86nzoy5x",
   "name": "Dis_tur",
   "banned": false,
-  "pbscore": 93.29,
+  "pbscore": 4.34,
   "pbscoredetail": {
-    "basescore": 93.29,
+    "basescore": 4.34,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 93.29,
+    "ch2score": 4.34,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2152,
-      "irate": 93.29
+      "irate": 4.34
     },
     {
       "category": "ch2wr109",

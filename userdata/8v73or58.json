@@ -2,14 +2,14 @@
   "id": "8v73or58",
   "name": "CAPYBARA_YT",
   "banned": false,
-  "pbscore": 217.15,
+  "pbscore": 14.14,
   "pbscoredetail": {
-    "basescore": 217.15,
+    "basescore": 14.14,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 75,
-    "ch2score": 117.15,
-    "ch3score": 25,
+    "ch1score": 6,
+    "ch2score": 6.14,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,17 +62,17 @@
     {
       "category": "ch1any",
       "time": 1843,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
       "time": 2313,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1tp",
       "time": 1807,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1109",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3476,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -132,7 +132,7 @@
     {
       "category": "ch2arg",
       "time": 3338,
-      "irate": 92.15
+      "irate": 4.14
     },
     {
       "category": "ch2ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2697,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

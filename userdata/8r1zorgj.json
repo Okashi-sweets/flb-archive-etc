@@ -2,12 +2,12 @@
   "id": "8r1zorgj",
   "name": "Janiczgamer",
   "banned": false,
-  "pbscore": 96.84,
+  "pbscore": 5.5,
   "pbscoredetail": {
-    "basescore": 96.84,
+    "basescore": 5.5,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.84,
+    "ch1score": 5.5,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1606.467,
-      "irate": 96.84
+      "irate": 5.5
     },
     {
       "category": "ch1ab",

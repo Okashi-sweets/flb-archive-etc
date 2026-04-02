@@ -2,13 +2,13 @@
   "id": "j5277ogj",
   "name": "tensebug",
   "banned": false,
-  "pbscore": 187.64,
+  "pbscore": 8.98,
   "pbscoredetail": {
-    "basescore": 187.64,
+    "basescore": 8.98,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.08,
-    "ch2score": 94.57,
+    "ch1score": 4.3,
+    "ch2score": 4.68,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1695.167,
-      "irate": 93.08
+      "irate": 4.31
     },
     {
       "category": "ch1ab",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3083,
-      "irate": 94.57
+      "irate": 4.68
     },
     {
       "category": "ch2mr109",

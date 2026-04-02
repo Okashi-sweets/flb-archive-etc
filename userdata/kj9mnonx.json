@@ -2,12 +2,12 @@
   "id": "kj9mnonx",
   "name": "jag2791",
   "banned": false,
-  "pbscore": 94.21,
+  "pbscore": 4.58,
   "pbscoredetail": {
-    "basescore": 94.21,
+    "basescore": 4.58,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 94.21,
+    "ch1score": 4.58,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1667.367,
-      "irate": 94.21
+      "irate": 4.58
     },
     {
       "category": "ch1ab",

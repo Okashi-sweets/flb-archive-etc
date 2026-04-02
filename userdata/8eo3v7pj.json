@@ -2,14 +2,14 @@
   "id": "8eo3v7pj",
   "name": "Empressmay",
   "banned": false,
-  "pbscore": 400.5,
+  "pbscore": 20.35,
   "pbscoredetail": {
-    "basescore": 400.5,
+    "basescore": 20.35,
     "cescore": 0,
-    "acscore": 91.83,
-    "ch1score": 188.07,
-    "ch2score": 25,
-    "ch3score": 95.6,
+    "acscore": 4.09,
+    "ch1score": 9.25,
+    "ch2score": 2,
+    "ch3score": 5.01,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -27,7 +27,7 @@
     {
       "category": "acmrg",
       "time": 10953,
-      "irate": 91.83
+      "irate": 4.09
     },
     {
       "category": "acwr",
@@ -62,12 +62,12 @@
     {
       "category": "ch1any",
       "time": 1630.867,
-      "irate": 95.76
+      "irate": 5.08
     },
     {
       "category": "ch1ab",
       "time": 1990,
-      "irate": 92.31
+      "irate": 4.17
     },
     {
       "category": "ch1tp",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1783,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2473,
-      "irate": 95.6
+      "irate": 5.01
     },
     {
       "category": "ch3ar",

@@ -2,12 +2,12 @@
   "id": "86n3epwx",
   "name": "yair1234",
   "banned": false,
-  "pbscore": 92.04,
+  "pbscore": 4.13,
   "pbscoredetail": {
-    "basescore": 92.04,
+    "basescore": 4.13,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 92.04,
+    "ch1score": 4.13,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1721.4,
-      "irate": 92.04
+      "irate": 4.13
     },
     {
       "category": "ch1ab",

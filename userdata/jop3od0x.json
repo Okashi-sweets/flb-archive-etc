@@ -2,12 +2,12 @@
   "id": "jop3od0x",
   "name": "lawlessbacon",
   "banned": false,
-  "pbscore": 91.71,
+  "pbscore": 4.08,
   "pbscoredetail": {
-    "basescore": 91.71,
+    "basescore": 4.08,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 91.71,
+    "ch1score": 4.08,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1729.933,
-      "irate": 91.71
+      "irate": 4.08
     },
     {
       "category": "ch1ab",

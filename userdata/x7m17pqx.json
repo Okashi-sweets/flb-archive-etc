@@ -2,13 +2,13 @@
   "id": "x7m17pqx",
   "name": "itzbrendanbtw",
   "banned": false,
-  "pbscore": 119.42,
+  "pbscore": 6.64,
   "pbscoredetail": {
-    "basescore": 119.42,
+    "basescore": 6.64,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 119.42,
+    "ch2score": 6.64,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3386,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2117,
-      "irate": 94.42
+      "irate": 4.64
     },
     {
       "category": "ch2wr109",

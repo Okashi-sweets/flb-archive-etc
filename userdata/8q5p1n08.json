@@ -2,14 +2,14 @@
   "id": "8q5p1n08",
   "name": "anonymemesxd",
   "banned": false,
-  "pbscore": 895.72,
+  "pbscore": 60.76,
   "pbscoredetail": {
-    "basescore": 895.72,
+    "basescore": 60.76,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 398.95,
-    "ch2score": 398.14,
-    "ch3score": 98.63,
+    "ch1score": 27.44,
+    "ch2score": 27.02,
+    "ch3score": 6.3,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -62,27 +62,27 @@
     {
       "category": "ch1any",
       "time": 1543.633,
-      "irate": 99.76
+      "irate": 6.87
     },
     {
       "category": "ch1ab",
       "time": 1803,
-      "irate": 99.29
+      "irate": 6.63
     },
     {
       "category": "ch1tp",
       "time": 1567,
-      "irate": 99.9
+      "irate": 6.94
     },
     {
       "category": "ch1109",
       "time": 1526,
-      "irate": 100
+      "irate": 7
     },
     {
       "category": "ch2mr",
       "time": 1548.567,
-      "irate": 99.68
+      "irate": 6.83
     },
     {
       "category": "ch2mrnmg",
@@ -97,7 +97,7 @@
     {
       "category": "ch2mr109",
       "time": 1420,
-      "irate": 99.26
+      "irate": 6.61
     },
     {
       "category": "ch2wr",
@@ -107,12 +107,12 @@
     {
       "category": "ch2wrnmg",
       "time": 1887,
-      "irate": 99.2
+      "irate": 6.58
     },
     {
       "category": "ch2wrg",
       "time": 1959.533,
-      "irate": 100
+      "irate": 7
     },
     {
       "category": "ch2wr109",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2371,
-      "irate": 98.63
+      "irate": 6.3
     },
     {
       "category": "ch3ar",

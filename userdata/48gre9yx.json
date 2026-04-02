@@ -2,15 +2,15 @@
   "id": "48gre9yx",
   "name": "NoelleTGS",
   "banned": false,
-  "pbscore": 478.06,
+  "pbscore": 26.01,
   "pbscoredetail": {
-    "basescore": 478.06,
+    "basescore": 26.01,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 387.26,
+    "ch1score": 21.99,
     "ch2score": 0,
     "ch3score": 0,
-    "ch4score": 90.8,
+    "ch4score": 4.01,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,22 +62,22 @@
     {
       "category": "ch1any",
       "time": 1592.867,
-      "irate": 97.45
+      "irate": 5.76
     },
     {
       "category": "ch1ab",
       "time": 1895,
-      "irate": 95.68
+      "irate": 5.05
     },
     {
       "category": "ch1tp",
       "time": 1638,
-      "irate": 96.65
+      "irate": 5.42
     },
     {
       "category": "ch1109",
       "time": 1579,
-      "irate": 97.48
+      "irate": 5.77
     },
     {
       "category": "ch2mr",
@@ -192,7 +192,7 @@
     {
       "category": "ch4abg",
       "time": 3759,
-      "irate": 90.8
+      "irate": 4.01
     },
     {
       "category": "asc",

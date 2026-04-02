@@ -2,12 +2,12 @@
   "id": "0jm57g4x",
   "name": "Yotenshi",
   "banned": false,
-  "pbscore": 93.83,
+  "pbscore": 4.48,
   "pbscoredetail": {
-    "basescore": 93.83,
+    "basescore": 4.48,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.83,
+    "ch1score": 4.48,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1676.6,
-      "irate": 93.83
+      "irate": 4.48
     },
     {
       "category": "ch1ab",

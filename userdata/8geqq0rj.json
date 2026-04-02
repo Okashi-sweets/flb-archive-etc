@@ -2,13 +2,13 @@
   "id": "8geqq0rj",
   "name": "ILostMyChurro",
   "banned": false,
-  "pbscore": 284.08,
+  "pbscore": 14.19,
   "pbscoredetail": {
-    "basescore": 284.08,
+    "basescore": 14.19,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 93.9,
-    "ch2score": 190.18,
+    "ch1score": 4.5,
+    "ch2score": 9.69,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1674.933,
-      "irate": 93.9
+      "irate": 4.5
     },
     {
       "category": "ch1ab",
@@ -102,7 +102,7 @@
     {
       "category": "ch2wr",
       "time": 1759,
-      "irate": 94.92
+      "irate": 4.79
     },
     {
       "category": "ch2wrnmg",
@@ -117,7 +117,7 @@
     {
       "category": "ch2wr109",
       "time": 1758,
-      "irate": 95.26
+      "irate": 4.9
     },
     {
       "category": "ch2ar",

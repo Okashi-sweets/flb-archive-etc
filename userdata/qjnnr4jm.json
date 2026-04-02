@@ -2,13 +2,13 @@
   "id": "qjnnr4jm",
   "name": "Granolant",
   "banned": false,
-  "pbscore": 75,
+  "pbscore": 6,
   "pbscoredetail": {
-    "basescore": 75,
+    "basescore": 6,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 25,
-    "ch2score": 50,
+    "ch1score": 2,
+    "ch2score": 4,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1799.933,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 3396,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mrnmg",
@@ -92,7 +92,7 @@
     {
       "category": "ch2mrg",
       "time": 3557,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch2mr109",

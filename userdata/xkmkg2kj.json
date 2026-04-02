@@ -2,16 +2,16 @@
   "id": "xkmkg2kj",
   "name": "Trintonique",
   "banned": false,
-  "pbscore": 171.14,
+  "pbscore": 10.49,
   "pbscoredetail": {
-    "basescore": 96.65,
-    "cescore": 74.48,
+    "basescore": 5.42,
+    "cescore": 5.07,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 96.65,
+    "ch2score": 5.42,
     "ch3score": 0,
     "ch4score": 0,
-    "cedemoscore": 74.48,
+    "cedemoscore": 5.07,
     "ceacscore": 0,
     "cech1score": 0,
     "cech2score": 0,
@@ -112,7 +112,7 @@
     {
       "category": "ch2wrg",
       "time": 2051,
-      "irate": 96.65
+      "irate": 5.42
     },
     {
       "category": "ch2wr109",
@@ -207,7 +207,7 @@
     {
       "category": "ce_demomr",
       "time": 3438,
-      "irate": 32.54
+      "irate": 2.07
     },
     {
       "category": "ce_demomrnmg",
@@ -217,7 +217,7 @@
     {
       "category": "ce_demomrg",
       "time": 5185,
-      "irate": 10
+      "irate": 1
     },
     {
       "category": "ce_demowr",
@@ -232,7 +232,7 @@
     {
       "category": "ce_demowrg",
       "time": 4030,
-      "irate": 31.95
+      "irate": 2
     },
     {
       "category": "ce_demoar",

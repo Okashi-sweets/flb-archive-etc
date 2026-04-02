@@ -2,12 +2,12 @@
   "id": "8greko7x",
   "name": "Nat_Cat",
   "banned": false,
-  "pbscore": 96.58,
+  "pbscore": 5.39,
   "pbscoredetail": {
-    "basescore": 96.58,
+    "basescore": 5.39,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.58,
+    "ch1score": 5.39,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1612.367,
-      "irate": 96.58
+      "irate": 5.39
     },
     {
       "category": "ch1ab",

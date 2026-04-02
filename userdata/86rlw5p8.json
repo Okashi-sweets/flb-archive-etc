@@ -2,12 +2,12 @@
   "id": "86rlw5p8",
   "name": "KonnieSoKrisp",
   "banned": false,
-  "pbscore": 97.04,
+  "pbscore": 5.58,
   "pbscoredetail": {
-    "basescore": 97.04,
+    "basescore": 5.58,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.04,
+    "ch1score": 5.58,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1601.9,
-      "irate": 97.04
+      "irate": 5.58
     },
     {
       "category": "ch1ab",

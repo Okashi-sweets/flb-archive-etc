@@ -2,15 +2,15 @@
   "id": "8vrk91vx",
   "name": "catpogers",
   "banned": false,
-  "pbscore": 285.83,
+  "pbscore": 14.91,
   "pbscoredetail": {
-    "basescore": 285.83,
+    "basescore": 14.91,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 96.4,
+    "ch1score": 5.32,
     "ch2score": 0,
-    "ch3score": 96.32,
-    "ch4score": 93.11,
+    "ch3score": 5.29,
+    "ch4score": 4.3,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1616.233,
-      "irate": 96.4
+      "irate": 5.32
     },
     {
       "category": "ch1ab",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2448,
-      "irate": 96.32
+      "irate": 5.29
     },
     {
       "category": "ch3ar",
@@ -167,7 +167,7 @@
     {
       "category": "ch4any",
       "time": 2539,
-      "irate": 93.11
+      "irate": 4.31
     },
     {
       "category": "ch4anyg",

@@ -2,11 +2,11 @@
   "id": "xz2ng1nx",
   "name": "Staticdootnoot",
   "banned": false,
-  "pbscore": 92.99,
+  "pbscore": 4.29,
   "pbscoredetail": {
-    "basescore": 92.99,
+    "basescore": 4.29,
     "cescore": 0,
-    "acscore": 92.99,
+    "acscore": 4.29,
     "ch1score": 0,
     "ch2score": 0,
     "ch3score": 0,
@@ -57,7 +57,7 @@
     {
       "category": "acabg",
       "time": 13160,
-      "irate": 92.99
+      "irate": 4.29
     },
     {
       "category": "ch1any",

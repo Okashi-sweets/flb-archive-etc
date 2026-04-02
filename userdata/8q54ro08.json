@@ -2,14 +2,14 @@
   "id": "8q54ro08",
   "name": "joulutorttu",
   "banned": false,
-  "pbscore": 146.44,
+  "pbscore": 9.34,
   "pbscoredetail": {
-    "basescore": 146.44,
+    "basescore": 9.34,
     "cescore": 0,
-    "acscore": 25,
+    "acscore": 2,
     "ch1score": 0,
-    "ch2score": 96.44,
-    "ch3score": 25,
+    "ch2score": 5.34,
+    "ch3score": 2,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
@@ -22,7 +22,7 @@
     {
       "category": "acmr",
       "time": 10071,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "acmrg",
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1618.833,
-      "irate": 96.44
+      "irate": 5.34
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2692,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch3ar",

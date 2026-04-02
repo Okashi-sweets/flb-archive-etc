@@ -2,18 +2,18 @@
   "id": "j955pl78",
   "name": "cornbeefcycles",
   "banned": false,
-  "pbscore": 58.04,
+  "pbscore": 4.18,
   "pbscoredetail": {
-    "basescore": 25,
-    "cescore": 33.04,
+    "basescore": 2,
+    "cescore": 2.19,
     "acscore": 0,
-    "ch1score": 25,
+    "ch1score": 2,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
     "cedemoscore": 0,
     "ceacscore": 0,
-    "cech1score": 33.04,
+    "cech1score": 2.19,
     "cech2score": 0,
     "cech3score": 0,
     "cech4score": 0
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1775.233,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch1ab",
@@ -357,7 +357,7 @@
     {
       "category": "ce_ch1jevil",
       "time": 1451,
-      "irate": 33.04
+      "irate": 2.19
     },
     {
       "category": "ce_ch1abtp",

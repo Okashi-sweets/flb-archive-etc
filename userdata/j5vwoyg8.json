@@ -2,15 +2,15 @@
   "id": "j5vwoyg8",
   "name": "AquaTail_T",
   "banned": false,
-  "pbscore": 212.35,
+  "pbscore": 10.89,
   "pbscoredetail": {
-    "basescore": 212.35,
+    "basescore": 10.89,
     "cescore": 0,
     "acscore": 0,
     "ch1score": 0,
-    "ch2score": 93.23,
-    "ch3score": 94.12,
-    "ch4score": 25,
+    "ch2score": 4.34,
+    "ch3score": 4.55,
+    "ch4score": 2,
     "cedemoscore": 0,
     "ceacscore": 0,
     "cech1score": 0,
@@ -82,7 +82,7 @@
     {
       "category": "ch2mr",
       "time": 1695,
-      "irate": 93.23
+      "irate": 4.34
     },
     {
       "category": "ch2mrnmg",
@@ -152,7 +152,7 @@
     {
       "category": "ch3any",
       "time": 2526,
-      "irate": 94.12
+      "irate": 4.56
     },
     {
       "category": "ch3ar",
@@ -167,7 +167,7 @@
     {
       "category": "ch4any",
       "time": 2811,
-      "irate": 25
+      "irate": 2
     },
     {
       "category": "ch4anyg",

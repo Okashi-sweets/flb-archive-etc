@@ -2,12 +2,12 @@
   "id": "jpz0wy2x",
   "name": "Rauanb",
   "banned": false,
-  "pbscore": 97.54,
+  "pbscore": 5.79,
   "pbscoredetail": {
-    "basescore": 97.54,
+    "basescore": 5.79,
     "cescore": 0,
     "acscore": 0,
-    "ch1score": 97.54,
+    "ch1score": 5.79,
     "ch2score": 0,
     "ch3score": 0,
     "ch4score": 0,
@@ -62,7 +62,7 @@
     {
       "category": "ch1any",
       "time": 1591.033,
-      "irate": 97.54
+      "irate": 5.79
     },
     {
       "category": "ch1ab",
