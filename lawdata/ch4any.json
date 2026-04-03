@@ -123,6 +123,59 @@
       {
         "place": 3,
         "run": {
+          "id": "ywokoq0m",
+          "weblink": "https://www.speedrun.com/deltarune/run/ywokoq0m",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "jdzmp8xk",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=_G5YNCfa500"
+              }
+            ]
+          },
+          "comment": "yes!!",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-02T16:13:08Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j5v57gw8",
+              "uri": "https://www.speedrun.com/api/v1/users/j5v57gw8"
+            }
+          ],
+          "date": "2026-04-02",
+          "submitted": "2026-04-02T15:48:17Z",
+          "times": {
+            "primary": "PT38M47S",
+            "primary_t": 2327,
+            "realtime": "PT38M47S",
+            "realtime_t": 2327,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "wle34y48": "le2gew5l",
+            "68kwxy38": "14oe2n0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
           "id": "m7vel2wm",
           "weblink": "https://www.speedrun.com/deltarune/run/m7vel2wm",
           "game": "pdvznzr6",
@@ -174,7 +227,7 @@
         }
       },
       {
-        "place": 4,
+        "place": 5,
         "run": {
           "id": "z029j8jm",
           "weblink": "https://www.speedrun.com/deltarune/run/z029j8jm",
@@ -227,7 +280,7 @@
         }
       },
       {
-        "place": 5,
+        "place": 6,
         "run": {
           "id": "zq5depxz",
           "weblink": "https://www.speedrun.com/deltarune/run/zq5depxz",
@@ -280,7 +333,7 @@
         }
       },
       {
-        "place": 6,
+        "place": 7,
         "run": {
           "id": "z0kpo7jm",
           "weblink": "https://www.speedrun.com/deltarune/run/z0kpo7jm",
@@ -333,7 +386,7 @@
         }
       },
       {
-        "place": 7,
+        "place": 8,
         "run": {
           "id": "yv51g84m",
           "weblink": "https://www.speedrun.com/deltarune/run/yv51g84m",
@@ -367,59 +420,6 @@
             "primary_t": 2363,
             "realtime": "PT39M23S",
             "realtime_t": 2363,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "wle34y48": "le2gew5l",
-            "68kwxy38": "14oe2n0q",
-            "ylpk0or8": "lmo66081"
-          }
-        }
-      },
-      {
-        "place": 8,
-        "run": {
-          "id": "z10xgljm",
-          "weblink": "https://www.speedrun.com/deltarune/run/z10xgljm",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "jdzmp8xk",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://youtu.be/ht73FLW0pOk"
-              }
-            ]
-          },
-          "comment": null,
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2026-03-31T20:27:53Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "j5v57gw8",
-              "uri": "https://www.speedrun.com/api/v1/users/j5v57gw8"
-            }
-          ],
-          "date": "2026-03-31",
-          "submitted": "2026-03-31T14:41:23Z",
-          "times": {
-            "primary": "PT39M25S",
-            "primary_t": 2365,
-            "realtime": "PT39M25S",
-            "realtime_t": 2365,
             "realtime_noloads": null,
             "realtime_noloads_t": 0,
             "ingame": null,

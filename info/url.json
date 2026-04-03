@@ -10,7 +10,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acmrg",
@@ -23,7 +28,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acwr",
@@ -36,7 +46,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Weird Route",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acwrg",
@@ -49,7 +64,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Weird Route",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acar",
@@ -62,7 +82,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acarg",
@@ -75,7 +100,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acab",
@@ -88,7 +118,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "acabg",
@@ -101,7 +136,12 @@
         "group": "base",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch1any",
@@ -111,7 +151,12 @@
         "var1": "81wj5y9q",
         "group": "base",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "Any%"
+        "displaycategory2": "Any%",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch1ab",
@@ -121,7 +166,12 @@
         "var1": "81wj346q",
         "group": "base",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "All Bosses"
+        "displaycategory2": "All Bosses",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch1tp",
@@ -131,7 +181,12 @@
         "var1": "jqzzyemq",
         "group": "base",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "True Pacifist"
+        "displaycategory2": "True Pacifist",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch1109",
@@ -141,7 +196,12 @@
         "var1": "139my2x1",
         "group": "base",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "Any%(1.09)"
+        "displaycategory2": "Any%(1.09)",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2mr",
@@ -154,7 +214,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2mrnmg",
@@ -167,7 +232,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Main Route",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2mrg",
@@ -180,7 +250,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2mr109",
@@ -193,7 +268,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Main Route",
-        "displaycategory3": "1.09"
+        "displaycategory3": "1.09",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2wr",
@@ -206,7 +286,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2wrnmg",
@@ -219,7 +304,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2wrg",
@@ -232,7 +322,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2wr109",
@@ -245,7 +340,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "1.09"
+        "displaycategory3": "1.09",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2ar",
@@ -258,7 +358,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2arnmg",
@@ -271,7 +376,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2arg",
@@ -284,7 +394,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2ab",
@@ -297,7 +412,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2abnmg",
@@ -310,7 +430,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch2abg",
@@ -323,7 +448,12 @@
         "group": "base",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch3any",
@@ -333,7 +463,12 @@
         "var1": "12ve277q",
         "group": "base",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "Any%"
+        "displaycategory2": "Any%",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch3ar",
@@ -343,7 +478,12 @@
         "var1": "qkekzvnq",
         "group": "base",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "All Recruits"
+        "displaycategory2": "All Recruits",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch3ab",
@@ -353,7 +493,12 @@
         "var1": "1pywx9g1",
         "group": "base",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "All Bosses"
+        "displaycategory2": "All Bosses",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4any",
@@ -366,7 +511,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Any%",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4anyg",
@@ -379,7 +529,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Any%",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4ar",
@@ -392,7 +547,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4arg",
@@ -405,7 +565,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4ab",
@@ -418,7 +583,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ch4abg",
@@ -431,7 +601,12 @@
         "group": "base",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "asc",
@@ -441,7 +616,12 @@
         "var1": "12ve287q",
         "group": "base",
         "displaycategory1": "All Shadow Crystals",
-        "displaycategory2": "Glitched"
+        "displaycategory2": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ascg",
@@ -451,7 +631,12 @@
         "var1": "1pywxgg1",
         "group": "base",
         "displaycategory1": "All Shadow Crystals",
-        "displaycategory2": "Glitchless"
+        "displaycategory2": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demomr",
@@ -464,7 +649,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demomrnmg",
@@ -477,7 +667,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Main Route",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demomrg",
@@ -490,7 +685,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Main Route",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demowr",
@@ -503,7 +703,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demownmg",
@@ -516,7 +721,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demowrg",
@@ -529,7 +739,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "Snowgrave",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoar",
@@ -542,7 +757,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoarnmg",
@@ -555,7 +775,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoarg",
@@ -568,7 +793,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoab",
@@ -581,7 +811,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoabnmg",
@@ -594,7 +829,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_demoabg",
@@ -607,7 +847,12 @@
         "group": "ce",
         "displaycategory1": "CH1+2 Demo",
         "displaycategory2": "All Bosses",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_actrmr",
@@ -620,7 +865,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Main Route)",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_actrmrg",
@@ -633,7 +883,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Main Route)",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_actrwr",
@@ -646,7 +901,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Weird Route)",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_actrwrg",
@@ -659,7 +919,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "True Reset(Weird Route)",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acegg",
@@ -672,7 +937,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Egg%",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_aceggg",
@@ -685,7 +955,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "Egg%",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acartp",
@@ -698,7 +973,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Recruits True Pacifist",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acartpg",
@@ -711,7 +991,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Recruits True Pacifist",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acabar",
@@ -724,7 +1009,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acabarg",
@@ -737,7 +1027,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acat",
@@ -750,7 +1045,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Titles",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acatg",
@@ -763,7 +1063,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Titles",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acost",
@@ -776,7 +1081,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "OST%",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acostg",
@@ -789,7 +1099,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "OST%",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acai",
@@ -802,7 +1117,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Items",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_acaig",
@@ -815,7 +1135,12 @@
         "group": "ce",
         "displaycategory1": "All Chapters",
         "displaycategory2": "All Items",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_actracabarpeeg",
@@ -827,7 +1152,12 @@
         "var2": "lx5wr5r1",
         "group": "ce",
         "displaycategory1": "All Chapters",
-        "displaycategory2": "TRACABARPEEG"
+        "displaycategory2": "TRACABARPEEG",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch1tr",
@@ -837,7 +1167,12 @@
         "var1": "qj7yv7gq",
         "group": "ce",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "True Reset"
+        "displaycategory2": "True Reset",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch1jevil",
@@ -847,7 +1182,12 @@
         "var1": "zqo6e72q",
         "group": "ce",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "Jevil"
+        "displaycategory2": "Jevil",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch1abtp",
@@ -857,7 +1197,12 @@
         "var1": "10vegv5l",
         "group": "ce",
         "displaycategory1": "Chapter 1",
-        "displaycategory2": "All Bosses True Pacifist"
+        "displaycategory2": "All Bosses True Pacifist",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trmr",
@@ -870,7 +1215,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Main Route)",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trmrnmg",
@@ -883,7 +1233,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Main Route)",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trmrg",
@@ -896,7 +1251,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Main Route)",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trwr",
@@ -909,7 +1269,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Snowwgrave)",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trwrnmg",
@@ -922,7 +1287,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Snowwgrave)",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2trwrg",
@@ -935,7 +1305,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "True Reset(Snowwgrave)",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2neo",
@@ -948,7 +1323,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Spamton Neo",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2neonmg",
@@ -961,7 +1341,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Spamton Neo",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2neog",
@@ -974,7 +1359,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Spamton Neo",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2abar",
@@ -987,7 +1377,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2abarnmg",
@@ -1000,7 +1395,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2abarg",
@@ -1013,7 +1413,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2are",
@@ -1026,7 +1431,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Recruits Extended",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2areg",
@@ -1039,7 +1449,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Recruits Extended",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2lotr",
@@ -1052,7 +1467,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Lord of Thorn Rings",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2as",
@@ -1065,7 +1485,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Aborted Snowgrave",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2asnmg",
@@ -1078,7 +1503,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Aborted Snowgrave",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2asg",
@@ -1091,7 +1521,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Aborted Snowgrave",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2alr",
@@ -1104,7 +1539,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Lost Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2alrnmg",
@@ -1117,7 +1557,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Lost Recruits",
-        "displaycategory3": "No Major Glitches"
+        "displaycategory3": "No Major Glitches",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2alrg",
@@ -1130,7 +1575,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "All Lost Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2sapr",
@@ -1143,7 +1593,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave All Possible Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch2sapr109",
@@ -1156,7 +1611,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 2",
         "displaycategory2": "Snowgrave All Possible Recruits",
-        "displaycategory3": "1.09"
+        "displaycategory3": "1.09",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch3tr",
@@ -1166,7 +1626,12 @@
         "var1": "ln86pedl",
         "group": "ce",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "True Reset"
+        "displaycategory2": "True Reset",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch3nightmare",
@@ -1176,7 +1641,12 @@
         "var1": "10veg65l",
         "group": "ce",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "Nightmare"
+        "displaycategory2": "Nightmare",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch3sc",
@@ -1186,7 +1656,12 @@
         "var1": "qj7yv2gq",
         "group": "ce",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "Shadow Crystal"
+        "displaycategory2": "Shadow Crystal",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch3abar",
@@ -1196,7 +1671,12 @@
         "var1": "q65knv7l",
         "group": "ce",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "All Bosses All Recruits"
+        "displaycategory2": "All Bosses All Recruits",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch3alr",
@@ -1206,7 +1686,12 @@
         "var1": "12vm3d4q",
         "group": "ce",
         "displaycategory1": "Chapter 3",
-        "displaycategory2": "All Lost Recruits"
+        "displaycategory2": "All Lost Recruits",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4tr",
@@ -1219,7 +1704,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "True Reset",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4trg",
@@ -1232,7 +1722,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "True Reset",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4gerson",
@@ -1245,7 +1740,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Gerson",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4gersong",
@@ -1258,7 +1758,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Gerson",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4abar",
@@ -1271,7 +1776,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4abarg",
@@ -1284,7 +1794,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses All Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4abe",
@@ -1297,7 +1812,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses Extended",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4abeg",
@@ -1310,7 +1830,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Bosses Extended",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4alr",
@@ -1323,7 +1848,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Lost Recruits",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4alrg",
@@ -1336,7 +1866,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "All Lost Recruits",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4mike",
@@ -1349,7 +1884,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Mike%",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4mikeg",
@@ -1362,7 +1902,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Mike%",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4mike2",
@@ -1375,7 +1920,12 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Mike%(Switch2)",
-        "displaycategory3": "Glitched"
+        "displaycategory3": "Glitched",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     },
     {
         "name": "ce_ch4mike2g",
@@ -1388,6 +1938,11 @@
         "group": "ce",
         "displaycategory1": "Chapter 4",
         "displaycategory2": "Mike%(Switch2)",
-        "displaycategory3": "Glitchless"
+        "displaycategory3": "Glitchless",
+        "op_border": 0,
+        "rate_border": 0,
+        "base_rate": 0,
+        "multiplier": 0,
+        "op_score": 0
     }
 ]

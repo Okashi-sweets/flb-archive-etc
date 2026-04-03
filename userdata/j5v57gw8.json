@@ -2,15 +2,15 @@
   "id": "j5v57gw8",
   "name": "Vintagix",
   "banned": false,
-  "pbscore": 107.75,
+  "pbscore": 108.33,
   "pbscoredetail": {
-    "basescore": 99.91,
+    "basescore": 100.49,
     "cescore": 7.84,
     "acscore": 5.36,
     "ch1score": 11.88,
     "ch2score": 63.82,
     "ch3score": 12.79,
-    "ch4score": 6.06,
+    "ch4score": 6.64,
     "cedemoscore": 4.84,
     "ceacscore": 0,
     "cech1score": 0,
@@ -166,8 +166,8 @@
     },
     {
       "category": "ch4any",
-      "time": 2365,
-      "irate": 6.06
+      "time": 2327,
+      "irate": 6.64
     },
     {
       "category": "ch4anyg",

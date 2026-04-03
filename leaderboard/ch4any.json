@@ -23,6 +23,14 @@
         "banned": false
       },
       {
+        "id": "j5v57gw8",
+        "name": "Vintagix",
+        "time": 2327,
+        "date": "2026-04-02",
+        "video": "https://www.youtube.com/watch?v=_G5YNCfa500",
+        "banned": false
+      },
+      {
         "id": "8geq62rj",
         "name": "Jaq",
         "time": 2328,
@@ -60,14 +68,6 @@
         "time": 2363,
         "date": "2025-11-07",
         "video": "https://youtu.be/Z5AioMJfNKg",
-        "banned": false
-      },
-      {
-        "id": "j5v57gw8",
-        "name": "Vintagix",
-        "time": 2365,
-        "date": "2026-03-31",
-        "video": "https://youtu.be/ht73FLW0pOk",
         "banned": false
       },
       {
