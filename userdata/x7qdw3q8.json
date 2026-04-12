@@ -2,13 +2,13 @@
   "id": "x7qdw3q8",
   "name": "ItsMeDelta",
   "banned": false,
-  "pbscore": 316.52,
+  "pbscore": 317.26,
   "pbscoredetail": {
-    "basescore": 190.37,
+    "basescore": 191.11,
     "cescore": 126.15,
     "acscore": 37.61,
     "ch1score": 26.61,
-    "ch2score": 73.59,
+    "ch2score": 74.34,
     "ch3score": 18.13,
     "ch4score": 34.4,
     "cedemoscore": 31.85,
@@ -131,8 +131,8 @@
     },
     {
       "category": "ch2arg",
-      "time": 3110,
-      "irate": 5.59
+      "time": 3042,
+      "irate": 6.33
     },
     {
       "category": "ch2ab",

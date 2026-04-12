@@ -1,6 +1,6 @@
 {
   "data": {
-    "weblink": "https://www.speedrun.com/deltarune#chapter-3",
+    "weblink": "https://www.speedrun.com/deltarune?h=chapter-3-any&x=jdr51x0k-2lgkxye8.12ve277q",
     "game": "pdvznzr6",
     "category": "jdr51x0k",
     "level": null,
@@ -17,7 +17,7 @@
         "place": 1,
         "run": {
           "id": "zx5p10qm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zx5p10qm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zx5p10qm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -69,7 +69,7 @@
         "place": 2,
         "run": {
           "id": "zn51p2lz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zn51p2lz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zn51p2lz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -121,7 +121,7 @@
         "place": 3,
         "run": {
           "id": "yw5x100y",
-          "weblink": "https://www.speedrun.com/deltarune/run/yw5x100y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yw5x100y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -173,7 +173,7 @@
         "place": 4,
         "run": {
           "id": "m7vpvqwm",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7vpvqwm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7vpvqwm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -225,7 +225,7 @@
         "place": 4,
         "run": {
           "id": "z02w5q8m",
-          "weblink": "https://www.speedrun.com/deltarune/run/z02w5q8m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z02w5q8m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -276,8 +276,60 @@
       {
         "place": 6,
         "run": {
+          "id": "zg1d6dez",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zg1d6dez",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "jdr51x0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/bkDPMo3z1Fw"
+              }
+            ]
+          },
+          "comment": "practice is broken, even when gambling",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-07T19:57:43Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x356mgej",
+              "uri": "https://www.speedrun.com/api/v1/users/x356mgej"
+            }
+          ],
+          "date": "2026-04-07",
+          "submitted": "2026-04-07T01:43:33Z",
+          "times": {
+            "primary": "PT38M57S",
+            "primary_t": 2337,
+            "realtime": "PT38M57S",
+            "realtime_t": 2337,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "2lgkxye8": "12ve277q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 7,
+        "run": {
           "id": "zq55391z",
-          "weblink": "https://www.speedrun.com/deltarune/run/zq55391z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zq55391z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -326,10 +378,10 @@
         }
       },
       {
-        "place": 7,
+        "place": 8,
         "run": {
           "id": "yv53dd8m",
-          "weblink": "https://www.speedrun.com/deltarune/run/yv53dd8m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yv53dd8m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -378,10 +430,10 @@
         }
       },
       {
-        "place": 8,
+        "place": 9,
         "run": {
           "id": "yo54g7jz",
-          "weblink": "https://www.speedrun.com/deltarune/run/yo54g7jz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yo54g7jz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -430,62 +482,10 @@
         }
       },
       {
-        "place": 9,
-        "run": {
-          "id": "mr58go2y",
-          "weblink": "https://www.speedrun.com/deltarune/run/mr58go2y",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "jdr51x0k",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://youtu.be/umDfIflO2Ro"
-              }
-            ]
-          },
-          "comment": "the knight IS a fraud tf you mean 2 hits to kill",
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2025-10-11T07:43:29Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "x356mgej",
-              "uri": "https://www.speedrun.com/api/v1/users/x356mgej"
-            }
-          ],
-          "date": "2025-10-10",
-          "submitted": "2025-10-10T23:22:02Z",
-          "times": {
-            "primary": "PT39M9S",
-            "primary_t": 2349,
-            "realtime": "PT39M9S",
-            "realtime_t": 2349,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "2lgkxye8": "12ve277q",
-            "ylpk0or8": "lmo66081"
-          }
-        }
-      },
-      {
         "place": 10,
         "run": {
           "id": "zpopdnvm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpopdnvm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpopdnvm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -537,7 +537,7 @@
         "place": 11,
         "run": {
           "id": "y6wpn66z",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6wpn66z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6wpn66z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -589,7 +589,7 @@
         "place": 12,
         "run": {
           "id": "zg62d5em",
-          "weblink": "https://www.speedrun.com/deltarune/run/zg62d5em",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zg62d5em",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -641,7 +641,7 @@
         "place": 13,
         "run": {
           "id": "y8n9585y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y8n9585y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8n9585y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -693,7 +693,7 @@
         "place": 14,
         "run": {
           "id": "y68rgx6z",
-          "weblink": "https://www.speedrun.com/deltarune/run/y68rgx6z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y68rgx6z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -745,7 +745,7 @@
         "place": 15,
         "run": {
           "id": "z00p828z",
-          "weblink": "https://www.speedrun.com/deltarune/run/z00p828z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z00p828z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -797,7 +797,7 @@
         "place": 16,
         "run": {
           "id": "z5655wgy",
-          "weblink": "https://www.speedrun.com/deltarune/run/z5655wgy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5655wgy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -849,7 +849,7 @@
         "place": 17,
         "run": {
           "id": "mep8200y",
-          "weblink": "https://www.speedrun.com/deltarune/run/mep8200y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mep8200y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -901,7 +901,7 @@
         "place": 18,
         "run": {
           "id": "y9ex0lvz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9ex0lvz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9ex0lvz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -953,7 +953,7 @@
         "place": 19,
         "run": {
           "id": "ydo8n7qz",
-          "weblink": "https://www.speedrun.com/deltarune/run/ydo8n7qz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/ydo8n7qz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1005,7 +1005,7 @@
         "place": 20,
         "run": {
           "id": "yjqpe7nm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjqpe7nm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjqpe7nm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1057,7 +1057,7 @@
         "place": 21,
         "run": {
           "id": "yv7rp68y",
-          "weblink": "https://www.speedrun.com/deltarune/run/yv7rp68y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yv7rp68y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1109,7 +1109,7 @@
         "place": 22,
         "run": {
           "id": "y2r6k7wm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y2r6k7wm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y2r6k7wm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1161,7 +1161,7 @@
         "place": 23,
         "run": {
           "id": "y2r4955m",
-          "weblink": "https://www.speedrun.com/deltarune/run/y2r4955m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y2r4955m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1213,7 +1213,7 @@
         "place": 24,
         "run": {
           "id": "y9w1vdnz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9w1vdnz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9w1vdnz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1265,7 +1265,7 @@
         "place": 25,
         "run": {
           "id": "y9wq2xrz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9wq2xrz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9wq2xrz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1317,7 +1317,7 @@
         "place": 26,
         "run": {
           "id": "me212j2m",
-          "weblink": "https://www.speedrun.com/deltarune/run/me212j2m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/me212j2m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1369,7 +1369,7 @@
         "place": 27,
         "run": {
           "id": "y28lpk7y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28lpk7y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28lpk7y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1421,7 +1421,7 @@
         "place": 28,
         "run": {
           "id": "zpo9o0gm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpo9o0gm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpo9o0gm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1473,7 +1473,7 @@
         "place": 29,
         "run": {
           "id": "zqpe6drm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zqpe6drm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zqpe6drm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1525,7 +1525,7 @@
         "place": 30,
         "run": {
           "id": "m7vge45m",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7vge45m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7vge45m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1577,7 +1577,7 @@
         "place": 31,
         "run": {
           "id": "yo5j375z",
-          "weblink": "https://www.speedrun.com/deltarune/run/yo5j375z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yo5j375z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1629,7 +1629,7 @@
         "place": 32,
         "run": {
           "id": "y6j2po6m",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6j2po6m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6j2po6m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1681,7 +1681,7 @@
         "place": 33,
         "run": {
           "id": "z00dj6jz",
-          "weblink": "https://www.speedrun.com/deltarune/run/z00dj6jz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z00dj6jz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1733,7 +1733,7 @@
         "place": 33,
         "run": {
           "id": "mrdpwddz",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrdpwddz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrdpwddz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1785,7 +1785,7 @@
         "place": 35,
         "run": {
           "id": "m7l29pwy",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7l29pwy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7l29pwy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1837,7 +1837,7 @@
         "place": 36,
         "run": {
           "id": "y68lnppz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y68lnppz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y68lnppz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1889,7 +1889,7 @@
         "place": 37,
         "run": {
           "id": "y28086wy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28086wy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28086wy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1941,7 +1941,7 @@
         "place": 38,
         "run": {
           "id": "yd4lw2jy",
-          "weblink": "https://www.speedrun.com/deltarune/run/yd4lw2jy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yd4lw2jy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -1993,7 +1993,7 @@
         "place": 39,
         "run": {
           "id": "yd4e64vy",
-          "weblink": "https://www.speedrun.com/deltarune/run/yd4e64vy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yd4e64vy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2045,7 +2045,7 @@
         "place": 40,
         "run": {
           "id": "z16nr8gm",
-          "weblink": "https://www.speedrun.com/deltarune/run/z16nr8gm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z16nr8gm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2097,7 +2097,7 @@
         "place": 41,
         "run": {
           "id": "yo5jvw0z",
-          "weblink": "https://www.speedrun.com/deltarune/run/yo5jvw0z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yo5jvw0z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2149,7 +2149,7 @@
         "place": 42,
         "run": {
           "id": "y4nxnx2m",
-          "weblink": "https://www.speedrun.com/deltarune/run/y4nxnx2m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y4nxnx2m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2201,7 +2201,7 @@
         "place": 43,
         "run": {
           "id": "yoe6vndz",
-          "weblink": "https://www.speedrun.com/deltarune/run/yoe6vndz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yoe6vndz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2253,7 +2253,7 @@
         "place": 44,
         "run": {
           "id": "zng7jl3m",
-          "weblink": "https://www.speedrun.com/deltarune/run/zng7jl3m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zng7jl3m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2305,7 +2305,7 @@
         "place": 44,
         "run": {
           "id": "zn57n9vz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zn57n9vz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zn57n9vz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2357,7 +2357,7 @@
         "place": 46,
         "run": {
           "id": "m7lx214y",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7lx214y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7lx214y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2409,7 +2409,7 @@
         "place": 47,
         "run": {
           "id": "yjq2n43m",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjq2n43m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjq2n43m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2461,7 +2461,7 @@
         "place": 47,
         "run": {
           "id": "z0028p4z",
-          "weblink": "https://www.speedrun.com/deltarune/run/z0028p4z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z0028p4z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2513,7 +2513,7 @@
         "place": 49,
         "run": {
           "id": "zx00xqqz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zx00xqqz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zx00xqqz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2565,7 +2565,7 @@
         "place": 50,
         "run": {
           "id": "z5wko9ez",
-          "weblink": "https://www.speedrun.com/deltarune/run/z5wko9ez",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5wko9ez",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2617,7 +2617,7 @@
         "place": 51,
         "run": {
           "id": "y9e3vpvz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9e3vpvz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9e3vpvz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2669,7 +2669,7 @@
         "place": 51,
         "run": {
           "id": "y6jn70pm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6jn70pm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6jn70pm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2721,7 +2721,7 @@
         "place": 53,
         "run": {
           "id": "m324k4gy",
-          "weblink": "https://www.speedrun.com/deltarune/run/m324k4gy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m324k4gy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2773,7 +2773,7 @@
         "place": 54,
         "run": {
           "id": "z16q00rm",
-          "weblink": "https://www.speedrun.com/deltarune/run/z16q00rm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z16q00rm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2825,7 +2825,7 @@
         "place": 55,
         "run": {
           "id": "y8gjq1nz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y8gjq1nz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8gjq1nz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2877,7 +2877,7 @@
         "place": 56,
         "run": {
           "id": "me24638m",
-          "weblink": "https://www.speedrun.com/deltarune/run/me24638m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/me24638m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2929,7 +2929,7 @@
         "place": 57,
         "run": {
           "id": "ylj66lkm",
-          "weblink": "https://www.speedrun.com/deltarune/run/ylj66lkm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/ylj66lkm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -2981,7 +2981,7 @@
         "place": 58,
         "run": {
           "id": "yv5o0qxm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yv5o0qxm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yv5o0qxm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3033,7 +3033,7 @@
         "place": 59,
         "run": {
           "id": "y9el71nz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9el71nz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9el71nz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3085,7 +3085,7 @@
         "place": 60,
         "run": {
           "id": "mrd6lv7z",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrd6lv7z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrd6lv7z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3137,7 +3137,7 @@
         "place": 61,
         "run": {
           "id": "zp5r87gy",
-          "weblink": "https://www.speedrun.com/deltarune/run/zp5r87gy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zp5r87gy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3189,7 +3189,7 @@
         "place": 62,
         "run": {
           "id": "y4n7e8km",
-          "weblink": "https://www.speedrun.com/deltarune/run/y4n7e8km",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y4n7e8km",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3241,7 +3241,7 @@
         "place": 62,
         "run": {
           "id": "mrd2kvgz",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrd2kvgz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrd2kvgz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3293,7 +3293,7 @@
         "place": 64,
         "run": {
           "id": "mrdnd9dz",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrdnd9dz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrdnd9dz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3345,7 +3345,7 @@
         "place": 64,
         "run": {
           "id": "y8gk46wz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y8gk46wz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8gk46wz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3397,7 +3397,7 @@
         "place": 66,
         "run": {
           "id": "yljr37rm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yljr37rm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yljr37rm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3449,7 +3449,7 @@
         "place": 66,
         "run": {
           "id": "y28wgxwy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28wgxwy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28wgxwy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3501,7 +3501,7 @@
         "place": 68,
         "run": {
           "id": "y28e13wy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28e13wy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28e13wy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3553,7 +3553,7 @@
         "place": 69,
         "run": {
           "id": "me24vg0m",
-          "weblink": "https://www.speedrun.com/deltarune/run/me24vg0m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/me24vg0m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3605,7 +3605,7 @@
         "place": 69,
         "run": {
           "id": "mrd3kg2z",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrd3kg2z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrd3kg2z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3657,7 +3657,7 @@
         "place": 71,
         "run": {
           "id": "yljrv02m",
-          "weblink": "https://www.speedrun.com/deltarune/run/yljrv02m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yljrv02m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3709,7 +3709,7 @@
         "place": 72,
         "run": {
           "id": "med4ld8y",
-          "weblink": "https://www.speedrun.com/deltarune/run/med4ld8y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/med4ld8y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3761,7 +3761,7 @@
         "place": 73,
         "run": {
           "id": "m3v7q5dz",
-          "weblink": "https://www.speedrun.com/deltarune/run/m3v7q5dz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m3v7q5dz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3813,7 +3813,7 @@
         "place": 74,
         "run": {
           "id": "z16xqd9m",
-          "weblink": "https://www.speedrun.com/deltarune/run/z16xqd9m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z16xqd9m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3865,7 +3865,7 @@
         "place": 75,
         "run": {
           "id": "me2ekg2m",
-          "weblink": "https://www.speedrun.com/deltarune/run/me2ekg2m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/me2ekg2m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3917,7 +3917,7 @@
         "place": 76,
         "run": {
           "id": "me214j8m",
-          "weblink": "https://www.speedrun.com/deltarune/run/me214j8m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/me214j8m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -3969,7 +3969,7 @@
         "place": 77,
         "run": {
           "id": "yoe6q47z",
-          "weblink": "https://www.speedrun.com/deltarune/run/yoe6q47z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yoe6q47z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4021,7 +4021,7 @@
         "place": 77,
         "run": {
           "id": "z1622e7m",
-          "weblink": "https://www.speedrun.com/deltarune/run/z1622e7m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z1622e7m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4073,7 +4073,7 @@
         "place": 79,
         "run": {
           "id": "y9wo53rz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9wo53rz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9wo53rz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4125,7 +4125,7 @@
         "place": 80,
         "run": {
           "id": "z5wdxdjz",
-          "weblink": "https://www.speedrun.com/deltarune/run/z5wdxdjz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5wdxdjz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4177,7 +4177,7 @@
         "place": 81,
         "run": {
           "id": "y683v3jz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y683v3jz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y683v3jz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4229,7 +4229,7 @@
         "place": 82,
         "run": {
           "id": "y286rn9y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y286rn9y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y286rn9y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4281,7 +4281,7 @@
         "place": 83,
         "run": {
           "id": "mrdrexgz",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrdrexgz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrdrexgz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4333,7 +4333,7 @@
         "place": 83,
         "run": {
           "id": "mepj9g3y",
-          "weblink": "https://www.speedrun.com/deltarune/run/mepj9g3y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mepj9g3y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4385,7 +4385,7 @@
         "place": 85,
         "run": {
           "id": "y6j0jqqm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6j0jqqm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6j0jqqm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4437,7 +4437,7 @@
         "place": 85,
         "run": {
           "id": "y6jx9djm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6jx9djm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6jx9djm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4489,7 +4489,7 @@
         "place": 87,
         "run": {
           "id": "zx0nk0kz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zx0nk0kz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zx0nk0kz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4541,7 +4541,7 @@
         "place": 88,
         "run": {
           "id": "zpogqdxm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpogqdxm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpogqdxm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4593,7 +4593,7 @@
         "place": 88,
         "run": {
           "id": "y4nvqv2m",
-          "weblink": "https://www.speedrun.com/deltarune/run/y4nvqv2m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y4nvqv2m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4645,7 +4645,7 @@
         "place": 88,
         "run": {
           "id": "m7ljor9y",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7ljor9y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7ljor9y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4697,7 +4697,7 @@
         "place": 91,
         "run": {
           "id": "zngjl43m",
-          "weblink": "https://www.speedrun.com/deltarune/run/zngjl43m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zngjl43m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4749,7 +4749,7 @@
         "place": 92,
         "run": {
           "id": "mkrlko3z",
-          "weblink": "https://www.speedrun.com/deltarune/run/mkrlko3z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mkrlko3z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4801,7 +4801,7 @@
         "place": 93,
         "run": {
           "id": "yw2k4o3y",
-          "weblink": "https://www.speedrun.com/deltarune/run/yw2k4o3y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yw2k4o3y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4853,7 +4853,7 @@
         "place": 93,
         "run": {
           "id": "yd4dp3wy",
-          "weblink": "https://www.speedrun.com/deltarune/run/yd4dp3wy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yd4dp3wy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4905,7 +4905,7 @@
         "place": 95,
         "run": {
           "id": "z162v19m",
-          "weblink": "https://www.speedrun.com/deltarune/run/z162v19m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z162v19m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -4957,7 +4957,7 @@
         "place": 96,
         "run": {
           "id": "zngl6n7m",
-          "weblink": "https://www.speedrun.com/deltarune/run/zngl6n7m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zngl6n7m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5009,7 +5009,7 @@
         "place": 97,
         "run": {
           "id": "yv7o9oey",
-          "weblink": "https://www.speedrun.com/deltarune/run/yv7o9oey",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yv7o9oey",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5061,7 +5061,7 @@
         "place": 98,
         "run": {
           "id": "y28o469y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28o469y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28o469y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5113,7 +5113,7 @@
         "place": 99,
         "run": {
           "id": "mrdrdo8z",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrdrdo8z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrdrdo8z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5165,7 +5165,7 @@
         "place": 100,
         "run": {
           "id": "y8ge3k1z",
-          "weblink": "https://www.speedrun.com/deltarune/run/y8ge3k1z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8ge3k1z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5217,7 +5217,7 @@
         "place": 101,
         "run": {
           "id": "yv7onxxy",
-          "weblink": "https://www.speedrun.com/deltarune/run/yv7onxxy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yv7onxxy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5269,7 +5269,7 @@
         "place": 101,
         "run": {
           "id": "mkro595z",
-          "weblink": "https://www.speedrun.com/deltarune/run/mkro595z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mkro595z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5321,7 +5321,7 @@
         "place": 103,
         "run": {
           "id": "yljrnvxm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yljrnvxm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yljrnvxm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5373,7 +5373,7 @@
         "place": 104,
         "run": {
           "id": "m3v6wk6z",
-          "weblink": "https://www.speedrun.com/deltarune/run/m3v6wk6z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m3v6wk6z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5425,7 +5425,7 @@
         "place": 105,
         "run": {
           "id": "m7l233wy",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7l233wy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7l233wy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5477,7 +5477,7 @@
         "place": 106,
         "run": {
           "id": "y28nwpwy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28nwpwy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28nwpwy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5529,7 +5529,7 @@
         "place": 107,
         "run": {
           "id": "yd4jn8vy",
-          "weblink": "https://www.speedrun.com/deltarune/run/yd4jn8vy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yd4jn8vy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5581,7 +5581,7 @@
         "place": 108,
         "run": {
           "id": "mrd7jlgz",
-          "weblink": "https://www.speedrun.com/deltarune/run/mrd7jlgz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mrd7jlgz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5633,7 +5633,7 @@
         "place": 109,
         "run": {
           "id": "zpo9k2vm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpo9k2vm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpo9k2vm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5685,7 +5685,7 @@
         "place": 110,
         "run": {
           "id": "y287d29y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y287d29y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y287d29y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5737,7 +5737,7 @@
         "place": 110,
         "run": {
           "id": "zg60ervm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zg60ervm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zg60ervm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5789,7 +5789,7 @@
         "place": 112,
         "run": {
           "id": "y28eorjy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y28eorjy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y28eorjy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5841,7 +5841,7 @@
         "place": 113,
         "run": {
           "id": "y4n7gqqm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y4n7gqqm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y4n7gqqm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5893,7 +5893,7 @@
         "place": 114,
         "run": {
           "id": "z56xp2dy",
-          "weblink": "https://www.speedrun.com/deltarune/run/z56xp2dy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z56xp2dy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5945,7 +5945,7 @@
         "place": 115,
         "run": {
           "id": "y2877r9y",
-          "weblink": "https://www.speedrun.com/deltarune/run/y2877r9y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y2877r9y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -5997,7 +5997,7 @@
         "place": 116,
         "run": {
           "id": "zpo8q3rm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpo8q3rm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpo8q3rm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6049,7 +6049,7 @@
         "place": 117,
         "run": {
           "id": "zg6qq5em",
-          "weblink": "https://www.speedrun.com/deltarune/run/zg6qq5em",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zg6qq5em",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6101,7 +6101,7 @@
         "place": 118,
         "run": {
           "id": "z0kwx8om",
-          "weblink": "https://www.speedrun.com/deltarune/run/z0kwx8om",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z0kwx8om",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6153,7 +6153,7 @@
         "place": 119,
         "run": {
           "id": "z0078v4z",
-          "weblink": "https://www.speedrun.com/deltarune/run/z0078v4z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z0078v4z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6205,7 +6205,7 @@
         "place": 120,
         "run": {
           "id": "y2rq0l6m",
-          "weblink": "https://www.speedrun.com/deltarune/run/y2rq0l6m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y2rq0l6m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6257,7 +6257,7 @@
         "place": 121,
         "run": {
           "id": "m7l716ey",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7l716ey",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7l716ey",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6309,7 +6309,7 @@
         "place": 121,
         "run": {
           "id": "zpo825gm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpo825gm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpo825gm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6361,7 +6361,7 @@
         "place": 123,
         "run": {
           "id": "zx0px8qz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zx0px8qz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zx0px8qz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6413,7 +6413,7 @@
         "place": 124,
         "run": {
           "id": "z0k0ldem",
-          "weblink": "https://www.speedrun.com/deltarune/run/z0k0ldem",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z0k0ldem",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6465,7 +6465,7 @@
         "place": 125,
         "run": {
           "id": "z5wdoknz",
-          "weblink": "https://www.speedrun.com/deltarune/run/z5wdoknz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5wdoknz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6517,7 +6517,7 @@
         "place": 126,
         "run": {
           "id": "y6j0k1qm",
-          "weblink": "https://www.speedrun.com/deltarune/run/y6j0k1qm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6j0k1qm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6569,7 +6569,7 @@
         "place": 127,
         "run": {
           "id": "z00q1l9z",
-          "weblink": "https://www.speedrun.com/deltarune/run/z00q1l9z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z00q1l9z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6621,7 +6621,7 @@
         "place": 128,
         "run": {
           "id": "y9ev8nrz",
-          "weblink": "https://www.speedrun.com/deltarune/run/y9ev8nrz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9ev8nrz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6673,7 +6673,7 @@
         "place": 129,
         "run": {
           "id": "m7l7844y",
-          "weblink": "https://www.speedrun.com/deltarune/run/m7l7844y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/m7l7844y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6725,7 +6725,7 @@
         "place": 130,
         "run": {
           "id": "yjqw64nm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjqw64nm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjqw64nm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6777,7 +6777,7 @@
         "place": 131,
         "run": {
           "id": "z5wewonz",
-          "weblink": "https://www.speedrun.com/deltarune/run/z5wewonz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5wewonz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6829,7 +6829,7 @@
         "place": 132,
         "run": {
           "id": "yjq50pgm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjq50pgm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjq50pgm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6881,7 +6881,7 @@
         "place": 133,
         "run": {
           "id": "yjqdj63m",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjqdj63m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjqdj63m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6933,7 +6933,7 @@
         "place": 134,
         "run": {
           "id": "yve1ekxm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yve1ekxm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yve1ekxm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -6985,7 +6985,7 @@
         "place": 135,
         "run": {
           "id": "zqp5k4rm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zqp5k4rm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zqp5k4rm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7037,7 +7037,7 @@
         "place": 136,
         "run": {
           "id": "yjqe3pdm",
-          "weblink": "https://www.speedrun.com/deltarune/run/yjqe3pdm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjqe3pdm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7089,7 +7089,7 @@
         "place": 137,
         "run": {
           "id": "yw263o0y",
-          "weblink": "https://www.speedrun.com/deltarune/run/yw263o0y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yw263o0y",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7141,7 +7141,7 @@
         "place": 138,
         "run": {
           "id": "y8npr5wy",
-          "weblink": "https://www.speedrun.com/deltarune/run/y8npr5wy",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8npr5wy",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7193,7 +7193,7 @@
         "place": 139,
         "run": {
           "id": "mkwekjxm",
-          "weblink": "https://www.speedrun.com/deltarune/run/mkwekjxm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mkwekjxm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7245,7 +7245,7 @@
         "place": 140,
         "run": {
           "id": "z00vvd4z",
-          "weblink": "https://www.speedrun.com/deltarune/run/z00vvd4z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z00vvd4z",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7297,7 +7297,7 @@
         "place": 141,
         "run": {
           "id": "zpooegnm",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpooegnm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpooegnm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7349,7 +7349,7 @@
         "place": 142,
         "run": {
           "id": "zpv3knrz",
-          "weblink": "https://www.speedrun.com/deltarune/run/zpv3knrz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpv3knrz",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7401,7 +7401,7 @@
         "place": 143,
         "run": {
           "id": "z16xgowm",
-          "weblink": "https://www.speedrun.com/deltarune/run/z16xgowm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z16xgowm",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",
@@ -7453,7 +7453,7 @@
         "place": 144,
         "run": {
           "id": "zqp0pp9m",
-          "weblink": "https://www.speedrun.com/deltarune/run/zqp0pp9m",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zqp0pp9m",
           "game": "pdvznzr6",
           "level": null,
           "category": "jdr51x0k",

@@ -2,14 +2,14 @@
   "id": "x356mgej",
   "name": "Trinky44",
   "banned": false,
-  "pbscore": 258.48,
+  "pbscore": 258.67,
   "pbscoredetail": {
-    "basescore": 192.52,
+    "basescore": 192.71,
     "cescore": 65.96,
     "acscore": 18.97,
     "ch1score": 25.27,
     "ch2score": 88.13,
-    "ch3score": 18.95,
+    "ch3score": 19.14,
     "ch4score": 41.19,
     "cedemoscore": 33.63,
     "ceacscore": 0,
@@ -151,8 +151,8 @@
     },
     {
       "category": "ch3any",
-      "time": 2349,
-      "irate": 6.65
+      "time": 2337,
+      "irate": 6.84
     },
     {
       "category": "ch3ar",

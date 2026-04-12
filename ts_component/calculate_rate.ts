@@ -21,7 +21,7 @@ export async function calc_rate(
         const diff = (time / top_time) * 100 - 100
         const percent = (rate_border - diff) / (rate_border - op_border)
         const weight = percent ** 2
-        return base_rate + multiplier * (1 - weight)
+        return base_rate + multiplier * weight
     }
     else{
         return base_rate
