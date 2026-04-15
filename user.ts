@@ -80,7 +80,7 @@ await fetchChunk(chunks[currentIndex], currentIndex);
 const margedResults = [...oldData, ...resultsArray]
 
     await Deno.writeTextFile(
-      "userlist.json",
+      "info/userlist.json",
       JSON.stringify(margedResults, null, 2),
     );
 };

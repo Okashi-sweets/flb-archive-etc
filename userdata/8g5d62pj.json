@@ -2,307 +2,234 @@
   "id": "8g5d62pj",
   "name": "HeartOfOak",
   "banned": false,
-  "pbscore": 84.29,
-  "pbscoredetail": {
-    "basescore": 79.49,
-    "cescore": 4.8,
-    "acscore": 4.91,
-    "ch1score": 15.82,
-    "ch2score": 28.05,
-    "ch3score": 10.8,
-    "ch4score": 19.9,
-    "cedemoscore": 4.8,
-    "ceacscore": 0,
-    "cech1score": 0,
-    "cech2score": 0,
-    "cech3score": 0,
-    "cech4score": 0
-  },
   "times": [
     {
       "category": "acmr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acmrg",
-      "time": 10414,
-      "irate": 4.91
+      "time": 10414
     },
     {
       "category": "acwr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acwrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acar",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acarg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acab",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "acabg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch1any",
-      "time": 1598.4,
-      "irate": 5.65
+      "time": 1598.4
     },
     {
       "category": "ch1ab",
-      "time": 1893,
-      "irate": 5.08
+      "time": 1893
     },
     {
       "category": "ch1tp",
-      "time": 1657,
-      "irate": 5.09
+      "time": 1657
     },
     {
       "category": "ch1109",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2mr",
-      "time": 1590.533,
-      "irate": 5.87
+      "time": 1590.533
     },
     {
       "category": "ch2mrnmg",
-      "time": 2833,
-      "irate": 4.43
+      "time": 2833
     },
     {
       "category": "ch2mrg",
-      "time": 2954,
-      "irate": 5.82
+      "time": 2954
     },
     {
       "category": "ch2mr109",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2wr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2wrnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2wrg",
-      "time": 2098,
-      "irate": 4.83
+      "time": 2098
     },
     {
       "category": "ch2wr109",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2ar",
-      "time": 2320,
-      "irate": 2
+      "time": 2320
     },
     {
       "category": "ch2arnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2arg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2ab",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2abnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch2abg",
-      "time": 3566,
-      "irate": 5.1
+      "time": 3566
     },
     {
       "category": "ch3any",
-      "time": 2433,
-      "irate": 5.46
+      "time": 2433
     },
     {
       "category": "ch3ar",
-      "time": 2616,
-      "irate": 5.35
+      "time": 2616
     },
     {
       "category": "ch3ab",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch4any",
-      "time": 2494,
-      "irate": 4.62
+      "time": 2494
     },
     {
       "category": "ch4anyg",
-      "time": 3252,
-      "irate": 4.43
+      "time": 3252
     },
     {
       "category": "ch4ar",
-      "time": 3078,
-      "irate": 2
+      "time": 3078
     },
     {
       "category": "ch4arg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ch4ab",
-      "time": 2826,
-      "irate": 4.73
+      "time": 2826
     },
     {
       "category": "ch4abg",
-      "time": 3693,
-      "irate": 4.12
+      "time": 3693
     },
     {
       "category": "asc",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ascg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demomr",
-      "time": 3334,
-      "irate": 2.24
+      "time": 3334
     },
     {
       "category": "ce_demomrnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demomrg",
-      "time": 4644,
-      "irate": 2.56
+      "time": 4644
     },
     {
       "category": "ce_demowr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demownmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demowrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoar",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoarnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoarg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoab",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoabnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_demoabg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_actrmr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_actrmrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_actrwr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_actrwrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acegg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_aceggg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acartp",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acartpg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acabar",
@@ -311,13 +238,11 @@
     },
     {
       "category": "ce_acabarg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acat",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acatg",
@@ -326,13 +251,11 @@
     },
     {
       "category": "ce_acost",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acostg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_acai",
@@ -341,238 +264,191 @@
     },
     {
       "category": "ce_acaig",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_actracabarpeeg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch1tr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch1jevil",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch1abtp",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trmr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trmrnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trmrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trwr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trwrnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2trwrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2neo",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2neonmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2neog",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2abar",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2abarnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2abarg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2are",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2areg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2lotr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2as",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2asnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2asg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2alr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2alrnmg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2alrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2sapr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch2sapr109",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch3tr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch3nightmare",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch3sc",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch3abar",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch3alr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4tr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4trg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4gerson",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4gersong",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4abar",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4abarg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4abe",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4abeg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4alr",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4alrg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4mike",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4mikeg",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4mike2",
-      "time": null,
-      "irate": 0
+      "time": null
     },
     {
       "category": "ce_ch4mike2g",
-      "time": null,
-      "irate": 0
+      "time": null
     }
   ]
 }

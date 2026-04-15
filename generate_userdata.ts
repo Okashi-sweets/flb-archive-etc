@@ -22,49 +22,6 @@ for (let i = 0; i < userlist.length; i++) {
     const username = userlist[i].name;
     const banned = userlist[i].banned;
     const eachtime = [];
-    let totalscore = 0;
-    let basescore = 0;
-    let cescore = 0;
-    let acscore = 0;
-    let ch1score = 0;
-    let ch2score = 0;
-    let ch3score = 0;
-    let ch4score = 0;
-    let cedemoscore = 0;
-    let ceacscore = 0;
-    let cech1score = 0;
-    let cech2score = 0;
-    let cech3score = 0;
-    let cech4score = 0;
-    let score = 0;
-
-    function addsscore(baseflag, type, score){
-    totalscore += score;
-    if (baseflag) {
-        basescore += score;
-        switch (type) {
-            case "All Chapters" : acscore += score; break;
-            case "Chapter 1": ch1score += score; break;
-            case "Chapter 2": ch2score += score; break;
-            case "Chapter 3": ch3score += score; break;
-            case "Chapter 4": ch4score += score; break;
-            case "All Shadow Crystals": acscore += score; break;
-            default: break;
-        }
-}
-    else {
-        cescore += score;
-        switch (type) {
-            case "CH1+2 Demo": cedemoscore += score; break;
-            case "All Chapters": ceacscore += score; break;
-            case "Chapter 1": cech1score += score; break;
-            case "Chapter 2": cech2score += score; break;
-            case "Chapter 3": cech3score += score; break;
-            case "Chapter 4": cech4score += score; break;
-            default: break;
-        }
-    }
-}
 
     Deno.stdout.writeSync(
         new TextEncoder().encode(`\r工事中...: (${i+1}/${userlist.length})`)
@@ -87,49 +44,26 @@ for (let i = 0; i < userlist.length; i++) {
         const loadfile = allLeaderboards.get(cat);
 
 if (!loadfile || !Array.isArray(loadfile) || loadfile.length === 0) {
-    eachtime.push({ category: cat, time: null, irate: 0 });
+    eachtime.push({ category: cat, time: null });
     continue;
 }
 
 const first = loadfile[0];
 if (!first || !first.runs) {
-    eachtime.push({ category: cat, time: null, irate: 0 });
+    eachtime.push({ category: cat, time: null });
     continue;
 }
-        const baseflag = loadfile[0].group === "base";
-        const type = loadfile[0].category1;
-
-        const exist = loadfile[0].runs.find(run => run.id === userid);
+        const exist = first.runs.find(run => String(run.id) === String(userid));
         if (exist) {
-            const existtime = exist.time
-            if (existtime <= toptime * 1.15){
-                const delta = (existtime / toptime) - 1;
-                const factor = Math.max(0, (0.15 - delta) / 0.15);
-                const weight = factor ** 2;
-                    if (baseflag) {
-                        const exscore = Math.floor((2 + (3 * weight)) * 100) / 100;
-                        score = Math.floor((2 + exscore) * 100) / 100;
-                    }else{
-                        const exscore = Math.floor((1 + (1 * weight)) * 100) / 100;
-                        score = Math.floor((1 + exscore) * 100) / 100;
-                    }
-                }else{
-                    score = baseflag ? 2 : 1;
-                }
-
-            addsscore(baseflag, type, score);
-
+            const existtime = exist.time ?? null;
             eachtime.push({
                 "category" : cat,
                 "time" : existtime,
-                "irate" : score
             });
         }else{
-            score = 0;
             eachtime.push({
                 "category" : cat,
                 "time" : null,
-                "irate" : score
             });
         }
     }
@@ -138,25 +72,8 @@ if (!first || !first.runs) {
     id: userid,
     name: username,
     banned: banned,
-    pbscore: Math.floor(totalscore * 100) / 100,
-    pbscoredetail: {
-    basescore: Math.floor(basescore * 100) / 100,
-    cescore: Math.floor(cescore * 100) / 100,
-    acscore: Math.floor(acscore * 100) / 100,
-    ch1score: Math.floor(ch1score * 100) / 100,
-    ch2score: Math.floor(ch2score * 100) / 100,
-    ch3score: Math.floor(ch3score * 100) / 100,
-    ch4score: Math.floor(ch4score * 100) / 100,
-    cedemoscore: Math.floor(cedemoscore * 100) / 100,
-    ceacscore: Math.floor(ceacscore * 100) / 100,
-    cech1score: Math.floor(cech1score * 100) / 100,
-    cech2score: Math.floor(cech2score * 100) / 100,
-    cech3score: Math.floor(cech3score * 100) / 100,
-    cech4score: Math.floor(cech4score * 100) / 100,
-    },
     times: eachtime
 },);
-
 }
 console.log("\n工事完了です...");
 }

@@ -25,8 +25,8 @@ export async function listed() {
 
   const diff = newList.filter(id => !oldList.includes(id));
 
-  savejson("./info","diff_userid", diff);
-  savejson("./info","userid", newList);
+  await savejson("./info","diff_userid", diff);
+  await savejson("./info","userid", newList);
 
   console.log("Total Count:", newList.length);
   console.log("New IDs:", diff.length);
