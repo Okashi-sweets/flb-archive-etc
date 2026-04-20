@@ -7,19 +7,19 @@
     "category3": "Glitchless",
     "runs": [
       {
+        "id": "8eenl168",
+        "name": "Charlemack",
+        "time": 9930,
+        "date": "2026-04-14",
+        "video": "https://youtu.be/7mvcQozdFGM",
+        "banned": false
+      },
+      {
         "id": "jpyk1o4j",
         "name": "Devara",
         "time": 10290,
         "date": "2025-10-16",
         "video": "https://youtu.be/BZ74zL6S658",
-        "banned": false
-      },
-      {
-        "id": "8eenl168",
-        "name": "Charlemack",
-        "time": 10680,
-        "date": "2026-04-13",
-        "video": "https://youtu.be/jrbX24Ort-I",
         "banned": false
       }
     ]

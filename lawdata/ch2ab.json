@@ -494,6 +494,59 @@
       {
         "place": 10,
         "run": {
+          "id": "y9gxd5km",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y9gxd5km",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "9d8yo9wk",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=4i802nMu_sA"
+              }
+            ]
+          },
+          "comment": "bad run but at least i got my goats @Chloe @Krystall @BlueMushroom64 smile",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-17T18:35:57Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-04-16",
+          "submitted": "2026-04-16T21:36:39Z",
+          "times": {
+            "primary": "PT52M5S",
+            "primary_t": 3125,
+            "realtime": "PT52M5S",
+            "realtime_t": 3125,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "68kogvyn": "013j39yl",
+            "gnxj5j4l": "rqv0w7wl",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 11,
+        "run": {
           "id": "m36p35dm",
           "weblink": "https://www.speedrun.com/deltarune/runs/m36p35dm",
           "game": "pdvznzr6",
@@ -545,7 +598,7 @@
         }
       },
       {
-        "place": 11,
+        "place": 12,
         "run": {
           "id": "yje618nm",
           "weblink": "https://www.speedrun.com/deltarune/runs/yje618nm",
@@ -598,7 +651,7 @@
         }
       },
       {
-        "place": 12,
+        "place": 13,
         "run": {
           "id": "m7w46x5z",
           "weblink": "https://www.speedrun.com/deltarune/runs/m7w46x5z",
@@ -651,7 +704,7 @@
         }
       },
       {
-        "place": 13,
+        "place": 14,
         "run": {
           "id": "zn521d9z",
           "weblink": "https://www.speedrun.com/deltarune/runs/zn521d9z",
@@ -704,7 +757,7 @@
         }
       },
       {
-        "place": 14,
+        "place": 15,
         "run": {
           "id": "yje1kj7m",
           "weblink": "https://www.speedrun.com/deltarune/runs/yje1kj7m",
@@ -738,59 +791,6 @@
             "primary_t": 3194,
             "realtime": "PT53M14S",
             "realtime_t": 3194,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "pr184lqn"
-          },
-          "splits": null,
-          "values": {
-            "68kogvyn": "013j39yl",
-            "gnxj5j4l": "rqv0w7wl",
-            "ylpk0or8": "1w4ooxmq"
-          }
-        }
-      },
-      {
-        "place": 15,
-        "run": {
-          "id": "ywwdk13y",
-          "weblink": "https://www.speedrun.com/deltarune/runs/ywwdk13y",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "9d8yo9wk",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://www.youtube.com/watch?v=xDE15b2WuGU"
-              }
-            ]
-          },
-          "comment": "did this for my lta qualifiers session, would've been a 52 if it weren't for giga, definitely could be improved elsewhere too\n\n(sorry for the background noise during acid lake as well, especially since it's more embarrassing for me than it is for anyone watching this run)",
-          "status": {
-            "status": "verified",
-            "examiner": "j4rlz3d8",
-            "verify-date": "2025-01-04T05:37:00Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "x7qdw3q8",
-              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
-            }
-          ],
-          "date": "2025-01-01",
-          "submitted": "2025-01-01T01:28:24Z",
-          "times": {
-            "primary": "PT53M21S",
-            "primary_t": 3201,
-            "realtime": "PT53M21S",
-            "realtime_t": 3201,
             "realtime_noloads": null,
             "realtime_noloads_t": 0,
             "ingame": null,

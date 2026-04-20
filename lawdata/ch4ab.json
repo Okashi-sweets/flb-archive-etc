@@ -282,6 +282,59 @@
       {
         "place": 6,
         "run": {
+          "id": "y8lx0exm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y8lx0exm",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "jdzmp8xk",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=FJHAx_zdMkA"
+              }
+            ]
+          },
+          "comment": "![](/static/blob/7e90dj4e.gif)",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-17T18:31:46Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-04-15",
+          "submitted": "2026-04-15T23:10:33Z",
+          "times": {
+            "primary": "PT44M59S",
+            "primary_t": 2699,
+            "realtime": "PT44M59S",
+            "realtime_t": 2699,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "wle34y48": "lx5wyj21",
+            "68kwxy38": "14oe2n0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 7,
+        "run": {
           "id": "zp5r7oxy",
           "weblink": "https://www.speedrun.com/deltarune/runs/zp5r7oxy",
           "game": "pdvznzr6",
@@ -333,7 +386,7 @@
         }
       },
       {
-        "place": 6,
+        "place": 7,
         "run": {
           "id": "zn607w7y",
           "weblink": "https://www.speedrun.com/deltarune/runs/zn607w7y",
@@ -386,7 +439,7 @@
         }
       },
       {
-        "place": 8,
+        "place": 9,
         "run": {
           "id": "yd428qwy",
           "weblink": "https://www.speedrun.com/deltarune/runs/yd428qwy",
@@ -439,7 +492,7 @@
         }
       },
       {
-        "place": 9,
+        "place": 10,
         "run": {
           "id": "mkrn6glz",
           "weblink": "https://www.speedrun.com/deltarune/runs/mkrn6glz",
@@ -492,7 +545,7 @@
         }
       },
       {
-        "place": 10,
+        "place": 11,
         "run": {
           "id": "m7lejkey",
           "weblink": "https://www.speedrun.com/deltarune/runs/m7lejkey",
@@ -541,59 +594,6 @@
             "wle34y48": "lx5wyj21",
             "68kwxy38": "14oe2n0q",
             "ylpk0or8": "1w4ooxmq"
-          }
-        }
-      },
-      {
-        "place": 11,
-        "run": {
-          "id": "z56xw8dy",
-          "weblink": "https://www.speedrun.com/deltarune/runs/z56xw8dy",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "jdzmp8xk",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://www.youtube.com/watch?v=kqrI_aqE5lI"
-              }
-            ]
-          },
-          "comment": "decent piano skip wrong warps and titan, everything else ranged from mid to pretty bad to \"chat what the hell is she doing\"",
-          "status": {
-            "status": "verified",
-            "examiner": "8wlnqz4j",
-            "verify-date": "2025-12-09T19:02:11Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "x7qdw3q8",
-              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
-            }
-          ],
-          "date": "2025-12-09",
-          "submitted": "2025-12-09T01:02:40Z",
-          "times": {
-            "primary": "PT46M54S",
-            "primary_t": 2814,
-            "realtime": "PT46M54S",
-            "realtime_t": 2814,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "wle34y48": "lx5wyj21",
-            "68kwxy38": "14oe2n0q",
-            "ylpk0or8": "lmo66081"
           }
         }
       },

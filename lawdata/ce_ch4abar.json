@@ -17,6 +17,59 @@
       {
         "place": 1,
         "run": {
+          "id": "zn6q08vy",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/zn6q08vy",
+          "game": "y6552z86",
+          "level": null,
+          "category": "9kvvjm0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=iqOU1H1ojnI"
+              }
+            ]
+          },
+          "comment": "well i mean, i didn't actually die this time",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-17T18:37:18Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x7qdw3q8",
+              "uri": "https://www.speedrun.com/api/v1/users/x7qdw3q8"
+            }
+          ],
+          "date": "2026-04-15",
+          "submitted": "2026-04-15T00:24:26Z",
+          "times": {
+            "primary": "PT50M43S",
+            "primary_t": 3043,
+            "realtime": "PT50M43S",
+            "realtime_t": 3043,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "yn262jel": "qoxwkj2q",
+            "6njp2z6n": "139edx31",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 2,
+        "run": {
           "id": "yljw3qxm",
           "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/yljw3qxm",
           "game": "y6552z86",
@@ -68,7 +121,7 @@
         }
       },
       {
-        "place": 2,
+        "place": 3,
         "run": {
           "id": "m3vjor4z",
           "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/m3vjor4z",
