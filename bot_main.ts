@@ -1,48 +1,43 @@
-// bot_main.ts (修正版の例)
-import nacl from "https://cdn.skypack.dev/tweetnacl@v1.0.3?dts";
+import {
 
-const PUBLIC_KEY = Deno.env.get("DISCORD_PUBLIC_KEY");
+  CommandClient,
+  Command,
+  CommandContext,
+  GatewayIntents
+} from 'https://deno.land/x/harmony/mod.ts'
 
-// 起動時に環境変数チェック（これがないとWarm upで落ちる原因がわかりにくい）
-if (!PUBLIC_KEY) {
-  throw new Error("DISCORD_PUBLIC_KEY is not set!");
-}
+import checkreceurl from "./ts_component/racecheck.ts"
 
-async function verifySignature(request: Request) {
-  const signature = request.headers.get("X-Signature-Ed25519");
-  const timestamp = request.headers.get("X-Signature-Timestamp");
-  const body = await request.text();
+const client = new CommandClient({
+  prefix: '!',
+  intents: [
+    'GUILDS',
+    'DIRECT_MESSAGES',
+    'GUILD_MESSAGES'
+  ],
+})
 
-  if (!signature || !timestamp) return { isVerified: false, body: null };
+client.on('ready', () => {
+  console.log("bot is ready")
+})
 
-  try {
-    const isVerified = nacl.sign.detached.verify(
-      new TextEncoder().encode(timestamp + body),
-      new Uint8Array(signature.match(/.{1,2}/g)!.map((byte) => parseInt(byte, 16))),
-      new Uint8Array(PUBLIC_KEY!.match(/.{1,2}/g)!.map((byte) => parseInt(byte, 16)))
-    );
-    return { isVerified, body: JSON.parse(body) };
-  } catch {
-    return { isVerified: false, body: null };
+// Create a new Command
+class PingCommand extends Command {
+  name = 'ping'
+
+  execute(ctx: CommandContext) {
+    ctx.message.reply(`pong! Ping: ${ctx.client.gateway.ping}ms`)
   }
 }
 
-// Deno.serve を使用（import不要）
-Deno.serve(async (req) => {
-  try {
-    const { isVerified, body } = await verifySignature(req);
-    
-    if (!isVerified || !body) {
-      return new Response("invalid request signature", { status: 401 });
-    }
+class checkurl extends Command{
+  name = 'url'
+  execute(ctx: CommandContext){
+      const url = ctx.argStrings[0]
+  checkraceurl(url)
+}}
 
-    if (body.type === 1) {
-      return Response.json({ type: 1 });
-    }
+client.commands.add(PingCommand)
 
-    return Response.json({ type: 4, data: { content: "Ready!" } });
-  } catch (e) {
-    console.error("Internal Error:", e);
-    return new Response("Internal Error", { status: 500 });
-  }
-});
+// Connect to gateway
+client.connect()
