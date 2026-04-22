@@ -34,7 +34,12 @@ class checkurl extends Command{
   name = 'url'
   execute(ctx: CommandContext){
       const url = ctx.argStrings[0]
-  checkraceurl(url)
+      checkreceurl(url)
+      if(checkreceurl(url) === "REJECT"){
+        ctx.message.reply("This is not deltarune race.")
+      }else if(checkreceurl(url) === "INVALID"){
+        ctx.message.reply("Invalid URL!")
+      }
 }}
 
 client.commands.add(PingCommand)
