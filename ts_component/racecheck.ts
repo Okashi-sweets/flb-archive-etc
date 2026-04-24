@@ -1,4 +1,4 @@
-async function checkreceurl(inputurl:string) {
+export function checkraceurl(inputurl:string) {
     try{
         const url = new URL(inputurl)
         const domain = url.hostname
@@ -12,9 +12,10 @@ async function checkreceurl(inputurl:string) {
         }else{
             return "REJECT"
         }
-    }else if(domain ==="therun.gg"){
+    }else if(domain ==="therun.gg" || domain.endsWith(".therun.gg")){
         return "THERUN"
-}
+}else
+    return "REJECT"
     }
     catch{
         return "INVALID"
