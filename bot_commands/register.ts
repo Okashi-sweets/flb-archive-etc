@@ -1,27 +1,39 @@
 import { SlashCommandBuilder, ChatInputCommandInteraction } from "npm:discord.js";
-// 判定ロジックだけを別ファイルから読み込む
 import { checkraceurl } from "../ts_component/racecheck.ts";
+import { saveRaceData } from "../ts_component/saverace.ts";
 
-// Discordに表示されるコマンドの設定
 export const data = new SlashCommandBuilder()
     .setName("register")
     .setDescription("register race data. url is only accepted racetime.gg and therun.gg")
-    .addStringOption(opt => 
+    .addStringOption(opt =>
         opt.setName("url").setDescription("URL").setRequired(true)
     );
 
-// コマンドが実行された時の具体的な処理
 export async function execute(interaction: ChatInputCommandInteraction) {
     const url = interaction.options.getString("url")!;
-    
-    // racecheck.ts の関数を使って判定
+
     const report = checkraceurl(url);
 
     if (report === "INVALID") {
-        return await interaction.reply({ content: "Invalid url.", ephemeral: true });
-    }else if(report === "REJECT"){
-        return await interaction.reply({ content: "not deltarune race.", ephemeral: true })
+        return await interaction.reply({ content: "不正なURLです。", ephemeral: true });
+    } else if (report === "REJECT") {
+        return await interaction.reply({ content: "Deltaruneのレースではありません。", ephemeral: true });
     }
-    // 成功時のみ次の処理（fetchなど）へ
-    await interaction.reply(`accepted. `);
+
+    await interaction.reply(`${report}として受け付けました。登録処理を開始します...`);
+
+    try {
+        const result = await saveRaceData(url, report);
+
+        if (result === "DUPLICATE") {
+            await interaction.editReply("既に登録済みのレースです。");
+        } else if (result === "NOT_FINISHED") {
+            await interaction.editReply("レースがまだ終了していません。");
+        } else {
+            await interaction.editReply(`登録完了！レースID: \`${result.raceId}\``);
+        }
+    } catch (e) {
+        console.error(e);
+        await interaction.editReply("データの保存中にエラーが発生しました。");
+    }
 }
