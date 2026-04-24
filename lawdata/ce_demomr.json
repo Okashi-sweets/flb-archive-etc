@@ -282,6 +282,59 @@
       {
         "place": 6,
         "run": {
+          "id": "y26jdr5m",
+          "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/y26jdr5m",
+          "game": "y6552z86",
+          "level": null,
+          "category": "ndxxp1jd",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/saQ7cmdyyaw"
+              }
+            ]
+          },
+          "comment": "was bored very bad 3 extra queen turns laser head giga etc etc if i didnt want all pbs on src this run would not see the light of day",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-23T12:34:23Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "x356mgej",
+              "uri": "https://www.speedrun.com/api/v1/users/x356mgej"
+            }
+          ],
+          "date": "2026-04-20",
+          "submitted": "2026-04-20T01:56:44Z",
+          "times": {
+            "primary": "PT52M30S",
+            "primary_t": 3150,
+            "realtime": "PT55M42S",
+            "realtime_t": 3342,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT52M30S",
+            "ingame_t": 3150
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "5lyy3mjl": "1w4w9e5q",
+            "e8mg2wm8": "le2g53zl",
+            "j84p9228": "lmo6v981"
+          }
+        }
+      },
+      {
+        "place": 7,
+        "run": {
           "id": "z5wp6j5z",
           "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/z5wp6j5z",
           "game": "y6552z86",
@@ -333,7 +386,7 @@
         }
       },
       {
-        "place": 7,
+        "place": 8,
         "run": {
           "id": "yj78q4gy",
           "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/yj78q4gy",
@@ -386,7 +439,7 @@
         }
       },
       {
-        "place": 8,
+        "place": 9,
         "run": {
           "id": "ydon3nxz",
           "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/ydon3nxz",
@@ -435,59 +488,6 @@
             "5lyy3mjl": "1w4w9e5q",
             "e8mg2wm8": "le2g53zl",
             "j84p9228": "lmo6v981"
-          }
-        }
-      },
-      {
-        "place": 9,
-        "run": {
-          "id": "z1604ngm",
-          "weblink": "https://www.speedrun.com/deltarune_category_extensions/runs/z1604ngm",
-          "game": "y6552z86",
-          "level": null,
-          "category": "ndxxp1jd",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://youtu.be/Y_M5PWrp4w0"
-              }
-            ]
-          },
-          "comment": "amusing",
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2025-08-27T07:25:41Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "x356mgej",
-              "uri": "https://www.speedrun.com/api/v1/users/x356mgej"
-            }
-          ],
-          "date": "2025-08-27",
-          "submitted": "2025-08-27T03:57:14Z",
-          "times": {
-            "primary": "PT52M47S",
-            "primary_t": 3167,
-            "realtime": "PT54M39S",
-            "realtime_t": 3279,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": "PT52M47S",
-            "ingame_t": 3167
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "5lyy3mjl": "1w4w9e5q",
-            "e8mg2wm8": "le2g53zl",
-            "j84p9228": "1w4ozkmq"
           }
         }
       },
