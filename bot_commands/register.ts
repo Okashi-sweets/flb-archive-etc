@@ -1,13 +1,13 @@
-import {
-    SlashCommandBuilder,
-    ChatInputCommandInteraction,
-    StringSelectMenuBuilder,
-    StringSelectMenuInteraction,
-    ActionRowBuilder,
-    ComponentType,
-} from "npm:discord.js";
 import { checkraceurl } from "../ts_component/racecheck.ts";
 import { checkDuplicate, fetchRaceData, saveRaceData } from "../ts_component/saverace.ts";
+import { setSession, getSession, deleteSession } from "../ts_component/kv.ts";
+import {
+    sendInteractionResponse,
+    editInteractionResponse,
+    ephemeral,
+    updateMessage,
+    makeSelectMenu,
+} from "../ts_component/interactions.ts";
 import categories from "../info/url.json" with { type: "json" };
 
 type CategoryEntry = {
@@ -20,191 +20,170 @@ type CategoryEntry = {
 
 const cats = categories as CategoryEntry[];
 
-const ABBREVIATIONS: Record<string, string> = {
-    "True Pacifist": "TP",
-    "Snowgrave": "SG",
-};
-
-function abbreviate(label: string): string {
-    let result = label;
-    for (const [full, short] of Object.entries(ABBREVIATIONS)) {
-        result = result.replace(full, short);
-    }
-    return result;
-}
-
-function makeSelectMenu(customId: string, placeholder: string, options: string[]) {
-    return new ActionRowBuilder<StringSelectMenuBuilder>().addComponents(
-        new StringSelectMenuBuilder()
-            .setCustomId(customId)
-            .setPlaceholder(placeholder)
-            .addOptions(options.map(o => ({
-                label: abbreviate(o),
-                value: o,
-            })))
-    );
-}
-
 const GROUP_MAP: Record<string, string> = {
     "Base Game": "base",
     "Category Extensions": "ce",
 };
 
-export const data = new SlashCommandBuilder()
-    .setName("register")
-    .setDescription("register race data. url is only accepted racetime.gg and therun.gg")
-    .addStringOption(opt =>
-        opt.setName("url").setDescription("URL").setRequired(true)
-    );
+export const data = {
+    name: "register",
+    description: "register race data. url is only accepted racetime.gg and therun.gg",
+    options: [
+        {
+            name: "url",
+            description: "URL",
+            type: 3,
+            required: true,
+        },
+    ],
+};
 
-export async function execute(interaction: ChatInputCommandInteraction) {
-    const url = interaction.options.getString("url")!;
+// /register コマンド実行時
+export async function execute(interaction: Record<string, unknown>) {
+    const url = (interaction.data as { options: { value: string }[] }).options[0].value;
+    const userId = (interaction.member as { user: { id: string } })?.user?.id
+        ?? (interaction.user as { id: string })?.id;
+    const interactionId = interaction.id as string;
+    const token = interaction.token as string;
 
-    // URLチェック
     const report = checkraceurl(url);
     if (report === "INVALID") {
-        return await interaction.reply({ content: "Invalid URL.", ephemeral: true });
+        return await sendInteractionResponse(interactionId, token, ephemeral("Invalid URL."));
     } else if (report === "REJECT") {
-        return await interaction.reply({ content: "Not a Deltarune race.", ephemeral: true });
+        return await sendInteractionResponse(interactionId, token, ephemeral("Not a Deltarune race."));
     }
 
-    // 重複チェック
     if (await checkDuplicate(url)) {
-        return await interaction.reply({ content: "This race was already registered.", ephemeral: true });
+        return await sendInteractionResponse(interactionId, token, ephemeral("This race was already registered."));
     }
 
-    // fetchと終了チェック
     const fetched = await fetchRaceData(url, report);
     if (fetched === "NOT_FINISHED") {
-        return await interaction.reply({ content: "This race isn't finished.", ephemeral: true });
+        return await sendInteractionResponse(interactionId, token, ephemeral("This race isn't finished."));
     }
 
-    // --- Step 0: group選択 ---
-    const row0 = makeSelectMenu("group", "Select game version.", Object.keys(GROUP_MAP));
-
-    const msg = await interaction.reply({
-        content: "Select game version.",
-        components: [row0],
-        ephemeral: true,
-        fetchReply: true,
+    // セッションに保存
+    await setSession(userId, {
+        step: "group",
+        url,
+        report,
+        fetched: fetched!,
+        token,
     });
 
-    try {
-        const i0 = await msg.awaitMessageComponent({
-            componentType: ComponentType.StringSelect,
-            filter: i => i.customId === "group" && i.user.id === interaction.user.id,
-            time: 60000,
-        }) as StringSelectMenuInteraction;
-        const groupDisplay = i0.values[0];
-        const group = GROUP_MAP[groupDisplay];
+    await sendInteractionResponse(interactionId, token, {
+        type: 4,
+        data: {
+            content: "Select game version.",
+            flags: 64,
+            components: [makeSelectMenu("register_group", "Select game version.", Object.keys(GROUP_MAP))],
+        },
+    });
+}
 
+// セレクトメニューの応答処理
+export async function handleComponent(interaction: Record<string, unknown>) {
+    const customId = (interaction.data as { custom_id: string }).custom_id;
+    const value = (interaction.data as { values: string[] }).values[0];
+    const userId = (interaction.member as { user: { id: string } })?.user?.id
+        ?? (interaction.user as { id: string })?.id;
+    const interactionId = interaction.id as string;
+    const token = interaction.token as string;
+
+    const session = await getSession(userId);
+    if (!session) {
+        return await sendInteractionResponse(interactionId, token, ephemeral("Session expired. Please run /register again."));
+    }
+
+    if (customId === "register_group") {
+        const group = GROUP_MAP[value];
         const filtered = cats.filter(c => c.group === group);
-
-        // --- Step 1: category1選択 ---
         const category1Options = [...new Set(filtered.map(c => c.displaycategory1))];
-        const row1 = makeSelectMenu("category1", "Select chapter.", category1Options);
 
-        await i0.update({
-            content: `Game version: **${groupDisplay}**\nSelect chapter.`,
-            components: [row1],
-        });
+        await setSession(userId, { ...session, step: "category1", group, groupDisplay: value });
+        await sendInteractionResponse(interactionId, token,
+            updateMessage(`Game version: **${value}**\nSelect chapter.`, [
+                makeSelectMenu("register_category1", "Select chapter.", category1Options),
+            ])
+        );
 
-        const i1 = await msg.awaitMessageComponent({
-            componentType: ComponentType.StringSelect,
-            filter: i => i.customId === "category1" && i.user.id === interaction.user.id,
-            time: 60000,
-        }) as StringSelectMenuInteraction;
-        const category1 = i1.values[0];
-
-        // --- Step 2: category2選択 ---
+    } else if (customId === "register_category1") {
+        const filtered = cats.filter(c => c.group === session.group);
         const category2Options = [...new Set(
-            filtered.filter(c => c.displaycategory1 === category1).map(c => c.displaycategory2)
+            filtered.filter(c => c.displaycategory1 === value).map(c => c.displaycategory2)
         )];
-        const row2 = makeSelectMenu("category2", "Select subcategory.", category2Options);
 
-        await i1.update({
-            content: `Game version: **${groupDisplay}** / Chapter: **${category1}**\nSelect subcategory.`,
-            components: [row2],
-        });
+        await setSession(userId, { ...session, step: "category2", category1: value });
+        await sendInteractionResponse(interactionId, token,
+            updateMessage(
+                `Game version: **${session.groupDisplay}** / Chapter: **${value}**\nSelect subcategory.`,
+                [makeSelectMenu("register_category2", "Select subcategory.", category2Options)]
+            )
+        );
 
-        const i2 = await msg.awaitMessageComponent({
-            componentType: ComponentType.StringSelect,
-            filter: i => i.customId === "category2" && i.user.id === interaction.user.id,
-            time: 60000,
-        }) as StringSelectMenuInteraction;
-        const category2 = i2.values[0];
-
-        // --- Step 3: category3選択（存在する場合のみ）---
+    } else if (customId === "register_category2") {
+        const filtered = cats.filter(c => c.group === session.group);
         const category3Options = [...new Set(
             filtered
-                .filter(c => c.displaycategory1 === category1 && c.displaycategory2 === category2)
+                .filter(c => c.displaycategory1 === session.category1 && c.displaycategory2 === value)
                 .map(c => c.displaycategory3)
                 .filter((c): c is string => !!c)
         )];
 
-        let categoryName: string;
+        await setSession(userId, { ...session, step: "category3", category2: value });
 
         if (category3Options.length > 0) {
-            const row3 = makeSelectMenu("category3", "Select glitch type.", category3Options);
-            await i2.update({
-                content: `Game version: **${groupDisplay}** / Chapter: **${category1}** / Route: **${category2}**\nSelect glitch type.`,
-                components: [row3],
-            });
-
-            const i3 = await msg.awaitMessageComponent({
-                componentType: ComponentType.StringSelect,
-                filter: i => i.customId === "category3" && i.user.id === interaction.user.id,
-                time: 60000,
-            }) as StringSelectMenuInteraction;
-            const category3 = i3.values[0];
-
-            const entry = cats.find(c =>
-                c.group === group &&
-                c.displaycategory1 === category1 &&
-                c.displaycategory2 === category2 &&
-                c.displaycategory3 === category3
+            await sendInteractionResponse(interactionId, token,
+                updateMessage(
+                    `Game version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${value}**\nSelect glitch type.`,
+                    [makeSelectMenu("register_category3", "Select glitch type.", category3Options)]
+                )
             );
-
-            if (!entry) {
-                await i3.update({ content: "Category not found.", components: [] });
-                return;
-            }
-            categoryName = entry.name;
-            await i3.update({
-                content: `Game version: **${groupDisplay}** / Chapter: **${category1}** / Route: **${category2}** / **${category3}**\nStarting registration...`,
-                components: [],
-            });
-
         } else {
-            const entry = cats.find(c =>
-                c.group === group &&
-                c.displaycategory1 === category1 &&
-                c.displaycategory2 === category2 &&
-                !c.displaycategory3
+            // category3なし → 直接登録
+            await sendInteractionResponse(interactionId, token,
+                updateMessage(
+                    `Game version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${value}**\nStarting registration...`
+                )
             );
-
-            if (!entry) {
-                await i2.update({ content: "Category not found.", components: [] });
-                return;
-            }
-            categoryName = entry.name;
-            await i2.update({
-                content: `Game version: **${groupDisplay}** / Chapter: **${category1}** / Route: **${category2}**\nStarting registration...`,
-                components: [],
-            });
+            await finishRegistration(session, value, null, userId);
         }
 
-        // --- 登録処理 ---
-        const result = await saveRaceData(url, report, categoryName, fetched!);
+    } else if (customId === "register_category3") {
+        await sendInteractionResponse(interactionId, token,
+            updateMessage(
+                `Game version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${session.category2}** / **${value}**\nStarting registration...`
+            )
+        );
+        await finishRegistration(session, session.category2!, value, userId);
+    }
+}
 
-        if (result === "DUPLICATE") {
-            await interaction.editReply({ content: "This race was already registered.", components: [] });
-        } else {
-            await interaction.editReply({ content: `Registered! ID: \`${result.raceId}\``, components: [] });
-        }
+async function finishRegistration(
+    session: Awaited<ReturnType<typeof getSession>>,
+    category2: string,
+    category3: string | null,
+    userId: string,
+) {
+    const entry = cats.find(c =>
+        c.group === session!.group &&
+        c.displaycategory1 === session!.category1 &&
+        c.displaycategory2 === category2 &&
+        (category3 ? c.displaycategory3 === category3 : !c.displaycategory3)
+    );
 
-    } catch (e) {
-        console.error(e);
-        await interaction.editReply({ content: "Timed out or an error occurred.", components: [] });
+    if (!entry) {
+        await editInteractionResponse(session!.token, { content: "Category not found.", components: [] });
+        await deleteSession(userId);
+        return;
+    }
+
+    const result = await saveRaceData(session!.url, session!.report, entry.name, session!.fetched);
+    await deleteSession(userId);
+
+    if (result === "DUPLICATE") {
+        await editInteractionResponse(session!.token, { content: "This race was already registered.", components: [] });
+    } else {
+        await editInteractionResponse(session!.token, { content: `Registered! ID: \`${result.raceId}\``, components: [] });
     }
 }
