@@ -21,7 +21,7 @@ export async function getUserlist(): Promise<User[]> {
         const chunkCount = meta.value as number;
         const chunks = await Promise.all(
             Array.from({ length: chunkCount }, (_, i) =>
-                kv.get(["cache", `userlist_${i}`])
+                kv.get(["cache", `userlist-${i}`])
             )
         );
         return chunks.flatMap(c => c.value as User[]);
@@ -39,7 +39,7 @@ export async function getUserlist(): Promise<User[]> {
 
     await Promise.all(
         chunks.map((chunk, i) =>
-            kv.set(["cache", `userlist_${i}`], chunk, { expireIn: 60 * 60 * 1000 })
+            kv.set(["cache", `userlist-${i}`], chunk, { expireIn: 60 * 60 * 1000 })
         )
     );
     await kv.set(["cache", "userlist_meta"], chunks.length, { expireIn: 60 * 60 * 1000 });
