@@ -123,23 +123,23 @@
       {
         "place": 3,
         "run": {
-          "id": "zx0xv65z",
-          "weblink": "https://www.speedrun.com/deltarune/runs/zx0xv65z",
+          "id": "zpvg5n8z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zpvg5n8z",
           "game": "pdvznzr6",
           "level": null,
           "category": "n2y0j5ed",
           "videos": {
             "links": [
               {
-                "uri": "https://youtu.be/Lk9tTicB9to"
+                "uri": "https://youtu.be/o8W2KaiBQtM?si=PZhVsPZlWlmhEEO8&t=1032"
               }
             ]
           },
-          "comment": "it snew",
+          "comment": "nothing ever hapones",
           "status": {
             "status": "verified",
             "examiner": "8wlnqz4j",
-            "verify-date": "2025-07-28T23:51:21Z"
+            "verify-date": "2026-04-23T15:44:01Z"
           },
           "players": [
             {
@@ -148,17 +148,17 @@
               "uri": "https://www.speedrun.com/api/v1/users/8wlnqz4j"
             }
           ],
-          "date": "2025-07-28",
-          "submitted": "2025-07-28T23:51:21Z",
+          "date": "2026-04-23",
+          "submitted": "2026-04-23T15:44:01Z",
           "times": {
-            "primary": "PT2H44M49S",
-            "primary_t": 9889,
-            "realtime": "PT2H51M16S",
-            "realtime_t": 10276,
+            "primary": "PT2H42M31S",
+            "primary_t": 9751,
+            "realtime": "PT2H49M16S",
+            "realtime_t": 10156,
             "realtime_noloads": null,
             "realtime_noloads_t": 0,
-            "ingame": "PT2H44M49S",
-            "ingame_t": 9889
+            "ingame": "PT2H42M31S",
+            "ingame_t": 9751
           },
           "system": {
             "platform": "8gej2n93",
@@ -169,7 +169,7 @@
           "values": {
             "ylpkxg68": "qzn745kq",
             "789em33l": "192gzn0q",
-            "ylpk0or8": "1w4ooxmq"
+            "ylpk0or8": "lmo66081"
           }
         }
       },
