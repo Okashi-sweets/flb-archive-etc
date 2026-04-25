@@ -42,7 +42,7 @@ export async function getUserlist(): Promise<User[]> {
             kv.set(["cache", `userlist-${i}`], chunk, { expireIn: 60 * 60 * 1000 })
         )
     );
-    await kv.set(["cache", "userlist_meta"], chunks.length, { expireIn: 60 * 60 * 1000 });
+    await kv.set(["cache", "userlist-meta"], chunks.length, { expireIn: 60 * 60 * 1000 });
 
     return userlist;
 }
