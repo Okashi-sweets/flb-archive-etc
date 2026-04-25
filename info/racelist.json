@@ -1,3 +1,12 @@
 {
-    "races": [] 
+  "races": [
+    {
+      "id": "19dunq",
+      "url": "https://racetime.gg/deltarune/crafty-callie-2089"
+    },
+    {
+      "id": "jszyjj",
+      "url": "https://racetime.gg/deltarune/fearless-ifrit-8763"
+    }
+  ]
 }
