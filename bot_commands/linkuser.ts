@@ -88,10 +88,10 @@ export async function execute(interaction: Record<string, unknown>) {
 
         const user = userlist[index];
         await editInteractionResponse(token, {
-            content:
-                `Updated **${user.name}** \`[${user.id}]\`:\n` +
-                (racetimeId ? `- racetime_id: \`${racetimeId}\`\n` : "") +
-                (therunId ? `- therun_id: \`${therunId}\`` : ""),
+        content:
+            `Updated **${user.name}** \`[${user.id}]\`:\n` +
+            (racetimeId ? `- racetime\\_id: \`${racetimeId}\`\n` : "") +
+            (therunId ? `- therun\\_id: \`${therunId}\`` : ""),
         });
     } catch (e) {
         console.error(e);
