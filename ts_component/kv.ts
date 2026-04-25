@@ -14,7 +14,7 @@ const CHUNK_SIZE = 100; // 100件ずつ分割
 
 export async function getUserlist(): Promise<User[]> {
     // チャンク数を確認
-    const meta = await kv.get(["cache", "userlist_meta"]);
+    const meta = await kv.get(["cache", "userlist-meta"]);
 
     if (meta.value) {
         // キャッシュから復元
