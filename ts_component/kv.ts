@@ -1,6 +1,5 @@
 const kv = await Deno.openKv();
 
-// --- userlistキャッシュ ---
 interface User {
     id: string;
     name: string;
@@ -11,13 +10,41 @@ interface User {
 
 import { readJson } from "./savetogithub.ts";
 
-export async function getUserlist(): Promise<User[]> {
-    const cached = await kv.get(["cache", "userlist"]);
-    if (cached.value) return cached.value as User[];
+const CHUNK_SIZE = 100; // 100件ずつ分割
 
+export async function getUserlist(): Promise<User[]> {
+    // チャンク数を確認
+    const meta = await kv.get(["cache", "userlist_meta"]);
+
+    if (meta.value) {
+        // キャッシュから復元
+        const chunkCount = meta.value as number;
+        const chunks = await Promise.all(
+            Array.from({ length: chunkCount }, (_, i) =>
+                kv.get(["cache", `userlist_${i}`])
+            )
+        );
+        return chunks.flatMap(c => c.value as User[]);
+    }
+
+    // キャッシュ切れ → GitHubからfetch
     const { data } = await readJson("info/userlist.json");
-    await kv.set(["cache", "userlist"], data, { expireIn: 60 * 60 * 1000 });
-    return data as User[];
+    const userlist = data as User[];
+
+    // チャンク分割して保存
+    const chunks: User[][] = [];
+    for (let i = 0; i < userlist.length; i += CHUNK_SIZE) {
+        chunks.push(userlist.slice(i, i + CHUNK_SIZE));
+    }
+
+    await Promise.all(
+        chunks.map((chunk, i) =>
+            kv.set(["cache", `userlist_${i}`], chunk, { expireIn: 60 * 60 * 1000 })
+        )
+    );
+    await kv.set(["cache", "userlist_meta"], chunks.length, { expireIn: 60 * 60 * 1000 });
+
+    return userlist;
 }
 
 // --- セッション管理 ---
