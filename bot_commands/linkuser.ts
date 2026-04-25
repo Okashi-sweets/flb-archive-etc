@@ -25,24 +25,33 @@ export const data = {
 };
 
 export async function autocomplete(interaction: Record<string, unknown>) {
-    const focused = (interaction.data as { options: { focused?: boolean; value: string }[] })
-        .options.find(o => o.focused)?.value ?? "";
+    const options = (interaction.data as { options: { focused?: boolean; value: string }[] }).options;
+    console.log("autocomplete options:", JSON.stringify(options)); // ← 追加
+
+    const focused = options.find(o => o.focused)?.value ?? "";
+    console.log("focused value:", focused); // ← 追加
+
     const interactionId = interaction.id as string;
     const token = interaction.token as string;
 
     try {
         const userlist = await getUserlist();
+        console.log("userlist length:", userlist.length); // ← 追加
+
         const choices = userlist
             .filter(u => !u.banned)
             .filter(u => u.name.toLowerCase().includes(focused.toLowerCase()))
             .slice(0, 25)
             .map(u => ({ name: `${u.name} [${u.id}]`, value: u.id }));
 
+        console.log("choices length:", choices.length); // ← 追加
+
         await sendInteractionResponse(interactionId, token, {
             type: 8,
             data: { choices },
         });
-    } catch {
+    } catch (e) {
+        console.error("autocomplete error:", e); // ← 修正
         await sendInteractionResponse(interactionId, token, { type: 8, data: { choices: [] } });
     }
 }
