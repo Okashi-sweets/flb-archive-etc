@@ -2,6 +2,7 @@
   "id": "o86kvdpx",
   "name": "twomass",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

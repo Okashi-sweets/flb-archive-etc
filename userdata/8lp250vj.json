@@ -2,6 +2,7 @@
   "id": "8lp250vj",
   "name": "potG29",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "xkpo59mj",
   "name": "Blackout_RTA",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

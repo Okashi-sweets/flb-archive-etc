@@ -2,6 +2,7 @@
   "id": "qxkv02kj",
   "name": "AeronGames",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

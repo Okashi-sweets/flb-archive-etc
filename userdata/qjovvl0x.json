@@ -2,6 +2,7 @@
   "id": "qjovvl0x",
   "name": "ZubberNaut",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

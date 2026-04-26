@@ -2,6 +2,7 @@
   "id": "j5vo12n8",
   "name": "CanNotDoThat",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

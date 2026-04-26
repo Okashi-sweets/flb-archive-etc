@@ -2,6 +2,7 @@
   "id": "qj2pdd68",
   "name": "Timeattack",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

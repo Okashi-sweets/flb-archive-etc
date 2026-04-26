@@ -2,6 +2,7 @@
   "id": "8qzwlpw8",
   "name": "OrangeBot",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "8e6gk1dj",
   "name": "deltarunespeedruner",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

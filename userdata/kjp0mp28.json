@@ -2,6 +2,7 @@
   "id": "kjp0mp28",
   "name": "OceanBagel",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

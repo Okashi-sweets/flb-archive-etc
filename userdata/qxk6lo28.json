@@ -2,6 +2,7 @@
   "id": "qxk6lo28",
   "name": "ThatBox",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

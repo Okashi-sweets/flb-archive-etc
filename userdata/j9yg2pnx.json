@@ -2,6 +2,7 @@
   "id": "j9yg2pnx",
   "name": "Fase1",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

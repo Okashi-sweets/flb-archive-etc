@@ -2,6 +2,7 @@
   "id": "v8lev2lx",
   "name": "Deltarunprospeedrun",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

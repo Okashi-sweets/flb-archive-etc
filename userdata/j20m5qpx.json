@@ -2,6 +2,7 @@
   "id": "j20m5qpx",
   "name": "AlphaBetaFullRelease",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

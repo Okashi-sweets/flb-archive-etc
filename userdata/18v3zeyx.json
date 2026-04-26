@@ -2,6 +2,7 @@
   "id": "18v3zeyx",
   "name": "leia",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

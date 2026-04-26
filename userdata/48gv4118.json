@@ -2,6 +2,7 @@
   "id": "48gv4118",
   "name": "whoos",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

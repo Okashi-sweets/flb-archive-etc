@@ -2,6 +2,7 @@
   "id": "8d9p9w9x",
   "name": "aBike",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "qjozrpl8",
   "name": "tendog",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

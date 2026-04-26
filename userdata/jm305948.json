@@ -2,6 +2,7 @@
   "id": "jm305948",
   "name": "ToxicChainsaw",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

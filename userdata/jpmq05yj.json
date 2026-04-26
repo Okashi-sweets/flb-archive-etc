@@ -2,6 +2,7 @@
   "id": "jpmq05yj",
   "name": "PicnicPop",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "jmlrdlo8",
   "name": "BlazeCola",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

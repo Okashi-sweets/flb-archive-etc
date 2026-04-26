@@ -2,6 +2,7 @@
   "id": "8ekkr278",
   "name": "TurboOven9000",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

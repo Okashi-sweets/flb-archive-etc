@@ -2,6 +2,7 @@
   "id": "qj2l4d6x",
   "name": "RacingDino",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

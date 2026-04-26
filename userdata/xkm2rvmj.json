@@ -2,6 +2,7 @@
   "id": "xkm2rvmj",
   "name": "EMC_SPEED",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

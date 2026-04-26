@@ -2,6 +2,7 @@
   "id": "j0vwnerx",
   "name": "BadMushroom",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

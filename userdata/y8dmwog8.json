@@ -2,6 +2,7 @@
   "id": "y8dmwog8",
   "name": "OctacoreIsAFK",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

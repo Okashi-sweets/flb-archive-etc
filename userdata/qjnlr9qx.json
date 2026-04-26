@@ -2,6 +2,7 @@
   "id": "qjnlr9qx",
   "name": "DoctorTyme",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

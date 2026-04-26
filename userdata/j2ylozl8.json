@@ -2,6 +2,7 @@
   "id": "j2ylozl8",
   "name": "SockSpeedrun",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

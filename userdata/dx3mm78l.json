@@ -2,6 +2,7 @@
   "id": "dx3mm78l",
   "name": "Gold",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

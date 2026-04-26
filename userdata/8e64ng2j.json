@@ -2,6 +2,7 @@
   "id": "8e64ng2j",
   "name": "Gamerguld",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

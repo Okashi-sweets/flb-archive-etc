@@ -2,6 +2,7 @@
   "id": "5j5orm6x",
   "name": "Yelly",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

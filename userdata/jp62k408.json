@@ -2,6 +2,7 @@
   "id": "jp62k408",
   "name": "eFor2speedrunning",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

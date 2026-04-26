@@ -2,6 +2,7 @@
   "id": "jmlrnln8",
   "name": "an_existent_WAFER",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

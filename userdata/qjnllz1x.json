@@ -2,6 +2,7 @@
   "id": "qjnllz1x",
   "name": "AntiAntFilms",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

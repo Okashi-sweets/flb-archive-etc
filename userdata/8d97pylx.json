@@ -2,6 +2,7 @@
   "id": "8d97pylx",
   "name": "cisberg",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

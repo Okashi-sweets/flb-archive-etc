@@ -2,6 +2,7 @@
   "id": "j59rlyqx",
   "name": "Trainmore",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

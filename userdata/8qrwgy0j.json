@@ -2,6 +2,7 @@
   "id": "8qrwgy0j",
   "name": "aBanjo",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

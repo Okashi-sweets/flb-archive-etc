@@ -2,6 +2,7 @@
   "id": "jon9npe8",
   "name": "jellifest",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

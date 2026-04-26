@@ -2,6 +2,7 @@
   "id": "j519wqn8",
   "name": "Rodillo",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

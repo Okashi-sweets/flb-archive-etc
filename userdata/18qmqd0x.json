@@ -2,6 +2,7 @@
   "id": "18qmqd0x",
   "name": "judg3",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

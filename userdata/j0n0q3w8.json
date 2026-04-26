@@ -2,6 +2,7 @@
   "id": "j0n0q3w8",
   "name": "TanookiRunsGames",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

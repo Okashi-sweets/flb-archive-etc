@@ -2,6 +2,7 @@
   "id": "8q5knw08",
   "name": "willowsmots",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",
@@ -65,7 +66,7 @@
     },
     {
       "category": "ch2mr109",
-      "time": 1442
+      "time": 1433
     },
     {
       "category": "ch2wr",

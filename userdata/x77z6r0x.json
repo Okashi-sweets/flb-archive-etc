@@ -2,6 +2,7 @@
   "id": "x77z6r0x",
   "name": "EmCPU",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

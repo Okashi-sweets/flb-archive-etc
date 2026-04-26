@@ -2,6 +2,7 @@
   "id": "j0v2d73x",
   "name": "ECorridor",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

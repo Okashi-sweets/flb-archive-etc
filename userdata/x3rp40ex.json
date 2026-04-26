@@ -2,6 +2,7 @@
   "id": "x3rp40ex",
   "name": "NeverRune",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

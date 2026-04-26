@@ -2,6 +2,7 @@
   "id": "jopv15lx",
   "name": "chaoscontrol01",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

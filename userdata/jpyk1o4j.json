@@ -2,6 +2,7 @@
   "id": "jpyk1o4j",
   "name": "Devara",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",
@@ -53,7 +54,7 @@
     },
     {
       "category": "ch2mr",
-      "time": null
+      "time": 1800
     },
     {
       "category": "ch2mrnmg",

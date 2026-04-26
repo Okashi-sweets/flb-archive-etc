@@ -2,6 +2,7 @@
   "id": "8envrdo8",
   "name": "Pond",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

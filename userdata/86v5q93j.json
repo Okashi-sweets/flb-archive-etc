@@ -2,6 +2,7 @@
   "id": "86v5q93j",
   "name": "BanDanaSR",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

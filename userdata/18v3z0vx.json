@@ -2,6 +2,7 @@
   "id": "18v3z0vx",
   "name": "TAXIKO",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

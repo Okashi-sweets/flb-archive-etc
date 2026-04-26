@@ -2,6 +2,7 @@
   "id": "x350rrej",
   "name": "TheSarosCycle",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

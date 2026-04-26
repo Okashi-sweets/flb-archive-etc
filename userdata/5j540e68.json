@@ -2,6 +2,7 @@
   "id": "5j540e68",
   "name": "Spade",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

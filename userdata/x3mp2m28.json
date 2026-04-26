@@ -2,6 +2,7 @@
   "id": "x3mp2m28",
   "name": "Eat_Fresh",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

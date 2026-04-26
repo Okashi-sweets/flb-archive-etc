@@ -2,6 +2,7 @@
   "id": "j2qly57j",
   "name": "Palsintime",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

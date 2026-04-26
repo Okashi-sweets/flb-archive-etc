@@ -2,6 +2,7 @@
   "id": "v8le3mvx",
   "name": "SanyGame",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

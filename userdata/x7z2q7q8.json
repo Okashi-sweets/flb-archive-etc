@@ -2,6 +2,7 @@
   "id": "x7z2q7q8",
   "name": "IKEA_Cone",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

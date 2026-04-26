@@ -2,6 +2,7 @@
   "id": "jn302pdx",
   "name": "BeatBot64",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

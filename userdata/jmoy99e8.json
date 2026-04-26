@@ -2,6 +2,7 @@
   "id": "jmoy99e8",
   "name": "MayDay",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

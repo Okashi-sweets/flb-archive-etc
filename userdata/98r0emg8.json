@@ -2,6 +2,7 @@
   "id": "98r0emg8",
   "name": "NoAir",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

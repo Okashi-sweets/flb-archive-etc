@@ -2,6 +2,7 @@
   "id": "jmody248",
   "name": "Q-Ball",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

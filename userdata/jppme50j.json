@@ -2,6 +2,7 @@
   "id": "jppme50j",
   "name": "PumpkinVGC",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

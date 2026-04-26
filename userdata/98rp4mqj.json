@@ -2,6 +2,7 @@
   "id": "98rp4mqj",
   "name": "SpaceMiner",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

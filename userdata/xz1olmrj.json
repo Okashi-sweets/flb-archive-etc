@@ -2,6 +2,7 @@
   "id": "xz1olmrj",
   "name": "AsteroidCap",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

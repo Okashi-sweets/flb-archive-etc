@@ -2,6 +2,7 @@
   "id": "5j5mq6g8",
   "name": "CodeRooster",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "8l6oz2r8",
   "name": "cibles",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

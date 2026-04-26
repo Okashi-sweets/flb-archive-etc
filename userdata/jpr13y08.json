@@ -2,6 +2,7 @@
   "id": "jpr13y08",
   "name": "MIDISLAPPER",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

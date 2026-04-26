@@ -2,6 +2,7 @@
   "id": "y8d70mm8",
   "name": "Norsetrack",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "68wdk24x",
   "name": "GraczBezNicku",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

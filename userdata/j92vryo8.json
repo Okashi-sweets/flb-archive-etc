@@ -2,6 +2,7 @@
   "id": "j92vryo8",
   "name": "FreezerGlobe",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

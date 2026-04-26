@@ -2,6 +2,7 @@
   "id": "dx3lymex",
   "name": "UrbanFlora",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

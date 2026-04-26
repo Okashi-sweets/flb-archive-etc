@@ -2,6 +2,7 @@
   "id": "18qoo7dj",
   "name": "SonicHack",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

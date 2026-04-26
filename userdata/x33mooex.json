@@ -2,6 +2,7 @@
   "id": "x33mooex",
   "name": "koveto",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

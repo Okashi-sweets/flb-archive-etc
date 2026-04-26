@@ -2,6 +2,7 @@
   "id": "68w63ylj",
   "name": "CarpuziSpeedruns",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

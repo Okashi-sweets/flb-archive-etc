@@ -2,6 +2,7 @@
   "id": "v8lzw24x",
   "name": "ganon",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

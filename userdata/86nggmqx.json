@@ -2,6 +2,7 @@
   "id": "86nggmqx",
   "name": "debbit",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

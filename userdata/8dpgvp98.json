@@ -2,6 +2,7 @@
   "id": "8dpgvp98",
   "name": "WalknDinner",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

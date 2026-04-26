@@ -2,6 +2,7 @@
   "id": "kjpp795j",
   "name": "CampingOnline",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

@@ -2,6 +2,7 @@
   "id": "8v0w93yx",
   "name": "RoadSign",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

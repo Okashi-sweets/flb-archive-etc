@@ -2,6 +2,7 @@
   "id": "xyq4e4n8",
   "name": "ghostkeeper",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",

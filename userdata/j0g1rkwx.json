@@ -2,6 +2,7 @@
   "id": "j0g1rkwx",
   "name": "Zaine123450",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",
@@ -37,7 +38,7 @@
     },
     {
       "category": "ch1any",
-      "time": null
+      "time": 1919
     },
     {
       "category": "ch1ab",
@@ -65,7 +66,7 @@
     },
     {
       "category": "ch2mr109",
-      "time": null
+      "time": 1701
     },
     {
       "category": "ch2wr",

@@ -2,6 +2,7 @@
   "id": "j0365e3j",
   "name": "Vegetable",
   "banned": false,
+  "races": [],
   "times": [
     {
       "category": "acmr",
