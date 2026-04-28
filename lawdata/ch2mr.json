@@ -5965,6 +5965,59 @@
       {
         "place": 113,
         "run": {
+          "id": "z5npd1jz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z5npd1jz",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "9d8yo9wk",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/u7rFWPM5xQo"
+              }
+            ]
+          },
+          "comment": "Really happy with this run",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-28T15:53:15Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j0g1rkwx",
+              "uri": "https://www.speedrun.com/api/v1/users/j0g1rkwx"
+            }
+          ],
+          "date": "2026-04-26",
+          "submitted": "2026-04-26T16:34:22Z",
+          "times": {
+            "primary": "PT29M35S",
+            "primary_t": 1775,
+            "realtime": "PT29M35S",
+            "realtime_t": 1775,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "68kogvyn": "9qjoj7ol",
+            "gnxj5j4l": "rqv0w7wl",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 114,
+        "run": {
           "id": "yv0ddxoz",
           "weblink": "https://www.speedrun.com/deltarune/runs/yv0ddxoz",
           "game": "pdvznzr6",
@@ -6016,7 +6069,7 @@
         }
       },
       {
-        "place": 114,
+        "place": 115,
         "run": {
           "id": "mr6lj18m",
           "weblink": "https://www.speedrun.com/deltarune/runs/mr6lj18m",
@@ -6069,7 +6122,7 @@
         }
       },
       {
-        "place": 115,
+        "place": 116,
         "run": {
           "id": "z5wd67gz",
           "weblink": "https://www.speedrun.com/deltarune/runs/z5wd67gz",
@@ -6122,7 +6175,7 @@
         }
       },
       {
-        "place": 115,
+        "place": 116,
         "run": {
           "id": "zq5k379z",
           "weblink": "https://www.speedrun.com/deltarune/runs/zq5k379z",
@@ -6175,7 +6228,7 @@
         }
       },
       {
-        "place": 117,
+        "place": 118,
         "run": {
           "id": "yd41ogxy",
           "weblink": "https://www.speedrun.com/deltarune/runs/yd41ogxy",
@@ -6228,7 +6281,7 @@
         }
       },
       {
-        "place": 117,
+        "place": 118,
         "run": {
           "id": "mrdl40gz",
           "weblink": "https://www.speedrun.com/deltarune/runs/mrdl40gz",
@@ -6281,7 +6334,7 @@
         }
       },
       {
-        "place": 119,
+        "place": 120,
         "run": {
           "id": "mrv3948z",
           "weblink": "https://www.speedrun.com/deltarune/runs/mrv3948z",
@@ -6334,7 +6387,7 @@
         }
       },
       {
-        "place": 120,
+        "place": 121,
         "run": {
           "id": "m3q5j3gy",
           "weblink": "https://www.speedrun.com/deltarune/runs/m3q5j3gy",
@@ -6387,7 +6440,7 @@
         }
       },
       {
-        "place": 121,
+        "place": 122,
         "run": {
           "id": "y48x4e2m",
           "weblink": "https://www.speedrun.com/deltarune/runs/y48x4e2m",
@@ -6440,7 +6493,7 @@
         }
       },
       {
-        "place": 122,
+        "place": 123,
         "run": {
           "id": "m7e8dw5z",
           "weblink": "https://www.speedrun.com/deltarune/runs/m7e8dw5z",
@@ -6493,7 +6546,7 @@
         }
       },
       {
-        "place": 123,
+        "place": 124,
         "run": {
           "id": "mked441m",
           "weblink": "https://www.speedrun.com/deltarune/runs/mked441m",
@@ -6546,7 +6599,7 @@
         }
       },
       {
-        "place": 123,
+        "place": 124,
         "run": {
           "id": "z0xdn09z",
           "weblink": "https://www.speedrun.com/deltarune/runs/z0xdn09z",
@@ -6599,7 +6652,7 @@
         }
       },
       {
-        "place": 125,
+        "place": 126,
         "run": {
           "id": "z197r27m",
           "weblink": "https://www.speedrun.com/deltarune/runs/z197r27m",
@@ -6652,7 +6705,7 @@
         }
       },
       {
-        "place": 126,
+        "place": 127,
         "run": {
           "id": "z10lo67m",
           "weblink": "https://www.speedrun.com/deltarune/runs/z10lo67m",
@@ -6705,7 +6758,7 @@
         }
       },
       {
-        "place": 127,
+        "place": 128,
         "run": {
           "id": "mkvj4xxy",
           "weblink": "https://www.speedrun.com/deltarune/runs/mkvj4xxy",
@@ -6758,7 +6811,7 @@
         }
       },
       {
-        "place": 127,
+        "place": 128,
         "run": {
           "id": "zqqqje5z",
           "weblink": "https://www.speedrun.com/deltarune/runs/zqqqje5z",
@@ -6811,7 +6864,7 @@
         }
       },
       {
-        "place": 129,
+        "place": 130,
         "run": {
           "id": "y6jjdxpm",
           "weblink": "https://www.speedrun.com/deltarune/runs/y6jjdxpm",
@@ -6864,7 +6917,7 @@
         }
       },
       {
-        "place": 130,
+        "place": 131,
         "run": {
           "id": "m7l9jv4y",
           "weblink": "https://www.speedrun.com/deltarune/runs/m7l9jv4y",
@@ -6917,7 +6970,7 @@
         }
       },
       {
-        "place": 131,
+        "place": 132,
         "run": {
           "id": "ywvp853z",
           "weblink": "https://www.speedrun.com/deltarune/runs/ywvp853z",
@@ -6970,7 +7023,7 @@
         }
       },
       {
-        "place": 132,
+        "place": 133,
         "run": {
           "id": "mrwe704y",
           "weblink": "https://www.speedrun.com/deltarune/runs/mrwe704y",
@@ -7023,7 +7076,7 @@
         }
       },
       {
-        "place": 133,
+        "place": 134,
         "run": {
           "id": "zxxnl7qz",
           "weblink": "https://www.speedrun.com/deltarune/runs/zxxnl7qz",
@@ -7076,7 +7129,7 @@
         }
       },
       {
-        "place": 134,
+        "place": 135,
         "run": {
           "id": "yw347rnm",
           "weblink": "https://www.speedrun.com/deltarune/runs/yw347rnm",
@@ -7129,7 +7182,7 @@
         }
       },
       {
-        "place": 135,
+        "place": 136,
         "run": {
           "id": "yjxo597z",
           "weblink": "https://www.speedrun.com/deltarune/runs/yjxo597z",
@@ -7182,7 +7235,7 @@
         }
       },
       {
-        "place": 136,
+        "place": 137,
         "run": {
           "id": "y28jkpjy",
           "weblink": "https://www.speedrun.com/deltarune/runs/y28jkpjy",
@@ -7235,7 +7288,7 @@
         }
       },
       {
-        "place": 137,
+        "place": 138,
         "run": {
           "id": "zxl739gz",
           "weblink": "https://www.speedrun.com/deltarune/runs/zxl739gz",
@@ -7288,7 +7341,7 @@
         }
       },
       {
-        "place": 137,
+        "place": 138,
         "run": {
           "id": "y8x6orwm",
           "weblink": "https://www.speedrun.com/deltarune/runs/y8x6orwm",
@@ -7341,7 +7394,7 @@
         }
       },
       {
-        "place": 137,
+        "place": 138,
         "run": {
           "id": "zg2l0eny",
           "weblink": "https://www.speedrun.com/deltarune/runs/zg2l0eny",
@@ -7397,7 +7450,7 @@
         }
       },
       {
-        "place": 140,
+        "place": 141,
         "run": {
           "id": "zn99o69y",
           "weblink": "https://www.speedrun.com/deltarune/runs/zn99o69y",
@@ -7450,7 +7503,7 @@
         }
       },
       {
-        "place": 141,
+        "place": 142,
         "run": {
           "id": "mr6n458m",
           "weblink": "https://www.speedrun.com/deltarune/runs/mr6n458m",
@@ -7503,7 +7556,7 @@
         }
       },
       {
-        "place": 142,
+        "place": 143,
         "run": {
           "id": "yv06e2oz",
           "weblink": "https://www.speedrun.com/deltarune/runs/yv06e2oz",
@@ -7556,7 +7609,7 @@
         }
       },
       {
-        "place": 143,
+        "place": 144,
         "run": {
           "id": "z1pw4rgz",
           "weblink": "https://www.speedrun.com/deltarune/runs/z1pw4rgz",
@@ -7609,7 +7662,7 @@
         }
       },
       {
-        "place": 144,
+        "place": 145,
         "run": {
           "id": "y22qwk7y",
           "weblink": "https://www.speedrun.com/deltarune/runs/y22qwk7y",
@@ -7662,7 +7715,7 @@
         }
       },
       {
-        "place": 145,
+        "place": 146,
         "run": {
           "id": "y20e5kjm",
           "weblink": "https://www.speedrun.com/deltarune/runs/y20e5kjm",
@@ -7715,7 +7768,7 @@
         }
       },
       {
-        "place": 145,
+        "place": 146,
         "run": {
           "id": "yvqpoeem",
           "weblink": "https://www.speedrun.com/deltarune/runs/yvqpoeem",
@@ -7771,7 +7824,7 @@
         }
       },
       {
-        "place": 147,
+        "place": 148,
         "run": {
           "id": "ydpee8vy",
           "weblink": "https://www.speedrun.com/deltarune/runs/ydpee8vy",
@@ -7824,7 +7877,7 @@
         }
       },
       {
-        "place": 148,
+        "place": 149,
         "run": {
           "id": "yw2jonny",
           "weblink": "https://www.speedrun.com/deltarune/runs/yw2jonny",
@@ -7877,7 +7930,7 @@
         }
       },
       {
-        "place": 149,
+        "place": 150,
         "run": {
           "id": "zn54dj8z",
           "weblink": "https://www.speedrun.com/deltarune/runs/zn54dj8z",
@@ -7930,7 +7983,7 @@
         }
       },
       {
-        "place": 150,
+        "place": 151,
         "run": {
           "id": "y8gjl35z",
           "weblink": "https://www.speedrun.com/deltarune/runs/y8gjl35z",
@@ -7983,7 +8036,7 @@
         }
       },
       {
-        "place": 151,
+        "place": 152,
         "run": {
           "id": "z166do7m",
           "weblink": "https://www.speedrun.com/deltarune/runs/z166do7m",
@@ -8036,7 +8089,7 @@
         }
       },
       {
-        "place": 152,
+        "place": 153,
         "run": {
           "id": "zge6kkey",
           "weblink": "https://www.speedrun.com/deltarune/runs/zge6kkey",
@@ -8089,7 +8142,7 @@
         }
       },
       {
-        "place": 153,
+        "place": 154,
         "run": {
           "id": "y8x7365m",
           "weblink": "https://www.speedrun.com/deltarune/runs/y8x7365m",
@@ -8142,7 +8195,7 @@
         }
       },
       {
-        "place": 154,
+        "place": 155,
         "run": {
           "id": "y2pnv19z",
           "weblink": "https://www.speedrun.com/deltarune/runs/y2pnv19z",
@@ -8195,7 +8248,7 @@
         }
       },
       {
-        "place": 155,
+        "place": 156,
         "run": {
           "id": "y2ppwj6z",
           "weblink": "https://www.speedrun.com/deltarune/runs/y2ppwj6z",
@@ -8248,7 +8301,7 @@
         }
       },
       {
-        "place": 155,
+        "place": 156,
         "run": {
           "id": "y2j1k55z",
           "weblink": "https://www.speedrun.com/deltarune/runs/y2j1k55z",
@@ -8301,7 +8354,7 @@
         }
       },
       {
-        "place": 157,
+        "place": 158,
         "run": {
           "id": "mk1023vy",
           "weblink": "https://www.speedrun.com/deltarune/runs/mk1023vy",
@@ -8354,7 +8407,7 @@
         }
       },
       {
-        "place": 158,
+        "place": 159,
         "run": {
           "id": "y2k4j9wy",
           "weblink": "https://www.speedrun.com/deltarune/runs/y2k4j9wy",
@@ -8407,7 +8460,7 @@
         }
       },
       {
-        "place": 159,
+        "place": 160,
         "run": {
           "id": "zq015d8y",
           "weblink": "https://www.speedrun.com/deltarune/runs/zq015d8y",
@@ -8460,7 +8513,7 @@
         }
       },
       {
-        "place": 160,
+        "place": 161,
         "run": {
           "id": "yjxg9loz",
           "weblink": "https://www.speedrun.com/deltarune/runs/yjxg9loz",
@@ -8513,7 +8566,7 @@
         }
       },
       {
-        "place": 161,
+        "place": 162,
         "run": {
           "id": "mej7g18y",
           "weblink": "https://www.speedrun.com/deltarune/runs/mej7g18y",
@@ -8566,7 +8619,7 @@
         }
       },
       {
-        "place": 161,
+        "place": 162,
         "run": {
           "id": "y60ljeqy",
           "weblink": "https://www.speedrun.com/deltarune/runs/y60ljeqy",
@@ -8619,7 +8672,7 @@
         }
       },
       {
-        "place": 163,
+        "place": 164,
         "run": {
           "id": "y6jn3v6m",
           "weblink": "https://www.speedrun.com/deltarune/runs/y6jn3v6m",
@@ -8672,7 +8725,7 @@
         }
       },
       {
-        "place": 163,
+        "place": 164,
         "run": {
           "id": "mkwkl51m",
           "weblink": "https://www.speedrun.com/deltarune/runs/mkwkl51m",
@@ -8725,7 +8778,7 @@
         }
       },
       {
-        "place": 163,
+        "place": 164,
         "run": {
           "id": "zg66gddm",
           "weblink": "https://www.speedrun.com/deltarune/runs/zg66gddm",
@@ -8768,59 +8821,6 @@
             "platform": "8gej2n93",
             "emulated": true,
             "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "68kogvyn": "9qjoj7ol",
-            "gnxj5j4l": "rqv0w7wl",
-            "ylpk0or8": "1w4ooxmq"
-          }
-        }
-      },
-      {
-        "place": 166,
-        "run": {
-          "id": "me2qvk0m",
-          "weblink": "https://www.speedrun.com/deltarune/runs/me2qvk0m",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "9d8yo9wk",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://www.youtube.com/watch?v=TCjEFSRk_DA"
-              }
-            ]
-          },
-          "comment": null,
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2025-09-04T11:19:26Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "j0g1rkwx",
-              "uri": "https://www.speedrun.com/api/v1/users/j0g1rkwx"
-            }
-          ],
-          "date": "2025-09-02",
-          "submitted": "2025-09-02T20:37:29Z",
-          "times": {
-            "primary": "PT33M1S",
-            "primary_t": 1981,
-            "realtime": "PT33M1S",
-            "realtime_t": 1981,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "pr184lqn"
           },
           "splits": null,
           "values": {
