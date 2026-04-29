@@ -4,6 +4,7 @@
     "group": "base",
     "category1": "Chapter 1",
     "category2": "All Bosses",
+    "total_runs": 144,
     "runs": [
       {
         "id": "8geq62rj",
@@ -222,6 +223,14 @@
         "banned": false
       },
       {
+        "id": "810eeyrx",
+        "name": "Vicke",
+        "time": 1882,
+        "date": "2026-04-28",
+        "video": "https://youtu.be/L26r5oaNZtk",
+        "banned": false
+      },
+      {
         "id": "jozz4p78",
         "name": "dussk_",
         "time": 1886,
@@ -267,14 +276,6 @@
         "time": 1895,
         "date": "2025-10-08",
         "video": "https://youtu.be/iq2PHl-d9t4",
-        "banned": false
-      },
-      {
-        "id": "810eeyrx",
-        "name": "Vicke",
-        "time": 1898,
-        "date": "2026-04-26",
-        "video": "https://youtu.be/XoB6ZyEZIdY",
         "banned": false
       },
       {

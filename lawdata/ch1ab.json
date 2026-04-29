@@ -1420,6 +1420,58 @@
       {
         "place": 28,
         "run": {
+          "id": "zxp3x95y",
+          "weblink": "https://www.speedrun.com/deltarune/runs/zxp3x95y",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "824r35md",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/L26r5oaNZtk"
+              }
+            ]
+          },
+          "comment": "hi",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-29T12:02:22Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "810eeyrx",
+              "uri": "https://www.speedrun.com/api/v1/users/810eeyrx"
+            }
+          ],
+          "date": "2026-04-28",
+          "submitted": "2026-04-28T19:24:47Z",
+          "times": {
+            "primary": "PT31M22S",
+            "primary_t": 1882,
+            "realtime": "PT31M22S",
+            "realtime_t": 1882,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "ylq65d38": "81wj346q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 29,
+        "run": {
           "id": "mrdo7pgz",
           "weblink": "https://www.speedrun.com/deltarune/runs/mrdo7pgz",
           "game": "pdvznzr6",
@@ -1470,7 +1522,7 @@
         }
       },
       {
-        "place": 29,
+        "place": 30,
         "run": {
           "id": "zg9weejm",
           "weblink": "https://www.speedrun.com/deltarune/runs/zg9weejm",
@@ -1522,7 +1574,7 @@
         }
       },
       {
-        "place": 30,
+        "place": 31,
         "run": {
           "id": "z073x7jy",
           "weblink": "https://www.speedrun.com/deltarune/runs/z073x7jy",
@@ -1574,7 +1626,7 @@
         }
       },
       {
-        "place": 30,
+        "place": 31,
         "run": {
           "id": "y6jgg21m",
           "weblink": "https://www.speedrun.com/deltarune/runs/y6jgg21m",
@@ -1626,7 +1678,7 @@
         }
       },
       {
-        "place": 30,
+        "place": 31,
         "run": {
           "id": "yo82235z",
           "weblink": "https://www.speedrun.com/deltarune/runs/yo82235z",
@@ -1678,7 +1730,7 @@
         }
       },
       {
-        "place": 33,
+        "place": 34,
         "run": {
           "id": "zg97oddm",
           "weblink": "https://www.speedrun.com/deltarune/runs/zg97oddm",
@@ -1720,58 +1772,6 @@
           "system": {
             "platform": "8gej2n93",
             "emulated": true,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "ylq65d38": "81wj346q",
-            "ylpk0or8": "lmo66081"
-          }
-        }
-      },
-      {
-        "place": 34,
-        "run": {
-          "id": "zqnj061z",
-          "weblink": "https://www.speedrun.com/deltarune/runs/zqnj061z",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "824r35md",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://youtu.be/XoB6ZyEZIdY"
-              }
-            ]
-          },
-          "comment": "Would have been pb if i didnt missclick on jevil 😔",
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2026-04-28T15:54:12Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "810eeyrx",
-              "uri": "https://www.speedrun.com/api/v1/users/810eeyrx"
-            }
-          ],
-          "date": "2026-04-26",
-          "submitted": "2026-04-26T19:01:35Z",
-          "times": {
-            "primary": "PT31M38S",
-            "primary_t": 1898,
-            "realtime": "PT31M38S",
-            "realtime_t": 1898,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
             "region": "o316x197"
           },
           "splits": null,
