@@ -17,26 +17,37 @@ for (let i = 0; i < order.length; i++) {
     const ordercategory3 = order[i].displaycategory3;
     const newdata = [];
 
-    newdata.push({
-        "name_ideal" : ordername,
-        "group" : ordergroup,
-        "category1" : ordercategory1,
-        "category2" : ordercategory2,
-        "category3" : ordercategory3,
-        "runs" : []
-    });
-
     const orderboard = "./lawdata/" + ordername + ".json";
     const orderdata = await loadjson(orderboard);
     const orderruns = orderdata.data.runs;
+
     if (!orderruns || orderruns.length === 0) {
         toptimes.push({
-            "category" : ordername,
-            "time" : null
+            "category": ordername,
+            "time": null
         });
+        await savejson("./leaderboard", ordername, [{
+            "name_ideal": ordername,
+            "group": ordergroup,
+            "category1": ordercategory1,
+            "category2": ordercategory2,
+            "category3": ordercategory3,
+            "total_runs": 0,
+            "runs": []
+        }]);
         continue;
     }
-    //　ここから各要素の取得
+
+    newdata.push({
+        "name_ideal": ordername,
+        "group": ordergroup,
+        "category1": ordercategory1,
+        "category2": ordercategory2,
+        "category3": ordercategory3,
+        "total_runs": orderruns.length,
+        "runs": []
+    });
+
     for (let j = 0; j < orderruns.length; j++) {
         const video = orderruns[j].run.videos?.links?.[0]?.uri ?? null;
         const id = orderruns[j].run.players[0].id;
@@ -45,23 +56,23 @@ for (let i = 0; i < order.length; i++) {
         const date = orderruns[j].run.date;
         const banned = bannedcheck.get(id);
 
-        if(j === 0){
+        if (j === 0) {
             toptimes.push({
-                "category" : ordername,
-                "time" : time
+                "category": ordername,
+                "time": time
             });
         }
 
         newdata[0].runs.push({
-            "id" : id,
-            "name" : runner,
-            "time" : time,
-            "date" : date,
-            "video" : video,
-            "banned" : banned
+            "id": id,
+            "name": runner,
+            "time": time,
+            "date": date,
+            "video": video,
+            "banned": banned
         });
-
     }
+
     await savejson("./leaderboard", ordername, newdata);
     console.log(ordername + " is done.");
 }

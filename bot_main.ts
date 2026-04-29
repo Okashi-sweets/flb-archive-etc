@@ -57,11 +57,13 @@ Deno.serve(async (req) => {
         return new Response(null, { status: 200 });
     }
 
-    // コンポーネント（セレクトメニュー）
+    // コンポーネント（セレクトメニュー・ボタン）
     if (interaction.type === 3) {
         const customId = interaction.data.custom_id as string;
         if (customId.startsWith("register_")) {
             await register.handleComponent(interaction);
+        } else if (customId.startsWith("linkuser_")) {
+            await linkuser.handleComponent(interaction);
         }
         return new Response(null, { status: 200 });
     }
