@@ -2,6 +2,7 @@ import { discord } from "./ts_component/webhook.ts";
 import { checksrc } from "./checksrc.ts";
 import { listed } from "./listed.ts";
 import { user } from "./user.ts";
+import { generateNewsIndex } from "./generate_news.ts";
 import { gene_lb } from "./generate_leaderboard.ts";
 import { gene_user } from "./generate_userdata.ts";
 import { sort_rank } from "./sort_rank.ts";
@@ -25,8 +26,10 @@ if (updatedlist.length > 0) {
     console.log("ユーザーデータの生成開始")
     await gene_user()
     await sort_rank();
+    await generateNewsIndex();
     await discord(updatedlist.length + "件のリーダーボードを更新、" + diff.length + "件のユーザーを追加しました")
 }else{
+    await generateNewsIndex();
     await discord("更新はありませんでした")
 }
 console.log("レスキュー完了！")

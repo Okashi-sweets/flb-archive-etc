@@ -4,6 +4,7 @@
     "group": "base",
     "category1": "Chapter 1",
     "category2": "Any%",
+    "total_runs": 1084,
     "runs": [
       {
         "id": "8geq62rj",
@@ -1006,6 +1007,14 @@
         "banned": false
       },
       {
+        "id": "o86e3ywx",
+        "name": "Tenebrosful",
+        "time": 1658.167,
+        "date": "2026-04-29",
+        "video": "https://youtu.be/CLJ2d3y65tU",
+        "banned": false
+      },
+      {
         "id": "xz26rqnx",
         "name": "Gummypower300",
         "time": 1658.267,
@@ -1273,14 +1282,6 @@
         "time": 1679,
         "date": "2019-01-17",
         "video": "https://youtu.be/1e3E11mukEc",
-        "banned": false
-      },
-      {
-        "id": "o86e3ywx",
-        "name": "Tenebrosful",
-        "time": 1679.9,
-        "date": "2025-07-22",
-        "video": "https://youtu.be/Zx64tJzb0ic",
         "banned": false
       },
       {

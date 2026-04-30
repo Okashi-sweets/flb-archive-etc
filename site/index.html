@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FLB Database — Archive of Deltarune Speedrunning </title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="wrap">
+
+  <!-- LOGO -->
+  <header>
+    <div class="logo-eyebrow">Archive of Deltarune Speedrunning</div>
+
+    <!--
+      ロゴ画像を使う場合はこの div の中身を以下に差し替え:
+      <img src="./assets/logo.png" alt="FLB Archive">
+    -->
+    <div class="logo-img-wrap">
+      <div class="logo-fallback">FLB<span class="hl">Database</span></div>
+    </div>
+
+    <div class="logo-sub">Community leaderboards &middot; Race history &middot; Runner profiles</div>
+  </header>
+
+  <!-- NEWS -->
+  <div class="news-section">
+    <div class="sec-label">Latest news</div>
+    <div class="news-stage" id="news-stage"></div>
+    <div class="news-dots" id="dots"></div>
+    <div class="news-progress" id="progress"></div>
+  </div>
+
+  <!-- NAVIGATION LINKS -->
+  <div class="links-section">
+    <div class="sec-label">Navigate</div>
+    <div class="links-grid">
+
+      <a class="link-card accent" href="./leaderboard.html">
+        <div class="card-num">01</div>
+        <div class="card-title">Leader<br>board</div>
+        <div class="card-desc">Category rankings<br>PB listings &amp; video links</div>
+        <div class="card-arrow">&#8599;</div>
+      </a>
+
+      <a class="link-card" href="./races.html">
+        <div class="card-num">02</div>
+        <div class="card-title">Races</div>
+        <div class="card-desc">Full race archive<br>Entrants &amp; results</div>
+        <div class="card-arrow">&#8599;</div>
+      </a>
+
+      <a class="link-card" href="./events.html">
+        <div class="card-num">03</div>
+        <div class="card-title">Events</div>
+        <div class="card-desc">Tournaments &amp; announcements<br>Ongoing &amp; upcoming</div>
+        <div class="card-arrow">&#8599;</div>
+      </a>
+
+    </div>
+
+    <!-- LAST UPDATED -->
+    <div class="footer-bar">
+      <div class="footer-updated" id="last-updated">Last updated: —</div>
+      <div class="footer-source">Data via racetime.gg</div>
+    </div>
+  </div>
+
+</div><!-- .wrap -->
+
+<script>
+(function () {
+  const INTERVAL = 10000;
+  let current = 0;
+  let timer;
+  let slides = [];
+  const stage = document.getElementById('news-stage');
+  const dotsEl = document.getElementById('dots');
+  const prog = document.getElementById('progress');
+
+  const NEWS_DIR = './news/';
+
+  function normalizeTag(tag) {
+    return String(tag || 'news').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  }
+
+  function basename(path) {
+    return path.replace(/.*[\\/]/, '');
+  }
+
+  function extractMarkdownItem(text) {
+    const item = {};
+    let body = text.replace(/\r\n/g, '\n');
+
+    if (body.startsWith('---')) {
+      const end = body.indexOf('\n---', 3);
+      if (end !== -1) {
+        const frontmatter = body.slice(3, end).trim();
+        body = body.slice(end + 4).trimStart();
+        frontmatter.split(/\r?\n/).forEach((line) => {
+          const match = line.match(/^([a-zA-Z0-9_-]+)\s*:\s*(.*)$/);
+          if (!match) return;
+          const key = match[1].toLowerCase();
+          const value = match[2].trim();
+          if (key === 'title' || key === 'date' || key === 'tag') {
+            item[key] = value;
+          }
+        });
+      }
+    }
+
+    if (!item.title) {
+      const titleMatch = body.match(/^\s*#\s+(.+)$/m);
+      if (titleMatch) item.title = titleMatch[1].trim();
+    }
+
+    if (!item.summary) {
+      const content = body.replace(/^\s*#.*(?:\n|\r\n)+/, '').trim();
+      const paragraph = content.split(/\n\s*\n/)[0].trim();
+      if (paragraph) {
+        item.summary = paragraph
+          .replace(/\[(.*?)\]\((?:.*?)\)/g, '$1')
+          .replace(/[*_`]/g, '')
+          .replace(/\s+/g, ' ')
+          .trim();
+      }
+    }
+
+    return item;
+  }
+
+  async function fetchNewsFileList() {
+    try {
+      const response = await fetch(NEWS_DIR, { cache: 'no-store' });
+      if (!response.ok) throw new Error('directory listing not available');
+      const text = await response.text();
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(text, 'text/html');
+      const links = Array.from(doc.querySelectorAll('a[href$=".md"]'));
+      const files = Array.from(new Set(
+        links.map((link) => basename(link.getAttribute('href') || '')).filter(Boolean)
+      ));
+      if (files.length > 0) {
+        files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }));
+        return files;
+      }
+    } catch (error) {
+      console.warn('Failed to read news directory listing:', error);
+    }
+    return [];
+  }
+
+  async function loadNewsFromMarkdown() {
+    try {
+      const files = await fetchNewsFileList();
+      const items = [];
+
+      for (const file of files) {
+        try {
+          const response = await fetch(NEWS_DIR + file, { cache: 'no-store' });
+          if (!response.ok) throw new Error('failed to fetch ' + file);
+          const text = await response.text();
+          const item = extractMarkdownItem(text);
+          item.url = NEWS_DIR + file.replace(/\.md$/i, '.html');
+          if (item.title || item.summary) {
+            items.push(item);
+          }
+        } catch (error) {
+          console.warn('Failed to load news markdown:', file, error);
+        }
+      }
+
+      if (items.length === 0) throw new Error('no news files loaded');
+      renderNewsItems(items);
+    } catch (error) {
+      console.warn('Failed to load news metadata:', error);
+      renderFallback();
+    }
+  }
+
+  function createSlide(item, index) {
+    const slide = document.createElement('div');
+    slide.className = 'news-slide' + (index === 0 ? ' active' : '');
+
+    const tag = document.createElement('div');
+    tag.className = 'news-tag tag-' + normalizeTag(item.tag);
+    tag.textContent = item.tag ? '• ' + item.tag : '• News';
+
+    const title = document.createElement('div');
+    title.className = 'news-title';
+    title.textContent = item.title || 'News update';
+
+    const content = document.createElement('div');
+    content.className = 'news-content-preview';
+    if (item.summary) {
+      content.textContent = item.summary;
+    }
+
+    const footer = document.createElement('div');
+    footer.className = 'news-footer';
+
+    const date = document.createElement('div');
+    date.className = 'news-date';
+    date.textContent = item.date || '';
+
+    footer.appendChild(date);
+
+    if (item.url) {
+      const link = document.createElement('a');
+      link.className = 'news-link';
+      link.href = item.url;
+      link.append(title);
+      if (content.textContent) link.append(content);
+      slide.append(tag, link, footer);
+    } else {
+      slide.append(tag, title, content, footer);
+    }
+
+    return slide;
+  }
+
+  function renderFallback() {
+    renderNewsItems([{
+      title: 'FLB Database is now open',
+      date: '2025-04-30',
+      tag: 'Event',
+      summary: ''
+    }]);
+  }
+
+  function renderNewsItems(items) {
+    stage.innerHTML = '';
+    dotsEl.innerHTML = '';
+    slides = items.map((item, index) => {
+      const slide = createSlide(item, index);
+      stage.appendChild(slide);
+
+      const button = document.createElement('button');
+      button.className = 'dot' + (index === 0 ? ' active' : '');
+      button.setAttribute('aria-label', 'News ' + (index + 1));
+      button.addEventListener('click', () => goTo(index));
+      dotsEl.appendChild(button);
+
+      return slide;
+    });
+
+    if (slides.length === 0) {
+      renderFallback();
+      return;
+    }
+
+    if (slides.length === 1) {
+      clearTimeout(timer);
+      return;
+    }
+
+    resetProgress();
+  }
+
+  function goTo(index) {
+    if (slides.length === 0) return;
+
+    slides[current].classList.remove('active');
+    slides[current].classList.add('leaving');
+    const previous = current;
+    setTimeout(() => slides[previous].classList.remove('leaving'), 500);
+
+    current = (index + slides.length) % slides.length;
+    slides[current].classList.add('active');
+
+    document.querySelectorAll('.dot').forEach((dot, i) => {
+      dot.classList.toggle('active', i === current);
+    });
+
+    resetProgress();
+  }
+
+  function startProgress() {
+    prog.style.transition = 'none';
+    prog.style.width = '0%';
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      prog.style.transition = 'width ' + INTERVAL + 'ms linear';
+      prog.style.width = '100%';
+    }));
+    timer = setTimeout(() => goTo(current + 1), INTERVAL);
+  }
+
+  function resetProgress() {
+    clearTimeout(timer);
+    startProgress();
+  }
+
+  async function loadNews() {
+    try {
+      const response = await fetch('./news/index.json', { cache: 'no-store' });
+      if (response.ok) {
+        const json = await response.json();
+        if (Array.isArray(json)) {
+          renderNewsItems(json);
+          return;
+        }
+      }
+      throw new Error('news index not available');
+    } catch (error) {
+      console.warn('Failed to load news index:', error);
+      await loadNewsFromMarkdown();
+    }
+  }
+
+  function setLastUpdated() {
+    const now = new Date();
+    const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    const tzShort = new Intl.DateTimeFormat('en', { timeZoneName: 'short', timeZone: tz })
+      .formatToParts(now).find(p => p.type === 'timeZoneName').value;
+    const fmt = now.toLocaleString(navigator.language || 'en', {
+      year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit',
+      hour12: false,
+      timeZone: tz
+    });
+    document.getElementById('last-updated').textContent =
+      'Last updated: ' + fmt + ' ' + tzShort;
+  }
+
+  loadNews();
+  setLastUpdated();
+})();
+</script>
+</body>
+</html>
