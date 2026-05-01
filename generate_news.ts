@@ -3,23 +3,40 @@ export async function generateNewsIndex() {
   const target = `${newsDir}/index.json`;
 
   try {
-    const entries: string[] = [];
+    const files: string[] = [];
     for await (const entry of Deno.readDir(newsDir)) {
-      if (!entry.isFile || !entry.name.endsWith(".md")) continue;
-      entries.push(entry.name);
+      if (!entry.isFile) continue;
+      if (entry.name.toLowerCase().endsWith('.md') || entry.name.toLowerCase().endsWith('.html')) {
+        files.push(entry.name);
+      }
     }
 
-    entries.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: "base" }));
-    const items = [];
+    files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }));
+    const slugToFile = new Map<string, string>();
+    for (const fileName of files) {
+      const slug = fileName.replace(/\.(?:md|html)$/i, '');
+      const existing = slugToFile.get(slug);
+      if (existing && existing.toLowerCase().endsWith('.html') && fileName.toLowerCase().endsWith('.md')) {
+        slugToFile.set(slug, fileName);
+      } else if (!existing) {
+        slugToFile.set(slug, fileName);
+      }
+    }
 
-    for (const fileName of entries) {
+    const items = [];
+    for (const [slug, fileName] of slugToFile.entries()) {
       const text = await Deno.readTextFile(`${newsDir}/${fileName}`);
-      const slug = fileName.replace(/\.md$/i, '');
-      const htmlFileName = `${slug}.html`;
-      const item = parseNewsMarkdown(text, fileName);
-      item.url = `./news/${htmlFileName}`;
-      await generateNewsPage(`${newsDir}/${htmlFileName}`, item, text);
-      items.push(item);
+      if (fileName.toLowerCase().endsWith('.md')) {
+        const htmlFileName = `${slug}.html`;
+        const item = parseNewsMarkdown(text, fileName);
+        item.url = `./news/${htmlFileName}`;
+        await generateNewsPage(`${newsDir}/${htmlFileName}`, item, text);
+        items.push(item);
+      } else {
+        const item = extractHtmlItem(text);
+        item.url = `./news/${fileName}`;
+        items.push(item);
+      }
     }
 
     await Deno.writeTextFile(target, JSON.stringify(items, null, 2));
@@ -68,6 +85,37 @@ function parseNewsMarkdown(text: string, fileName: string) {
   }
 
   return item;
+}
+
+function extractHtmlItem(text: string) {
+  const item: Record<string, string> = {};
+
+  const headingMatch = /<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(text);
+  const titleMatch = headingMatch || /<title[^>]*>([\s\S]*?)<\/title>/i.exec(text);
+  if (titleMatch && titleMatch[1]) {
+    item.title = cleanHtmlText(titleMatch[1]);
+  }
+
+  const paragraphMatch = /<p[^>]*>([\s\S]*?)<\/p>/i.exec(text);
+  if (paragraphMatch && paragraphMatch[1]) {
+    item.summary = cleanHtmlText(paragraphMatch[1]);
+  }
+
+  const dateMatch = /<meta\s+name=["']date["']\s+content=["']([^"']+)["'][^>]*>/i.exec(text);
+  if (dateMatch && dateMatch[1]) {
+    item.date = dateMatch[1].trim();
+  }
+
+  const tagMatch = /<meta\s+name=["']tag["']\s+content=["']([^"']+)["'][^>]*>/i.exec(text);
+  if (tagMatch && tagMatch[1]) {
+    item.tag = tagMatch[1].trim();
+  }
+
+  return item;
+}
+
+function cleanHtmlText(value: string) {
+  return value.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 }
 
 function generateNewsPage(filePath: string, item: Record<string, string>, markdown: string) {

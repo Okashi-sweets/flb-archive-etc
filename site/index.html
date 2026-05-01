@@ -27,7 +27,10 @@
 
   <!-- NEWS -->
   <div class="news-section">
-    <div class="sec-label">Latest news</div>
+    <div class="news-section-header">
+      <div class="sec-label">Latest news</div>
+      <a class="news-all-link" href="./news/">View all news &#8599;</a>
+    </div>
     <div class="news-stage" id="news-stage"></div>
     <div class="news-dots" id="dots"></div>
     <div class="news-progress" id="progress"></div>
@@ -138,10 +141,25 @@
       const text = await response.text();
       const parser = new DOMParser();
       const doc = parser.parseFromString(text, 'text/html');
-      const links = Array.from(doc.querySelectorAll('a[href$=".md"]'));
+      const links = Array.from(doc.querySelectorAll('a[href$=".md"], a[href$=".html"]'));
+      const allFiles = links
+        .map((link) => basename(link.getAttribute('href') || ''))
+        .filter(Boolean);
+
+      // .md があればそちらを優先し、対応する .html は除外して重複を防ぐ
+      const mdBases = new Set(
+        allFiles.filter(f => f.toLowerCase().endsWith('.md'))
+          .map(f => f.replace(/\.md$/i, '').toLowerCase())
+      );
       const files = Array.from(new Set(
-        links.map((link) => basename(link.getAttribute('href') || '')).filter(Boolean)
+        allFiles.filter(f => {
+          if (f.toLowerCase().endsWith('.html')) {
+            return !mdBases.has(f.replace(/\.html$/i, '').toLowerCase());
+          }
+          return true;
+        })
       ));
+
       if (files.length > 0) {
         files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }));
         return files;
@@ -152,7 +170,7 @@
     return [];
   }
 
-  async function loadNewsFromMarkdown() {
+  async function loadNewsFromNewsFiles() {
     try {
       const files = await fetchNewsFileList();
       const items = [];
@@ -162,13 +180,20 @@
           const response = await fetch(NEWS_DIR + file, { cache: 'no-store' });
           if (!response.ok) throw new Error('failed to fetch ' + file);
           const text = await response.text();
-          const item = extractMarkdownItem(text);
-          item.url = NEWS_DIR + file.replace(/\.md$/i, '.html');
+          let item;
+          if (file.toLowerCase().endsWith('.html')) {
+            item = extractHtmlItem(text);
+            item.url = NEWS_DIR + file;
+          } else {
+            item = extractMarkdownItem(text);
+            const htmlName = file.replace(/\.md$/i, '.html');
+            item.url = NEWS_DIR + htmlName;
+          }
           if (item.title || item.summary) {
             items.push(item);
           }
         } catch (error) {
-          console.warn('Failed to load news markdown:', file, error);
+          console.warn('Failed to load news file:', file, error);
         }
       }
 
@@ -178,6 +203,34 @@
       console.warn('Failed to load news metadata:', error);
       renderFallback();
     }
+  }
+
+  function extractHtmlItem(text) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/html');
+    const item = {};
+
+    const titleEl = doc.querySelector('h1');
+    const title = titleEl?.textContent?.trim() ||
+      doc.querySelector('title')?.textContent?.trim();
+    if (title) item.title = title;
+
+    const firstParagraph = doc.querySelector('p');
+    if (firstParagraph?.textContent) {
+      item.summary = firstParagraph.textContent.trim().replace(/\s+/g, ' ');
+    }
+
+    const dateMeta = doc.querySelector('meta[name="date"]');
+    if (dateMeta instanceof HTMLMetaElement && dateMeta.content) {
+      item.date = dateMeta.content.trim();
+    }
+
+    const tagMeta = doc.querySelector('meta[name="tag"]');
+    if (tagMeta instanceof HTMLMetaElement && tagMeta.content) {
+      item.tag = tagMeta.content.trim();
+    }
+
+    return item;
   }
 
   function createSlide(item, index) {
@@ -207,10 +260,11 @@
 
     footer.appendChild(date);
 
-    if (item.url) {
+    const linkHref = item.url || null;
+    if (linkHref) {
       const link = document.createElement('a');
       link.className = 'news-link';
-      link.href = item.url;
+      link.href = linkHref;
       link.append(title);
       if (content.textContent) link.append(content);
       slide.append(tag, link, footer);
@@ -226,7 +280,8 @@
       title: 'FLB Database is now open',
       date: '2025-04-30',
       tag: 'Event',
-      summary: ''
+      summary: '',
+      url: './news/open.html'
     }]);
   }
 
@@ -293,20 +348,7 @@
   }
 
   async function loadNews() {
-    try {
-      const response = await fetch('./news/index.json', { cache: 'no-store' });
-      if (response.ok) {
-        const json = await response.json();
-        if (Array.isArray(json)) {
-          renderNewsItems(json);
-          return;
-        }
-      }
-      throw new Error('news index not available');
-    } catch (error) {
-      console.warn('Failed to load news index:', error);
-      await loadNewsFromMarkdown();
-    }
+    await loadNewsFromNewsFiles();
   }
 
   function setLastUpdated() {

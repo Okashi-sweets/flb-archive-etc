@@ -133,6 +133,41 @@ header {
 /* ── NEWS ── */
 .news-section { padding: 40px 0 0; }
 
+.news-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+.news-section-header .sec-label {
+  margin-bottom: 0;
+  flex: 1;
+}
+
+.news-all-link {
+  font-family: var(--fm);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--acc);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 12px;
+  border: 1px solid var(--acc-border);
+  border-radius: 5px;
+  background: var(--acc-bg);
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-all-link:hover {
+  background: rgba(74,158,187,0.18);
+  border-color: rgba(74,158,187,0.45);
+  color: #9ad0f0;
+}
+
 .news-stage {
   position: relative;
   background: var(--s1);
