@@ -120,6 +120,58 @@
       {
         "place": 3,
         "run": {
+          "id": "y6w2800z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/y6w2800z",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "jdr51x0k",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/biwdTpu5ykU"
+              }
+            ]
+          },
+          "comment": "on absolutely EVERYBODY'S SOUL in the ENTIRE MULTIVERSE, world record WILL be mine",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-30T16:32:17Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "8ezowdo8",
+              "uri": "https://www.speedrun.com/api/v1/users/8ezowdo8"
+            }
+          ],
+          "date": "2026-04-29",
+          "submitted": "2026-04-29T20:48:50Z",
+          "times": {
+            "primary": "PT38M52S",
+            "primary_t": 2332,
+            "realtime": "PT38M52S",
+            "realtime_t": 2332,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "2lgkxye8": "12ve277q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 4,
+        "run": {
           "id": "yw5x100y",
           "weblink": "https://www.speedrun.com/deltarune/runs/yw5x100y",
           "game": "pdvznzr6",
@@ -170,7 +222,7 @@
         }
       },
       {
-        "place": 4,
+        "place": 5,
         "run": {
           "id": "m7vpvqwm",
           "weblink": "https://www.speedrun.com/deltarune/runs/m7vpvqwm",
@@ -222,7 +274,7 @@
         }
       },
       {
-        "place": 4,
+        "place": 5,
         "run": {
           "id": "z02w5q8m",
           "weblink": "https://www.speedrun.com/deltarune/runs/z02w5q8m",
@@ -274,7 +326,7 @@
         }
       },
       {
-        "place": 6,
+        "place": 7,
         "run": {
           "id": "zg1d6dez",
           "weblink": "https://www.speedrun.com/deltarune/runs/zg1d6dez",
@@ -308,58 +360,6 @@
             "primary_t": 2337,
             "realtime": "PT38M57S",
             "realtime_t": 2337,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "2lgkxye8": "12ve277q",
-            "ylpk0or8": "lmo66081"
-          }
-        }
-      },
-      {
-        "place": 7,
-        "run": {
-          "id": "zq55391z",
-          "weblink": "https://www.speedrun.com/deltarune/runs/zq55391z",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "jdr51x0k",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://www.youtube.com/watch?v=qx8xCmoFd7c"
-              }
-            ]
-          },
-          "comment": "middest 38 ever besides tenna",
-          "status": {
-            "status": "verified",
-            "examiner": "1xymkgzx",
-            "verify-date": "2026-01-22T11:32:51Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "8ezowdo8",
-              "uri": "https://www.speedrun.com/api/v1/users/8ezowdo8"
-            }
-          ],
-          "date": "2026-01-21",
-          "submitted": "2026-01-21T20:39:53Z",
-          "times": {
-            "primary": "PT38M58S",
-            "primary_t": 2338,
-            "realtime": "PT38M58S",
-            "realtime_t": 2338,
             "realtime_noloads": null,
             "realtime_noloads_t": 0,
             "ingame": null,

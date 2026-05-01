@@ -23,6 +23,14 @@
         "banned": false
       },
       {
+        "id": "8ezowdo8",
+        "name": "ARDI04",
+        "time": 2332,
+        "date": "2026-04-29",
+        "video": "https://youtu.be/biwdTpu5ykU",
+        "banned": false
+      },
+      {
         "id": "qj2ze5lj",
         "name": "NERS",
         "time": 2334,
@@ -52,14 +60,6 @@
         "time": 2337,
         "date": "2026-04-07",
         "video": "https://youtu.be/bkDPMo3z1Fw",
-        "banned": false
-      },
-      {
-        "id": "8ezowdo8",
-        "name": "ARDI04",
-        "time": 2338,
-        "date": "2026-01-21",
-        "video": "https://www.youtube.com/watch?v=qx8xCmoFd7c",
         "banned": false
       },
       {

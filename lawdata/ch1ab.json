@@ -1160,6 +1160,58 @@
       {
         "place": 23,
         "run": {
+          "id": "yjr27kgz",
+          "weblink": "https://www.speedrun.com/deltarune/runs/yjr27kgz",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "824r35md",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://www.youtube.com/watch?v=KJin9W3Th7s"
+              }
+            ]
+          },
+          "comment": null,
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-04-30T16:30:56Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "810eeyrx",
+              "uri": "https://www.speedrun.com/api/v1/users/810eeyrx"
+            }
+          ],
+          "date": "2026-04-29",
+          "submitted": "2026-04-29T18:34:17Z",
+          "times": {
+            "primary": "PT31M8S",
+            "primary_t": 1868,
+            "realtime": "PT31M8S",
+            "realtime_t": 1868,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": null,
+            "ingame_t": 0
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "o316x197"
+          },
+          "splits": null,
+          "values": {
+            "ylq65d38": "81wj346q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 24,
+        "run": {
           "id": "znqgo2lz",
           "weblink": "https://www.speedrun.com/deltarune/runs/znqgo2lz",
           "game": "pdvznzr6",
@@ -1210,7 +1262,7 @@
         }
       },
       {
-        "place": 24,
+        "place": 25,
         "run": {
           "id": "m77rd00m",
           "weblink": "https://www.speedrun.com/deltarune/runs/m77rd00m",
@@ -1262,7 +1314,7 @@
         }
       },
       {
-        "place": 25,
+        "place": 26,
         "run": {
           "id": "zqe1o0rz",
           "weblink": "https://www.speedrun.com/deltarune/runs/zqe1o0rz",
@@ -1314,7 +1366,7 @@
         }
       },
       {
-        "place": 26,
+        "place": 27,
         "run": {
           "id": "zqeo5l1z",
           "weblink": "https://www.speedrun.com/deltarune/runs/zqeo5l1z",
@@ -1366,7 +1418,7 @@
         }
       },
       {
-        "place": 27,
+        "place": 28,
         "run": {
           "id": "y8nepgwy",
           "weblink": "https://www.speedrun.com/deltarune/runs/y8nepgwy",
@@ -1400,58 +1452,6 @@
             "primary_t": 1876,
             "realtime": "PT31M16S",
             "realtime_t": 1876,
-            "realtime_noloads": null,
-            "realtime_noloads_t": 0,
-            "ingame": null,
-            "ingame_t": 0
-          },
-          "system": {
-            "platform": "8gej2n93",
-            "emulated": false,
-            "region": "o316x197"
-          },
-          "splits": null,
-          "values": {
-            "ylq65d38": "81wj346q",
-            "ylpk0or8": "lmo66081"
-          }
-        }
-      },
-      {
-        "place": 28,
-        "run": {
-          "id": "zxp3x95y",
-          "weblink": "https://www.speedrun.com/deltarune/runs/zxp3x95y",
-          "game": "pdvznzr6",
-          "level": null,
-          "category": "824r35md",
-          "videos": {
-            "links": [
-              {
-                "uri": "https://youtu.be/L26r5oaNZtk"
-              }
-            ]
-          },
-          "comment": "hi",
-          "status": {
-            "status": "verified",
-            "examiner": "qj2ze5lj",
-            "verify-date": "2026-04-29T12:02:22Z"
-          },
-          "players": [
-            {
-              "rel": "user",
-              "id": "810eeyrx",
-              "uri": "https://www.speedrun.com/api/v1/users/810eeyrx"
-            }
-          ],
-          "date": "2026-04-28",
-          "submitted": "2026-04-28T19:24:47Z",
-          "times": {
-            "primary": "PT31M22S",
-            "primary_t": 1882,
-            "realtime": "PT31M22S",
-            "realtime_t": 1882,
             "realtime_noloads": null,
             "realtime_noloads_t": 0,
             "ingame": null,
