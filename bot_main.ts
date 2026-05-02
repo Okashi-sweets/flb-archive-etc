@@ -3,12 +3,13 @@ import * as register from "./bot_commands/register.ts";
 import * as ping from "./bot_commands/ping.ts";
 import * as linkuser from "./bot_commands/linkuser.ts";
 import { registerCommands } from "./ts_component/interactions.ts";
+import * as schedule from "./bot_commands/schedule.ts";
 
 const PUBLIC_KEY = Deno.env.get("DISCORD_PUBLIC_KEY")!;
 const CLIENT_ID = Deno.env.get("DISCORD_CLIENT_ID")!;
 const GUILD_ID = Deno.env.get("DISCORD_GUILD_ID")!;
 
-const commandsList = [register, ping, linkuser];
+const commandsList = [register, ping, linkuser, schedule];
 
 // コマンド登録
 await registerCommands(GUILD_ID, commandsList.map(c => c.data));
@@ -57,16 +58,26 @@ Deno.serve(async (req) => {
         return new Response(null, { status: 200 });
     }
 
-    // コンポーネント（セレクトメニュー・ボタン）
     if (interaction.type === 3) {
-        const customId = interaction.data.custom_id as string;
-        if (customId.startsWith("register_")) {
-            await register.handleComponent(interaction);
-        } else if (customId.startsWith("linkuser_")) {
-            await linkuser.handleComponent(interaction);
-        }
-        return new Response(null, { status: 200 });
+    const customId = interaction.data.custom_id as string;
+    if (customId.startsWith("register_")) {
+        await register.handleComponent(interaction);
+    } else if (customId.startsWith("linkuser_")) {
+        await linkuser.handleComponent(interaction);
+    } else if (customId.startsWith("schedule_")) {
+        await schedule.handleComponent(interaction);
     }
+    return new Response(null, { status: 200 });
+}
+
+// モーダル
+if (interaction.type === 5) {
+    const customId = interaction.data.custom_id as string;
+    if (customId === "schedule_event_modal") {
+        await schedule.handleModal(interaction);
+    }
+    return new Response(null, { status: 200 });
+}
 
     return new Response("Unknown interaction type", { status: 400 });
 });

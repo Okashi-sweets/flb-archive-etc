@@ -25,6 +25,17 @@
     <div class="logo-sub">Community leaderboards &middot; Race history &middot; Runner profiles</div>
   </header>
 
+  <!-- SCHEDULE -->
+  <div class="schedule-section" id="schedule-section">
+    <div class="schedule-section-header">
+      <div class="sec-label">Next schedule</div>
+      <a class="news-all-link" href="./events.html">View all schedules &#8599;</a>
+    </div>
+    <div class="schedule-card" id="schedule-card">
+      <div class="schedule-card-loading">Loading next schedule...</div>
+    </div>
+  </div>
+
   <!-- NEWS -->
   <div class="news-section">
     <div class="news-section-header">
@@ -82,8 +93,10 @@
   const stage = document.getElementById('news-stage');
   const dotsEl = document.getElementById('dots');
   const prog = document.getElementById('progress');
+  const scheduleCard = document.getElementById('schedule-card');
 
   const NEWS_DIR = './news/';
+  const SCHEDULE_PATH = './info/schedule.json';
 
   function normalizeTag(tag) {
     return String(tag || 'news').toLowerCase().replace(/[^a-z0-9]+/g, '-');
@@ -91,6 +104,84 @@
 
   function basename(path) {
     return path.replace(/.*[\\/]/, '');
+  }
+
+  function formatLocalDateTime(isoString) {
+    const date = new Date(isoString);
+    if (isNaN(date.getTime())) return isoString;
+    return date.toLocaleString(navigator.language || 'en', {
+      year: 'numeric', month: 'short', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', hour12: false,
+      timeZoneName: 'short',
+    });
+  }
+
+  function getScheduleTitle(item) {
+    if (item.type === 'race') {
+      const parts = [item.displaycategory1, item.displaycategory2, item.displaycategory3]
+        .filter(Boolean);
+      return parts.length > 0 ? parts.join(' / ') : 'Race';
+    }
+    if (item.type === 'event') {
+      return item.name || 'Event';
+    }
+    if (item.type === 'bingo') {
+      return 'Bingo';
+    }
+    return item.name || 'Upcoming schedule';
+  }
+
+  function getScheduleTypeLabel(item) {
+    if (item.type === 'race') return 'Race';
+    if (item.type === 'event') return 'Event';
+    if (item.type === 'bingo') return 'Bingo';
+    return 'Schedule';
+  }
+
+  function renderScheduleItem(item) {
+    if (!scheduleCard) return;
+    const title = getScheduleTitle(item);
+    const typeLabel = getScheduleTypeLabel(item);
+    const datetime = formatLocalDateTime(item.datetime);
+    const linkHtml = item.url ?
+      `<a class="schedule-card-link" href="${String(item.url)}" target="_blank" rel="noopener">View details</a>` : '';
+
+    scheduleCard.innerHTML = `
+      <div class="schedule-card-type">${typeLabel}</div>
+      <div class="schedule-card-title">${title}</div>
+      <div class="schedule-card-datetime">${datetime}</div>
+      ${linkHtml}
+    `;
+  }
+
+  function renderScheduleEmpty() {
+    if (!scheduleCard) return;
+    scheduleCard.innerHTML = '<div class="schedule-card-message">No upcoming schedules.</div>';
+  }
+
+  async function loadSchedule() {
+    if (!scheduleCard) return;
+    try {
+      const response = await fetch(SCHEDULE_PATH, { cache: 'no-store' });
+      if (!response.ok) throw new Error('schedule data not available');
+      const data = await response.json();
+      const schedules = Array.isArray(data?.schedules) ? data.schedules : [];
+      const upcoming = schedules
+        .map((item) => ({ ...item, datetime: new Date(item.datetime) }))
+        .filter((item) => item.datetime instanceof Date && !isNaN(item.datetime.getTime()))
+        .filter((item) => item.datetime.getTime() > Date.now())
+        .sort((a, b) => a.datetime.getTime() - b.datetime.getTime());
+
+      if (upcoming.length === 0) {
+        renderScheduleEmpty();
+        return;
+      }
+
+      renderScheduleItem(upcoming[0]);
+    } catch (error) {
+      console.warn('Failed to load schedule:', error);
+      renderScheduleEmpty();
+    }
   }
 
   function extractMarkdownItem(text) {
@@ -367,6 +458,7 @@
   }
 
   loadNews();
+  loadSchedule();
   setLastUpdated();
 })();
 </script>

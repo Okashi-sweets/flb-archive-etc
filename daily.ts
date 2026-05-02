@@ -3,12 +3,15 @@ import { checksrc } from "./checksrc.ts";
 import { listed } from "./listed.ts";
 import { user } from "./user.ts";
 import { generateNewsIndex } from "./generate_news.ts";
+import { generateSchedule } from "./generate_schedule.ts";
 import { gene_lb } from "./generate_leaderboard.ts";
 import { gene_user } from "./generate_userdata.ts";
 import { sort_rank } from "./sort_rank.ts";
+import { cleanupSchedule } from "./ts_component/cleanup_schedule.ts";
 
 console.log("レスキュー開始！")
-
+await cleanupSchedule();
+await generateSchedule();
 const updatedlist = await checksrc();
 
 console.log("srcの確認完了")

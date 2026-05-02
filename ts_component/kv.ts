@@ -72,3 +72,28 @@ export async function getSession(userId: string): Promise<Session | null> {
 export async function deleteSession(userId: string) {
     await kv.delete(["session", userId]);
 }
+
+// 既存のセッション管理の下に追加
+interface ScheduleSession {
+    step: "type" | "group" | "category1" | "category2" | "category3";
+    datetime: string;
+    type?: "race" | "bingo" | "event";
+    group?: string;
+    groupDisplay?: string;
+    category1?: string;
+    category2?: string;
+    token: string;
+}
+
+export async function setScheduleSession(userId: string, session: ScheduleSession) {
+    await kv.set(["schedule_session", userId], session, { expireIn: 60 * 60 * 1000 });
+}
+
+export async function getScheduleSession(userId: string): Promise<ScheduleSession | null> {
+    const result = await kv.get(["schedule_session", userId]);
+    return result.value as ScheduleSession | null;
+}
+
+export async function deleteScheduleSession(userId: string) {
+    await kv.delete(["schedule_session", userId]);
+}

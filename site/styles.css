@@ -131,6 +131,65 @@ header {
 .sec-label::after  { content: ''; flex: 1; height: 1px; background: var(--b1); }
 
 /* ── NEWS ── */
+.schedule-section {
+  padding: 40px 0 0;
+}
+
+.schedule-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+
+.schedule-card {
+  background: var(--s1);
+  border: 1px solid var(--b1);
+  border-radius: 10px;
+  padding: 28px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.schedule-card-loading,
+.schedule-card-message {
+  font-family: var(--fm);
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.schedule-card-type {
+  font-family: var(--fm);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--acc);
+}
+
+.schedule-card-title {
+  font-family: var(--fh);
+  font-size: clamp(22px, 3vw, 28px);
+  line-height: 1.1;
+}
+
+.schedule-card-datetime {
+  font-family: var(--fm);
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.schedule-card-link {
+  font-family: var(--fm);
+  font-size: 14px;
+  color: var(--acc);
+  text-decoration: none;
+}
+
+.schedule-card-link:hover {
+  color: #9ad0f0;
+}
+
 .news-section { padding: 40px 0 0; }
 
 .news-section-header {
