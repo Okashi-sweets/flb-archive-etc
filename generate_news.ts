@@ -1,5 +1,5 @@
 export async function generateNewsIndex() {
-  const newsDir = "./site/news";
+  const newsDir = "./docs/news";
   const target = `${newsDir}/index.json`;
 
   try {

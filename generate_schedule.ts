@@ -1,6 +1,6 @@
 export async function generateSchedule() {
   const source = './info/schedule.json';
-  const targetDir = './site/info';
+  const targetDir = './docs/info';
   const target = `${targetDir}/schedule.json`;
 
   try {
