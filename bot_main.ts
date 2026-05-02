@@ -1,6 +1,5 @@
 import { verify } from "npm:discord-verify/node";
 import * as register from "./bot_commands/register.ts";
-import * as ping from "./bot_commands/ping.ts";
 import * as linkuser from "./bot_commands/linkuser.ts";
 import { registerCommands } from "./ts_component/interactions.ts";
 import * as schedule from "./bot_commands/schedule.ts";
@@ -9,11 +8,22 @@ const PUBLIC_KEY = Deno.env.get("DISCORD_PUBLIC_KEY")!;
 const CLIENT_ID = Deno.env.get("DISCORD_CLIENT_ID")!;
 const GUILD_ID = Deno.env.get("DISCORD_GUILD_ID")!;
 
-const commandsList = [register, ping, linkuser, schedule];
+const commandsList = [register, linkuser, schedule];
 
 // コマンド登録
 await registerCommands(GUILD_ID, []);
 console.log("🗑️ Commands cleared!");
+
+// Globalコマンドも全削除
+await fetch(`https://discord.com/api/v10/applications/${CLIENT_ID}/commands`, {
+    method: "PUT",
+    headers: {
+        "Authorization": `Bot ${Deno.env.get("DISCORD_TOKEN")!}`,
+        "Content-Type": "application/json",
+    },
+    body: JSON.stringify([]),
+});
+console.log("🗑️ Global commands cleared!");
 
 Deno.serve(async (req) => {
     if (req.method !== "POST") {
