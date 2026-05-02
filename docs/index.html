@@ -29,7 +29,7 @@
   <div class="news-section">
     <div class="news-section-header">
       <div class="sec-label">Latest news</div>
-      <a class="news-all-link" href="./news/">View all news &#8599;</a>
+      <a class="news-all-link" href="./news.html">View all news &#8599;</a>
     </div>
     <div class="news-stage" id="news-stage"></div>
     <div class="news-dots" id="dots"></div>
@@ -263,32 +263,9 @@
 
   async function loadNewsFromNewsFiles() {
     try {
-      const files = await fetchNewsFileList();
-      const items = [];
-
-      for (const file of files) {
-        try {
-          const response = await fetch(NEWS_DIR + file, { cache: 'no-store' });
-          if (!response.ok) throw new Error('failed to fetch ' + file);
-          const text = await response.text();
-          let item;
-          if (file.toLowerCase().endsWith('.html')) {
-            item = extractHtmlItem(text);
-            item.url = NEWS_DIR + file;
-          } else {
-            item = extractMarkdownItem(text);
-            const htmlName = file.replace(/\.md$/i, '.html');
-            item.url = NEWS_DIR + htmlName;
-          }
-          if (item.title || item.summary) {
-            items.push(item);
-          }
-        } catch (error) {
-          console.warn('Failed to load news file:', file, error);
-        }
-      }
-
-      if (items.length === 0) throw new Error('no news files loaded');
+      const response = await fetch('./news/index.json');
+      if (!response.ok) throw new Error('news index not available');
+      const items = await response.json();
       renderNewsItems(items);
     } catch (error) {
       console.warn('Failed to load news metadata:', error);
@@ -328,9 +305,15 @@
     const slide = document.createElement('div');
     slide.className = 'news-slide' + (index === 0 ? ' active' : '');
 
-    const tag = document.createElement('div');
-    tag.className = 'news-tag tag-' + normalizeTag(item.tag);
-    tag.textContent = item.tag ? '• ' + item.tag : '• News';
+    const tags = item.tag ? item.tag.split(',').map(t => t.trim()) : ['news'];
+    const tagContainer = document.createElement('div');
+    tagContainer.className = 'news-tags';
+    tags.forEach(t => {
+      const tagEl = document.createElement('div');
+      tagEl.className = 'news-tag tag-' + normalizeTag(t);
+      tagEl.textContent = t;
+      tagContainer.appendChild(tagEl);
+    });
 
     const title = document.createElement('div');
     title.className = 'news-title';
@@ -351,22 +334,25 @@
       link.className = 'news-link';
       link.href = linkHref;
       link.append(title);
-      slide.append(tag, link, footer);
+      slide.append(tagContainer, link, footer);
     } else {
-      slide.append(tag, title, footer);
+      slide.append(tagContainer, title, footer);
     }
 
     return slide;
   }
 
   function renderFallback() {
-    renderNewsItems([{
-      title: 'FLB Database is now open',
-      date: '2025-04-30',
-      tag: 'Event',
-      summary: '',
-      url: './news/open.html'
-    }]);
+    renderNewsItems([
+      {
+        "title": "FLB Database is now Open",
+        "date": "2024-05-03",
+        "tag": "site, important",
+        "summary": "I’m delighted that this site is now available for everyone to access. Thank you for visiting.",
+        "url": "./news/open.html",
+        "generatedDate": "2026-05-02T17:26:48.909Z"
+      }
+    ]);
   }
 
   function renderNewsItems(items) {
@@ -435,20 +421,23 @@
     await loadNewsFromNewsFiles();
   }
 
-  function setLastUpdated() {
-    const now = new Date();
-    const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-    const tzShort = new Intl.DateTimeFormat('en', { timeZoneName: 'short', timeZone: tz })
-      .formatToParts(now).find(p => p.type === 'timeZoneName').value;
-    const fmt = now.toLocaleString(navigator.language || 'en', {
-      year: 'numeric', month: '2-digit', day: '2-digit',
-      hour: '2-digit', minute: '2-digit',
-      hour12: false,
-      timeZone: tz
-    });
-    document.getElementById('last-updated').textContent =
-      'Last updated: ' + fmt + ' ' + tzShort;
+  async function setLastUpdated() {
+    try {
+      const response = await fetch('./news/index.json');
+      if (!response.ok) throw new Error('Failed to fetch news index');
+      const data = await response.json();
+      const dates = data.map(item => item.generatedDate).filter(Boolean);
+      if (dates.length === 0) throw new Error('No dates found');
+      const latest = dates.reduce((a, b) => a > b ? a : b);
+      const date = new Date(latest);
+      const dateStr = date.toISOString().split('T')[0]; // YYYY-MM-DD
+      document.getElementById('last-updated').textContent = 'Last updated: ' + dateStr;
+    } catch (error) {
+      console.warn('Failed to load last updated time:', error);
+      document.getElementById('last-updated').textContent = 'Last updated: —';
+    }
   }
+  
 
   loadNews();
   loadSchedule();

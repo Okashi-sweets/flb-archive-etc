@@ -30,17 +30,37 @@ export async function generateNewsIndex() {
         const htmlFileName = `${slug}.html`;
         const item = parseNewsMarkdown(text, fileName);
         item.url = `./news/${htmlFileName}`;
-        await generateNewsPage(`${newsDir}/${htmlFileName}`, item, text);
-        items.push(item);
+        item.generatedDate = new Date().toISOString();
+        try {
+          await generateNewsPage(`${newsDir}/${htmlFileName}`, item, text);
+          // HTML生成成功したら、元のMDファイルを削除
+          await Deno.remove(`${newsDir}/${fileName}`);
+          items.push(item);
+        } catch (error) {
+          console.warn(`Failed to generate HTML for ${fileName}:`, error);
+        }
       } else {
         const item = extractHtmlItem(text);
         item.url = `./news/${fileName}`;
+        item.generatedDate = new Date().toISOString();
         items.push(item);
       }
     }
 
-    await Deno.writeTextFile(target, JSON.stringify(items, null, 2));
-    console.log(`Generated news index and pages (${items.length} items).`);
+    // 2ヶ月以上経過したimportantでないニュースを削除
+    const now = new Date();
+    const twoMonthsAgo = new Date(now.getTime() - 2 * 30 * 24 * 60 * 60 * 1000);
+    const filteredItems = items.filter(item => {
+      if (item.tag && item.tag.includes('important')) return true;
+      const genDate = new Date(item.generatedDate);
+      return genDate >= twoMonthsAgo;
+    });
+
+    await Deno.writeTextFile(target, JSON.stringify(filteredItems, null, 2));
+    console.log(`Generated news index and pages (${filteredItems.length} items).`);
+
+    // news.html を生成
+    await generateNewsListPage(filteredItems);
   } catch (error) {
     console.warn("Failed to generate news index:", error);
   }
@@ -120,17 +140,19 @@ function cleanHtmlText(value: string) {
 
 function generateNewsPage(filePath: string, item: Record<string, string>, markdown: string) {
   const title = item.title || 'News';
-  const html = renderMarkdownPage(title, markdown, item.url || '#');
+  const now = new Date().toISOString();
+  const html = renderMarkdownPage(title, markdown, item.url || '#', now);
   return Deno.writeTextFile(filePath, html);
 }
 
-function renderMarkdownPage(title: string, markdown: string, url: string) {
+function renderMarkdownPage(title: string, markdown: string, url: string, generatedDate: string) {
   const body = markdownToHtml(markdown);
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="generated-date" content="${generatedDate}">
   <title>${escapeHtml(title)}</title>
   <link rel="stylesheet" href="../styles.css">
 </head>
@@ -177,6 +199,32 @@ function inlineMarkdownHtml(text: string) {
     .replace(/`([^`]+)`/g, '<code>$1</code>');
 }
 
+function generateNewsListPage(items: any[]) {
+  const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>All News - FLB Database</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="wrap page-wrap">
+    <header class="page-header">
+      <a class="page-home" href="./index.html">Home</a>
+      <h1 class="page-title">All News</h1>
+    </header>
+    <article class="page-body">
+      <ul>
+        ${items.map(item => `<li><a href="${item.url}">${escapeHtml(item.title)}</a> - ${item.generatedDate.split('T')[0]}</li>`).join('\n')}
+      </ul>
+    </article>
+  </div>
+</body>
+</html>`;
+  return Deno.writeTextFile('./docs/news.html', html);
+}
+
 function escapeHtml(text: string) {
   return text
     .replace(/&/g, '&amp;')
@@ -184,4 +232,9 @@ function escapeHtml(text: string) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+// スクリプトとして実行された場合にgenerateNewsIndexを呼ぶ
+if (import.meta.main) {
+  await generateNewsIndex();
 }
