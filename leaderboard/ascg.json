@@ -4,7 +4,7 @@
     "group": "base",
     "category1": "All Shadow Crystals",
     "category2": "Glitchless",
-    "total_runs": 9,
+    "total_runs": 10,
     "runs": [
       {
         "id": "j2q67g7j",
@@ -76,6 +76,14 @@
         "time": 13008,
         "date": "2025-12-15",
         "video": "https://youtu.be/Dm-rRyql00I",
+        "banned": false
+      },
+      {
+        "id": "j0g1rkwx",
+        "name": "Zaine123450",
+        "time": 13795,
+        "date": "2026-05-01",
+        "video": "https://youtu.be/5UpkCorrhe8",
         "banned": false
       }
     ]

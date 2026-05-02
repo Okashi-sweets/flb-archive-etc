@@ -547,6 +547,59 @@
       {
         "place": 11,
         "run": {
+          "id": "mkxq295z",
+          "weblink": "https://www.speedrun.com/deltarune/runs/mkxq295z",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "n2y0j5ed",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/5UpkCorrhe8"
+              }
+            ]
+          },
+          "comment": "Might aswell\n\n\n\nalso just realised my gameplay is covering my splits ",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-05-02T12:53:27Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j0g1rkwx",
+              "uri": "https://www.speedrun.com/api/v1/users/j0g1rkwx"
+            }
+          ],
+          "date": "2026-05-01",
+          "submitted": "2026-05-01T19:53:50Z",
+          "times": {
+            "primary": "PT3H49M55S",
+            "primary_t": 13795,
+            "realtime": "PT3H55M36S",
+            "realtime_t": 14136,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H49M55S",
+            "ingame_t": 13795
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "ylpkxg68": "qzn745kq",
+            "789em33l": "192gzn0q",
+            "ylpk0or8": "lmo66081"
+          }
+        }
+      },
+      {
+        "place": 12,
+        "run": {
           "id": "y8lv501m",
           "weblink": "https://www.speedrun.com/deltarune/runs/y8lv501m",
           "game": "pdvznzr6",
@@ -598,7 +651,7 @@
         }
       },
       {
-        "place": 12,
+        "place": 13,
         "run": {
           "id": "z16gpngm",
           "weblink": "https://www.speedrun.com/deltarune/runs/z16gpngm",
@@ -651,7 +704,7 @@
         }
       },
       {
-        "place": 13,
+        "place": 14,
         "run": {
           "id": "z00q72oz",
           "weblink": "https://www.speedrun.com/deltarune/runs/z00q72oz",

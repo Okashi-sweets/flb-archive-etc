@@ -480,6 +480,58 @@
             "ylpk0or8": "lmo66081"
           }
         }
+      },
+      {
+        "place": 10,
+        "run": {
+          "id": "z10kj1rm",
+          "weblink": "https://www.speedrun.com/deltarune/runs/z10kj1rm",
+          "game": "pdvznzr6",
+          "level": null,
+          "category": "02qn8oz2",
+          "videos": {
+            "links": [
+              {
+                "uri": "https://youtu.be/5UpkCorrhe8"
+              }
+            ]
+          },
+          "comment": " my gameplay is covering my splits oops",
+          "status": {
+            "status": "verified",
+            "examiner": "qj2ze5lj",
+            "verify-date": "2026-05-02T12:53:20Z"
+          },
+          "players": [
+            {
+              "rel": "user",
+              "id": "j0g1rkwx",
+              "uri": "https://www.speedrun.com/api/v1/users/j0g1rkwx"
+            }
+          ],
+          "date": "2026-05-01",
+          "submitted": "2026-05-01T19:53:39Z",
+          "times": {
+            "primary": "PT3H49M55S",
+            "primary_t": 13795,
+            "realtime": "PT3H55M36S",
+            "realtime_t": 14136,
+            "realtime_noloads": null,
+            "realtime_noloads_t": 0,
+            "ingame": "PT3H49M55S",
+            "ingame_t": 13795
+          },
+          "system": {
+            "platform": "8gej2n93",
+            "emulated": false,
+            "region": "pr184lqn"
+          },
+          "splits": null,
+          "values": {
+            "j84p1v28": "1pywxgg1",
+            "ylpk0or8": "lmo66081"
+          }
+        }
       }
     ],
     "links": [

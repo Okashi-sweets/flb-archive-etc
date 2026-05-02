@@ -4,7 +4,7 @@
     "group": "ce",
     "category1": "Chapter 3",
     "category2": "True Reset",
-    "total_runs": 7,
+    "total_runs": 8,
     "runs": [
       {
         "id": "x7qdw3q8",
@@ -52,6 +52,14 @@
         "time": 3126,
         "date": "2025-07-28",
         "video": "https://youtu.be/zl_REvZ24Ag",
+        "banned": false
+      },
+      {
+        "id": "j0g1rkwx",
+        "name": "Zaine123450",
+        "time": 3162,
+        "date": "2026-04-30",
+        "video": "https://youtu.be/anPsya7Vl0k",
         "banned": false
       },
       {

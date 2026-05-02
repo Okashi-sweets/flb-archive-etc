@@ -5,7 +5,7 @@
     "category1": "All Chapters",
     "category2": "Weird Route",
     "category3": "Glitchless",
-    "total_runs": 13,
+    "total_runs": 14,
     "runs": [
       {
         "id": "qj2ze5lj",
@@ -85,6 +85,14 @@
         "time": 13008,
         "date": "2025-12-15",
         "video": "https://youtu.be/Dm-rRyql00I",
+        "banned": false
+      },
+      {
+        "id": "j0g1rkwx",
+        "name": "Zaine123450",
+        "time": 13795,
+        "date": "2026-05-01",
+        "video": "https://youtu.be/5UpkCorrhe8",
         "banned": false
       },
       {
