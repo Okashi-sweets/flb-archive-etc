@@ -51,13 +51,18 @@ function makeSelectMenu(customId: string, placeholder: string, options: string[]
     };
 }
 
+function toDiscordTimestamp(isoString: string): string {
+    const unix = Math.floor(new Date(isoString).getTime() / 1000);
+    return `<t:${unix}:F>`;
+}
+
 export const data = {
     name: "schedule",
     description: "Add a schedule entry.",
     options: [
         {
-            name: "datetime",
-            description: "Date and time (e.g. 2026-05-01T15:00)",
+            name: "timestamp",
+            description: "Unix timestamp or Discord timestamp (e.g. 1234567890 or <t:1234567890>)",
             type: 3,
             required: true,
         },
@@ -66,19 +71,28 @@ export const data = {
 
 export async function execute(interaction: Record<string, unknown>) {
     const options = (interaction.data as { options: { name: string; value: string }[] }).options;
-    const datetimeStr = options.find(o => o.name === "datetime")?.value!;
+    const input = options.find(o => o.name === "timestamp")?.value!;
     const interactionId = interaction.id as string;
     const token = interaction.token as string;
     const userId = (interaction.member as { user: { id: string } })?.user?.id
         ?? (interaction.user as { id: string })?.id;
 
-    // 日時のバリデーション
-    const datetime = new Date(datetimeStr);
-    if (isNaN(datetime.getTime())) {
+    const match = input.match(/<t:(\d+)(?::[tTdDfFR])?>/) ?? input.match(/^(\d+)$/);
+    if (!match) {
         return await sendInteractionResponse(interactionId, token,
-            ephemeral("Invalid datetime format. Please use e.g. `2026-05-01T15:00`.")
+            ephemeral("Invalid format. Please use a Unix timestamp or Discord timestamp like `<t:1234567890>`.\nYou can generate one at https://hammertime.cyou")
         );
     }
+
+    const unixTimestamp = parseInt(match[1]);
+    const datetime = new Date(unixTimestamp * 1000);
+
+    if (isNaN(datetime.getTime())) {
+        return await sendInteractionResponse(interactionId, token,
+            ephemeral("Invalid timestamp.")
+        );
+    }
+
     if (datetime < new Date()) {
         return await sendInteractionResponse(interactionId, token,
             ephemeral("The datetime must be in the future.")
@@ -91,11 +105,10 @@ export async function execute(interaction: Record<string, unknown>) {
         token,
     });
 
-    // type選択ボタン
     await sendInteractionResponse(interactionId, token, {
         type: 4,
         data: {
-            content: `Datetime: **${datetimeStr}**\nSelect type.`,
+            content: `Datetime: <t:${unixTimestamp}:F>\nSelect type.`,
             flags: 64,
             components: [{
                 type: 1,
@@ -124,20 +137,20 @@ export async function handleComponent(interaction: Record<string, unknown>) {
         });
     }
 
-    // type選択
+    const discordTs = toDiscordTimestamp(session.datetime);
+
     if (customId === "schedule_type_bingo") {
         await deleteScheduleSession(userId);
         await saveSchedule({ type: "bingo", datetime: session.datetime });
         return await sendInteractionResponse(interactionId, token, {
             type: 7,
-            data: { content: `Bingo scheduled for **${session.datetime}**!`, components: [] },
+            data: { content: `Bingo scheduled for ${discordTs}!`, components: [] },
         });
     }
 
     if (customId === "schedule_type_event") {
-        // モーダルを表示
         return await sendInteractionResponse(interactionId, token, {
-            type: 9, // Modal
+            type: 9,
             data: {
                 custom_id: "schedule_event_modal",
                 title: "Event Details",
@@ -174,13 +187,12 @@ export async function handleComponent(interaction: Record<string, unknown>) {
         return await sendInteractionResponse(interactionId, token, {
             type: 7,
             data: {
-                content: `Datetime: **${session.datetime}**\nSelect game version.`,
+                content: `Datetime: ${discordTs}\nSelect game version.`,
                 components: [makeSelectMenu("schedule_group", "Select game version.", Object.keys(GROUP_MAP))],
             },
         });
     }
 
-    // Race カテゴリー選択
     if (customId === "schedule_group") {
         const value = (interaction.data as { values: string[] }).values[0];
         const group = GROUP_MAP[value];
@@ -259,7 +271,7 @@ export async function handleComponent(interaction: Record<string, unknown>) {
             return await sendInteractionResponse(interactionId, token, {
                 type: 7,
                 data: {
-                    content: `Race scheduled!\nGame version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${value}**\nDatetime: **${session.datetime}**`,
+                    content: `Race scheduled!\nGame version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${value}**\nDatetime: ${discordTs}`,
                     components: [],
                 },
             });
@@ -293,7 +305,7 @@ export async function handleComponent(interaction: Record<string, unknown>) {
         return await sendInteractionResponse(interactionId, token, {
             type: 7,
             data: {
-                content: `Race scheduled!\nGame version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${session.category2}** / **${value}**\nDatetime: **${session.datetime}**`,
+                content: `Race scheduled!\nGame version: **${session.groupDisplay}** / Chapter: **${session.category1}** / Route: **${session.category2}** / **${value}**\nDatetime: ${discordTs}`,
                 components: [],
             },
         });
@@ -317,6 +329,8 @@ export async function handleModal(interaction: Record<string, unknown>) {
         );
     }
 
+    const discordTs = toDiscordTimestamp(session.datetime);
+
     await deleteScheduleSession(userId);
     await saveSchedule({
         type: "event",
@@ -328,7 +342,7 @@ export async function handleModal(interaction: Record<string, unknown>) {
     await sendInteractionResponse(interactionId, token, {
         type: 4,
         data: {
-            content: `Event **${eventName}** scheduled!\nStream: ${eventUrl}\nDatetime: **${session.datetime}**`,
+            content: `Event **${eventName}** scheduled!\nStream: ${eventUrl}\nDatetime: ${discordTs}`,
             flags: 64,
         },
     });

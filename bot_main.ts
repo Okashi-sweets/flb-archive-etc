@@ -12,8 +12,8 @@ const GUILD_ID = Deno.env.get("DISCORD_GUILD_ID")!;
 const commandsList = [register, ping, linkuser, schedule];
 
 // コマンド登録
-await registerCommands(GUILD_ID, commandsList.map(c => c.data));
-console.log("✨ Commands registered!");
+await registerCommands(GUILD_ID, []);
+console.log("🗑️ Commands cleared!");
 
 Deno.serve(async (req) => {
     if (req.method !== "POST") {
