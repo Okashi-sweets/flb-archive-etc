@@ -10,20 +10,8 @@ const GUILD_ID = Deno.env.get("DISCORD_GUILD_ID")!;
 
 const commandsList = [register, linkuser, schedule];
 
-// コマンド登録
-await registerCommands(GUILD_ID, []);
-console.log("🗑️ Commands cleared!");
-
-// Globalコマンドも全削除
-await fetch(`https://discord.com/api/v10/applications/${CLIENT_ID}/commands`, {
-    method: "PUT",
-    headers: {
-        "Authorization": `Bot ${Deno.env.get("DISCORD_TOKEN")!}`,
-        "Content-Type": "application/json",
-    },
-    body: JSON.stringify([]),
-});
-console.log("🗑️ Global commands cleared!");
+await registerCommands(GUILD_ID, commandsList.map(c => c.data));
+console.log("✨ Commands registered!");
 
 Deno.serve(async (req) => {
     if (req.method !== "POST") {
