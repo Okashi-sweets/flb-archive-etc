@@ -3,7 +3,8 @@
   --bg:#0a0a0e;
   --s1:#111118;
   --s2:#18181f;
-  --b1:rgba(255,255,255,0.06);
+  --b1:rgb(46, 0, 73);
+  --grid-line:rgba(123, 220, 255, 0.418);
   --b2:rgba(255,255,255,0.14);
   --acc:#4a9ebb;
   --acc-dim:#2d6a85;
@@ -118,17 +119,17 @@ header {
 /* ── SECTION LABEL ── */
 .sec-label {
   font-family: var(--fm);
-  font-size: 11px;
+  font-size: 13px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: #ffffff;
   display: flex;
   align-items: center;
   gap: 10px;
   margin-bottom: 18px;
 }
 .sec-label::before { content: ''; width: 18px; height: 1px; background: var(--acc); }
-.sec-label::after  { content: ''; flex: 1; height: 1px; background: var(--b1); }
+.sec-label::after  { content: ''; flex: 1; height: 1px; background: var(--grid-line); }
 
 /* ── NEWS ── */
 .schedule-section {
@@ -144,7 +145,7 @@ header {
 
 .schedule-card {
   background: var(--s1);
-  border: 1px solid var(--b1);
+  border: 1px solid var(--grid-line);
   border-radius: 10px;
   padding: 28px 32px;
   display: flex;
@@ -214,7 +215,7 @@ header {
   align-items: center;
   gap: 4px;
   padding: 5px 12px;
-  border: 1px solid var(--acc-border);
+  border: 1px solid var(--grid-line);
   border-radius: 5px;
   background: var(--acc-bg);
   transition: background 0.2s, border-color 0.2s, color 0.2s;
@@ -230,7 +231,7 @@ header {
 .news-stage {
   position: relative;
   background: var(--s1);
-  border: 1px solid var(--b1);
+  border: 1px solid var(--grid-line);
   border-radius: 10px;
   overflow: hidden;
   height: 180px;
@@ -331,7 +332,7 @@ header {
 .link-card {
   position: relative;
   background: var(--s1);
-  border: 1px solid var(--b1);
+  border: 1px solid var(--grid-line);
   border-radius: 10px;
   padding: 28px 24px;
   text-decoration: none;
@@ -391,7 +392,7 @@ header {
   margin-top: 20px;
   padding: 16px 22px;
   background: var(--s1);
-  border: 1px solid var(--b1);
+  border: 1px solid var(--grid-line);
   border-radius: 10px;
   display: flex;
   align-items: center;

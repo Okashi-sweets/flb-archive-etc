@@ -25,17 +25,6 @@
     <div class="logo-sub">Community leaderboards &middot; Race history &middot; Runner profiles</div>
   </header>
 
-  <!-- SCHEDULE -->
-  <div class="schedule-section" id="schedule-section">
-    <div class="schedule-section-header">
-      <div class="sec-label">Next schedule</div>
-      <a class="news-all-link" href="./events.html">View all schedules &#8599;</a>
-    </div>
-    <div class="schedule-card" id="schedule-card">
-      <div class="schedule-card-loading">Loading next schedule...</div>
-    </div>
-  </div>
-
   <!-- NEWS -->
   <div class="news-section">
     <div class="news-section-header">
@@ -45,6 +34,17 @@
     <div class="news-stage" id="news-stage"></div>
     <div class="news-dots" id="dots"></div>
     <div class="news-progress" id="progress"></div>
+  </div>
+
+  <!-- SCHEDULE -->
+  <div class="schedule-section" id="schedule-section">
+    <div class="schedule-section-header">
+      <div class="sec-label">Next schedule</div>
+      <a class="news-all-link" href="./events.html">View all schedules &#8599;</a>
+    </div>
+    <div class="schedule-card" id="schedule-card">
+      <div class="schedule-card-loading">Loading next schedule...</div>
+    </div>
   </div>
 
   <!-- NAVIGATION LINKS -->
@@ -336,12 +336,6 @@
     title.className = 'news-title';
     title.textContent = item.title || 'News update';
 
-    const content = document.createElement('div');
-    content.className = 'news-content-preview';
-    if (item.summary) {
-      content.textContent = item.summary;
-    }
-
     const footer = document.createElement('div');
     footer.className = 'news-footer';
 
@@ -357,10 +351,9 @@
       link.className = 'news-link';
       link.href = linkHref;
       link.append(title);
-      if (content.textContent) link.append(content);
       slide.append(tag, link, footer);
     } else {
-      slide.append(tag, title, content, footer);
+      slide.append(tag, title, footer);
     }
 
     return slide;
