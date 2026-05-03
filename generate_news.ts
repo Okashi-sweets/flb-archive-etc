@@ -31,6 +31,7 @@ export async function generateNewsIndex() {
         const item = parseNewsMarkdown(text, fileName);
         item.url = `./news/${htmlFileName}`;
         item.generatedDate = new Date().toISOString();
+        if (!item.tag) item.tag = 'news';
         try {
           await generateNewsPage(`${newsDir}/${htmlFileName}`, item, text);
           // HTML生成成功したら、元のMDファイルを削除
@@ -43,6 +44,7 @@ export async function generateNewsIndex() {
         const item = extractHtmlItem(text);
         item.url = `./news/${fileName}`;
         item.generatedDate = new Date().toISOString();
+        if (!item.tag) item.tag = 'news';
         items.push(item);
       }
     }
@@ -141,18 +143,20 @@ function cleanHtmlText(value: string) {
 function generateNewsPage(filePath: string, item: Record<string, string>, markdown: string) {
   const title = item.title || 'News';
   const now = new Date().toISOString();
-  const html = renderMarkdownPage(title, markdown, item.url || '#', now);
+  const html = renderMarkdownPage(title, markdown, item.url || '#', now, item);
   return Deno.writeTextFile(filePath, html);
 }
 
-function renderMarkdownPage(title: string, markdown: string, url: string, generatedDate: string) {
+function renderMarkdownPage(title: string, markdown: string, url: string, generatedDate: string, item: Record<string, string> = {}) {
   const body = markdownToHtml(markdown);
+  const tagMeta = item.tag ? `\n  <meta name="tag" content="${escapeHtml(item.tag)}">` : '';
+  const dateMeta = item.date ? `\n  <meta name="date" content="${escapeHtml(item.date)}">` : '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="generated-date" content="${generatedDate}">
+  <meta name="generated-date" content="${generatedDate}">${tagMeta}${dateMeta}
   <title>${escapeHtml(title)}</title>
   <link rel="stylesheet" href="../styles.css">
 </head>
@@ -215,9 +219,31 @@ function generateNewsListPage(items: any[]) {
       <h1 class="page-title">All News</h1>
     </header>
     <article class="page-body">
-      <ul>
-        ${items.map(item => `<li><a href="${item.url}">${escapeHtml(item.title)}</a> - ${item.generatedDate.split('T')[0]}</li>`).join('\n')}
-      </ul>
+      <table class="news-table">
+        <thead>
+          <tr>
+            <th style="width: 15%;">Date</th>
+            <th style="width: 50%;">Title</th>
+            <th style="width: 35%;">Tags</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${items.map(item => {
+            const date = item.generatedDate.split('T')[0];
+            const tags = item.tag ? item.tag.split(',').map((t: string) => t.trim()) : ['news'];
+            const tagHtml = tags.map((tag: string) => {
+              const tagClass = 'tag-' + tag.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+              return `<div class="news-table-tag ${tagClass}">${escapeHtml(tag)}</div>`;
+            }).join('');
+            return `
+          <tr>
+            <td class="news-table-date">${date}</td>
+            <td><a href="${item.url}" class="news-table-title">${escapeHtml(item.title)}</a></td>
+            <td class="news-table-tags">${tagHtml}</td>
+          </tr>`;
+          }).join('\n')}
+        </tbody>
+      </table>
     </article>
   </div>
 </body>
