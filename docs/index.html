@@ -96,7 +96,7 @@
   const scheduleCard = document.getElementById('schedule-card');
 
   const NEWS_DIR = './news/';
-  const SCHEDULE_PATH = '../info/schedule.json';
+  const SCHEDULE_PATH = './info/schedule.json';
 
   function normalizeTag(tag) {
     return String(tag || 'news').toLowerCase().replace(/[^a-z0-9]+/g, '-');
@@ -198,7 +198,7 @@
           if (!match) return;
           const key = match[1].toLowerCase();
           const value = match[2].trim();
-          if (key === 'title' || key === 'date' || key === 'tag') {
+          if (key === 'title' || key === 'date' || key === 'tag' || key === 'generated-date') {
             item[key] = value;
           }
         });
@@ -293,6 +293,14 @@
       item.date = dateMeta.content.trim();
     }
 
+    const generatedDateMeta = doc.querySelector('meta[name="generated-date"]');
+    if (generatedDateMeta instanceof HTMLMetaElement && generatedDateMeta.content) {
+      item.generatedDate = generatedDateMeta.content.trim();
+      if (!item.date) {
+        item.date = item.generatedDate.split('T')[0];
+      }
+    }
+
     const tagMeta = doc.querySelector('meta[name="tag"]');
     if (tagMeta instanceof HTMLMetaElement && tagMeta.content) {
       item.tag = tagMeta.content.trim();
@@ -324,7 +332,7 @@
 
     const date = document.createElement('div');
     date.className = 'news-date';
-    date.textContent = item.date || '';
+    date.textContent = item.generatedDate ? item.generatedDate.split('T')[0] : (item.date || '');
 
     footer.appendChild(date);
 
